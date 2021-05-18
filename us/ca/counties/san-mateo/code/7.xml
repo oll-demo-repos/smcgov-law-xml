@@ -1,0 +1,1529 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="County of San Mateo, Cal., Code">
+  <prefix>Title</prefix>
+  <num>7</num>
+  <heading>VEHICLES AND TRAFFIC</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.02</num>
+    <heading>HIGHWAY CLOSURES</heading>
+    <section>
+      <num>7.02.010</num>
+      <heading>Highway closures.</heading>
+      <text>The Director of Public Works may temporarily close County highways for parades, celebrations and other purposes for the protection of the public. In emergency situations the Director of Public Works may immediately restrict the use of, or close, any County highway whenever he considers such closing or restriction of use necessary:</text>
+      <para>
+        <num>(a)</num>
+        <text>For the protection of the public;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>For the protection of the County highway from damage during storms;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>During construction, improvement or maintenance operations thereon.</text>
+      </para>
+      <text>The Director of Public Works, or the Director's designee, is authorized to prohibit parking on County highways that are closed pursuant to this section, and in that case shall post for a minimum of twenty-four (24) hours in advance of said closure signs giving notice that vehicles parked or left standing on those County highways will be removed.</text>
+      <text>The Sheriff, or the Sheriff's designee, is authorized to remove or to cause the removal of vehicles parked or left standing on County highways that have been closed and posted pursuant to this section.</text>
+      <text>(Ord. 4393, 09/25/07)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.04</num>
+    <heading>PRIMA FACIE SPEED LIMITS</heading>
+    <section>
+      <num>7.04.010</num>
+      <heading>Prima facie speed limits.</heading>
+      <text>The maximum vehicle speed limit set forth by the California Vehicle Code on County highways or portions thereof within the unincorporated territory of the County of San Mateo shall be decreased by Ordinance of the Board of Supervisors to prima facie vehicle speed limits of 25, 30, 35, 40, 45, 50, 55 or 60 miles per hour, whichever is found most appropriate, to facilitate the orderly movement of traffic and is reasonable and safe. Said prima facie speed limits shall be effective when appropriate signs giving notice thereof are erected upon said County highways or portions thereof.</text>
+      <text>(Prior code § 3710.0; Ord. 1417, 09/13/60; Ord. 3113, 06/16/87; catchline editorially created, 6/94; Ord. 4299, 03/07/06)</text>
+      <text>(Ord. No. 04492, § 1, 2-23-2010; Ord. No. 04521, § 1, 9-28-2010)</text>
+    </section>
+    <section>
+      <num>7.04.025</num>
+      <heading>Speed limit twenty-five miles per hour.</heading>
+      <text>Prima facie speed limits of 25 miles per hour are declared to exist at the following locations:</text>
+      <text>• Along ALAMEDA DE LAS PULGAS between HARKINS AVENUE and SANTA CRUZ AVENUE.</text>
+      <text>• Along BARRON AVENUE from FAIR OAKS AVENUE to BAY ROAD.</text>
+      <text>• Along CANYON ROAD beginning at County boundary north-easterly of SKYLINE BOULEVARD and extending to County boundary approximately 300 feet westerly of SUMMIT DRIVE.</text>
+      <text>• Along HIGGINS CANYON ROAD beginning approximately 1.4 miles easterly of CABRILLO HIGHWAY and extending to PURISIMA CREEK ROAD.</text>
+      <text>• Along HIGGINS DRIVE between HILLSIDE LANE and HILLSIDE CIRCLE.</text>
+      <text>• Along JEFFERSON AVENUE in the unincorporated area between EMERALD ROAD and CALIFORNIA WAY.</text>
+      <text>• Along PARROT DRIVE between the corporate limits of the Town of Hillsborough and the corporate limits of the City of San Mateo.</text>
+      <text>• Along SANTA CRUZ AVENUE between ALAMEDA DE LAS PULGAS and SAND HILL ROAD.</text>
+      <text>• Along SKYLINE BOULEVARD over the span of the Crystal Springs Dam Bridge.</text>
+      <text>• Along SUNSHINE VALLEY ROAD between ETHELDORE STREET and HARTE STREET.</text>
+      <text>(Ord. 4299, 03/07/06; Ord. 4402, 12/04/07)</text>
+      <text>(Ord. No. 04492, § 2, 2-23-2010; Ord. No. 04521, § 2, 9-28-2010; Ord. No. 04776, § 1, 5-16-2017; Ord. No. 04786, § 1, 10-31-2017)</text>
+    </section>
+    <section>
+      <num>7.04.030</num>
+      <heading>Speed limit thirty miles per hour.</heading>
+      <text>Prima facie speed limits of 30 miles per hour are declared to exist at the following locations:</text>
+      <text>• Along ALAMEDA DE LAS PULGAS between CAMINO AL LAGO to HARKINS AVENUE.</text>
+      <text>• Along BAY ROAD between FIFTH AVENUE to SPRING ROAD.</text>
+      <text>• Along BAY ROAD between KAYNYNE AVENUE and a point 200 feet westerly of SECOND AVENUE.</text>
+      <text>• Along BAY ROAD between WILLOW STREET and a point 100 feet westerly of KAYNYNE STREET.</text>
+      <text>• Along BUNKER HILL DRIVE between SKYLINE BOULEVARD and LEXINGTON AVENUE and between POLHEMUS ROAD and approximately 0.18 miles northwesterly of POLHEMUS ROAD.</text>
+      <text>• Along CRYSTAL SPRINGS ROAD between the corporate limits of the Town of Hillsborough and POLHEMUS ROAD.</text>
+      <text>• Along PESCADERO CREEK ROAD from approximately 0.25 miles southwesterly of the westerly intersection with WURR ROAD to approximately 250 feet northeasterly of the easterly intersection with WURR ROAD.</text>
+      <text>• Along RINGWOOD AVENUE between BAY ROAD and the corporate limits of the City of Menlo Park.</text>
+      <text>• Along SANTA CRUZ AVENUE between the corporate limits of the City of Menlo Park and CAMPO BELLO COURT.</text>
+      <text>(Prior code § 3710.3; Ord. 901, 05/16/50; catchline editorially created, 6/94; Ord. 4299, 03/07/06; Ord. 4402, 12/04/07)</text>
+      <text>(Ord. No. 04492, § 3, 2-23-2010; Ord. No. 04521, § 3, 9-28-2010)</text>
+    </section>
+    <section>
+      <num>7.04.035</num>
+      <heading>Speed limit thirty-five miles per hour.</heading>
+      <text>Prima facie speed limits of 35 miles per hour are declared to exist at the following locations:</text>
+      <text>• Along AIRPORT STREET between MARINE BOULEVARD and STANFORD AVENUE.</text>
+      <text>• Along ALAMEDA DE LAS PULGAS between WOODSIDE ROAD and STOCKBRIDGE AVENUE.</text>
+      <text>• Along ALPINE ROAD beginning approximately 200 feet northerly of LA CUESTA DRIVE, to a point approximately 0.38 mile southerly of JUNIPERO SERRA BOULEVARD.</text>
+      <text>• Along ALPINE ROAD beginning approximately 200 feet northerly of LA CUESTA DRIVE, to a point approximately 0.22 mile southerly of LA MESA DRIVE.</text>
+      <text>• Along BLACK MOUNTAIN ROAD between GOLF COURSE DRIVE and the corporate limits of the Town of Hillsborough.</text>
+      <text>• Along CRYSTAL SPRINGS ROAD between SKYLINE BOULEVARD and the corporate limits of the Town of Hillsborough.</text>
+      <text>• Along EDGEWOOD ROAD between the easterly intersection of CORDILLERAS ROAD and the corporate limits of the City of Redwood City.</text>
+      <text>• Along HARBOR BOULEVARD between OLD COUNTY ROAD and the ROUTE 101 (BAYSHORE) FREEWAY.</text>
+      <text>• Along HIGGINS CANYON ROAD beginning approximately 0.51 mile easterly of CABRILLO HIGHWAY and extending 0.95 mile easterly.</text>
+      <text>• Along INDUSTRIAL ROAD between HARBOR BOULEVARD and the corporate limits of the City of San Carlos.</text>
+      <text>• Along MARSH ROAD between the corporate limits of the City of Menlo Park and the corporate limits of the Town of Atherton.</text>
+      <text>• Along OBISPO ROAD between AVENUE ALHAMBRA and CABRILLO HIGHWAY.</text>
+      <text>• Along PESCADERO CREEK ROAD between a point approximately 675 feet easterly of BEAN HOLLOW ROAD and CLOVERDALE ROAD.</text>
+      <text>• Along PURISIMA CREEK ROAD beginning approximately 1 mile easterly of VERDE ROAD and extending easterly approximately 2.4 miles.</text>
+      <text>• Along RALSTON AVENUE between TOWER ROAD and the corporate limits of the City of Belmont.</text>
+      <text>• Along SAN BRUNO AVENUE EAST between SOUTH AIRPORT BOULEVARD and a point approximately 835 feet southwesterly of SOUTH AIRPORT BOULEVARD.</text>
+      <text>• Along SAND HILL ROAD between the corporate limits of Menlo Park and a point approximately 0.14 mile northeasterly of the intersection of SAND HILL ROAD and SHARON PARK DRIVE.</text>
+      <text>• Along SKYLINE BOULEVARD between a point 200 feet southerly of SUMMIT DRIVE and a point 1,800 feet northerly of SUMMIT DRIVE.</text>
+      <text>• Along the westbound direction of SPRING STREET between WILLOW STREET and DOUGLAS AVENUE and in both directions along SPRING STREET between DOUGLAS AVENUE and SECOND AVENUE.</text>
+      <text>• Along VALPARAISO AVENUE between ALAMEDA DE LAS PULGAS and the corporate limits of the Town of Atherton.</text>
+      <text>(Ord. 4299, 03/07/06; Ord. 4402, 12/04/07)</text>
+      <text>(Ord. No. 04492, § 4, 2-23-2010; Ord. No. 04521, § 4, 9-28-2010; Ord. No. 04770, § 2, 1-24-2017; Ord. No. 04786, § 1, 10-31-2017)</text>
+    </section>
+    <section>
+      <num>7.04.040</num>
+      <heading>Speed limit forty miles per hour.</heading>
+      <text>Prima facie speed limits of 40 miles per hour are declared to exist at the following locations:</text>
+      <text>• Along HIGGINS CANYON ROAD between CABRILLO HIGHWAY and a point approximately 0.51 miles easterly.</text>
+      <text>• Along HILLSIDE BOULEVARD between the westerly property line of Hillside School and the corporate limits of the Town of Colma.</text>
+      <text>• Along PORTOLA ROAD between SAND HILL ROAD and FAMILY FARM ROAD.</text>
+      <text>• Along SKYLINE BOULEVARD between CRYSTAL SPRINGS ROAD and the northerly edge of the southbound off-ramp from STATE ROUTE 280.</text>
+      <text>(Prior code § 3710.6; Ord. 917, 09/05/50; Ord. 1420, 09/13/60; Ord. 2287, 12/17/74; Ord. 2298, 03/04/75; Ord. 2403, 11/23/76; Ord. 2505, 05/09/78; Ord. 4299, 03/07/06; Ord. 4402, 12/04/07)</text>
+      <text>(Ord. No. 04492, § 5, 2-23-2010; Ord. No. 04521, § 5, 9-28-2010)</text>
+    </section>
+    <section>
+      <num>7.04.045</num>
+      <heading>Speed limit forty-five miles per hour.</heading>
+      <text>Prima facie speed limits of 45 miles per hour are declared to exist at the following locations:</text>
+      <text>• Along EDGEWOOD ROAD between CANADA ROAD and the easterly intersection of CORDILLERAS ROAD.</text>
+      <text>• Along GUADALUPE CANYON PARKWAY between a point approximately 0.42 miles northeast of PRICE STREET and the corporate limits of the City of Brisbane.</text>
+      <text>• Along POLHEMUS ROAD in the unincorporated areas between CHRISTIAN DRIVE and CRYSTAL SPRINGS ROAD.</text>
+      <text>• Along SKYLINE FRONTAGE ROAD between GOLF COURSE DRIVE and CHATEAU DRIVE.</text>
+      <text>• Along WESTBOROUGH BOULEVARD between the corporate limits of the City of South San Francisco and JUNIPERO SERRA BOULEVARD.</text>
+      <text>(Ord. 4299, 03/07/06; Ord. 4402, 12/04/07)</text>
+      <text>(Ord. No. 04492, § 6, 2-23-2010; Ord. No. 04521, § 6, 9-28-2010; Ord. No. 04770, § 1, 1-24-2017)</text>
+    </section>
+    <section>
+      <num>7.04.050</num>
+      <heading>Speed limit fifty miles per hour.</heading>
+      <text>Prima facie speed limits of 50 miles per hour are declared to exist at the following locations:</text>
+      <text>• Along CANADA ROAD between PALM CIRCLE ROAD and STATE ROUTE 92.</text>
+      <text>• Along SKYLINE BOULEVARD between CRYSTAL SPRINGS ROAD and HAYNE ROAD.</text>
+      <text>• Along SKYLINE FRONTAGE ROAD between HAYNE ROAD and CHATEAU DRIVE.</text>
+      <text>(Prior code § 3710.7; Ord. 962, 10/02/51; Ord. 1638, 02/25/64; Ord. 2336, 11/04/75; catchline editorially created, 6/94; Ord. 4299, 03/07/06; Ord. 4402, 12/04/07)</text>
+      <text>(Ord. No. 04492, § 7, 2-23-2010; Ord. No. 04521, § 7, 9-28-2010)</text>
+    </section>
+    <section>
+      <num>7.04.055</num>
+      <heading>Speed limit fifty-five miles per hour.</heading>
+      <text>Prima facie speed limits of 55 miles per hour are declared to exist at the following locations:</text>
+      <text>• Along SAND HILL ROAD between WHISKEY HILL ROAD and the corporate limits of the City of Menlo Park.</text>
+      <text>(Ord. No. 04492, § 8, 2-23-2010; Ord. No. 04521, § 8, 9-28-2010)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.06</num>
+    <heading>PROHIBITED ENTRY</heading>
+    <section>
+      <num>7.06.010</num>
+      <heading>Southerly direction on Vine Street, County Road No. 564.</heading>
+      <text>Vehicles traveling in the southerly direction on Vine Street, County Road No. 564, shall not enter the portion of Vine Street approximately 200 feet east of Perry Avenue between the hours of 7:00 a.m. and 11:00 a.m., Monday through Friday, holidays excepted, or as may be designated within these limits by the Director of the Department of Public Works.</text>
+      <text>(Ord. 4214, 5/11/04)</text>
+    </section>
+    <section>
+      <num>7.06.020</num>
+      <heading>Vine Street, County Road No. 564, from Oak Avenue.</heading>
+      <text>Vehicles shall not enter Vine Street, County Road No. 564, from Oak Avenue between the hours of 3:00 p.m. and 7:00 p.m., Monday through Friday, holidays excepted.</text>
+      <text>(Ord. 4214, 5/11/04)</text>
+    </section>
+    <section>
+      <num>7.06.030</num>
+      <heading>Leland Avenue, County Road No. 563, from Sand Hill Road.</heading>
+      <text>Vehicles shall not enter Leland Avenue, County Road No. 563, from Sand Hill Road between the hours of 3:00 p.m. and 7:00 p.m., Monday through Friday, holidays excepted.</text>
+      <text>(Ord. 4214, 5/11/04)</text>
+    </section>
+    <section>
+      <num>7.06.040</num>
+      <heading>Stanford Avenue, County Road No. 562, from Sand Hill Road.</heading>
+      <text>Vehicles shall not enter Stanford Avenue, County Road No. 562, from Sand Hill Road between the hours of 3:00 p.m. and 7:00 p.m., Monday through Friday, holidays excepted.</text>
+      <text>(Ord. 4214, 5/11/04)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.08</num>
+    <heading>PROHIBITED LEFT TURNS</heading>
+    <section>
+      <num>7.08.010</num>
+      <heading>Alameda De Las Pulgas.</heading>
+      <text>No left turn shall be made by any vehicle from ALAMEDA DE LAS PULGAS, County Road No. 26A, when traveling southeasterly on said County road at the intersection of ALAMEDA DE LAS PULGAS and SANTA CRUZ AVENUE, County Road No. 70A.</text>
+      <text>(Prior code § 3720.0; Ord. 1040, 01/05/54; Ord. 2569, 03/06/79)</text>
+    </section>
+    <section>
+      <num>7.08.020</num>
+      <heading>Berkshire Avenue with East Selby Lane.</heading>
+      <text>No left turn shall be made by any vehicle from the alley connecting BERKSHIRE AVENUE with EAST SELBY LANE when traveling southerly on said alley at the intersection with EAST SELBY LANE.</text>
+      <text>(Prior code § 3720.1; Ord. 1040, 01/05/54; Ord. 1796, 10/18/66; Ord. 3197, 11/21/89; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.08.030</num>
+      <heading>Semicircular Road.</heading>
+      <text>No vehicle traveling southeasterly on SEMICIRCULAR ROAD shall be turned left into or onto MIDDLEFIELD ROAD at the intersection of said SEMICIRCULAR ROAD, MIDDLEFIELD ROAD and EIGHTH AVENUE.</text>
+      <text>(Prior code § 3720.2; Ord. 1132, 09/13/55; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.08.040</num>
+      <heading>Ringwood Avenue.</heading>
+      <text>No left turn shall be made by any vehicle from RINGWOOD AVENUE when traveling northeasterly at the intersection with EDGE ROAD during the time period - 2:00 p.m. to 3:30 p.m., excluding Saturdays, Sundays and Holidays.</text>
+      <text>(Prior code § 3720.2; Ord. 3260, 09/04/90)</text>
+    </section>
+    <section>
+      <num>7.08.050</num>
+      <heading>Eighth Avenue.</heading>
+      <text>No vehicle traveling southwesterly on EIGHTH AVENUE shall be turned left into or onto MIDDLEFIELD ROAD at the intersection of said EIGHTH AVENUE, SEMICIRCULAR ROAD and MIDDLEFIELD ROAD.</text>
+      <text>(Prior code § 3720.3; Ord. 1132, 09/13/55; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.08.060</num>
+      <heading>Nimitz Avenue from Montgomery Avenue.</heading>
+      <text>Left into or onto NIMITZ AVENUE from MONTGOMERY AVENUE when travelling northeasterly on MONTGOMERY AVENUE at the intersection of said MONTGOMERY AVENUE and NIMITZ AVENUE.</text>
+      <text>(Prior code § 3720.4; Ord. 1132, 09/13/55; Ord. 2114, 11/23/71; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.08.070</num>
+      <heading>Nimitz Avenue from Himmel Avenue.</heading>
+      <text>Left into or onto NIMITZ AVENUE from HIMMEL AVENUE when travelling northeasterly on HIMMEL AVENUE at the intersection of said HIMMEL AVENUE and NIMITZ AVENUE.</text>
+      <text>(Prior code § 3720.5; Ord. 2114, 11/23/71; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.08.080</num>
+      <heading>Nimitz Avenue from West Selby Lane.</heading>
+      <text>Left into or onto NIMITZ AVENUE from WEST SELBY LANE when travelling northeasterly on WEST SELBY LANE at the intersection of said WEST SELBY LANE and NIMITZ AVENUE.</text>
+      <text>(Prior code § 3720.6; Ord. 2114, 11/23/71; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.08.090</num>
+      <heading>Palo Alto Way, County Road No. 546, from Santa Cruz Avenue.</heading>
+      <text>Vehicles shall not turn left onto PALO ALTO WAY, County Road No. 546, from SANTA CRUZ AVENUE between the hours of 7:00 a.m. and 11:00 a.m., Monday through Friday, holidays excepted, or as may be designated within these limits by the Director of the Department of Public Works.</text>
+      <text>(Ord. 4123, 07/23/02; Ord. 4214, 5/11/04)</text>
+    </section>
+    <section>
+      <num>7.08.100</num>
+      <heading>Edgeworth Avenue, County Road No. 149B.</heading>
+      <text>No left turns shall be made by any vehicle from EDGEWORTH AVENUE moving in a northerly direction at the intersection with EIGHTY-SEVENTH STREET.</text>
+      <text>(Ord. 4198, 12/2/03)</text>
+    </section>
+    <section>
+      <num>7.08.110</num>
+      <heading>Edgewood Road, County Road No. 24.</heading>
+      <text>No left turns during the specified hours of 7:00 a.m. to 9:00 a.m. Monday thru Friday, shall be made by any vehicle from EDGEWOOD ROAD, County Road No. 24, when traveling easterly at the intersection with SCENIC DRIVE.</text>
+      <text>(Ord. No. 04691, § 1, 3-11-2014)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.10</num>
+    <heading>MOTOR VEHICLES IN BIKE LANE</heading>
+    <section>
+      <num>7.10.010</num>
+      <heading>Edgewood Road, County Road No. 24.</heading>
+      <text>No motor vehicles in bike lane zone shall be established on the southerly side of EDGEWOOD ROAD, County Road No. 24, commencing at the center line of SCENIC DRIVE and extending easterly a distance of 25 feet, then westerly for a distance of 220 feet, more or less.</text>
+      <text>(Ord. No. 04690, § 1, 3-11-2014)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.12</num>
+    <heading>PROHIBITED RIGHT TURNS</heading>
+    <section>
+      <num>7.12.010</num>
+      <heading>Nimitz Avenue from Himmel Avenue.</heading>
+      <text>Right turn into or onto NIMITZ AVENUE from HIMMEL AVENUE when travelling southwesterly on HIMMEL AVENUE at the intersection of said HIMMEL AVENUE and NIMITZ AVENUE.</text>
+      <text>(Prior code § 3721.1; Ord. 2114, 11/23/71; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.12.020</num>
+      <heading>Nimitz Avenue from West Selby Lane.</heading>
+      <text>Right turn into or onto NIMITZ AVENUE from WEST SELBY LANE when travelling southwesterly on WEST SELBY LANE at the intersection of said WEST SELBY LANE and NIMITZ AVENUE.</text>
+      <text>(Prior code § 3721.2; Ord. 2114, 11/23/71; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.12.030</num>
+      <heading>Glendale Avenue from Fifth Avenue.</heading>
+      <para>
+        <num>(a)</num>
+        <text>NO RIGHT TURN shall be made AT ANY TIME by any vehicle onto GLENDALE AVENUE from FIFTH AVENUE when travelling westerly on FIFTH AVENUE at the intersection with GLENDALE AVENUE.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>NO RIGHT TURN shall be made between the hours of 5:00 p.m. and 8:00 p.m. by any vehicle onto WAVERLY AVENUE when traveling westerly on FIFTH AVENUE at the intersection with WAVERLY AVENUE.</text>
+      </para>
+      <text>(Prior code § 3721.3; Ord. 3197, 11/21/89; Ord. 3259, 09/04/90; Ord. 3443, 11/17/92; Ord. 3473, 02/09/93; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.12.040</num>
+      <heading>Waverly Avenue from Fifth Avenue.</heading>
+      <text>No right turn shall be made by any vehicle onto WAVERLY AVENUE from FIFTH AVENUE when traveling westerly on FIFTH AVENUE at the intersection with WAVERLY AVENUE between the hours of 5:00 P.M. and 8:00 P.M., Saturdays, Sundays, and Holidays excepted.</text>
+      <text>(Prior code § 3721.4; Ord. 3197, 11/21/89; catchline editorially created, 6/94)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.16</num>
+    <heading>PROHIBITED "U" TURNS</heading>
+    <section>
+      <num>7.16.010</num>
+      <heading>Prohibited "U" turns.</heading>
+      <text>No vehicle traveling on the following County highways or portions thereof shall be turned so as to proceed in the opposite direction, between or at the intersections hereinafter designed in this chapter, to be effective when appropriate signs giving notice thereof are erected at said intersections upon said County highways or portions thereof.</text>
+      <text>(Prior code § 3772.0; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.16.020</num>
+      <heading>San Bruno Avenue East.</heading>
+      <text>Eastbound traffic on that portion of SAN BRUNO AVENUE EAST, County Road No. 9, at its intersection with SOUTH AIRPORT BOULEVARD, County Road No. 189.</text>
+      <text>(Prior code § 3722.2; Ord. 1914, 07/09/68; Ord. 2203, 06/19/73; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.030</num>
+      <heading>South Airport Boulevard.</heading>
+      <text>Northbound traffic on that portion of SOUTH AIRPORT BOULEVARD, County Road No. 189, at its intersection with SAN BRUNO AVENUE EAST, County Road No. 9.</text>
+      <text>(Prior code § 3722.3; Ord. 1914, 07/09/68; Ord. 2203, 06/09/73; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.040</num>
+      <heading>Industrial Way.</heading>
+      <text>Northbound traffic on that portion of INDUSTRIAL WAY, County Road No. 64, at its intersection with HARBOR BOULEVARD, County Road No. 1309.</text>
+      <text>(Prior code § 3722.6; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.050</num>
+      <heading>Harbor Boulevard.</heading>
+      <text>Westbound traffic on that portion of HARBOR BOULEVARD, County Road No. 1309, at its intersection with INDUSTRIAL WAY, County Road No. 64.</text>
+      <text>(Prior code § 3722.7; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.060</num>
+      <heading>Harbor Boulevard.</heading>
+      <text>Eastbound traffic on that portion of HARBOR BOULEVARD, County Road No. 1309, at its intersection with INDUSTRIAL WAY, County Road No. 64.</text>
+      <text>(Prior code § 3722.8; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.070</num>
+      <heading>Harbor Boulevard.</heading>
+      <text>Westbound traffic on that portion of HARBOR BOULEVARD, County Road No.1309, at its intersection with OLD COUNTY ROAD, County Road No. 21.</text>
+      <text>(Prior code § 3722.9; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.080</num>
+      <heading>Harbor Boulevard.</heading>
+      <text>Eastbound traffic on that portion of HARBOR BOULEVARD, County Road No. 1309, at its intersection with OLD COUNTY ROAD, County Road No. 21.</text>
+      <text>(Prior code § 3722.10; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.090</num>
+      <heading>Old County Road.</heading>
+      <text>Southbound traffic on that portion of OLD COUNTY ROAD, County Road No. 21, at its intersection with HARBOR BOULEVARD, County Road No. 1309.</text>
+      <text>(Prior code § 3722.11; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.100</num>
+      <heading>Old County Road.</heading>
+      <text>Northbound traffic on that portion of OLD COUNTY ROAD, County Road No. 21, at its intersection with HARBOR BOULEVARD, County Road No. 1309.</text>
+      <text>(Prior code § 3722.12; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.110</num>
+      <heading>Middlefield Road.</heading>
+      <text>Eastbound traffic on that portion of MIDDLEFIELD ROAD, County Road No. 29B, at its intersection with FIFTH AVENUE, County Road No. 23.</text>
+      <text>(Prior code § 3722.13; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.120</num>
+      <heading>Middlefield Road.</heading>
+      <text>Westbound traffic on that portion of MIDDLEFIELD ROAD, County Road No. 29B, at its intersection with FIFTH AVENUE, County Road No. 23.</text>
+      <text>(Prior code § 3722.14; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.130</num>
+      <heading>Middlefield Road.</heading>
+      <text>Eastbound traffic on that portion of MIDDLEFIELD ROAD, County Road No. 29B, at its intersection with SEMICIRCULAR ROAD, County Road No. 30.</text>
+      <text>(Prior code § 3722.15; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.140</num>
+      <heading>Middlefield Road.</heading>
+      <text>Westbound traffic on that portion of MIDDLEFIELD ROAD, County Road No. 29B, at its intersection with SEMICIRCULAR ROAD, County Road No. 30.</text>
+      <text>(Prior code § 3722.16; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.150</num>
+      <heading>Fifth Avenue.</heading>
+      <text>Northbound traffic on that portion of FIFTH AVENUE, County Road No. 23, at its intersection with MIDDLEFIELD ROAD, County Road No. 29B.</text>
+      <text>(Prior code § 3722.17; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.160</num>
+      <heading>Fifth Avenue.</heading>
+      <text>Southbound traffic on that portion of FIFTH AVENUE, County Road No. 23, at its intersection with MIDDLEFIELD ROAD, County Road No. 29B.</text>
+      <text>(Prior code § 3722.18; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.170</num>
+      <heading>Fifth Avenue.</heading>
+      <text>Southbound traffic on that portion of FIFTH AVENUE, County Road No. 23, at its intersection with WILLIAM AVENUE, County Road No. 651.</text>
+      <text>(Prior code § 3722.19; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.180</num>
+      <heading>Fifth Avenue.</heading>
+      <text>Northbound traffic on that portion of FIFTH AVENUE, County Road No. 23, at its intersection with SEMICIRCULAR ROAD, County Road No. 30.</text>
+      <text>(Prior code § 3722.20; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.190</num>
+      <heading>Santa Cruz Avenue.</heading>
+      <text>Westbound traffic on that portion of SANTA CRUZ AVENUE, County Road No. 70A, at its intersection with ALAMEDA DE LAS PULGAS, County Road No. 26A.</text>
+      <text>(Prior code § 3722.21; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.200</num>
+      <heading>Alameda De Las Pulgas.</heading>
+      <text>Westbound traffic on that portion of ALAMEDA DE LAS PULGAS, County Road No. 26A, at its intersection with AVY AVENUE, County Road No. 539.</text>
+      <text>(Prior code § 3722.22; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.210</num>
+      <heading>Alameda De Las Pulgas.</heading>
+      <text>Eastbound traffic on that portion of ALAMEDA DE LAS PULGAS, County Road No. 26A, at its intersection with AVY AVENUE, County Road No. 539.</text>
+      <text>(Prior code § 3722.23; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.220</num>
+      <heading>Alameda De Las Pulgas.</heading>
+      <text>Eastbound traffic on that portion of ALAMEDA DE LAS PULGAS, County Road No. 26A, at its intersection with SANTA CRUZ AVENUE, County Road No. 70A.</text>
+      <text>(Prior code § 3722.24; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.230</num>
+      <heading>Avy Avenue.</heading>
+      <text>Southbound traffic on that portion of AVY AVENUE, County Road No. 539, at its intersection with ALAMEDA DE LAS PULGAS, County Road No. 26A.</text>
+      <text>(Prior code § 3722.25; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.240</num>
+      <heading>Avy Avenue.</heading>
+      <text>Northbound traffic on that portion of AVY AVENUE, County Road No. 539, at its intersection with ALAMEDA DE LAS PULGAS, County Road No. 26A.</text>
+      <text>(Prior code § 3722.26; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.250</num>
+      <heading>Eighty-seventh Street.</heading>
+      <text>Westbound traffic on that portion of EIGHTY-SEVENTH STREET, County Road No. 126, at its intersection with VILLAGE LANE, County Road No. 148.</text>
+      <text>(Prior code § 3722.32; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.260</num>
+      <heading>Eighty-seventh Street.</heading>
+      <text>Eastbound traffic on that portion of EIGHTY-SEVENTH STREET, County Road No. 126 at its intersection with WASHINGTON STREET, County Road No. 156.</text>
+      <text>(Prior code § 3722.33; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.270</num>
+      <heading>Eighty-seventh Street.</heading>
+      <text>Westbound traffic on that portion of EIGHTY-SEVENTH STREET, County Road No. 126 at its intersection with PARK PLAZA DRIVE, County Road No. 122.</text>
+      <text>(Prior code § 3722.34; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.280</num>
+      <heading>Eighty-seventh Street.</heading>
+      <text>Eastbound traffic on that portion of EIGHTY-SEVENTH STREET, County Road No. 126, at its intersection with NIMITZ DRIVE, County Road No. 133, and PARK PLAZA DRIVE, County Road No. 122.</text>
+      <text>(Prior code § 3722.35; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.290</num>
+      <heading>Park Plaza Drive.</heading>
+      <text>Southbound traffic on that portion of PARK PLAZA DRIVE, County Road No. 122, at its intersection with EIGHTY-SEVENTH STREET, County Road No. 126.</text>
+      <text>(Prior code § 3722.36; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.300</num>
+      <heading>Village Lane.</heading>
+      <text>Southbound traffic on that portion of VILLAGE LANE, County Road No. 148, at its intersection with EIGHTY-SEVENTH STREET, County Road No. 126.</text>
+      <text>(Prior code § 3722.37; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.310</num>
+      <heading>Washington Street.</heading>
+      <text>Northbound traffic on that portion of WASHINGTON STREET, County Road No. 156, at its intersection with EIGHTY-SEVENTH STREET, County Road No. 126.</text>
+      <text>(Prior code § 3722.38; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.320</num>
+      <heading>Nimitz Drive.</heading>
+      <text>Northbound traffic on that portion of NIMITZ DRIVE, County Road No. 133, at its intersection with EIGHTY-SEVENTH STREET, County Road No. 126.</text>
+      <text>(Prior code § 3722.39; Ord. 2283, 12/10/74)</text>
+    </section>
+    <section>
+      <num>7.16.330</num>
+      <heading>El Camino Real (State Route 82).</heading>
+      <text>Both the southerly and northerly approaches at 5TH AVENUE, County Road No. 23.</text>
+      <text>(Prior code § 3722.54; Ord. 3132, 01/12/88)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.20</num>
+    <heading>ONE-WAY HIGHWAYS</heading>
+    <section>
+      <num>7.20.010</num>
+      <heading>One-way highways described.</heading>
+      <text>One-way Highways described: Signs. The portions of highways described in this chapter are one-way highways. Appropriate signs shall be erected and maintained indicating the direction traffic shall move at every intersection where movement in the opposite direction is prohibited.</text>
+      <text>No person shall drive any vehicle upon the portions of highways described in this chapter except in the direction specified by appropriate signs.</text>
+      <text>(Prior code § 3723.0; Ord. 1190, 11/27/56; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.20.020</num>
+      <heading>Stewart Avenue.</heading>
+      <text>On that portion of STEWART AVENUE in the Broadmoor Area between MADDUX DRIVE and ELLIS DRIVE traffic shall move only in a westerly direction.</text>
+      <text>(Prior code § 3723.1; Ord. 1190, 11/27/56; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.20.030</num>
+      <heading>Rutherford Avenue.</heading>
+      <text>On the northeasterly side of RUTHERFORD AVENUE between WOODSIDE ROAD and WEST SELBY LANE traffic shall move only in a northwesterly direction and on the southwesterly side of RUTHERFORD AVENUE between WOODSIDE ROAD and WEST SELBY LANE traffic shall move only in a southeasterly direction.</text>
+      <text>(Prior code § 3723.2; Ord. 1319, 10/07/58; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.20.040</num>
+      <heading>Gilman Drive.</heading>
+      <text>On that portion of GILMAN DRIVE in the Broadmoor area between a point 25 feet west of the center line of RANDALL COURT and a point 75 feet east of the center line of RANDALL COURT, a total distance of 100 feet. Traffic shall proceed through this area in a westerly direction only on GILMAN DRIVE.</text>
+      <text>(Prior code § 3723.4; Ord. 2000, 11/04/69; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.20.050</num>
+      <heading>Nimitz Avenue.</heading>
+      <text>On that portion of NIMITZ AVENUE between WOODSIDE ROAD and WEST SELBY LANE traffic shall move only in an easterly direction.</text>
+      <text>(Prior code § 3723.5; Ord. 2103, 07/20/71)</text>
+    </section>
+    <section>
+      <num>7.20.060</num>
+      <heading>One-way highways—Glendale Avenue.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Northbound at BERKSHIRE AVENUE;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Southbound at FIFTH AVENUE.</text>
+      </para>
+      <text>(Prior code § 3723.6; Ord. 3175, 03/28/89)</text>
+    </section>
+    <section>
+      <num>7.20.070</num>
+      <heading>Carmel Avenue.</heading>
+      <text>On the portion of CARMEL AVENUE, County Road No. 925, between AVENUE GRANADA, County Road No. 936, and SONORA AVENUE, County Road No. 928, traffic should move only in a northeasterly direction.</text>
+      <text>(Prior code § 3723.7; Ord. 3241, 07/17/90)</text>
+    </section>
+    <section>
+      <num>7.20.080</num>
+      <heading>San Juan Avenue.</heading>
+      <text>On San Juan Avenue between Ferdinand Avenue and Navarra Avenue, traffic shall move only in the southerly direction.</text>
+      <text>(Ord. 4109, 04/02/02)</text>
+    </section>
+    <section>
+      <num>7.20.090</num>
+      <heading>Madera Lane, County Road No. 685.</heading>
+      <text>On that portion of MADERA LANE in the San Gregorio area between the center line of LA HONDA ROAD, State Highway 84, and a point 550 feet north of the center line of LA HONDA ROAD, a total of 550 feet. Traffic shall proceed only in a northerly direction.</text>
+      <text>(Ord. 4222, 6/29/04)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.24</num>
+    <heading>TIME-LIMITED PARKING ZONES</heading>
+    <section>
+      <num>7.24.010</num>
+      <heading>Time-limited parking.</heading>
+      <text>No person shall stop, park or leave standing any motor vehicle, whether attended or unattended for a period of time exceeding that authorized as herein provided, except when necessary to avoid conflict with other traffic or in cases of emergency, or in compliance with the directions of a peace officer in any area declared by resolution of the Board of Supervisors as a time-limited parking zone and where appropriate signs or markings are installed and maintained as provided in Chapter 7.28 of this title.</text>
+      <text>Time-limited parking zones may be designated as 20-Minute, 30-Minute, 1-Hour, or 2-Hour. The Board of Supervisors may designate time-limited parking zones to be effective at all times or during specified hours and days.</text>
+      <text>(Prior code § 3730.0; Ord. 981, 05/20/52; Ord. 1283, 04/08/58; Ord. 3234, 06/19/90: Ord. 4195, 10/21/03; Ord. 4289, 12/13/05)</text>
+    </section>
+    <section>
+      <num>7.24.900</num>
+      <heading>Bay Road, County Road No. 32F.</heading>
+      <text>On the westerly side of Bay Road commencing at a point 40-feet northerly of the centerline intersection of Bay Road and Charter Street, then continuing to a point 56 feet northerly of said intersection for a total distance of 16 feet more or less.</text>
+      <text>(Ord. 4233, 09/14/04)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.28</num>
+    <heading>MISCELLANEOUS PARKING REGULATIONS</heading>
+    <section>
+      <num>7.28.010</num>
+      <heading>Miscellaneous parking regulations.</heading>
+      <text>The Board of Supervisors shall designate such stopping, standing or parking restrictions or prohibitions as may be necessary, and shall designate said restrictions or prohibitions on such streets, portions of streets or County-owned property by appropriate signs or markings giving effect to such parking, stopping or standing restrictions or prohibitions. When authorized signs and/or curb markings are in place giving notice of such prohibition or limitation, no person shall stop, stand or park any vehicle in violation of such signs and/or curb markings. Whenever the stopping, standing or parking of a vehicle has been prohibited, restricted or limited as to time by an ordinance or resolution, the continued standing or parking of such vehicle after a citation therefor has been issued constitutes a separate and additional violation of the provisions for which the citation was issued when such standing or parking continues for an additional period longer than the maximum permissible period of parking in such space or location after issuance of such citation, or if no such period of time is designated, when such stopping, standing or parking after a citation therefor continues for an additional period longer than one hour.</text>
+      <text>(Prior code § 3731.0; Ord. 850, 07/21/49; Ord. 3234, 06/19/90; Ord. 4195, 10/21/03; Ord. 4268, 07/12/05)</text>
+    </section>
+    <section>
+      <num>7.28.020</num>
+      <heading>Signs and markings.</heading>
+      <text>The Director of Public Works is authorized to place signs and/or curb markings to indicate parking regulations. Curb markings shall have the following meanings:</text>
+      <para>
+        <num>(a)</num>
+        <text>Red means no stopping, standing or parking at any time except as permitted by the Vehicle Code, and except that a bus may stop in a red zone marked or signed as a bus zone.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Yellow means no stopping, standing or parking at any time for any purpose other than the loading of passengers or materials.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>White means no stopping, standing or parking at any time for any purpose other than loading or unloading of passengers, or for the purpose of depositing mail in an adjacent mailbox.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Green means no stopping, standing or parking for longer than the period of time authorized by resolution of this Board. To facilitate use and maintenance of green zones, the Director of Public Works may cause the curb to be stenciled with the allowed period of time and/or erect signs indicating the allowed period of time.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Blue means no stopping, standing or parking by other than a vehicle displaying a disabled parking license plate or current disabled parking placard issued by a State Department of Motor Vehicles.</text>
+      </para>
+      <text>(Prior code § 3731.1; Ord. 850, 07/21/49; Ord. 3113, 06/16/87; Ord. 4268, 07/12/05)</text>
+    </section>
+    <section>
+      <num>7.28.030</num>
+      <heading>Parking of commercial vehicles.</heading>
+      <text>No person, firm or corporation, nor any agent or employee thereof, shall stop, leave standing, or park for the period of more than one (1) hour any commercial vehicle, whether attended or unattended, upon a street, road, highway or other thoroughfare, or place of whatever nature, publicly maintained and open to the use of the public for the purpose of vehicular travel, located in any residential zone in the unincorporated area of said County, except when such vehicle is in actual use for the transaction of any lawful business in said zone or is temporarily disabled.</text>
+      <text>(Prior code § 3731.2; Ord. 951, 08/07/51)</text>
+    </section>
+    <section>
+      <num>7.28.040</num>
+      <heading>Parking on grades.</heading>
+      <text>It shall be unlawful for any person driving, or in control of, or in charge of, a motor vehicle to permit it to stand unattended on any highway in any business or residential district within the unincorporated territory of the County of San Mateo, when upon any grade exceeding three percent (3%) without effectively blocking the wheels of said vehicle by turning them against a vertical curb or by other means.</text>
+      <text>(Prior code § 3731.3; Ord. 880, 02/03/50)</text>
+    </section>
+    <section>
+      <num>7.28.050</num>
+      <heading>Removal of unlawfully parked cars from private property.</heading>
+      <text>a)</text>
+      <text>The owner or person in lawful possession of any private property may subsequently notify, by telephone or, if impractical, by the most expeditious means available, the County Sheriff, and cause the removal of a vehicle parked on such property to the nearest public garage, if there is displayed, in plain view, at all entrances to property, a sign prohibiting public parking and indicating that vehicles will be removed at the owner's expense, and containing the telephone number of the local traffic law enforcement agency.</text>
+      <text>b)</text>
+      <text>The size of such sign prohibiting public parking, as described in subsection (a), shall be at least twelve inches by eighteen inches in size and no more than six (6) square feet in area. The bottom of the sign shall be mounted between five feet and seven feet measured from the ground.</text>
+      <text>(Prior code § 3731.4.5; Ord. 2849, 07/12/83)</text>
+    </section>
+    <section>
+      <num>7.28.060</num>
+      <heading>Parking zone development fees.</heading>
+      <text>Parking zone development fees shall be paid by the parties requesting parking restrictions upon County approval of requests to establish parking restrictions in residential, commercial or industrial areas. In no event shall any fee be charged to persons requesting a disabled parking zone in a residential area.</text>
+      <text>The following parking zone development fees shall be charged:</text>
+      <text>
+        <table>
+          <tbody>
+            <tr>
+              <td>Parking Zone Development Fee</td>
+              <td>Fee Effective 7/01/08</td>
+              <td>Fee Effective 7/01/09</td>
+              <td>Fee Effective 7/01/10</td>
+              <td>Fee Effective 7/01/11</td>
+            </tr>
+            <tr>
+              <td>No Parking, Time Limited Parking, Loading, and Miscellaneous Zones</td>
+              <td>$50 + $10/foot for paint and/or signs</td>
+              <td>$52 + $10/foot for paint and/or signs</td>
+              <td>$53 + $10/foot for paint and/or signs</td>
+              <td>$55 + $10/foot for paint and/or signs</td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+      <text>&amp;nbsp;</text>
+      <text>(Ord. 4427, 6/24/08)</text>
+    </section>
+    <section>
+      <num>7.28.070</num>
+      <heading>No oversized vehicle parking.</heading>
+      <text>The Board of Supervisors shall, by Resolution, determine and declare those parking zones or parking spaces, upon the public highways over which the County has jurisdiction, which prohibit parking for oversized vehicles in order to prevent obstruction of vehicular and pedestrian traffic and to maintain the safe and efficient flow of vehicular and pedestrian traffic on the County's public highways.</text>
+      <text>The Director of Public Works shall cause to be marked by signs, markings, curbs, or other practical manner, the parking spaces where the parking of vehicles over six (6) feet in height is prohibited.</text>
+      <text>No person shall stop, park, or leave standing any motor vehicle, whether attended or unattended, except when necessary to avoid conflict with other traffic or in cases of emergency, or in compliance with the directions of a peace officer, in such a manner that any part of the vehicle exceeds the height limits of the parking space, or else be subject to fines in accordance with the Chapter 1.08 penalty provisions of this Code.</text>
+      <text>(Ord. No. 04800, § 1, 6-26-2018)</text>
+    </section>
+    <section>
+      <num>7.28.190</num>
+      <heading>Parking on front yard prohibited.</heading>
+      <text>No person shall park or store a vehicle, as defined in the Vehicle Code, or a boat of any type, or any boat trailer, or camper shell(s), in the front yard of a lot, whether improved or unimproved, including the lawn area thereof, in any residential zone within the territory of the Broadmoor Police Protection District, except upon that improved area which shall comprise the driveway to a garage or carport; provided that this section shall not cover abandoned, wrecked, dismantled or inoperative vehicles or vehicle parts within the scope of chapter 7.60. For the purposes of this section "front yard" shall not have that definition established in section 6102.85 but shall mean that space on a lot which is not covered or obstructed by any structure and is visible from the street. The violation of this section shall be an infraction.</text>
+      <text>(Prior code § 3731.21; Ord. 3096, 02/17/87; Ord. 3301, 03/12/91)</text>
+    </section>
+    <section>
+      <num>7.28.210</num>
+      <heading>Parking for certain purposes prohibited.</heading>
+      <text>No person shall stand or park a vehicle upon any street or roadway for the principal purpose of either:</text>
+      <para>
+        <num>(a)</num>
+        <text>Displaying such vehicle for sale by sign or otherwise.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Greasing or repairing such vehicle, except repairs necessitated by an emergency.</text>
+      </para>
+      <text>A violation of this section shall be an infraction and is punishable by (1) a fine not exceeding one hundred dollars ($100.00) for a first violation; (2) a fine not exceeding two hundred dollars ($200.00) for a second violation of this section within one year; and (3) a fine not exceeding five hundred dollars ($500.00) for each additional violation of this section within one year.</text>
+      <text>(Ord. 3639, 3/14/95)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.30</num>
+    <heading>NO PARKING ZONES</heading>
+    <section>
+      <num>7.30.010</num>
+      <heading>No parking zones.</heading>
+      <text>No person shall stop, park or leave standing any motor vehicle, whether attended or unattended, except when necessary to avoid conflict with other traffic or in cases of emergency, or in compliance with the directions of a peace officer in any area declared by resolution of the Board of Supervisors as a no parking zone and where appropriate signs or markings are installed and maintained as provided in chapter 7.28 of this title.</text>
+      <text>(Ord. 4268, 07/12/05)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.32</num>
+    <heading>NO PARKING DURING SPECIFIED HOURS ZONES</heading>
+    <section>
+      <num>7.32.010</num>
+      <heading>No parking during specified hours.</heading>
+      <text>No person shall stop, park or leave standing any motor vehicle, whether attended or unattended, except when necessary to avoid conflict with other traffic or in cases of emergency, or in compliance with the directions of a peace officer in any area declared by resolution of the Board of Supervisors as a no parking during specified hours zone during the prohibited hours and where appropriate signs or markings are installed and maintained as provided in chapter 7.28 of this title.</text>
+      <text>(Prior code § 3732.0; Ord. 1218, 04/16/57; Ord. 2096, 06/01/71; Ord. 3113, 06/16/87; Ord. 3234, 06/19/90; Ord. 4195, 10/21/03; Ord. 4268, 07/12/05)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.34</num>
+    <heading>NO PARKING AND TOW-AWAY ZONES</heading>
+    <section>
+      <num>7.34.010</num>
+      <heading>No parking and tow-away zone.</heading>
+      <text>No person shall park or leave standing any motor vehicle, whether attended or unattended, in any area declared by Resolution of the Board of Supervisors as a no parking and tow-away zone, and where appropriate signs or markings are installed and maintained as provided in Chapter 7.28. The Director of Public Works shall cause said areas to be marked or signs erected notifying the public that parking is prohibited and that vehicles left parked in said areas will be towed at the owner's expense.</text>
+      <text>In the event that any officer removes a vehicle that is parked in violation of this section, such officer shall give the notice provided for in Section 22852 et seq., of the Vehicle Code of the State of California, and the keeper of any garage in which any such vehicle is stored may have a lien thereon for his compensation for towage and for caring for and keeping safe such vehicle and may satisfy such lien upon compliance with and under the conditions stated in Section 22851 of the Vehicle Code.</text>
+      <text>(Ord. 4117, 05/21/02; Ord. 4393, 09/25/07)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.36</num>
+    <heading>ANGLE PARKING</heading>
+    <section>
+      <num>7.36.010</num>
+      <heading>Angle Parking Zones.</heading>
+      <text>The portions of County highways hereinafter described in this chapter are angle parking zones. The Director of Public Works shall mark such County highways indicating the angle at which vehicles shall be parked. When markings are in place as herein provided no person shall park or stand a vehicle other than within such markings and at the angle to the curb or edge of the roadway indicated by such markings.</text>
+      <text>(Prior code § 3733; Ord. 1689, 01/26/65; Ord. 3113, 06/16/87)</text>
+    </section>
+    <section>
+      <num>7.36.020</num>
+      <heading>Middlefield Road.</heading>
+      <text>On the northeast side of MIDDLEFIELD ROAD, County Road No. 29, and the southwest side of MIDDLEFIELD ROAD, County Road No. 29, between PACIFICA AVENUE, County Road No. 446 and EIGHTH AVENUE, County Road No. 683-A.</text>
+      <text>(Prior code § 3733.2; Ord. 1689, 01/26/65)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.40</num>
+    <heading>PARALLEL PARKING</heading>
+    <section>
+      <num>7.40.010</num>
+      <heading>Parallel parking.</heading>
+      <text>Every vehicle stopped or parked upon a County highway shall be stopped or parked with the right-hand wheels of such vehicle parallel with and within 18 inches of the right-hand curb, and also with the left-hand wheels of such vehicle parallel with and within 18 inches of the left-hand curb on one-way streets. The Director of Public Works may mark such County highways indicating the spaces in which vehicles shall be so parked. When markings are in place as herein provided no person shall park or stand a vehicle other than within such markings.</text>
+      <text>(Prior code § 3734; Ord. 1689, 01/26/65; Ord. 3113, 06/16/87)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.44</num>
+    <heading>DISABLED PARKING</heading>
+    <section>
+      <num>7.44.010</num>
+      <heading>Disabled parking zones.</heading>
+      <text>It is unlawful for any person to park or leave standing any vehicle in a stall or space in an area designated in this Chapter 7.44 for disabled persons' parking, if, immediately adjacent to and visible from such stall or space, there is posted a sign consisting of a profile view of a wheelchair with occupant in white with a blue background or the curb is painted blue with "disabled" stenciled in white upon the top surface unless the vehicle displays either one of the distinguishing license plates or a placard issued pursuant to Section 22511.55 of the California Vehicle Code.</text>
+      <text>The Board of Supervisors shall, by Resolution, determine and declare disabled parking zone locations.</text>
+      <text>(Prior code § 3736; Ord. 2718, 01/13/81; Ord. 3075, 08/12/86; Ord. 3574, 6/7/94; Ord. 4195, 10/21/03; Ord. 4262, 05/03/05)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.46</num>
+    <heading>COMPACT PARKING ZONES</heading>
+    <section>
+      <num>7.46.010</num>
+      <heading>Compact parking zones.</heading>
+      <text>The Board of Supervisors shall, by resolution, determine and declare those parking zones or parking spaces, upon the public highways over which the County has jurisdiction, which are restricted to compact vehicles in order to prevent obstruction of vehicular and pedestrian traffic and to maintain the safe and efficient flow of vehicular and pedestrian traffic on the County's public highways.</text>
+      <text>The Director of Public Works shall cause to be marked upon the surface of the pavement, by lines, markings, curbs, or other practical manner, the size and limits of any parking spaces restricted for compact cars or smaller vehicles, and shall also mark upon the surface of the pavement the designation "Compact."</text>
+      <text>No person shall stop, park, or leave standing any motor vehicle, whether attended or unattended, except when necessary to avoid conflict with other traffic or in cases of emergency, or in compliance with the directions of a peace officer, in such a manner that any part of the vehicle extends over or across such lines designating the limits of a parking space restricted to compact vehicles.</text>
+      <text>(Ord. No. 04581, § 1, 8-9-2011)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.48</num>
+    <heading>WEIGHT LIMITS</heading>
+    <section>
+      <num>7.48.010</num>
+      <heading>Permissible weight of vehicles on county bridges.</heading>
+      <text>No person, firm or corporation shall drive or place or cause to be driven or placed any vehicle or vehicles upon any of the County bridges of the County of San Mateo described in this chapter the gross weight of which is in excess of the maximum permissible weight limits hereinafter specified for each of said County bridges.</text>
+      <text>(Prior code § 3740.0; Ord. 903, 06/13/50; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.48.020</num>
+      <heading>Signs specifying load limit.</heading>
+      <text>The Director of Public Works and Road Commissioner is directed to cause signs indicating the maximum weight so fixed to be erected at a distance of not less than fifty (50) feet or more than five hundred (500) feet from each end of such bridges or approaches thereto specifying the load limit allowed hereunder per vehicle.</text>
+      <text>(Prior code § 3740.1; Ord. 903, 06/13/50; Ord. 3113, 06/16/87; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.48.030</num>
+      <heading>Tunitas Road (County Road No. 42).</heading>
+      <text>The maximum permissible weight limit of vehicles and loads upon the County bridge over Tunitas Creek on TUNITAS ROAD, County Road No. 42, is five (5) tons.</text>
+      <text>(Prior code § 3740.3; Ord. 903, 06/13/50; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.48.040</num>
+      <heading>County Bridge No. 50—Wurr Road No. 80.</heading>
+      <text>The permissible and designated weight limits of vehicles and loads upon County Bridge No. 50, situated on WURR ROAD, County Road No. 80 and crossing Pescadero Creek is hereby reduced to and specified as:</text>
+      <text>9 Tons (18,000 lbs.) per vehicle</text>
+      <text>14 Tons (28,000 lbs.) per semi-trailer combination</text>
+      <text>18 Tons (36,000 lbs.) per truck and full trailer.</text>
+      <text>(Prior code § 3740.5; Ord. 903, 06/13/50; Ord. 1657, 07/07/64; Ord. 3015, 10/23/84)</text>
+    </section>
+    <section>
+      <num>7.48.050</num>
+      <heading>County Bridge No. 20—Lobitos Creek Road No. 43.</heading>
+      <text>The permissible and designated weight limit of vehicles and loads upon County Bridge No. 20, situated on LOBITOS CREEK ROAD, County Road No. 43 and crossing Lobitos Creek is hereby reduced to and specified as 3 Tons (6,000 lbs.).</text>
+      <text>(Prior code § 3740.6; Ord. 903, 06/13/50; Ord. 1657, 07/07/64; Ord. 3014, 10/23/84)</text>
+    </section>
+    <section>
+      <num>7.48.060</num>
+      <heading>Permissible weight of vehicles on unimproved county highways.</heading>
+      <text>No person, firm, or corporation shall drive or place or cause to be driven or placed any vehicle or vehicles upon any of the unimproved County highways of the County of San Mateo described in this chapter, the gross weight of which is in excess of the maximum permissible weight limits hereinafter specified for each of said County highways.</text>
+      <text>(Prior code § 3741.0; Ord. 944, 06/19/51; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.48.070</num>
+      <heading>Signs specifying load limits.</heading>
+      <text>The Director of Public Works and Road Commissioner is directed to cause signs indicating the maximum weight so fixed to be erected at a distance of not less than fifty (50) feet or more than five hundred (500) feet from each end of such road thereto specifying the load limit allowed hereunder per vehicle.</text>
+      <text>(Prior code § 3741.1; Ord. 944, 06/19/51; Ord. 3113, 06/16/87; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.48.080</num>
+      <heading>Los Trancos Woods Road (County Road No. 67).</heading>
+      <text>The maximum permissible weight limit of vehicles and loads upon the LOS TRANCOS WOODS ROAD, County Road No. 67, is eight (8) tons.</text>
+      <text>(Prior code § 3741.2; Ord. 944, 06/19/51; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.48.090</num>
+      <heading>Fair Oaks Avenue.</heading>
+      <text>No person, firm or corporation shall drive or place or cause to be driven or placed any commercial vehicle exceeding a gross weight of 5,000 pounds upon FAIR OAKS AVENUE, County Road No. 1416-A, from its intersection with NINTH AVENUE, County Road No. 684-A, easterly to its intersection with MARSH ROAD, County Road No. 31, except as allowed in sections 35712 and 35714 of the Vehicle Code. An alternative route for local access is FIFTH AVENUE, County Road No. 23.</text>
+      <text>(Prior code § 3741.94; Ord. 3284, 01/08/91)</text>
+    </section>
+    <section>
+      <num>7.48.100</num>
+      <heading>Reserved.</heading>
+      <text><strong>Editor's note— </strong>Ord. No. 04813, § 1, passed July 9, 2019, rescinded § 7.48.100, which pertained to County Bridge No. 67 - Crystal Springs Dam Bridge and derived from Ord. No. 04143, 10-29-02.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.52</num>
+    <heading>LOADING ZONES</heading>
+    <section>
+      <num>7.52.010</num>
+      <heading>Loading zones described—Unlawful to park in.</heading>
+      <text>No person shall stop, park or leave standing any motor vehicle, whether attended or unattended, for a period of time longer than is reasonably necessary for the loading or unloading of passengers or freight, except when necessary to avoid conflict with other traffic or in cases of emergency, or in compliance with the directions of a peace officer in any area declared by Resolution of the Board of Supervisors as a Loading Zone and where appropriate signs or markings are installed and maintained as provided in section 7.28.020 of this code.</text>
+      <text>Loading zones may be designated as passenger or commercial loading zones, and may include bus stops. The Board of Supervisors may designate loading zones to be effective at all times or during specified hours and days.</text>
+      <text>(Prior code § 3742.0; Ord. 1217, 04/16/57; Ord. 3301, 03/12/91; Ord. 4318, 07/27/06)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.56</num>
+    <heading>INTERSTATE TRUCKS</heading>
+    <section>
+      <num>7.56.010</num>
+      <heading>Definitions.</heading>
+      <text>The following words and phrases shall have the meanings set forth, and if any word or phrase used in this chapter is not defined in this section, it shall have the meanings set forth in the California Vehicle Code; provided that if any such word or phrase is not defined in the Vehicle Code, it shall have the meaning attributed to it in ordinary usage.</text>
+      <para>
+        <num>(a)</num>
+        <text>"Terminal" means any facility at which freight is consolidated to be shipped or where full load consignments may be loaded and off loaded or at which the vehicles are regularly maintained, stored or manufactured.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Interstate truck" means a truck tractor and trailer or doubles with unlimited length as regulated by the vehicle code.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Director" means the Director of Public Works of the County of San Mateo or his authorized representative.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Caltrans" means the State of California Department of Transportation or its successor agency.</text>
+      </para>
+      <text>(Prior code § 3745.0; Ord. 3020, 01/03/85)</text>
+    </section>
+    <section>
+      <num>7.56.020</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of this chapter is to establish procedures for terminal designation and truck route designation to terminals for interstate trucks operating on a federally designated highway system and to promote the general health, safety and welfare of the public.</text>
+      <text>(Prior code § 3745.1; Ord. 3020, 01/03/85)</text>
+    </section>
+    <section>
+      <num>7.56.030</num>
+      <heading>Application.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any interested person requiring terminal access from the federally designated highway system shall submit an application, on a form as provided by the County, together with such information as may be required by the Director and appropriate fees to the County of San Mateo.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Upon receipt of the application, the Director will cause an investigation to be made to ascertain whether or not the proposed terminal facility meets the requirements for an interstate truck terminal. Upon his approval of that designation, he will then determine the capability of the route requested and alternate routes, whether requested or not. Determination of route capability will include, without limitation, a review of adequate turning radius and lane widths of ramps, intersections and highways and general traffic conditions such as sight distance, speed and traffic volumes. No access off a federally designated highway system will be approved without the approval of Caltrans.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Should the requested route pass through the unincorporated area of San Mateo County to a terminal located in another jurisdiction, the applicant shall comply with that jurisdictions application process. Coordination of the approval of the route through the County will be the responsibility of the entity which controls the terminal's land use.</text>
+      </para>
+      <text>(Prior code § 3745.2; Ord. 3020, 01/03/85)</text>
+    </section>
+    <section>
+      <num>7.56.040</num>
+      <heading>Fees and costs.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The applicant shall pay a non-refundable application fee, of $250.00 to pay the cost of the review of the terminal designation and the review of the route and alternate route.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Upon the approval of the terminal designation and route by the County and by Caltrans the applicant shall deposit with the County of San Mateo sufficient funds as estimated by the Director to pay for the purchase and installation of terminal trailblazer signs. Trailblazer signs will be required at every decision point in the County on route to the terminal. Upon completion of the installation of the signs, the actual cost shall be computed and any difference between the actual and the estimated cost shall be billed or refunded to the applicant, whichever the case may be. No terminal or route may be used until such signs as may be required are in place.</text>
+      </para>
+      <text>(Prior code § 3745.3; Ord. 3020, 01/03/85)</text>
+    </section>
+    <section>
+      <num>7.56.050</num>
+      <heading>Retrofitting.</heading>
+      <para>
+        <num>(a)</num>
+        <text>If all feasible routes to a requested terminal are found unsatisfactory by the Director, the applicant may request retrofitting the deficiencies. All costs of engineering, construction and inspection will be the responsibility by the applicant. Except when the retrofitting of deficiencies is within the jurisdiction of Caltrans, the actual construction will be done by the County or by a contractor acceptable to it.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>When the work is to be done by the County the applicant shall deposit with the County of San Mateo the estimated cost of retrofitting. Adjustments between the estimated and actual cost shall be made after completion of the work and any difference between the actual and the estimated cost shall be billed or refunded to the applicant as the case may be. When the work is done by the applicant, the applicant may file with the Director, on a form satisfactory to the Director, a statement detailing the actual costs of the retrofitting.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If at any time within 5 years from the date of completion of the retrofitting by the applicant, should any applicant seek terminal approval which would use the route upon which such retrofitting was accomplished, any such applicants' fee may include that applicants proportionate share of the retrofitting, as determined by the Director, which fee shall be disbursed by the County of San Mateo to the applicant who paid for the retrofitting as well as to any applicant who contributed to the cost of retrofitting under this subsection. Nothing herein shall require the payment of a proportionate fee if the applicant doing the work failed to file the report with the Director required by subsection (b) above.</text>
+      </para>
+      <text>(Prior code § 3745.4; Ord. 3020, 01/03/85)</text>
+    </section>
+    <section>
+      <num>7.56.060</num>
+      <heading>Revocation of route.</heading>
+      <text>The Director may revoke any approved terminal or route if the terminal or route becomes a traffic hazard for vehicular traffic. A safety hazard includes the inability of interstate trucks to negotiate the route or said vehicles causing unsafe driving conditions for other vehicular traffic or pedestrians.</text>
+      <text>(Prior code § 3745.5; Ord. 3020, 01/03/85)</text>
+    </section>
+    <section>
+      <num>7.56.070</num>
+      <heading>Appeal process.</heading>
+      <para>
+        <num>(a)</num>
+        <text>If the Director denies terminal designation, route feasibility or revokes a previously approved terminal or route, the applicant/terminal owner, within 10 days following the date of receipt of the decision of the Director may appeal said decision to the San Mateo County Board of Supervisors in writing. An appeal shall be made on a form prescribed by the Department of Public Works and shall be filed with the Clerk of the Board of Supervisors. The appeal shall state specifically wherein there was an error or abuse of discretion by the Director or wherein its decision is not supported by the evidence in the record. Within 5 days of the filing of an appeal, the Director shall transmit to the Clerk of the Board the terminal application, the sketches of the revoked route and all other data filed therewith, the report of the Director, the findings of the Director and his decision on the application.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Clerk of the Board shall make copies of the data provided by the Director available to the applicant and to the appellant (if the applicant is not the appellant) for inspection and may give notice to any other interested party who requested notice of the time when the appeal will be considered by the Board of Supervisors.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If Caltrans and not the Director denies or revokes terminal access from federally designated highways, no appeal may be made to the Board, but must be made to Caltrans as may be permitted by Caltrans.</text>
+      </para>
+      <text>(Prior code § 3745.6; Ord. 3020, 01/03/85)</text>
+    </section>
+    <section>
+      <num>7.56.080</num>
+      <heading>Constitutionality.</heading>
+      <text>If any section, subsection, sentence, clause or phrase of the ordinance is for any reason held to be invalid, such decision shall not affect the validity of the remaining portions of this ordinance, and each section, subsection, sentence, clause or phrase thereof, irrespective of the fact that any one or more sections, subsections, sentences, clauses or phrases be declared invalid.</text>
+      <text>(Prior code § 3745.7; Ord. 3020, 01/03/85)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.60</num>
+    <heading>ABANDONED VEHICLES</heading>
+    <section>
+      <num>7.60.010</num>
+      <heading>Definitions.</heading>
+      <text>As used in this chapter the following definitions apply:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Abandonment" means any vehicle or vehicle part which has been left upon public or private property without the express or implied consent of the owner or person in lawful possession or control of the property.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Vehicle" means a device by which any person may be propelled, moved, or drawn upon a highway, except a device moved by human power or used exclusively upon stationary rails or tracks.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Vehicle part" means any unit or section of the vehicle.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Highway" means a way or place of whatever nature, publicly maintained and open to the use of the public for purposes of vehicular travel. "Highway" includes street.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Public property" does not include "highway".</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Hearing officer" means (1) a member of the Board of Police Commissioners of the Broadmoor Police Protection District, as appointed by the Board of Commissioners, for those areas within the boundaries of the Broadmoor Police Protection District, and (2) the Sheriff, or Planning Director, or an authorized representative of the Sheriff or Planning Director for all other unincorporated areas of the County.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Locally designated officer" means (1) a peace officer of the Broadmoor Police Protection District for those areas within the boundaries of the Broadmoor Police Protection District, and (2) the Sheriff of the County of San Mateo, or Planning Director, or an authorized representative of either, for all other unincorporated areas of the County.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Owner of land" means the owner of the land on which the vehicle, or parts thereof, is located, as shown on the last equalized assessment roll.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Owner of vehicle" means the last registered owner and legal owner of record.</text>
+      </para>
+      <text>(Prior code § 3800; Ord. 1895, 04/09/68; Ord. 1918, 07/09/68; Ord. 2125, 01/04/72; Ord. 2824, 04/05/83; Ord. 3162, 11/08/88; Ord. 3555, 03/29/94)</text>
+    </section>
+    <section>
+      <num>7.60.020</num>
+      <heading>Exceptions.</heading>
+      <text>This chapter shall not apply to:</text>
+      <para>
+        <num>(a)</num>
+        <text>A vehicle or vehicle part which is completely enclosed within a building in a lawful manner where it is not visible from the street or other public or private property; or</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A vehicle or vehicle part which is stored or parked in a lawful manner on private property in connection with the business of a licensed dismantler, licensed vehicle dealer, or a junkyard.</text>
+      </para>
+      <text>(Prior code § 3801; Ord. 1895, 04/09/68; Ord. 1918, 07/09/68; Ord. 2125, 01/04/72; Ord. 2824, 04/05/83; Ord. 3162, 11/08/88; Ord. 3555, 03/29/94)</text>
+    </section>
+    <section>
+      <num>7.60.030</num>
+      <heading>Other remedies.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Nothing in this chapter shall authorize the maintenance of a public or private nuisance as defined under provisions of law.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>This chapter is not the exclusive regulation of abandoned, wrecked, dismantled or inoperative vehicles within the County. It shall supplement and be in addition to the other regulatory codes, statutes, and ordinances heretofore or hereafter enacted by the County, the state, or any other legal entity or agency having jurisdiction.</text>
+      </para>
+      <text>(Prior code § 3802; Ord. 1895, 04/09/68; Ord. 1918, 07/09/68; Ord. 2125, 01/04/72; Ord. 2824, 04/05/83; Ord. 3162, 11/08/88; Ord. 3555, 03/29/94)</text>
+    </section>
+    <section>
+      <num>7.60.040</num>
+      <heading>Administration and enforcement.</heading>
+      <text>Except as otherwise provided below, the provisions of this chapter shall be administered and enforced by the locally designated officer. In the enforcement of this chapter the locally designated officer may enter upon private or public property to examine a vehicle or vehicle parts or obtain information as to the identity of a vehicle and to remove or cause the removal of a vehicle or vehicle part declared to be a nuisance pursuant to this chapter.</text>
+      <text>(Prior code § 3803; Ord. 1895, 04/09/68; Ord. 1918, 07/09/68; Ord. 2125, 01/04/72; Ord. 2824, 04/05/83; Ord. 3162, 11/08/88; Ord. 3555, 03/29/94)</text>
+    </section>
+    <section>
+      <num>7.60.050</num>
+      <heading>Contract for removal.</heading>
+      <text>When the Board of Supervisors or the Board of Police Commissioners has contracted with or granted a franchise to any person or persons, such person or persons shall be authorized to enter upon the private or public property to remove or cause the removal of a vehicle or vehicle parts declared to be a nuisance pursuant to this chapter.</text>
+      <text>(Prior code § 3804; Ord. 1895, 04/09/68; Ord. 1918, 07/09/68; Ord. 2125, 01/04/72; Ord. 2824, 04/05/83; Ord. 3162, 11/08/88; Ord. 3555, 03/29/94)</text>
+    </section>
+    <section>
+      <num>7.60.060</num>
+      <heading>Notice of abatement.</heading>
+      <text>Notwithstanding section 7.60.150 of this code or any other provision of law, whenever the locally designated officer determines that an abandoned, wrecked, dismantled or inoperative vehicle, or parts thereof, on private or public property constitutes a nuisance, the locally designated officer may serve a written notice to abate and remove the vehicle or parts thereof. The notice shall be served by registered or certified mail on the last registered and legal owner of record of the vehicle, unless the vehicle is in such condition that identification numbers are not available to determine ownership, and on the owner shown on the last equalized assessment roll of any private parcel upon which the vehicle is located.</text>
+      <text>The notice shall instruct the vehicle owner and parcel owner that if the vehicle or parts thereof are not removed within ten (10) calendar days of service of the notice, the County or District, as appropriate, or its authorized agent shall have the right to enter the property during normal business hours to remove the vehicle or parts and demand the vehicle owner and/or parcel owner to pay for the cost of abatement. Cost of abatement is defined to include the cost of actual removal of the vehicle or parts thereof plus reasonable administrative costs. Reasonable administrative costs are the lesser of actual costs or fifteen percent (15%) of the cost of actual removal. If the vehicle owner and/or parcel owner fails to pay such cost, that cost may be specially assessed against the parcel and shall be subject to the same collection procedures including any lien, penalty and sale procedures that are provided for delinquent County taxes. The notice shall further state that the vehicle owner and/or parcel owner may request a hearing to contest the abatement action or assessment of cost by filing a written request for a hearing with the locally designated officer that issued the notice within ten (10) calendar days of service of the notice to abate. Failure to file a request for hearing within this time period shall waive any right to appeal the action by the locally designated officer.</text>
+      <text>(Prior code § 3805; Ord. 1895, 04/09/68; Ord. 1918, 07/09/68; Ord. 2125, 01/04/72; Ord. 2824, 04/05/83; Ord. 3162, 11/08/88; Ord. 3555, 03/29/94)</text>
+    </section>
+    <section>
+      <num>7.60.070</num>
+      <heading>Hearing and decision.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Upon request of the owner of the vehicle or owner of the land received by the locally designated officer within ten (10) days after the mailing of the notices of intention to abate and remove, a public hearing shall be held by the hearing officer on the question of abatement and removal of the vehicle or vehicle parts as an abandoned, wrecked, dismantled or inoperative vehicle, and the assessment of the administrative costs and cost of removal of the vehicle or parts of a vehicle against the property on which it is located. If a request for a hearing is not received within ten (10) days after mailing of the notice of intention to abate and remove, the County or the District, as appropriate, shall have the authority to abate and remove the vehicle or parts of a vehicle without hearing.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>All hearings under this chapter shall be held before the designated hearing officer. The technical rules of evidence shall not apply. The owner of the land may appear in person at the hearing or present a sworn written statement in time for consideration at the hearing, and deny responsibility for the presence of the vehicle on the land, with his reasons for such denial. The hearing officer may impose such conditions and take such other action as he deems appropriate under the circumstances to carry out the purposes of this chapter. He or she may delay time for removal of the vehicle or vehicle parts if the circumstances justify it. At the conclusion of the public hearing, the hearing officer may find that the vehicle or parts of a vehicle has been abandoned, wrecked, dismantled, or is inoperative on private or public property and order removal from the property as a public nuisance and disposal as hereinafter provided and determine the administrative costs and cost of removal charged against the owner of the land. The order requiring removal shall include a description of the vehicle or parts of a vehicle and the correct identification number and license number of the vehicle, if available at the site. The decision of the hearing officer for all unincorporated areas other than the Broadmoor Police Protection District shall be final. The decision of the hearing officer for the area within the Broadmoor Police Protection District may be appealed as provided in section 7.60.080.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The owner of the vehicle or vehicle parts, the owner of the land upon which the vehicle or vehicle parts are located, and any interested party who made a written presentation to the hearing officer, shall be notified in writing of the decision of the hearing officer unless such person was present at the hearing when the decision was rendered, in which case notice shall be deemed to have been given to that person.</text>
+      </para>
+      <text>(Prior code § 3806; Ord. 1895, 04/09/68; Ord. 1918, 07/09/68; Ord. 2125, 01/04/72; Ord. 2824, 04/05/83; Ord. 3162, 11/08/88; Ord. 3555, 03/29/94)</text>
+    </section>
+    <section>
+      <num>7.60.080</num>
+      <heading>Appeal—Broadmoor Police Protection District.</heading>
+      <text>Any interested party may appeal the decision of the hearing officer for the Broadmoor Police Protection District by filing a written notice of appeal with the hearing officer within five days of the mailing of the notice of decision. Such appeal shall be heard by the Board of Police Commissioners of the Broadmoor Police Protection District, who may affirm, amend, or reverse the order to take other action deemed appropriate.</text>
+      <text>The hearing officer shall give written notice of the time and place of the hearing to the appellant and those persons specified in section 7.60.060.</text>
+      <text>The hearing before the Board of Commissioners shall be conducted according to the provisions of section 7.60.070, and notice of the decision in appeal shall be given in accordance with subsection (d) of section 7.60.070, if required.</text>
+      <text>In conducting the hearing, the Board of Police Commissioners shall not be limited by the technical rules of evidence.</text>
+      <text>(Prior code § 3807; Ord. 1895, 04/09/68; Ord. 1918, 07/09/68; Ord. 2125, 01/04/72; Ord. 2824, 04/05/83; Ord. 3162, 11/08/88; Ord. 3555, 03/29/94)</text>
+    </section>
+    <section>
+      <num>7.60.090</num>
+      <heading>Disposal of removed vehicles.</heading>
+      <text>At any time after five days from the date of the decision by the hearing officer or the appeal body, or five days after any required notice or decision is mailed, whichever is later, the vehicle or parts of a vehicle may be disposed of by removal to a scrapyard or automobile dismantler's yard. After a vehicle has been removed it shall not thereafter be reconstructed or made operable unless it is a vehicle which qualifies for either horseless carriage license plates or historical vehicle license plates under State law.</text>
+      <text>(Prior code § 3808; Ord. 1918, 07/09/68; Ord. 2824, 04/05/83; Ord. 3162, 11/08/88; Ord. 3555, 03/29/94)</text>
+    </section>
+    <section>
+      <num>7.60.100</num>
+      <heading>Notice to department of motor vehicles.</heading>
+      <text>Within five days after the date of removal of the vehicle or parts of a vehicle, notice shall be given to the Department of Motor Vehicles identifying the vehicles or parts of a vehicle removed. At the same time there shall be transmitted to the Department of Motor Vehicles any evidence of registration available, including registration certificates, certificates of title, and license plates.</text>
+      <text>(Prior code § 3809; Ord. 1918, 07/09/68; Ord. 2824, 04/05/83; Ord. 3162, 11/08/88; Ord. 3555, 03/29/94)</text>
+    </section>
+    <section>
+      <num>7.60.110</num>
+      <heading>Parcel owner's denial of responsibility.</heading>
+      <text>The collection, assessment or lien for the cost of abatement under this chapter shall not be made against a parcel owner or parcel upon which the vehicle was located if:</text>
+      <para>
+        <num>(1)</num>
+        <text>the parcel owner presents evidence at a hearing described in section 7.60.070 or presents a sworn written statement to the locally designated officer within ten (10) calendar days of service of the notice of abatement, denying responsibility for the presence of the vehicle on the parcel and the reasons for this denial; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the locally designated officer determines that the vehicle was placed on the land without the consent of the owner.</text>
+      </para>
+      <text>(Prior code § 3810; Ord. 1918, 07/09/68; Ord. 2824, 04/05/83; Ord. 3162, 11/08/88; Ord. 3555, 03/29/94)</text>
+    </section>
+    <section>
+      <num>7.60.120</num>
+      <heading>Notice of abatement liens.</heading>
+      <text>The Board of Supervisors hereby authorizes the locally designated officer or hearing officer to file and record a notice of abatement lien on behalf of the County or District in the event the property owner or vehicle owner fails to pay the costs of the abatement upon a thirty days' written demand for payment. The notice of abatement lien shall identify and set forth the name and last known address of both the vehicle owner and the owner of the parcel on which the abated vehicle was located. The notice shall set forth the date removal was completed. The notice shall also describe the real property subject to the lien and the amount of tow cost of abatement. Recordation of a notice of abatement lien under this provision shall have the same effect as recordation of an abstract of a money judgment recorded under state law. The lien created shall have the same priority as a judgment lien on real property and shall continue in effect until released. An abatement lien created under this section may be released or subordinated in the same manner as any judgment lien on real property. The Board of Supervisors hereby authorizes the locally designated officer or hearing officer to compromise, settle or agree to subordinate any lien imposed under this section in the amount of $10,000 or less.</text>
+      <text>(Prior code § 3811; Ord. 3555, 03/29/94)</text>
+    </section>
+    <section>
+      <num>7.60.130</num>
+      <heading>Waiver of ten (10) days' notice to abate.</heading>
+      <text>The service of a Notice to Abate under section 7.60.060 is not required in the case of an inoperable vehicle if the vehicle is located upon a parcel that is either zoned for agricultural use or is not improved with a residential structure containing one or more dwelling units and either one of the two following conditions are met:</text>
+      <para>
+        <num>(1)</num>
+        <text>the parcel owner and the vehicle owner have signed releases authorizing removal of the vehicle and waiving any further interest in the vehicle or parts thereof; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>in the event the vehicle owner is unknown and the vehicle is inoperable due to the absence of a motor, transmission, or wheels, incapable of being towed, and is valued at less than three hundred ($300) by a person specified in the Vehicle Code section 22855, provided that:</text>
+        <para>
+          <num>(a)</num>
+          <text>the locally designated officer determines that the vehicle or part is a public nuisance and an immediate threat to public health and safety; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the parcel owner has signed a release authorizing removal and waiving further interest in the vehicle or part thereof; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>there is no evidence of registration of the vehicle. However if evidence of registration is recovered prior to the final disposition of vehicle or parts thereof, the locally designated officer shall notify the registered and legal owner of an intent to dispose of the vehicle or parts. Final disposition of the vehicle or parts thereof may proceed only if the vehicle or parts are not claimed and removed within twelve (12) calendar days of mailing of the notice.</text>
+        </para>
+      </para>
+      <text>(Prior code § 3812; Ord. 3555, 03/29/94)</text>
+    </section>
+    <section>
+      <num>7.60.140</num>
+      <heading>Infraction.</heading>
+      <para>
+        <num>(a)</num>
+        <text>It is unlawful and an infraction for any person to leave or permit the abandonment, parking, storing, or leaving of any licensed or unlicensed vehicle or parts of a vehicle which is in an abandoned, wrecked, dismantled or inoperative condition upon any private or public property not including highways for a period in excess of ten days unless such vehicle or parts thereof is completely enclosed within a building in a lawful manner where it is not plainly visible from the street or other public or private property in connection with the business of licensed dismantler, licensed vehicle dealer or a junkyard.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>It is unlawful and an infraction for any person to fail or refuse to remove an abandoned, wrecked, dismantled or inoperative vehicle or parts of a vehicle or refuse to abate such nuisance when ordered to do so in accordance with the abatement provisions of this chapter or state law where such state law is applicable.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any person violating any of the provisions or failing to comply with any of the mandatory provisions of this chapter shall be guilty of an infraction and shall be punishable by the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>A fine not exceeding one hundred ($100.00) dollars for a first violation;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A fine not exceeding two hundred ($200.00) dollars for a second violation;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A fine not exceeding three hundred ($300.00) dollars for each additional violation within one year.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Each person shall be guilty of a separate offense for each and every day during any portion of which said violation is committed.</text>
+      </para>
+      <text>(Prior code § 3813; Ord. 3555, 03/29/94)</text>
+    </section>
+    <section>
+      <num>7.60.150</num>
+      <heading>No parking for more than seventy-two hours.</heading>
+      <text>No person shall park or leave standing, or cause to be left parked or left standing, any vehicle, upon any street, highway, public road, or thoroughfare, in the unincorporated area of the County of San Mateo for a period of seventy-two (72) or more consecutive hours.</text>
+      <text>(Prior code § 3750.0; Ord. 1109, 05/17/55; Ord. 1625, 11/12/63; Ord. 3113, 06/16/87)</text>
+    </section>
+    <section>
+      <num>7.60.160</num>
+      <heading>Removal of abandoned cars.</heading>
+      <text>In the event that any vehicle is parked or left standing on any street, highway, public road, or thoroughfare, in the unincorporated area of the County of San Mateo for a period of seventy-two (72) or more consecutive hours, any member of the California Highway Patrol or any regularly employed and salaried deputy of the Sheriff's Office may remove such vehicle from such street, highway, public road, or thoroughfare, and may store such vehicle with the nearest keeper of a garage or other storage place of safety, pursuant to the provisions of this chapter.</text>
+      <text>(Prior code § 3750.1; Ord. 1109, 05/17/55; Ord. 1625, 11/12/63; Ord. 3113, 06/16/87)</text>
+    </section>
+    <section>
+      <num>7.60.170</num>
+      <heading>Notices, garage lien.</heading>
+      <text>In the event that any officer removes a vehicle from a street, highway, public road, or thoroughfare, pursuant to section 7.60.160 of this chapter, such officer shall give the notices provided for in section 22852 et seq. of the Vehicle Code of the State of California, and the keeper of any garage in which any such vehicle is stored may have a lien thereon for his compensation for towage and for caring for and for keeping safe such vehicle and may satisfy such lien upon compliance with and under the conditions stated in section 22851 of the Vehicle Code.</text>
+      <text>(Prior code § 3750.2; Ord. 1109, 05/17/55; Ord. 1625, 11/12/63)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.64</num>
+    <heading>SOLICITATION AT ACCIDENT SCENES</heading>
+    <section>
+      <num>7.64.010</num>
+      <heading>Solicitations prohibited.</heading>
+      <text>No person shall at the location of any vehicular accident, collision, or other catastrophe or calamity, solicit or offer the sale of any tow service, or the sale or offering free any other services.</text>
+      <text>(Prior code § 3751.0; Ord. 1118, 06/21/55)</text>
+    </section>
+    <section>
+      <num>7.64.020</num>
+      <heading>Parking of tow vehicles.</heading>
+      <text>No vehicles equipped for use as tow trucks shall be parked within five hundred (500) feet from the location of any vehicular accident, collision, or other catastrophe.</text>
+      <text>(Prior code § 3751.1; Ord. 1118, 06/21/55)</text>
+    </section>
+    <section>
+      <num>7.64.030</num>
+      <heading>Time limit.</heading>
+      <text>The prohibitions contained in this chapter shall apply from the time of the happening of any of the aforesaid occurrences until a reasonable time thereafter, and at all times while law enforcement officers, public health personnel, emergency personnel, and other persons discharging duties imposed by law, are actively engaged in the performance of duty at the location of said occurrences.</text>
+      <text>(Prior code § 3751.2; Ord. 1118, 06/21/55)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.68</num>
+    <heading>RAILROAD CROSSINGS</heading>
+    <section>
+      <num>7.68.010</num>
+      <heading>Unlawful to obstruct railroad crossings.</heading>
+      <text>It shall be unlawful for any person who is in charge of any railroad train, car or locomotive to permit or cause such railroad train, car or locomotive to obstruct space necessary for the free and simultaneous crossing of motor vehicles in both directions at any crossing of a railroad and a public road or highway for a period longer than five (5) minutes at any place within the unincorporated areas of the County of San Mateo.</text>
+      <text>(Prior code § 3752.0; Ord. 1026, 09/01/53)</text>
+    </section>
+    <section>
+      <num>7.68.020</num>
+      <heading>Exceptions.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The continuous movement of any train of cars in one direction at the normal rate of speed, customarily used for trains in transit from one station to another, shall not be deemed an obstruction for the purposes of this chapter.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>This chapter shall not apply to any railroad conductor or engineer where he has no control over the situation causing the obstruction, or where the train cannot be moved without endangering the safety of passengers or freight.</text>
+      </para>
+      <text>(Prior code § 3752.1; Ord. 1026, 09/01/53)</text>
+    </section>
+    <section>
+      <num>7.68.030</num>
+      <heading>Emergency vehicles.</heading>
+      <text>When any emergency vehicle, including police and sheriff's cars, ambulances or fire trucks, approaches a railroad crossing across which a railroad train or cars are stopped, on any public road within the unincorporated areas of the County of San Mateo, the person in charge of the said train or cars shall break or move the train or remove the cars so as to permit the emergency vehicle to cross with all practicable speed. Failure to do so shall be unlawful.</text>
+      <text>(Prior code § 3752.2; Ord. 1026, 09/01/53)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.72</num>
+    <heading>SAN FRANCISCO AIRPORT PARKING</heading>
+    <section>
+      <num>7.72.010</num>
+      <heading>San Francisco International Airport parking.</heading>
+      <text>Violation of any rule or regulation relating to the operation, stopping, standing or parking of motor vehicles on the roads, driveways and grounds of San Francisco International Airport, duly adopted, and as from time to time amended, by the governing board thereof, shall be punishable as prescribed by section 21113 of the Vehicle Code of the State of California.</text>
+      <text>(Ord. 2084, 02/23/71; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.72.020</num>
+      <heading>San Francisco International Airport—Violation.</heading>
+      <text>Violation of any rule or regulation relating to the operation, stopping, standing or parking of motor vehicles on the roads, driveways and grounds of San Francisco International Airport, duly adopted, and as from time to time amended, by the governing board thereof, shall be punishable as prescribed by sections 21113 of the Vehicle Code of the State of California.</text>
+      <text>(Prior code § 3830; Ord. 3007, 08/28/84; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.72.030</num>
+      <heading>Violation.</heading>
+      <text>Violation of any rule or regulation relating to the operation, stopping, standing or parking of motor vehicles on the road, driveways or grounds of parking lots owned, maintained and operated by the County of San Mateo, shall be punishable as prescribed by those rules and regulations in section 21113 of the Vehicle Code of the State of California.</text>
+      <text>(Prior code § 3831; Ord. 3007, 08/28/84; catchline editorially created, 6/94)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.76</num>
+    <heading>VEHICLE REPAIR ON STREETS</heading>
+    <section>
+      <num>7.76.010</num>
+      <heading>Purpose.</heading>
+      <text>The Board of Supervisors finds and declares:</text>
+      <para>
+        <num>1.</num>
+        <text>The repair of vehicles on highways other than emergency repairs constitutes an unsightly and hazardous condition.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The public health, safety, and welfare would be benefitted by prohibiting vehicle repair on highways other than emergency repairs.</text>
+      </para>
+      <text>(Prior code § 3820; Ord. 2824, 04/05/83; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.76.020</num>
+      <heading>Definitions.</heading>
+      <text>As used in this chapter the following definitions apply:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Emergency Repairs" means either any repair which is accomplished within one hour or any repair as may be necessary in case of an accident or mechanical failure to enable the removal of the vehicle from the highway. In the case of any accident or mechanical failure, the emergency repair shall be completed within twenty-four hours of the accident or mechanical failure.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Highway" means a way or place of whatever nature, publicly maintained and open to the use of the public for purposes of vehicular travel. Highway includes street.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Repair" means repair, grease, change oil or other fluids, construct, modify, or alter. Repair includes causing those actions to be done. Repair does not include washing or waxing.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Vehicle" means a device by which a person or property may be propelled, moved, or drawn upon a highway, except a device moved by human power or used exclusively upon statutory rails or tracks.</text>
+      </para>
+      <text>(Prior code § 3821; Ord. 2824, 04/05/83; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.76.030</num>
+      <heading>Repairs prohibited—Where.</heading>
+      <text>No person shall repair any vehicle on a highway except for emergency repairs.</text>
+      <text>(Prior code § 3822; Ord. 2824, 04/05/83; catchline editorially created, 6/94)</text>
+    </section>
+    <section>
+      <num>7.76.040</num>
+      <heading>Violation.</heading>
+      <text>A violation of section 7.76.030 may be punished as an infraction.</text>
+      <text>(Prior code § 3823; Ord. 2824, 04/05/83; Ord. 3113, 06/16/87; catchline editorially created, 6/94)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.80</num>
+    <heading>BICYCLES</heading>
+    <section>
+      <num>7.80.010</num>
+      <heading>Establishment of bicycle lanes.</heading>
+      <text>The Director of Public Works, upon authorization from the Board of Supervisors, may designate on such streets or portions of streets the existence of bicycle lanes as may be necessary, and shall designate said bicycle lanes by appropriate signs and markings giving effect to bicycle lanes and otherwise regulating the location and use of vehicles and bicycles with respect to them, including but not limited to restricting parking in any bicycle lane.</text>
+      <text>(Prior code § 3850; Ord. 2162, 09/26/72; Ord. 4317, 07/27/06)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.84</num>
+    <heading>OFF-ROAD VEHICLES</heading>
+    <section>
+      <num>7.84.010</num>
+      <heading>Regulation of operation of off-road motor vehicles on Edgewood College site.</heading>
+      <text>No person shall start, drive, operate, coast, move, park, or possess, a motor-driven vehicle upon that portion of the lands commonly known as the Edgewood College Site lying within the unincorporated area of San Mateo County, (located within the following approximate boundaries: East of and adjacent to the lands of the San Francisco Watershed along Interstate Route 280; south of and adjacent to the ridge line extending southeasterly from the intersection of Edgewood Road and Interstate 280 to the terminus of Sunset Way; North of and adjacent to a line extending southwesterly from the terminus of Sunset Way to Canada Road at a point approximately 400 feet north of the P. G. &amp;amp; E. substation), without having and immediately displaying, upon request of an enforcement officer, or a peace officer, written authorization from the State of California, or its successors in interest.</text>
+      <text>(Prior code § 3880; Ord. 2624, 02/05/80; Ord. 2627, 02/13/80)</text>
+    </section>
+    <section>
+      <num>7.84.020</num>
+      <heading>Violations.</heading>
+      <text>A violation of section 7.84.010 of this chapter shall be punishable as a misdemeanor.</text>
+      <text>(Prior code § 3881; Ord. 2624, 02/05/80; Ord. 2627, 02/13/80)</text>
+    </section>
+    <section>
+      <num>7.84.030</num>
+      <heading>Severability.</heading>
+      <text>If any section, subsection, sentence, clause, phrase, or portion of this chapter is for any reason held to be invalid or unconstitutional by the decision of any court of competent jurisdiction, such decision shall not affect the validity of the remaining portions of this chapter.</text>
+      <text>(Prior code § 3882; Ord. 2624, 02/05/80; Ord. 2627, 02/13/80)</text>
+    </section>
+    <section>
+      <num>7.84.040</num>
+      <heading>Regulation of operation of off-road motor vehicles on the Juncus Ravine site located on Hillside Boulevard.</heading>
+      <text>No person shall start, drive, operate, coast, move, park, or possess, a motor-driven vehicle upon that portion of the lands commonly known as Juncus Ravine lying within the unincorporated area of San Mateo County, located on the north side of Hillside Boulevard, adjacent to and westerly of Hillside Elementary School, extending westerly along Hillside Boulevard to the intersection of Holly Avenue, and extending northerly away from Hillside Boulevard for a distance of approximately 3000 feet, without having and immediately displaying, upon request of an enforcement officer, or a peace officer, written authorization from the owner of the property.</text>
+      <text>(Prior code § 3883; Ord. 2633, 02/26/80)</text>
+    </section>
+    <section>
+      <num>7.84.050</num>
+      <heading>Violations.</heading>
+      <text>A violation of section 7.84.040 of this chapter shall be punishable as a misdemeanor.</text>
+      <text>(Prior code § 3884; Ord. 2633, 02/26/80)</text>
+    </section>
+    <section>
+      <num>7.84.060</num>
+      <heading>Severability.</heading>
+      <text>If any section, subsection, sentence, clause, phrase, or portion of this chapter is for any reason held to be invalid or unconstitutional by the decision of any court of competent jurisdiction, such decision shall not affect the validity of the remaining portions of this chapter.</text>
+      <text>(Prior code § 3885; Ord. 2633, 02/26/80)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.88</num>
+    <heading>CROSSWALKS</heading>
+    <section>
+      <num>7.88.010</num>
+      <heading>Reserved.</heading>
+      <text><strong>Editor's note— </strong>Ord. No. 04771, § 1, adopted January 24, 2017, repealed § 7.88.010, which pertained to Industrial Way, County Road No. 64 and derived from Ord. No. 3650, adopted May 9, 1995.</text>
+    </section>
+    <section>
+      <num>7.88.020</num>
+      <heading>Yield here to pedestrians.</heading>
+      <text>The Director of Public Works or his designee shall establish and maintain "Yield Here to Pedestrians" signs and legends on County-maintained roads as needed.</text>
+      <text>(Ord. No. 04772, § 2, 2-14-2017)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.92</num>
+    <heading>ELECTRIC CARTS ON COUNTY SIDEWALKS</heading>
+    <section>
+      <num>7.92.010</num>
+      <heading>Electric carts on County sidewalks.</heading>
+      <text>Only physically disabled persons, or persons fifty (50) years of age or older shall operate an electric cart upon any County sidewalks of the County of San Mateo, and only after obtaining a permit from the Department of Public Works.</text>
+      <text>(Ord. 3766, 4/8/97)</text>
+    </section>
+    <section>
+      <num>7.92.020</num>
+      <heading>Permits.</heading>
+      <text>The Director of Public Works and Road Commissioner is directed to cause permits and identification stickers to be issued to those disabled persons or persons fifty (50) years of age or older who own or lease electric carts and have requested permission to operate said electric carts on County sidewalks of the County of San Mateo.</text>
+      <text>The applicant shall affix the identification sticker to the cart in order to operate it on the sidewalk. The permit and identification sticker shall become invalid if the person ceases to operate, own, or lease the cart.</text>
+      <text>(Ord. 3767, 4/8/97)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.96</num>
+    <heading>PROHIBITION ON USE OF VEHICLE FOR HUMAN HABITATION</heading>
+    <section>
+      <num>7.96.010</num>
+      <heading>Findings of fact and intent.</heading>
+      <text>The San Mateo County Board of Supervisors finds that substantial public health, safety, and quality-of-life concerns are posed by persons who sleep, during evening hours, in vehicles, campers, and trailers parked on public streets, on public easements, in public parks, and in off-street parking lots located in the unincorporated area of the County. Residents of the unincorporated area of the County have informed this Board of litter and unsanitary conditions related to individuals who sleep in vehicles, campers, and trailers. Further, County residents have expressed to this Board that allowing people to sleep in vehicles, campers, and trailers in these places is incompatible with the character of communities within the unincorporated area of the County. Moreover, the presence of individuals sleeping in vehicles, campers, and trailers creates anxiety for some County residents, who contact law enforcement personnel to report suspicious vehicles. Likewise, this Board finds that persons sleeping in vehicles, campers, and trailers are at a heightened risk of being the victim of assault, robbery and other criminal activity. It is the purpose and intent of the Board of Supervisors to regulate the use of motor vehicles for sleeping in order to prevent the effects described above.</text>
+      <text>(Ord. 4239, 11/02/04)</text>
+    </section>
+    <section>
+      <num>7.96.020</num>
+      <heading>Definitions.</heading>
+      <text>For the purpose of this chapter 7.96, the following terms shall have the meanings set forth in this section:</text>
+      <text>"Camper" means a structure designed to be mounted upon a vehicle and to provide facilities for human habitation or camping purposes.</text>
+      <text>"Trailer" means a vehicle or moveable structure constructed, designed, and intended for use, used, or capable of being used, as a residence, place of abode, domicile, or shelter or enclosure for human habitation, whether mounted permanently upon a moveable chassis, whether equipped with permanent or temporary wheels, tires, or running gear, or whether susceptible of being hauled, towed, moved, or transported from place to place.</text>
+      <text>"Vehicle" means a device, conveyance, or other artificial contrivance, whether operable or inoperable, used or capable of being used as a means of transportation on land, excepting a device used exclusively upon stationary rails or tracks.</text>
+      <text>(Ord. 4239, 11/02/04)</text>
+    </section>
+    <section>
+      <num>7.96.030</num>
+      <heading>Sleeping in vehicles, campers and trailers for human habitation—Prohibited in public places during designated hours.</heading>
+      <text>Between the hours of 10:00 p.m. of any day and 6:00 a.m. of the next ensuing day, no person shall sleep in any vehicle, camper or trailer located on any public street, on or in any public easement, in any public park, or in any off-street lot designated for parking, within the unincorporated area of San Mateo County. The prohibition against sleeping in vehicles, campers, or trailers in off-street lots designated for parking shall not apply to any person possessing written authorization from the owner of the lot authorizing the person to sleep in the lot.</text>
+      <text>(Ord. 4239, 11/02/04)</text>
+    </section>
+    <section>
+      <num>7.96.040</num>
+      <heading>Violation an infraction.</heading>
+      <text>Violation of this chapter 7.96 shall constitute an infraction.</text>
+      <text>(Ord. 4239, 11/02/04)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.100</num>
+    <heading>VEHICLE CODE ENFORCEMENT IN EL GRANADA MANUFACTURED HOME COMMUNITY</heading>
+    <section>
+      <num>7.100.010</num>
+      <heading>Findings and declarations.</heading>
+      <text>The Board of Supervisors of the County of San Mateo finds and declares as follows:</text>
+      <para>
+        <num>(a)</num>
+        <text>The El Granada Manufactured Home Community is a manufactured housing community within the meaning of section 18801 of the California Health and Safety Code;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>There are privately owned and maintained roads within the El Granada Manufactured Home Community that are generally not held open for use by the public for vehicular travel;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The owner of the roads located within the El Granada Manufactured Home Community has filed with the County Board of Supervisors a petition requesting that the Board take action to make the provisions of the California Vehicle Code effective with respect to the roads located within the El Granada Manufactured Home Community;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>A public hearing regarding the proposal to make the provisions of the California Vehicle Code effective within the El Granada Manufactured Home Community has taken place upon due notice to the owner of the community and its residents, and the Board of Supervisors has considered all information presented in the course of this hearing.</text>
+      </para>
+      <text>(Ord. 4226, 7/27/04)</text>
+    </section>
+    <section>
+      <num>7.100.020</num>
+      <heading>Provisions of California Vehicle Code effective within El Granada Manufactured Home Community; prima facie speed limit.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The provisions of the California Vehicle Code apply to the privately owned and maintained roads located within the El Granada Manufactured Home Community; provided that, and for so long as, signs have been and remain erected at all entrances to the community of a size, shape and color as to be readily legible during daylight hours from a distance of 100 feet, to the effect that the roads within the community are subject to the provisions of the California Vehicle Code.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>So long as the provisions of the California Vehicle Code apply to the El Granada Manufactured Home Community, the prima facie speed limit for all roads within the El Granada Manufactured Home Community is 15 miles per hour.</text>
+      </para>
+      <text>(Ord. 4226, 7/27/04)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.110</num>
+    <heading>ROADWAY SOLICITATION</heading>
+    <section>
+      <num>7.110.010</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of this chapter is to address the adverse effects caused by persons congregating along busy County streets to solicit work. This activity has brought increased traffic to already congested areas, causes drivers along these streets to be distracted and results in vehicles making unsafe stops so the vehicle driver or occupant can discuss employment with workers. Workers will dart out into the roadway to solicit employment, creating a safety hazard to themselves and the motoring public. The prohibitions enacted in this chapter are intended to eliminate these safety hazards.</text>
+      <text>(Ord. 4312, 05/23/06)</text>
+    </section>
+    <section>
+      <num>7.110.020</num>
+      <heading>Definitions.</heading>
+      <text>As used in this chapter:</text>
+      <text>"Employment" means services, industry, or labor performed by a person for wages, a fixed sum, or other compensation or thing of value, or under any contract or hire, written, oral, express or implied.</text>
+      <text>"Public right-of-way" means public streets, highways, roadways, and sidewalks including driveways.</text>
+      <text>"Roadway" means that portion of the public right-of-way designed and ordinarily used for motor vehicle travel. "Roadway" does not include sidewalks, curbs, driveways, medians, or other areas adjacent to public streets.</text>
+      <text>"Solicit" means any request, offer, enticement, or action which announces the availability for or of employment, the sale of goods, or a request for money or other property; or any request, offer, enticement or action which shows intent or desire to purchase or secure goods or employment, or to make a contribution of money or other property. Solicitation shall include participation in discussions undertaken in response to the solicitation by another person. A solicitation shall be deemed complete when made whether or not an actual employment relationship is created, a transaction is completed, or an exchange of money or other property takes place.</text>
+      <text>(Ord. 4312, 05/23/06)</text>
+    </section>
+    <section>
+      <num>7.110.030</num>
+      <heading>Solicitation prohibited in roadways.</heading>
+      <para>
+        <num>(a)</num>
+        <text>It shall be unlawful for any person, whether driver or passenger, occupying any illegally parked vehicle in a roadway or a vehicle traveling within any roadway to solicit or attempt to solicit any person standing, sitting, walking or riding any non-motorized conveyance, within the public right-of-way.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>It shall be unlawful for any person to solicit the driver or occupant of an illegally parked vehicle or a vehicle traveling within any roadway when the person making such solicitation is within the roadway.</text>
+      </para>
+      <text>(Ord. 4312, 05/23/06)</text>
+    </section>
+    <section>
+      <num>7.110.040</num>
+      <heading>Infraction.</heading>
+      <text>Any person who violates the provisions of this chapter is guilty of an infraction punishable by a fine set forth in Government Code section 25132 and any amendments thereto.</text>
+      <text>(Ord. 4312, 05/23/06)</text>
+    </section>
+    <section>
+      <num>7.110.050</num>
+      <heading>Term of chapter.</heading>
+      <text>This chapter shall be in effect until June 30, 2008, after the date it shall be repealed.</text>
+      <text>(Ord. 4409, 02/05/08)</text>
+    </section>
+  </container>
+</container>
