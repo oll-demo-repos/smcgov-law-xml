@@ -9,7 +9,7 @@
     <canonical-urls>
       <xml-bulk>https://github.com/oll-demo-repos/smcgov-law-xml</xml-bulk>
       <html-bulk>https://github.com/oll-demo-repos/smcgov-law-html</html-bulk>
-      <static-assets>https://github.com/oll-demo-repos/smcgov-law-static-assets</static-assets>
+      <static-assets>https://github.com/openlawlibrary/law-static-assets</static-assets>
       <html/>
     </canonical-urls>
   </meta>
