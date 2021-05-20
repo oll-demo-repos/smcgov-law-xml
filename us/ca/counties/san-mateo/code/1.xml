@@ -11,44 +11,65 @@
       <num>1.04.010</num>
       <heading>Short title.</heading>
       <text>This code shall be known as the "San Mateo County Ordinance Code", and it shall be sufficient to refer to said code as the "San Mateo County Ordinance Code" in any prosecution for the violation of any provisions thereof. It shall also be sufficient to designate any ordinance adding to, or repealing said code, or portions thereof, as an addition or amendment to, or as a repeal of the "San Mateo County Ordinance Code".</text>
-      <text>(Prior code § 1100; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1100</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.04.020</num>
       <heading>Codification authority.</heading>
       <text>This code consists of regulatory, penal and administrative ordinances of the County of San Mateo, codified pursuant to section 25126, et seq., of the Government Code of the State of California.</text>
-      <text>(Prior code § 1101; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1101</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.04.030</num>
       <heading>Effective date.</heading>
       <text>This code takes effect upon the effective date of ordinance 1186 of the County of San Mateo whereby this code is adopted by reference.</text>
-      <text>(Prior code § 1102; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1102</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.04.040</num>
       <heading>Effect of code on past actions and obligations.</heading>
       <text>Neither the adoption of this code nor the repeal hereby of any ordinance of this County shall in any manner affect the prosecution for violations of ordinances, which violations were committed prior to the effective date hereof, nor be construed as a waiver of any license or penalty at said effective date, due and unpaid under such ordinances, nor be construed as affecting any of the provisions of such ordinances relating to the collection of any such license or penalty or the penal provisions applicable to any violation thereof, nor to affect the validity of any bond or cash deposit in lieu thereof, required to be posted, filed or deposited pursuant to any ordinance, and all rights and obligations which have accrued thereunder shall continue in full force and effect.</text>
       <text>The provisions of this code, insofar as they are substantially the same as ordinance provisions previously adopted by the County relating to the same subject matter, shall be construed as restatements and continuations, and not as new enactments.</text>
-      <text>(Prior code § 1103; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1103</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.04.050</num>
       <heading>Reference to specific ordinances.</heading>
       <text>The provisions of this code shall not in any manner affect deposits or other matters of record which refer to, or are otherwise connected with ordinances which are therein specifically designated by number or otherwise and which are included within this code, but such reference shall be construed to apply to the corresponding provision contained within this code.</text>
-      <text>(Prior code § 1104; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1104</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.04.060</num>
       <heading>Validity of code.</heading>
       <text>If any section, subsection, sentence, clause, phrase or portion of this code is for any reason held to be invalid or unconstitutional by the decision of any court of competent jurisdiction, such decision shall not effect the validity of the remaining portions of this code; the Board of Supervisors hereby declares that it would have adopted this code and each section, subsection, sentence, clause, phrase, or portion thereof, irrespective of the fact that any one or more sections, subsections, phrases, or portions be declared invalid or unconstitutional.</text>
-      <text>(Prior code § 1105; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1105</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.04.070</num>
       <heading>Repealing.</heading>
       <text>All ordinances or portions of ordinances in conflict with the provisions of this code are hereby repealed.</text>
-      <text>(Prior code § 1106; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1106</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.04.080</num>
@@ -58,7 +79,11 @@
       <text>Duly certified copies of every ordinance making changes in such code shall be filed in the office of the Clerk of the Board of Supervisors in books for such purpose, duly indexed for ready reference.</text>
       <text>The Clerk of the Board of Supervisors shall prepare printed copies of such changes in the code for insertion in the copies thereof and for distribution as required. Every section of the code so changed shall have printed thereon a notation of the ordinance number pursuant to which such change is adopted.</text>
       <text>At least twice yearly, the Clerk of the Board of Supervisors shall cause the pages of said code in which changes have been made to be reprinted, including the notation as to the ordinance number pursuant to which such change is adopted, in order that at least twice yearly the copies of such code prepared for the use and convenience of the officers and employees of the County and the general public may be brought up to date.</text>
-      <text>(Prior code § 1107; Ord. 1186, 10/23/56; Ord. 2217, 10/02/73)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1107</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+        <annotation type="history">Ord. 2217, 10/02/73</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -70,46 +95,46 @@
       <heading>Violations, a misdemeanor—Penalties for parking violations.</heading>
       <para>
         <num>(a)</num>
-        <text>Violations a Misdemeanor. No person shall violate any provisions, or fail to comply with any of the mandatory requirements of this code. Except as provided in Section 1.08.010(b) of this code, any person violating any of the provisions or failing to comply with any of the mandatory requirements of this code, shall be guilty of a misdemeanor. Any person convicted of a misdemeanor under the provisions of this code shall, except as otherwise specified herein, be punished by a fine of not more than five hundred dollars ($500.00), or by imprisonment in the County jail for a period not exceeding six months, or by both such fine and imprisonment.</text>
+        <text>Violations a Misdemeanor. No person shall violate any provisions, or fail to comply with any of the mandatory requirements of this code. Except as provided in <cite path="1.08.010|(b)">Section 1.08.010(b)</cite> of this code, any person violating any of the provisions or failing to comply with any of the mandatory requirements of this code, shall be guilty of a misdemeanor. Any person convicted of a misdemeanor under the provisions of this code shall, except as otherwise specified herein, be punished by a fine of not more than five hundred dollars ($500.00), or by imprisonment in the County jail for a period not exceeding six months, or by both such fine and imprisonment.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Penalties for Parking Violations. Fines in the amounts set forth in the following schedule of penalties for parking violations and late payments shall be imposed for the parking violations contained in Title 7 of this code:</text>
+        <text>Penalties for Parking Violations. Fines in the amounts set forth in the following schedule of penalties for parking violations and late payments shall be imposed for the parking violations contained in <cite path="7">Title 7</cite> of this code:</text>
         <para>
           <num>a.</num>
-          <text>Chapter 7.24. Except as otherwise specified in this code, for any parking violation set forth in Chapter 7.24 ("Time-Limited Parking Zones") of this code, a penalty of $25.00 shall be imposed.</text>
+          <text><cite path="7.24">Chapter 7.24</cite>. Except as otherwise specified in this code, for any parking violation set forth in <cite path="7.24">Chapter 7.24</cite> ("Time-Limited Parking Zones") of this code, a penalty of $25.00 shall be imposed.</text>
         </para>
         <para>
           <num>b.</num>
-          <text>Chapter 7.28. Except as otherwise specified in this code, for any parking violation set forth in Chapter 7.28 ("Miscellaneous Parking Regulations") of this code, a penalty of $30.00 shall be imposed.</text>
+          <text><cite path="7.28">Chapter 7.28</cite>. Except as otherwise specified in this code, for any parking violation set forth in <cite path="7.28">Chapter 7.28</cite> ("Miscellaneous Parking Regulations") of this code, a penalty of $30.00 shall be imposed.</text>
         </para>
         <para>
           <num>c.</num>
-          <text>Chapter 7.32. Except as otherwise specified in this code, for any parking violation set forth in Chapter 7.32 ("No Parking Zones") of this code, a penalty of $25.00 shall be imposed.</text>
+          <text><cite path="7.32">Chapter 7.32</cite>. Except as otherwise specified in this code, for any parking violation set forth in <cite path="7.32">Chapter 7.32</cite> ("No Parking Zones") of this code, a penalty of $25.00 shall be imposed.</text>
         </para>
         <para>
           <num>d.</num>
-          <text>Chapter 7.34. Except as otherwise specified in this code, for any parking violation set forth in Chapter 7.34 ("No Parking and Tow-Away Zones") of this code, a penalty of $30.00 shall be imposed.</text>
+          <text><cite path="7.34">Chapter 7.34</cite>. Except as otherwise specified in this code, for any parking violation set forth in <cite path="7.34">Chapter 7.34</cite> ("No Parking and Tow-Away Zones") of this code, a penalty of $30.00 shall be imposed.</text>
         </para>
         <para>
           <num>e.</num>
-          <text>Chapter 7.36. Except as otherwise specified in this code, for any parking violation set forth in Chapter 7.36 ("Angle Parking") of this code, a penalty of $35.00 shall be imposed.</text>
+          <text><cite path="7.36">Chapter 7.36</cite>. Except as otherwise specified in this code, for any parking violation set forth in <cite path="7.36">Chapter 7.36</cite> ("Angle Parking") of this code, a penalty of $35.00 shall be imposed.</text>
         </para>
         <para>
           <num>f.</num>
-          <text>Chapter 7.40. Except as otherwise specified in this code, for any parking violation set forth in Chapter 7.40 ("Parallel Parking") of this code, a penalty of $25.00 shall be imposed.</text>
+          <text><cite path="7.40">Chapter 7.40</cite>. Except as otherwise specified in this code, for any parking violation set forth in <cite path="7.40">Chapter 7.40</cite> ("Parallel Parking") of this code, a penalty of $25.00 shall be imposed.</text>
         </para>
         <para>
           <num>g.</num>
-          <text>Chapter 7.44. Except as otherwise specified in this code, for any parking violation set forth in Chapter 7.44 ("Disabled Parking) of this code, a penalty of $325.00 shall be imposed.</text>
+          <text><cite path="7.44">Chapter 7.44</cite>. Except as otherwise specified in this code, for any parking violation set forth in <cite path="7.44">Chapter 7.44</cite> ("Disabled Parking) of this code, a penalty of $325.00 shall be imposed.</text>
         </para>
         <para>
           <num>h.</num>
-          <text>Section 7.60.160. Except as otherwise specified in this code, for any parking violation set forth in Section 7.60.150 of Chapter 7.60 ("Abandoned Vehicles") of this code, a penalty of $30.00 shall be imposed.</text>
+          <text><cite path="7.60.160">Section 7.60.160</cite>. Except as otherwise specified in this code, for any parking violation set forth in <cite path="7.60.150">Section 7.60.150</cite> of <cite path="7.60">Chapter 7.60</cite> ("Abandoned Vehicles") of this code, a penalty of $30.00 shall be imposed.</text>
         </para>
         <para>
           <num>i.</num>
-          <text>Sections 7.28.100, 7.28.110 and 7.28.160. Except as otherwise specified in this code, for any parking violation set forth in Section 7.28.100, 7.28.110, or 7.28.160 of Chapter 7.28 ("Miscellaneous Parking Regulations") of this code, a penalty of $50.00 shall be imposed.</text>
+          <text>Sections <cite path="7.28.100">7.28.100</cite>, <cite path="7.28.110">7.28.110</cite> and <cite path="7.28.160">7.28.160</cite>. Except as otherwise specified in this code, for any parking violation set forth in <cite path="7.28.100">Section 7.28.100</cite>, <cite path="7.28.110">7.28.110</cite>, or <cite path="7.28.160">7.28.160</cite> of <cite path="7.28">Chapter 7.28</cite> ("Miscellaneous Parking Regulations") of this code, a penalty of $50.00 shall be imposed.</text>
         </para>
         <para>
           <num>j.</num>
@@ -140,7 +165,10 @@
           <text>Returned Checks/Insufficient Funds. In the event that a check used to pay any penalty or penalties for parking violations under this code is returned for insufficient funds, a fee of $25.00 shall be imposed.</text>
         </para>
       </para>
-      <text>(Prior code § 1200; Ord. 1186, 10/23/56: Ord. 4195, 10/21/03)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1200</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56: Ord. 4195, 10/21/03</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.08.020</num>
@@ -157,25 +185,38 @@
         <num>(c)</num>
         <text>Warrant for Arrest. When a person signs a written promise to appear at the time and place specified in the written promise to appear and has not posted bail as provided in section 853.1 of the State Penal Code, the magistrate shall issue and have delivered for execution a warrant for his arrest within twenty days after his failure to appear as promised, or if such person promises to appear before an officer authorized to accept bail, other than a magistrate, and fails to do so on or before the date which he promises to appear, then within twenty days after the delivery of such written promise to appear by the officer to a magistrate having jurisdiction over the offense.</text>
       </para>
-      <text>(Prior code § 1200.5; Ord. 1677, 10/27/64)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1200.5</annotation>
+        <annotation type="history">Ord. 1677, 10/27/64</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.08.030</num>
       <heading>Separate offenses.</heading>
       <text>Each person shall be guilty of a separate offense for each and every day during any portion of which any violation of any provision of this code is committed, continued, or permitted by such person and shall be punishable accordingly.</text>
-      <text>(Prior code § 1201; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1201</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.08.040</num>
       <heading>Violations a public nuisance.</heading>
       <text>In addition to the penalties hereinabove provided, any condition caused or permitted to exist in violation of the provisions of this code is hereby declared to be a public nuisance. Each day such existence continues shall be regarded as a new and separate public nuisance.</text>
-      <text>(Prior code § 1202; Ord. 1186, 10/23/56; Ord. 2830, 06/07/83)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1202</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+        <annotation type="history">Ord. 2830, 06/07/83</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.08.050</num>
       <heading>Violation of administrative provisions.</heading>
       <text>The violation of any administrative provisions of this code by any officer or employee of the County shall not be a misdemeanor under this code. Such violations may be deemed a failure to perform the duties under, or observe the rules and regulations of the department, office or board within the meaning of the Civil Service Ordinances and rules and regulations of the County and may be grounds for dismissal.</text>
-      <text>(Prior code § 1203; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1203</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -220,37 +261,58 @@
       </para>
       <para>
         <num>5.</num>
-        <text>Any inoperative, abandoned, wrecked or dismantled vehicle which shall be abated in accordance with chapter 7.60 of this code; or</text>
+        <text>Any inoperative, abandoned, wrecked or dismantled vehicle which shall be abated in accordance with <cite path="7.60">chapter 7.60</cite> of this code; or</text>
       </para>
       <para>
         <num>6.</num>
         <text>Any swimming pool, pond, well, or other body or container of water which is abandoned, unattended, unfiltered, polluted or otherwise maintained in an unhealthy or unsafe condition.</text>
       </para>
-      <text>(Prior code § 1210; Ord. 2830, 06/07/83; Ord. 3161, 11/08/88)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1210</annotation>
+        <annotation type="history">Ord. 2830, 06/07/83</annotation>
+        <annotation type="history">Ord. 3161, 11/08/88</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.12.020</num>
       <heading>Notice of abatement.</heading>
       <text>Whenever the Environmental Health Director, the Planning Director or Sheriff, or an authorized representative, determines that a nuisance exists on private property, that County officer or representative may serve a written notice to abate the nuisance by registered or certified mail upon the owner of the property and anyone known to the County officer or representative to be in possession of the property. The notice shall describe the nuisance and instruct the owner and/or possessor to abate that condition or activity. The notice shall further inform the owner and the possessor that if the nuisance is not abated within ten (10) calendar days of service of the notice, the County will abate the nuisance and demand the owner and/or possessor to pay the cost of the abatement. Cost of abatement includes the cost for actual removal or correction of the nuisance plus reasonable administrative costs. Administrative costs are the lesser of actual costs or fifteen percent of the cost of actual removal or correction. If the owner and/or possessor fail to pay such cost, that cost may be specially assessed to the parcel and shall be subject to the same collection procedures, including any lien, penalty and sale procedures that are provided for delinquent County taxes. The notice shall further state that either the owner or the possessor, or both, may request a hearing to contest the abatement action or assessment of cost by filing a written request for a hearing within ten (10) calendar days of service of the notice to abate with the County officer who ordered the abatement. Failure to request this hearing within this time period shall waive any right to appeal the County's action.</text>
-      <text>(Prior code § 1211; Ord. 2830, 06/07/83; Ord. 3161, 11/08/88)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1211</annotation>
+        <annotation type="history">Ord. 2830, 06/07/83</annotation>
+        <annotation type="history">Ord. 3161, 11/08/88</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.12.030</num>
       <heading>Hearing and appeal.</heading>
       <text>Upon a timely request for a hearing and providing that there is no immediate threat to public health or safety, the County shall postpone any abatement action or assessment of costs until the owner and/or possessor is given an opportunity to be heard and present evidence to the Board of Supervisors as to why the abatement or assessment should not proceed. The Clerk of the Board shall mail a notice of the date, time and place of the hearing to the owner and/or possessor at least (10) calendar days before the hearing date. After the hearing, the Board shall issue and serve a written decision upon the owner and any possessor of the parcel. The decision of the Board shall be final and conclusive in the matter.</text>
-      <text>(Prior code § 1212; Ord. 2830, 06/07/83; Ord. 3161, 11/08/88; Ord. 3173, 02/28/89; Ord. 3240, 07/17/90)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1212</annotation>
+        <annotation type="history">Ord. 2830, 06/07/83</annotation>
+        <annotation type="history">Ord. 3161, 11/08/88</annotation>
+        <annotation type="history">Ord. 3173, 02/28/89</annotation>
+        <annotation type="history">Ord. 3240, 07/17/90</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.12.040</num>
       <heading>Notice of abatement lien.</heading>
       <text>The Board of Supervisors hereby authorizes the Environmental Health Director, the Planning Director or Sheriff to file and record a Notice of Abatement Lien on behalf of the County in the event the owner and/or possessor of the property fail to pay the costs of abatement upon a thirty days' written demand for payment. The notice of abatement lien shall identify and set forth the last known address of both the record owner and the possessor of the parcel. The notice shall further set forth the date upon which the abatement of the nuisance was ordered and the date the abatement was completed. Finally, the notice shall describe the real property subject to the lien and the amount of the cost of abatement. Recordation of a Notice of Abatement Lien under this provision shall have the same effect as recordation of an abstract of a money judgment recorded under state law. The lien created shall have the same priority as a judgment lien on real property and shall continue in effect until released. An abatement lien created under this section may be released or subordinated in the same manner as any judgment lien on real property. The Board of Supervisors hereby authorizes the Environmental Health Director, the Planning Director or Sheriff to compromise, subordinate or settle any lien imposed under this section in the amount of $10,000 or less.</text>
-      <text>(Prior code § 1213; Ord. 2830, 06/07/83; Ord. 3161, 11/08/88)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1213</annotation>
+        <annotation type="history">Ord. 2830, 06/07/83</annotation>
+        <annotation type="history">Ord. 3161, 11/08/88</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.12.050</num>
       <heading>Citation for nuisances.</heading>
-      <text>If the Environmental Health Director, Planning Director, Sheriff, or their authorized representatives determine that a nuisance (as defined in section 1.12.010) does not necessitate immediate summary abatement under the procedures set forth in sections 1.12.020 through 1.12.040 above, the nuisance shall be deemed an infraction, and a citation shall be issued to the owner of the property and/or anyone known to the County officer or representative to be in possession of the property.</text>
-      <text>(Prior code § 1214; Ord. 3240, 07/17/90)</text>
+      <text>If the Environmental Health Director, Planning Director, Sheriff, or their authorized representatives determine that a nuisance (as defined in <cite path="1.12.010">section 1.12.010</cite>) does not necessitate immediate summary abatement under the procedures set forth in sections <cite path="1.12.020">1.12.020</cite> through <cite path="1.12.040">1.12.040</cite> above, the nuisance shall be deemed an infraction, and a citation shall be issued to the owner of the property and/or anyone known to the County officer or representative to be in possession of the property.</text>
+      <annotations>
+        <annotation type="history">Prior code § 1214</annotation>
+        <annotation type="history">Ord. 3240, 07/17/90</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.12.060</num>
@@ -263,7 +325,7 @@
       </para>
       <para>
         <num>2.</num>
-        <text>The nature of the infraction, as related to section 1.12.010;</text>
+        <text>The nature of the infraction, as related to <cite path="1.12.010">section 1.12.010</cite>;</text>
       </para>
       <para>
         <num>3.</num>
@@ -297,67 +359,102 @@
         <num>10.</num>
         <text>Certification of the enforcing County officer attesting to the truth of the matters set forth in the citation.</text>
       </para>
-      <text>(Prior code § 1215; Ord. 3240, 07/17/90)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1215</annotation>
+        <annotation type="history">Ord. 3240, 07/17/90</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.12.070</num>
       <heading>Fines and other sanctions; jurisdiction of the court.</heading>
-      <text>Any person to whom a citation is issued under the provisions of this chapter shall be subject to payment of a fine as follows: Upon a first violation, by a fine not exceeding $100.00; for a second violation within a period of one year, by a fine not exceeding $200.00; and for each additional violation within a period of one year, by a fine not exceeding $500.00. In addition to the aforesaid fines, the Court shall impose any mandatory assessments required by law. Additionally, the Court shall have jurisdiction to issue any restraining order to abate the nuisance, and to award any costs and/or fines which the Court deems just and appropriate.</text>
-      <text>(Prior code § 1216; Ord. 3240, 07/17/90)</text>
+      <text>Any person to whom a citation is issued under the provisions of <cite path="1.12">this chapter</cite> shall be subject to payment of a fine as follows: Upon a first violation, by a fine not exceeding $100.00; for a second violation within a period of one year, by a fine not exceeding $200.00; and for each additional violation within a period of one year, by a fine not exceeding $500.00. In addition to the aforesaid fines, the Court shall impose any mandatory assessments required by law. Additionally, the Court shall have jurisdiction to issue any restraining order to abate the nuisance, and to award any costs and/or fines which the Court deems just and appropriate.</text>
+      <annotations>
+        <annotation type="history">Prior code § 1216</annotation>
+        <annotation type="history">Ord. 3240, 07/17/90</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.12.080</num>
       <heading>Separate infractions.</heading>
-      <text>A person shall be guilty of a separate infraction for each and every day during any portion of which a nuisance (as defined in section 1.12.010) is found to exist on property owned, possessed, or occupied by the person.</text>
-      <text>(Prior code § 1217; Ord. 3240, 07/17/90)</text>
+      <text>A person shall be guilty of a separate infraction for each and every day during any portion of which a nuisance (as defined in <cite path="1.12.010">section 1.12.010</cite>) is found to exist on property owned, possessed, or occupied by the person.</text>
+      <annotations>
+        <annotation type="history">Prior code § 1217</annotation>
+        <annotation type="history">Ord. 3240, 07/17/90</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.12.090</num>
       <heading>Forfeitability of bail.</heading>
-      <text>In lieu of contesting a citation, a violator may pay over and forfeit bail in an amount, including assessments, not to exceed the amount of the maximum fine allowed under section 1.12.070 above. If the violator forfeits bail, he or she shall be deemed to have pleaded guilty, and no court appearance shall be required, except that a violator who has been issued three or more citations within one year shall be required both to post bail and to appear in court. The forfeitability of bail and bail schedule shall be subject to the approval of the San Mateo County Municipal Court. Bail shall be payable as indicated in the citation within 20 calendar days of receipt of the citation. All fines or bails collected by the Municipal Court for violations of infractions under this chapter shall be remitted to the general fund of the County.</text>
-      <text>(Prior code § 1218; Ord. 3240, 07/17/90)</text>
+      <text>In lieu of contesting a citation, a violator may pay over and forfeit bail in an amount, including assessments, not to exceed the amount of the maximum fine allowed under <cite path="1.12.070">section 1.12.070</cite> above. If the violator forfeits bail, he or she shall be deemed to have pleaded guilty, and no court appearance shall be required, except that a violator who has been issued three or more citations within one year shall be required both to post bail and to appear in court. The forfeitability of bail and bail schedule shall be subject to the approval of the San Mateo County Municipal Court. Bail shall be payable as indicated in the citation within 20 calendar days of receipt of the citation. All fines or bails collected by the Municipal Court for violations of infractions under <cite path="1.12">this chapter</cite> shall be remitted to the general fund of the County.</text>
+      <annotations>
+        <annotation type="history">Prior code § 1218</annotation>
+        <annotation type="history">Ord. 3240, 07/17/90</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.12.100</num>
       <heading>No formal hearing by county.</heading>
       <text>The County shall not conduct any formal hearing for those persons in receipt of a citation for an infraction. Any violator so cited may pay the bail as indicated in the citation or elect to stand trial for the offense. This provision shall not prevent a violator from requesting, either personally or through an attorney, additional information concerning the infraction.</text>
-      <text>(Prior code § 1219; Ord. 3240, 07/17/90)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1219</annotation>
+        <annotation type="history">Ord. 3240, 07/17/90</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.12.110</num>
       <heading>Election to stand trial.</heading>
       <text>A person receiving the citation for an infraction may elect to stand trial by appearing as indicated in the citation and pleading not guilty. The Court or the Clerk shall then schedule the case for trial and notify the defendant of the trial date.</text>
-      <text>(Prior code § 1220; Ord. 3240, 07/17/90)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1220</annotation>
+        <annotation type="history">Ord. 3240, 07/17/90</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.12.120</num>
       <heading>Rights of defendant at trial.</heading>
-      <text>In any trial for an infraction under this chapter, there is no right to a jury trial, but in all other respects, the defendant shall have the same rights as in the trial of criminal cases, including the right to cross-examine witnesses, the right to testify or introduce evidence in his or her own behalf, and the right to be represented by an attorney.</text>
-      <text>(Prior code § 1221; Ord. 3240, 07/17/90)</text>
+      <text>In any trial for an infraction under <cite path="1.12">this chapter</cite>, there is no right to a jury trial, but in all other respects, the defendant shall have the same rights as in the trial of criminal cases, including the right to cross-examine witnesses, the right to testify or introduce evidence in his or her own behalf, and the right to be represented by an attorney.</text>
+      <annotations>
+        <annotation type="history">Prior code § 1221</annotation>
+        <annotation type="history">Ord. 3240, 07/17/90</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.12.130</num>
       <heading>Recordation of notice of continuing nuisance; expungement.</heading>
-      <text>If a nuisance remains unabated thirty days following the forfeiture of bail or conviction for a nuisance as specified in this chapter, a notice of continuing nuisance may be recorded in the office of the County Recorder. The Planning Director shall notify by certified mail the owner of the affected real property and any other known party responsible for the nuisance. A notice of expungement of the notice of continuing nuisance shall be recorded with the office of the County Recorder upon presentation to the Planning Director or the Director's designee of satisfactory evidence that the nuisance has been abated.</text>
-      <text>(Prior code § 1222; Ord. 3240, 07/17/90)</text>
+      <text>If a nuisance remains unabated thirty days following the forfeiture of bail or conviction for a nuisance as specified in <cite path="1.12">this chapter</cite>, a notice of continuing nuisance may be recorded in the office of the County Recorder. The Planning Director shall notify by certified mail the owner of the affected real property and any other known party responsible for the nuisance. A notice of expungement of the notice of continuing nuisance shall be recorded with the office of the County Recorder upon presentation to the Planning Director or the Director's designee of satisfactory evidence that the nuisance has been abated.</text>
+      <annotations>
+        <annotation type="history">Prior code § 1222</annotation>
+        <annotation type="history">Ord. 3240, 07/17/90</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.12.140</num>
       <heading>Citation for infraction not preclusive of use of summary abatement procedures; mediation.</heading>
-      <text>The procedures set forth in sections 1.12.050 through 1.12.120 above shall not preclude the County from utilizing the summary nuisance abatement procedures set forth in sections 1.12.020 through 1.12.040 in the event that the issuance of citations under sections 1.12.050 through 1.12.120 fails to remedy the existence of a nuisance. Additionally, if upon receipt of a nuisance complaint the County determines that the matter would be appropriate for mediation, the County may require the complainant(s) to agree to mediate with the alleged violator as a precondition of County investigation, citation and abatement of the nuisance. Such cases shall be referred to the County Mediation Program, Department of Community Services, or to the appropriate program of the Peninsula Conflict Resolution Center. If the complainants agree to mediate, but the alleged violator refuses, the County may proceed with investigation and any appropriate enforcement.</text>
-      <text>(Prior code § 1223; Ord. 3240, 07/17/90)</text>
+      <text>The procedures set forth in sections <cite path="1.12.050">1.12.050</cite> through <cite path="1.12.120">1.12.120</cite> above shall not preclude the County from utilizing the summary nuisance abatement procedures set forth in sections <cite path="1.12.020">1.12.020</cite> through <cite path="1.12.040">1.12.040</cite> in the event that the issuance of citations under sections <cite path="1.12.050">1.12.050</cite> through <cite path="1.12.120">1.12.120</cite> fails to remedy the existence of a nuisance. Additionally, if upon receipt of a nuisance complaint the County determines that the matter would be appropriate for mediation, the County may require the complainant(s) to agree to mediate with the alleged violator as a precondition of County investigation, citation and abatement of the nuisance. Such cases shall be referred to the County Mediation Program, Department of Community Services, or to the appropriate program of the Peninsula Conflict Resolution Center. If the complainants agree to mediate, but the alleged violator refuses, the County may proceed with investigation and any appropriate enforcement.</text>
+      <annotations>
+        <annotation type="history">Prior code § 1223</annotation>
+        <annotation type="history">Ord. 3240, 07/17/90</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.12.150</num>
       <heading>Other remedies.</heading>
-      <text>Nothing in this chapter shall affect, prevent or prejudice any other remedy or penalty, civil or criminal for the creation or maintenance of a nuisance. Nothing in this chapter shall prohibit the summary and immediate abatement of a nuisance upon the order of the Board of Supervisors or any County officer as authorized by law if the Board or officer determines that the nuisance constitutes an immediate threat to the public health or safety.</text>
-      <text>(Prior code § 1224; Ord. 2830, 06/07/83; Ord. 3161, 11/08/88; Ord. 3240, 07/17/90)</text>
+      <text>Nothing in <cite path="1.12">this chapter</cite> shall affect, prevent or prejudice any other remedy or penalty, civil or criminal for the creation or maintenance of a nuisance. Nothing in <cite path="1.12">this chapter</cite> shall prohibit the summary and immediate abatement of a nuisance upon the order of the Board of Supervisors or any County officer as authorized by law if the Board or officer determines that the nuisance constitutes an immediate threat to the public health or safety.</text>
+      <annotations>
+        <annotation type="history">Prior code § 1224</annotation>
+        <annotation type="history">Ord. 2830, 06/07/83</annotation>
+        <annotation type="history">Ord. 3161, 11/08/88</annotation>
+        <annotation type="history">Ord. 3240, 07/17/90</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.12.160</num>
       <heading>Treble damages for subsequent judgments.</heading>
-      <text>Upon entry of a second or subsequent civil or criminal judgment within a two-year period finding that an owner of property is responsible for a condition that may be abated in accordance with the provisions of this chapter (except for conditions abated pursuant to section 17980 of the Health and Safety Code), the Court may order the owner to pay treble the costs of the abatement, pursuant to Government Code section 25845.5.</text>
-      <text>(Prior code § 1225; Ord. 3240, 07/17/90)</text>
+      <text>Upon entry of a second or subsequent civil or criminal judgment within a two-year period finding that an owner of property is responsible for a condition that may be abated in accordance with the provisions of <cite path="1.12">this chapter</cite> (except for conditions abated pursuant to section 17980 of the Health and Safety Code), the Court may order the owner to pay treble the costs of the abatement, pursuant to Government Code section 25845.5.</text>
+      <annotations>
+        <annotation type="history">Prior code § 1225</annotation>
+        <annotation type="history">Ord. 3240, 07/17/90</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -368,61 +465,91 @@
       <num>1.16.010</num>
       <heading>Construction—Provisions governing.</heading>
       <text>Unless the provisions of the context otherwise require, these general provisions, rules of construction, and definitions shall govern the construction of this code. The provisions of this code and all proceedings under it are to be construed with a view to effect its objects and to promote justice.</text>
-      <text>(Prior code § 1301; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1301</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.16.020</num>
       <heading>Headings, effect of.</heading>
       <text>Division, part, chapter, article and section headings contain herein shall not be deemed to govern, limit, modify or in any manner affect the scope, meaning or intent of the provisions of any division, part, chapter, article or section hereof.</text>
-      <text>(Prior code § 1302; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1302</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.16.030</num>
       <heading>Prohibited acts. Including causing, permitting or suffering.</heading>
       <text>Whenever in this code, any act or omission is made unlawful, it shall include causing, permitting, aiding, abetting, suffering or concealing the fact of such act or omission.</text>
-      <text>(Prior code § 1303; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1303</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.16.040</num>
       <heading>Acts by deputy.</heading>
       <text>Whenever a power is granted to, or a duty is imposed upon, a public officer, or employee, the power may be exercised, or the duty may be performed by a deputy of such officer or employee or by a person otherwise duly authorized pursuant to law or ordinance, unless this code expressly provides otherwise.</text>
-      <text>(Prior code § 1304; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1304</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.16.050</num>
       <heading>Writing, includes what.</heading>
       <text>Writing includes any form of recorded message capable of comprehension by ordinary visual means. Whenever any notice, report, statement or record is required or authorized by this code, it shall be made in writing in the English language unless it is expressly provided otherwise.</text>
-      <text>(Prior code § 1305; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1305</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.16.060</num>
       <heading>Reference applies to amendments.</heading>
       <text>Whenever a reference is made to any portion of this code, or to any ordinance of this County, the reference applies to all amendments and additions now or hereafter made.</text>
-      <text>(Prior code § 1306; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1306</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.16.070</num>
       <heading>Tenses.</heading>
       <text>When used in this code, present tense includes the past and future tenses; and the future, the present.</text>
-      <text>(Prior code § 1307; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1307</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.16.080</num>
       <heading>Gender.</heading>
       <text>When used in this code, the masculine gender includes the feminine and neuter.</text>
-      <text>(Prior code § 1308; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1308</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.16.090</num>
       <heading>Number.</heading>
       <text>When used in this code, the singular number includes the plural, and the plural the singular.</text>
-      <text>(Prior code § 1309; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1309</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.16.100</num>
       <heading>"Shall" and "may".</heading>
       <text>"Shall" is mandatory and "may" is permissive.</text>
-      <text>(Prior code § 1310; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1310</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -433,67 +560,100 @@
       <num>1.20.010</num>
       <heading>Meaning of words.</heading>
       <text>The following words and phrases, when used in this code, shall have the signification set forth in the chapter, unless it is otherwise apparent from their use in the context.</text>
-      <text>(Prior code § 1400; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1400</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.20.020</num>
       <heading>County.</heading>
       <text>The word "County" shall mean the County of San Mateo.</text>
-      <text>(Prior code § 1401; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1401</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.20.030</num>
       <heading>State.</heading>
       <text>The word "State" means the State of California.</text>
-      <text>(Prior code § 1402; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1402</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.20.040</num>
       <heading>Charter.</heading>
       <text>The word "Charter" shall mean the Charter of the County of San Mateo, as amended.</text>
-      <text>(Prior code § 1403; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1403</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.20.050</num>
       <heading>Deputy.</heading>
       <text>The word "Deputy", when used alone, means any person in the County service who acts for the department head under the direction of and subordinate to the departmental head or his assistant, when appointed pursuant to law.</text>
-      <text>(Prior code § 1404; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1404</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.20.060</num>
       <heading>Code.</heading>
       <text>The word "code" shall mean the San Mateo County Ordinance Code, as enacted herein, and any and all amendments and supplements thereto and modification thereof, unless some other code is indicated.</text>
-      <text>(Prior code § 1405; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1405</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.20.070</num>
       <heading>Board of Supervisors.</heading>
       <text>The term "Board of Supervisors" shall mean the Board of Supervisors of the County of San Mateo.</text>
-      <text>(Prior code § 1406; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1406</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.20.080</num>
       <heading>Planning Commission.</heading>
       <text>The term "Planning Commission" shall mean the Planning Commission of the County of San Mateo.</text>
-      <text>(Prior code § 1407; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1407</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.20.090</num>
       <heading>Person.</heading>
       <text>The word "Person" shall include any person, firm, association, organization, partnership, business trust, company, corporation, public agency, school district, the State of California, its political subdivisions and/or instrumentalities thereof.</text>
-      <text>(Prior code § 1408; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1408</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.20.100</num>
       <heading>Titles of officers.</heading>
       <text>Whenever titles of officers are used in this code such titles are applicable to officers of the County of San Mateo, unless otherwise indicated.</text>
-      <text>(Prior code § 1409; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1409</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.20.110</num>
       <heading>Titles of departments, commission, boards and agencies.</heading>
       <text>Whenever titles of departments, commissions, boards and agencies are used in this code, such titles are applicable to the departments, commissions, boards, and agencies of the County of San Mateo, unless otherwise indicated.</text>
-      <text>(Prior code § 1410; Ord. 1186, 10/23/56)</text>
+      <annotations>
+        <annotation type="history">Prior code § 1410</annotation>
+        <annotation type="history">Ord. 1186, 10/23/56</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -528,7 +688,9 @@
         <num>(f)</num>
         <text>This Board does, accordingly, find and declare that it is necessary to protect the residents of mobilehomes from unreasonable space rent increases and/or assessments, while recognizing the need of mobilehome park owners to receive a just and reasonable return on their investment.</text>
       </para>
-      <text>(Ord. 4188, 9/23/03)</text>
+      <annotations>
+        <annotation type="history">Ord. 4188, 9/23/03</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.30.020</num>
@@ -536,7 +698,7 @@
       <text>"Capital improvements" means those improvements that materially add to the value of the property and appreciably prolong its useful life or adapt it to new uses and which may be amortized over the useful life of the improvements in accordance with the Internal Revenue Code.</text>
       <text>"Consumer Price Index" or "CPI" means the Consumer Price Index for all Urban Consumers for the San Francisco-Oakland-San Jose area, published by the U.S. Department of Labor, Bureau of Labor Statistics.</text>
       <text>"Hearing Officer" means the Director of the Department of Housing or his/her designee.</text>
-      <text>"Mobilehome" as used in this chapter, means those structures defined in California Civil Code Section 798, et seq., and other forms of vehicles designed or used for human habitation, including camping trailers, recreational vehicles, motorhomes, slide-in campers, or travel trailers, that occupy a site in a Mobilehome Park.</text>
+      <text>"Mobilehome" as used in <cite path="1.30">this chapter</cite>, means those structures defined in California Civil Code Section 798, et seq., and other forms of vehicles designed or used for human habitation, including camping trailers, recreational vehicles, motorhomes, slide-in campers, or travel trailers, that occupy a site in a Mobilehome Park.</text>
       <text>"Mobilehome park" means any mobilehome or manufactured home park, as defined in sections 798.4 and 798.6 of the Civil Code, which rents or leases spaces in the unincorporated area of San Mateo County.</text>
       <text>"Mobilehome park owner" means the owner, lessor, operator or manager of a mobilehome park.</text>
       <text>"Mobilehome space" means the site within a Mobilehome Park intended, designed, or used for the location or accommodation of a Mobilehome and any accessory structures or appurtenances attached thereto or used therewith.</text>
@@ -544,8 +706,12 @@
       <text>"Percent Change in Consumer Price Index" means the annual percent change in the Consumer Price Index, calculated to the nearest tenth, published for the month of July, issued in the month of August. In the event that an index is not published for the month of July, the closest preceding month for which an index is published shall be used.</text>
       <text>"Rehabilitation" means that work done by an owner to a mobilehome space, or to the common area of the property containing a mobilehome space, which is performed either to secure compliance with any state or local law or to repair damage resulting from fire, earthquake, or other casualty or natural disaster to the extent such repair is not reimbursed by insurance proceeds.</text>
       <text>"Rent" means the consideration, including any bonus, benefits or gratuity demanded or received in connection with the use and occupancy of a mobilehome space in a mobilehome park, but exclusive of any amounts paid for utilities, the use of the mobilehome dwelling unit, subletting or security deposit.</text>
-      <text>(Ord. 4188, 9/23/03; Ord. 4405, 01/08/08)</text>
-      <text>(Ord. No. 04753, § 2, 1-5-2016; Ord. No. 04783, §§ 2, 3, 9-26-2017)</text>
+      <annotations>
+        <annotation type="history">Ord. 4188, 9/23/03</annotation>
+        <annotation type="history">Ord. No. 04753, § 2, 1-5-2016</annotation>
+        <annotation type="history">Ord. 4405, 01/08/08</annotation>
+        <annotation type="history">Ord. No. 04783, §§ 2, 3, 9-26-2017</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.30.030</num>
@@ -553,8 +719,7 @@
       <text>Except as provided herein, a mobilehome park owner shall not demand, accept or retain rent for a mobilehome space which exceeds the rent in effect on July 1, 2003. If a previously rented mobilehome space was not rented on July 1, 2003, the owner shall not, except as provided herein, demand, accept or retain rent which exceeds the rent in effect during the last month the space was rented prior to July 1, 2003.</text>
       <text>The rent payable for use or occupancy of any space in a mobilehome park shall not be increased more than once in any twelve (12) month period. Said rent increase shall not exceed seventy-five percent (75%) of the Percent Change in the Consumer Price Index, or five percent, whichever may be less. The initial twelve month period shall begin on July 1, 2003.</text>
       <text>The provisions of this section shall apply regardless of whether there is a change in the mobilehome tenant occupying the space, or a change in ownership of the mobilehome.</text>
-      <text>(Ord. 4188, 9/23/03)</text>
-      <text>1.30.030.1 - Annual reporting form.</text>
+      <text><cite path="1.30.030">1.30.030</cite>.1 - Annual reporting form.</text>
       <para>
         <num>(a)</num>
         <text>Each Mobilehome Park Owner shall complete and return to the County Department of Housing an annual report in the form and pursuant to the schedule developed by the Director of the Department of Housing, which report includes the following information: (1) current contact information for the Mobilehome Park Owner and manager; (2) the total number of Mobilehome Spaces in the Mobilehome Park occupied by Mobilehome Tenants; (3) monthly rental rates for all Mobilehome Tenants within the Mobilehome Park; (4) the total number of Mobilehome Spaces occupied, at any time during the reporting period, by any other form of vehicle or shelter; (5) any Mobilehome Spaces within the Mobilehome Park converted to any other use; and (6) any other information which may be required by the Director of the Department of Housing.</text>
@@ -565,29 +730,33 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>The failure to complete and return the annual report to the Department of Housing within 30 days of the date indicated by the Director of the Department of Housing, and/or any other violation of this chapter, shall be subject to an administrative citation issued pursuant to the section 1.40.010, et seq., of this Code. However, notwithstanding section 1.40.070, the amount of the penalty imposed for each violation of this chapter shall be five hundred dollars ($500.00). Each day a violation exists is a separate offense; therefore, the $500.00 penalty imposed by this chapter shall be imposed each and every day the violation continues to exist.</text>
+        <text>The failure to complete and return the annual report to the Department of Housing within 30 days of the date indicated by the Director of the Department of Housing, and/or any other violation of <cite path="1.30">this chapter</cite>, shall be subject to an administrative citation issued pursuant to the <cite path="1.40.010">section 1.40.010</cite>, et seq., of this Code. However, notwithstanding <cite path="1.40.070">section 1.40.070</cite>, the amount of the penalty imposed for each violation of <cite path="1.30">this chapter</cite> shall be five hundred dollars ($500.00). Each day a violation exists is a separate offense; therefore, the $500.00 penalty imposed by <cite path="1.30">this chapter</cite> shall be imposed each and every day the violation continues to exist.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>The administrative remedies in this chapter are in addition to and do not supersede or limit any and all other remedies provided by law. The remedies provided in this chapter are cumulative and not exclusive.</text>
+        <text>The administrative remedies in <cite path="1.30">this chapter</cite> are in addition to and do not supersede or limit any and all other remedies provided by law. The remedies provided in <cite path="1.30">this chapter</cite> are cumulative and not exclusive.</text>
       </para>
-      <text>(Ord. No. 04753, § 3, 1-5-2016; Ord. No. 04783, § 4, 9-26-2017)</text>
-      <text><strong>Editor's note— </strong>Ord. No. 04753, § 3, adopted January 5, 2016, repealed § 1.30.030.1, which pertained to administrative fee and derived from Ord. No. 4188, adopted September 23, 2003.</text>
-      <text>1.30.030.2 - Service reductions.</text>
+      <text><strong>Editor's note— </strong>Ord. No. 04753, § 3, adopted January 5, 2016, repealed <cite path="1.30.030">§ 1.30.030</cite>.1, which pertained to administrative fee and derived from Ord. No. 4188, adopted September 23, 2003.</text>
+      <text><cite path="1.30.030">1.30.030</cite>.2 - Service reductions.</text>
       <text>In the event the mobilehome park owner eliminates or reduces services or maintenance that had been provided on the base year date, then the rent shall be reduced by an amount that is proportionate to the value of the eliminated or reduced services or maintenance.</text>
-      <text>Any tenant or tenants who believe that they have been subjected to any such elimination or reduction of services or maintenance shall be entitled to file with the Hearing Officer a service-reduction rent-adjustment petition that requests that their rents be reduced by an appropriate amount. Any such service-reduction petitions shall be considered under the procedural provisions for considering rent-adjustment petitions that are set forth in sections 1.30.050 and 1.30.060.</text>
-      <text>(Ord. 4188, 9/23/03)</text>
+      <text>Any tenant or tenants who believe that they have been subjected to any such elimination or reduction of services or maintenance shall be entitled to file with the Hearing Officer a service-reduction rent-adjustment petition that requests that their rents be reduced by an appropriate amount. Any such service-reduction petitions shall be considered under the procedural provisions for considering rent-adjustment petitions that are set forth in sections <cite path="1.30.050">1.30.050</cite> and <cite path="1.30.060">1.30.060</cite>.</text>
+      <annotations>
+        <annotation type="history">Ord. 4188, 9/23/03</annotation>
+        <annotation type="history">Ord. No. 04753, § 3, 1-5-2016</annotation>
+        <annotation type="history">Ord. 4188, 9/23/03</annotation>
+        <annotation type="history">Ord. No. 04783, § 4, 9-26-2017</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.30.040</num>
       <heading>Rent increase in excess of increase allowed under section 1.30.030.</heading>
       <para>
         <num>A.</num>
-        <text>If a mobilehome park owner believes that the maximum rent permitted by section 1.30.030 of this chapter denies the park owner a fair return, an owner may request an adjustment in rents according to the provisions of this section. However, no owner of a mobilehome park may request more than one adjustment to rents during the twelve (12) month period following the first full day the rent increase authorized by section 1.30.030 is put into effect.</text>
+        <text>If a mobilehome park owner believes that the maximum rent permitted by <cite path="1.30.030">section 1.30.030</cite> of <cite path="1.30">this chapter</cite> denies the park owner a fair return, an owner may request an adjustment in rents according to the provisions of this section. However, no owner of a mobilehome park may request more than one adjustment to rents during the twelve (12) month period following the first full day the rent increase authorized by <cite path="1.30.030">section 1.30.030</cite> is put into effect.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>An owner may request an adjustment in excess of the rent increase authorized by section 1.30.030 by conforming to the following procedures:</text>
+        <text>An owner may request an adjustment in excess of the rent increase authorized by <cite path="1.30.030">section 1.30.030</cite> by conforming to the following procedures:</text>
         <para>
           <num>1.</num>
           <text>The owner of a mobilehome park seeking an adjustment in rents must submit a petition for rent adjustment to the Hearing Officer. The petition shall contain relevant and detailed documentation supporting the level of rent increase requested.</text>
@@ -613,7 +782,9 @@
           <text>The petition shall be submitted under penalty of perjury.</text>
         </para>
       </para>
-      <text>(Ord. 4188, 9/23/03)</text>
+      <annotations>
+        <annotation type="history">Ord. 4188, 9/23/03</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.30.050</num>
@@ -629,17 +800,19 @@
       </para>
       <para>
         <num>C.</num>
-        <text>To adopt, promulgate, amend and rescind administrative rules to effectuate the purposes and policies of this chapter;</text>
+        <text>To adopt, promulgate, amend and rescind administrative rules to effectuate the purposes and policies of <cite path="1.30">this chapter</cite>;</text>
       </para>
       <para>
         <num>D.</num>
-        <text>To prescribe the form for petitions for rent adjustment, including a formula that is consistent with the standard set forth in section 1.30.070 below, for determining whether a mobilehome park owner is receiving a fair return on his or her investment such that the net operating income achieved by the park during the twelve (12) months preceding July 1, 2003, with an appropriate allowance for inflation and properly amortized new capital improvements, is maintained.</text>
+        <text>To prescribe the form for petitions for rent adjustment, including a formula that is consistent with the standard set forth in <cite path="1.30.070">section 1.30.070</cite> below, for determining whether a mobilehome park owner is receiving a fair return on his or her investment such that the net operating income achieved by the park during the twelve (12) months preceding July 1, 2003, with an appropriate allowance for inflation and properly amortized new capital improvements, is maintained.</text>
       </para>
       <para>
         <num>E.</num>
         <text>To maintain for five years rent adjustment hearing files and dockets listing the time, date, and place of hearings, the parties involved, the addresses involved, and the final dispositions of the petitions.</text>
       </para>
-      <text>(Ord. 4188, 9/23/03)</text>
+      <annotations>
+        <annotation type="history">Ord. 4188, 9/23/03</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.30.060</num>
@@ -680,12 +853,14 @@
         <num>I.</num>
         <text>Materials received by the Hearing Officer in conjunction with a petition for rent adjustment shall be maintained in the County Clerk's office and shall be available for review by the public during normal working hours.</text>
       </para>
-      <text>(Ord. 4188, 9/23/03)</text>
+      <annotations>
+        <annotation type="history">Ord. 4188, 9/23/03</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.30.070</num>
       <heading>Standard of review.</heading>
-      <text>It shall be presumed that the application of section 1.30.030 of this chapter to the rents as of the base year date, July 1, 2003, results in a fair rate of return. This presumption can be overcome by a mobilehome park owner demonstrating that a larger increase is needed to achieve a fair return on the park owner's investment, such that the net operating income achieved by the park during the twelve-month period preceding the base year date, with an appropriate allowance for inflation and properly amortized new capital improvements, is maintained. Changes in ownership of the park after the effective date of this chapter shall not entitle any succeeding park owner to higher rents than would have been paid if the original owner had remained the park owner.</text>
+      <text>It shall be presumed that the application of <cite path="1.30.030">section 1.30.030</cite> of <cite path="1.30">this chapter</cite> to the rents as of the base year date, July 1, 2003, results in a fair rate of return. This presumption can be overcome by a mobilehome park owner demonstrating that a larger increase is needed to achieve a fair return on the park owner's investment, such that the net operating income achieved by the park during the twelve-month period preceding the base year date, with an appropriate allowance for inflation and properly amortized new capital improvements, is maintained. Changes in ownership of the park after the effective date of <cite path="1.30">this chapter</cite> shall not entitle any succeeding park owner to higher rents than would have been paid if the original owner had remained the park owner.</text>
       <text>Should it be determined that the base year's net operating income yielded other than a fair return on investment, the base year's net operating income may be adjusted accordingly. In order to make such a determination, the Hearing Officer must make at least one of the following findings:</text>
       <para>
         <num>(1)</num>
@@ -695,7 +870,9 @@
         <num>(2)</num>
         <text>The rent on the base year date was disproportionate in comparison to other years. In such instances, adjustments may be made in calculating such rents so the base year's rents reflect average rents for the mobilehome park owner over a reasonable amount of time, adjusted by 75% of the CPI increase to the base year date.</text>
       </para>
-      <text>(Ord. 4188, 9/23/03)</text>
+      <annotations>
+        <annotation type="history">Ord. 4188, 9/23/03</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.30.080</num>
@@ -712,25 +889,31 @@
         <num>C.</num>
         <text>The action of the Hearing Officer shall be subject to judicial review pursuant to Code of Civil Procedure section 1094.5.</text>
       </para>
-      <text>(Ord. 4188, 9/23/03)</text>
+      <annotations>
+        <annotation type="history">Ord. 4188, 9/23/03</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.30.090</num>
       <heading>Tenant's right of refusal.</heading>
-      <text>A tenant may refuse to pay any increase in rent which is in violation of this chapter. Such refusal to pay shall be a defense in any action brought to recover possession of a mobilehome space or to collect the rent increase.</text>
-      <text>(Ord. 4188, 9/23/03)</text>
+      <text>A tenant may refuse to pay any increase in rent which is in violation of <cite path="1.30">this chapter</cite>. Such refusal to pay shall be a defense in any action brought to recover possession of a mobilehome space or to collect the rent increase.</text>
+      <annotations>
+        <annotation type="history">Ord. 4188, 9/23/03</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.30.100</num>
       <heading>Prospective buyer protection.</heading>
-      <text>It is unlawful for any mobilehome park owner or manager to directly or indirectly require any homeowner or prospective homeowner to sign a rental agreement with a term in excess of twelve (12) months as a condition of residence in the mobilehome park. The provisions of this chapter (section 1.30.010, et seq.) shall be posted in the rental office of all mobilehome parks and the material terms of the chapter included in all mobilehome park rental agreements in the language in which the rental agreement is negotiated. The Director of the Department of Housing shall prepare and make available to all mobilehome park owners and tenants a document setting forth the material terms of this chapter, and the posting of the text of such document and inclusion of the text of such document (or appropriate translation of the terms of the document) shall constitute compliance with this section.</text>
-      <text>(Ord. 4188, 9/23/03)</text>
-      <text>(Ord. No. 04753, § 4, 1-5-2016)</text>
+      <text>It is unlawful for any mobilehome park owner or manager to directly or indirectly require any homeowner or prospective homeowner to sign a rental agreement with a term in excess of twelve (12) months as a condition of residence in the mobilehome park. The provisions of <cite path="1.30">this chapter</cite> (<cite path="1.30.010">section 1.30.010</cite>, et seq.) shall be posted in the rental office of all mobilehome parks and the material terms of the chapter included in all mobilehome park rental agreements in the language in which the rental agreement is negotiated. The Director of the Department of Housing shall prepare and make available to all mobilehome park owners and tenants a document setting forth the material terms of <cite path="1.30">this chapter</cite>, and the posting of the text of such document and inclusion of the text of such document (or appropriate translation of the terms of the document) shall constitute compliance with this section.</text>
+      <annotations>
+        <annotation type="history">Ord. 4188, 9/23/03</annotation>
+        <annotation type="history">Ord. No. 04753, § 4, 1-5-2016</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.30.110</num>
       <heading>Exemption.</heading>
-      <text>A one time increase in rent exceeding the maximum rent increase specified in section 1.30.030 shall be allowed without complying with the requirements of this chapter under the following circumstances:</text>
+      <text>A one time increase in rent exceeding the maximum rent increase specified in <cite path="1.30.030">section 1.30.030</cite> shall be allowed without complying with the requirements of <cite path="1.30">this chapter</cite> under the following circumstances:</text>
       <para>
         <num>A.</num>
         <text>The proposed increase in rents are proposed in connection with the sale of the mobilehome park to a non-profit corporation.</text>
@@ -744,13 +927,18 @@
         <text>A written petition or petitions are submitted by a minimum of two-thirds (2/3) of the mobilehome tenants indicating support for the increase in rents.</text>
       </para>
       <text>An exemption under this section shall only be effective upon written acknowledgement of the San Mateo County Environmental Services Agency Director, issued after submission of documentation establishing the conditions for an exemption as specified above. Any rent increase under this section may only be imposed if the proposed sale is concluded.</text>
-      <text>(Ord. 4209, 4/20/04)</text>
+      <annotations>
+        <annotation type="history">Ord. 4209, 4/20/04</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.30.120</num>
       <heading>Severability.</heading>
-      <text>If any provision of this chapter or application thereof to any person or circumstances is held invalid, this invalidity shall not affect other provisions or applications of this chapter which can be given effect without the invalid provision or application, and to this end, the provisions of this chapter are declared to be severable. This chapter shall be liberally construed to achieve the purposes of this chapter and to preserve its validity.</text>
-      <text>(Ord. 4188, 9/23/03; Ord. 4209, 4/20/04)</text>
+      <text>If any provision of <cite path="1.30">this chapter</cite> or application thereof to any person or circumstances is held invalid, this invalidity shall not affect other provisions or applications of <cite path="1.30">this chapter</cite> which can be given effect without the invalid provision or application, and to this end, the provisions of <cite path="1.30">this chapter</cite> are declared to be severable. <cite path="1.30">This chapter</cite> shall be liberally construed to achieve the purposes of <cite path="1.30">this chapter</cite> and to preserve its validity.</text>
+      <annotations>
+        <annotation type="history">Ord. 4188, 9/23/03</annotation>
+        <annotation type="history">Ord. 4209, 4/20/04</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -760,7 +948,7 @@
     <section>
       <num>1.40.010</num>
       <heading>Purpose.</heading>
-      <text>It is the intent of this chapter to provide the County with remedies to correct violations of the San Mateo County Ordinance Code, other County ordinances and state laws and regulations, which the County or any of its Departments are charged with enforcing at the local level as the local enforcement agency. The County's Board of Supervisors hereby finds and determines that enforcement of this code, other ordinances adopted by the County and state laws and regulations, which the County or any of its Departments are charged with enforcing at the local level as the local enforcement agency are matters of local concern and serve important public purposes. Consistent with powers authorized by Government Code Sections 53069.4 and 25132 and successor statutes, as well as the County's general police powers to protect the public health, safety, and welfare, the County adopts this chapter in order to achieve the following goals:</text>
+      <text>It is the intent of <cite path="1.40">this chapter</cite> to provide the County with remedies to correct violations of the San Mateo County Ordinance Code, other County ordinances and state laws and regulations, which the County or any of its Departments are charged with enforcing at the local level as the local enforcement agency. The County's Board of Supervisors hereby finds and determines that enforcement of this code, other ordinances adopted by the County and state laws and regulations, which the County or any of its Departments are charged with enforcing at the local level as the local enforcement agency are matters of local concern and serve important public purposes. Consistent with powers authorized by Government Code Sections 53069.4 and 25132 and successor statutes, as well as the County's general police powers to protect the public health, safety, and welfare, the County adopts <cite path="1.40">this chapter</cite> in order to achieve the following goals:</text>
       <para>
         <num>(a)</num>
         <text>To protect the public health, safety and welfare of County residents;</text>
@@ -785,13 +973,18 @@
         <num>(f)</num>
         <text>To provide an administrative process for abatement of violations, restoration of damages caused by the violation, and collections of costs.</text>
       </para>
-      <text>(Ord. No. 04648, § 1, 1-8-2013; Ord. No. 04744, § 1, 10-6-2015)</text>
+      <annotations>
+        <annotation type="history">Ord. No. 04648, § 1, 1-8-2013</annotation>
+        <annotation type="history">Ord. No. 04744, § 1, 10-6-2015</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.40.020</num>
       <heading>Remedies cumulative.</heading>
-      <text>These remedies shall be in addition to any other remedies available at law or equity. Nothing in this chapter shall prevent the County from using one or more other remedies to address violations, whether those remedies are administrative, civil or criminal.</text>
-      <text>(Ord. No. 04648, § 1, 1-8-2013)</text>
+      <text>These remedies shall be in addition to any other remedies available at law or equity. Nothing in <cite path="1.40">this chapter</cite> shall prevent the County from using one or more other remedies to address violations, whether those remedies are administrative, civil or criminal.</text>
+      <annotations>
+        <annotation type="history">Ord. No. 04648, § 1, 1-8-2013</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.40.030</num>
@@ -804,20 +997,26 @@
       <text>"Director" shall mean the head of the Department, or his or her designee.</text>
       <text>"Enforcement Officer" shall mean any County employee or agent of the County whose position requires enforcement of any provision of this code, any County ordinance or any state law or regulation including, but not limited to, code enforcement officers, animal control officers, environmental health specialists and Sheriff deputies.</text>
       <text>"Violation" shall mean a violation of the San Mateo County Ordinance Code, any County Ordinance, including, but not limited to, Zoning Regulations, Building Regulations, Grading Regulations, Stormwater Regulations, Heritage Tree Ordinance, Significant Tree Ordinance, and the International Property Maintenance Code, or any state law or regulation which the County or any of its Departments are charged with enforcing at the local level as the local enforcement agency.</text>
-      <text>(Ord. No. 04648, § 1, 1-8-2013; Ord. No. 04744, § 2, 10-6-2015)</text>
+      <annotations>
+        <annotation type="history">Ord. No. 04648, § 1, 1-8-2013</annotation>
+        <annotation type="history">Ord. No. 04744, § 2, 10-6-2015</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.40.040</num>
       <heading>Applicability.</heading>
-      <text>The County may impose administrative penalties and compliance orders for any violation of this code, any County ordinance or any state law or regulation which the County or any of its Departments are charged with enforcing as the local enforcement agency. Administrative penalties shall be imposed, collected, and reviewed in compliance with this chapter. These provisions shall not supersede any other sections of this code, other County ordinances, or state laws and regulations which address additional legal or administrative remedies available for certain specific violations.</text>
-      <text>(Ord. No. 04648, § 1, 1-8-2013; Ord. No. 04744, § 3, 10-6-2015)</text>
+      <text>The County may impose administrative penalties and compliance orders for any violation of this code, any County ordinance or any state law or regulation which the County or any of its Departments are charged with enforcing as the local enforcement agency. Administrative penalties shall be imposed, collected, and reviewed in compliance with <cite path="1.40">this chapter</cite>. These provisions shall not supersede any other sections of this code, other County ordinances, or state laws and regulations which address additional legal or administrative remedies available for certain specific violations.</text>
+      <annotations>
+        <annotation type="history">Ord. No. 04648, § 1, 1-8-2013</annotation>
+        <annotation type="history">Ord. No. 04744, § 3, 10-6-2015</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.40.050</num>
       <heading>Administrative citations—Penalties and orders.</heading>
       <para>
         <num>(a)</num>
-        <text>Authority. Whenever an Enforcement Officer determines that a violation has occurred, the Enforcement Officer shall have the authority to follow the provisions of this chapter to issue an administrative penalty to any and all persons responsible for the violation (including the property owner) and/or to order correction of the violation. These procedures shall not apply where violations present emergencies or immediate danger to public health and safety.</text>
+        <text>Authority. Whenever an Enforcement Officer determines that a violation has occurred, the Enforcement Officer shall have the authority to follow the provisions of <cite path="1.40">this chapter</cite> to issue an administrative penalty to any and all persons responsible for the violation (including the property owner) and/or to order correction of the violation. These procedures shall not apply where violations present emergencies or immediate danger to public health and safety.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -895,20 +1094,25 @@
           <text>Name and signature of the citing Enforcement Officer.</text>
         </para>
       </para>
-      <text>(Ord. No. 04648, § 1, 1-8-2013; Ord. No. 04744, § 4, 10-6-2015)</text>
+      <annotations>
+        <annotation type="history">Ord. No. 04648, § 1, 1-8-2013</annotation>
+        <annotation type="history">Ord. No. 04744, § 4, 10-6-2015</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.40.060</num>
       <heading>Notices.</heading>
       <para>
         <num>(a)</num>
-        <text>Whenever notice is required to be given under this chapter, unless different provisions are otherwise specifically made, such notice may be given either by (1) personal delivery to the person to be notified, or (2) if the violation involves real property, by posting on the property and by depositing in the United States Mail, in a sealed envelope, postage prepaid, and addressed to such person to be notified at the last-known business or residence address as the same appears in the last equalized County assessment roll or to the records pertaining to the matter. Service by mail shall be deemed completed at the time of deposit in the United States Mail receptacle.</text>
+        <text>Whenever notice is required to be given under <cite path="1.40">this chapter</cite>, unless different provisions are otherwise specifically made, such notice may be given either by (1) personal delivery to the person to be notified, or (2) if the violation involves real property, by posting on the property and by depositing in the United States Mail, in a sealed envelope, postage prepaid, and addressed to such person to be notified at the last-known business or residence address as the same appears in the last equalized County assessment roll or to the records pertaining to the matter. Service by mail shall be deemed completed at the time of deposit in the United States Mail receptacle.</text>
       </para>
       <para>
         <num>(b)</num>
         <text>Failure to receive any notice specified herein does not affect the validity of proceedings conducted hereunder.</text>
       </para>
-      <text>(Ord. No. 04648, § 1, 1-8-2013)</text>
+      <annotations>
+        <annotation type="history">Ord. No. 04648, § 1, 1-8-2013</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.40.070</num>
@@ -921,7 +1125,9 @@
         <num>(b)</num>
         <text>The schedule of penalties shall specify the amount of any late payment charges imposed for the payment of a penalty after its due date. Penalties shall accrue interest at the same annual rate as any civil judgment. Interest shall accrue commencing on the twentieth (20th) day after the penalty becomes the final decision or order.</text>
       </para>
-      <text>(Ord. No. 04648, § 1, 1-8-2013)</text>
+      <annotations>
+        <annotation type="history">Ord. No. 04648, § 1, 1-8-2013</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.40.080</num>
@@ -934,7 +1140,9 @@
         <num>(b)</num>
         <text>Payment of a penalty shall not excuse or discharge any continuation or repeated occurrence of a violation that is the subject of the administrative citation.</text>
       </para>
-      <text>(Ord. No. 04648, § 1, 1-8-2013)</text>
+      <annotations>
+        <annotation type="history">Ord. No. 04648, § 1, 1-8-2013</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.40.090</num>
@@ -947,13 +1155,17 @@
         <num>(b)</num>
         <text>A Request for Hearing Form may be obtained from the Department and person specified on the administrative citation. The Request for Hearing Form shall include a brief statement of material facts supporting the appellant's claim that no violation occurred or no penalties or other remedies shall be imposed.</text>
       </para>
-      <text>(Ord. No. 04648, § 1, 1-8-2013)</text>
+      <annotations>
+        <annotation type="history">Ord. No. 04648, § 1, 1-8-2013</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.40.100</num>
       <heading>Hearing officer.</heading>
       <text>The Director shall designate a Hearing Officer for the appeal hearings. The employment, performance evaluation, compensation and benefits of the Hearing Officer shall not be directly or indirectly conditioned upon the amount of administrative citations upheld by the Hearing Officer.</text>
-      <text>(Ord. No. 04648, § 1, 1-8-2013)</text>
+      <annotations>
+        <annotation type="history">Ord. No. 04648, § 1, 1-8-2013</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.40.110</num>
@@ -967,12 +1179,12 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>If an appellant appeals pursuant to the procedures set forth in section 1.40.090, including deposit of a penalty, a hearing will be arranged before the Hearing Officer.</text>
+          <text>If an appellant appeals pursuant to the procedures set forth in <cite path="1.40.090">section 1.40.090</cite>, including deposit of a penalty, a hearing will be arranged before the Hearing Officer.</text>
         </para>
       </para>
       <para>
         <num>(b)</num>
-        <text>The appeal hearing shall be set for a date that is not less than fifteen (15) days and not more than sixty (60) days from the date that the Request for Hearing is filed in accordance with the provisions of this chapter, unless the Director determines that the matter is urgent or that good cause exists for an extension of time. The appellant shall receive notice of the time and place at least ten (10) days prior to the hearing.</text>
+        <text>The appeal hearing shall be set for a date that is not less than fifteen (15) days and not more than sixty (60) days from the date that the Request for Hearing is filed in accordance with the provisions of <cite path="1.40">this chapter</cite>, unless the Director determines that the matter is urgent or that good cause exists for an extension of time. The appellant shall receive notice of the time and place at least ten (10) days prior to the hearing.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -990,7 +1202,9 @@
         <num>(f)</num>
         <text>The administrative citation and any additional report submitted by the Enforcement Officer shall constitute prima facie evidence of the respective facts contained in those documents.</text>
       </para>
-      <text>(Ord. No. 04648, § 1, 1-8-2013)</text>
+      <annotations>
+        <annotation type="history">Ord. No. 04648, § 1, 1-8-2013</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.40.120</num>
@@ -1019,13 +1233,17 @@
         <num>(f)</num>
         <text>The decision of the Hearing Officer shall be the final decision of the County. To the extent allowed by law, the decision and administrative order shall have the same force and effect as a resolution of the County Board of Supervisors for the purpose of filing a lien, special assessment, or for pursuing any other method of collection.</text>
       </para>
-      <text>(Ord. No. 04648, § 1, 1-8-2013)</text>
+      <annotations>
+        <annotation type="history">Ord. No. 04648, § 1, 1-8-2013</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.40.130</num>
       <heading>Right to judicial review.</heading>
       <text>Any person aggrieved by an administrative decision of a Hearing Officer on an administrative citation may obtain review of the administrative decision by filing a petition for review with the Superior Court in San Mateo County in accordance with the timelines and provisions set forth in California Government Code section 53069.4 and Civil Code Sections 1094.5 and 1094.6.</text>
-      <text>(Ord. No. 04648, § 1, 1-8-2013)</text>
+      <annotations>
+        <annotation type="history">Ord. No. 04648, § 1, 1-8-2013</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.40.140</num>
@@ -1038,7 +1256,9 @@
         <num>(b)</num>
         <text>The cost of any such abatement by the County shall be borne by the property owner, which cost shall include any administrative costs allowed by law as well as the actual costs of abatement.</text>
       </para>
-      <text>(Ord. No. 04648, § 1, 1-8-2013)</text>
+      <annotations>
+        <annotation type="history">Ord. No. 04648, § 1, 1-8-2013</annotation>
+      </annotations>
     </section>
     <section>
       <num>1.40.150</num>
@@ -1051,7 +1271,9 @@
         <num>(b)</num>
         <text>The County may collect any abatement and administrative costs by use of any and all available legal means, including, but not limited to, a personal obligation against the property owner, or as a lien or special assessment recorded on the property.</text>
       </para>
-      <text>(Ord. No. 04648, § 1, 1-8-2013)</text>
+      <annotations>
+        <annotation type="history">Ord. No. 04648, § 1, 1-8-2013</annotation>
+      </annotations>
     </section>
   </container>
 </container>
