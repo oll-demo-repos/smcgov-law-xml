@@ -7,7 +7,7 @@
     <prefix>Chapter</prefix>
     <num>4.04</num>
     <heading>SOLID WASTE COLLECTION, TRANSPORT, STORAGE, AND DISPOSAL</heading>
-    <annotation type="Editor's Notes">1 — Ord. No. 04528, §1, adopted November 30, 2010, amended Ch. 4.04, in its entirety, to read as herein set out. Prior to inclusion of said ordinance, Ch. 4.04 pertained to garbage collection and disposal. See also the Code Comparative Table and Disposition List.</annotation>
+    <annotation type="Editor's Notes" dest="container">1 — Ord. No. 04528, §1, adopted November 30, 2010, amended Ch. 4.04, in its entirety, to read as herein set out. Prior to inclusion of said ordinance, Ch. 4.04 pertained to garbage collection and disposal. See also the Code Comparative Table and Disposition List.</annotation>
     <section>
       <num>4.04.010</num>
       <heading>Definitions—Solid Waste Collection, Transport, Storage and Disposal.</heading>
@@ -4485,7 +4485,7 @@
     <prefix>Chapter</prefix>
     <num>4.72</num>
     <heading>BACKFLOW PREVENTION</heading>
-    <annotation type="Editor's Notes">2 — Ord. No. 04643, § 1, adopted January 8, 2013, repealed §<cite path="4.72.010">§ 4.72.010</cite>-<cite path="4.72.130">4.72.130</cite>, and enacted provisions designated as new §<cite path="4.72.010">§ 4.72.010</cite>-<cite path="4.72.130">4.72.130</cite>. Section 2 of said ordinance enacted new provisions designated as §<cite path="4.72.140">§ 4.72.140</cite> and <cite path="4.72.150">4.72.150</cite>. The repealed sections derived from prior code § 4750, 4751, 4760 and 4770-4779; Ord. No. 2413, adopted January 11, 1977; Ord. No. 2514, adopted June 20, 1978; Ord. No. 3066, adopted May 14, 1986 and Ord. No. 3497, adopted June 8, 1993.</annotation>
+    <annotation type="Editor's Notes" dest="container">2 — Ord. No. 04643, § 1, adopted January 8, 2013, repealed §<cite path="4.72.010">§ 4.72.010</cite>-<cite path="4.72.130">4.72.130</cite>, and enacted provisions designated as new §<cite path="4.72.010">§ 4.72.010</cite>-<cite path="4.72.130">4.72.130</cite>. Section 2 of said ordinance enacted new provisions designated as §<cite path="4.72.140">§ 4.72.140</cite> and <cite path="4.72.150">4.72.150</cite>. The repealed sections derived from prior code § 4750, 4751, 4760 and 4770-4779; Ord. No. 2413, adopted January 11, 1977; Ord. No. 2514, adopted June 20, 1978; Ord. No. 3066, adopted May 14, 1986 and Ord. No. 3497, adopted June 8, 1993.</annotation>
     <section>
       <num>4.72.010</num>
       <heading>Purpose and authority.</heading>
@@ -4740,7 +4740,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Pursuant to section 116820 of California Health and Safety Code, any person who violates any provision of Article 2 of Chapter 5 of Part 12 of Division 104 of the California Health and Safety Code, violates any order of Environmental Health pursuant to this article, or knowingly files a false statement or report required by Environmental Health pursuant to this article is guilty of a misdemeanor punishable by a fine not exceeding five hundred dollars ($500.00) or by imprisonment not exceeding 30 days in the county jail or by both such fine and imprisonment. Each day of a violation of any provision of Article 2 or of any order of Environmental Health beyond the time stated for compliance of the order shall be a separate offense.</text>
+        <text>Pursuant to section 116820 of California Health and Safety Code, any person who violates any provision of Article 2 of Chapter 5 of Part 12 of Division 104 of the California Health and Safety Code, violates any order of Environmental Health pursuant to <cite>this article</cite>, or knowingly files a false statement or report required by Environmental Health pursuant to <cite>this article</cite> is guilty of a misdemeanor punishable by a fine not exceeding five hundred dollars ($500.00) or by imprisonment not exceeding 30 days in the county jail or by both such fine and imprisonment. Each day of a violation of any provision of Article 2 or of any order of Environmental Health beyond the time stated for compliance of the order shall be a separate offense.</text>
       </para>
       <para>
         <num>(4)</num>
@@ -5036,10 +5036,10 @@
     <prefix>Chapter</prefix>
     <num>4.84</num>
     <heading>INDIVIDUAL SEWAGE DISPOSAL SYSTEMS</heading>
-    <annotation type="Editor's Notes">3 — Ord. No. 04754, § 1, adopted January 15, 2016, repealed the former <cite path="4.84">chapter 4.84</cite>, §<cite path="4.84.010">§ 4.84.010</cite>-<cite path="4.84.130">4.84.130</cite>, and enacted a new c<cite path="4.84">Chapter 4.84</cite> as set out herein. The former <cite path="4.84">chapter 4.84</cite> pertained to similar subject matter and derived from prior code §§ 4890-4895, 4900-4902 and 4910-4913; Ord. No. 2715, adopted December 23, 1980 and Ord. No. 4438, adopted September 9, 2008.</annotation>
+    <annotation type="Editor's Notes" dest="container">3 — Ord. No. 04754, § 1, adopted January 15, 2016, repealed the former <cite path="4.84">chapter 4.84</cite>, §<cite path="4.84.010">§ 4.84.010</cite>-<cite path="4.84.130">4.84.130</cite>, and enacted a new c<cite path="4.84">Chapter 4.84</cite> as set out herein. The former <cite path="4.84">chapter 4.84</cite> pertained to similar subject matter and derived from prior code §§ 4890-4895, 4900-4902 and 4910-4913; Ord. No. 2715, adopted December 23, 1980 and Ord. No. 4438, adopted September 9, 2008.</annotation>
     <container>
       <prefix>ARTICLE</prefix>
-      <num>1.</num>
+      <num path-omit="true">1.</num>
       <heading>DEFINITIONS AND GENERAL PROVISIONS</heading>
       <section>
         <num>4.84.010</num>
@@ -5212,7 +5212,7 @@
     </container>
     <container>
       <prefix>ARTICLE</prefix>
-      <num>2.</num>
+      <num path-omit="true">2.</num>
       <heading>CERTIFICATIONS</heading>
       <section>
         <num>4.84.045</num>
@@ -5358,7 +5358,7 @@
     </container>
     <container>
       <prefix>ARTICLE</prefix>
-      <num>3.</num>
+      <num path-omit="true">3.</num>
       <heading>GENERAL REQUIREMENTS AND PROHIBITIONS</heading>
       <section>
         <num>4.84.065</num>
@@ -5540,7 +5540,7 @@
     </container>
     <container>
       <prefix>ARTICLE</prefix>
-      <num>4.</num>
+      <num path-omit="true">4.</num>
       <heading>OWTS SITING AND DESIGN</heading>
       <section>
         <num>4.84.115</num>
@@ -5789,7 +5789,7 @@
     </container>
     <container>
       <prefix>ARTICLE</prefix>
-      <num>5.</num>
+      <num path-omit="true">5.</num>
       <heading>ALTERNATIVE OWTS</heading>
       <section>
         <num>4.84.145</num>
@@ -5938,7 +5938,7 @@
     </container>
     <container>
       <prefix>ARTICLE</prefix>
-      <num>6.</num>
+      <num path-omit="true">6.</num>
       <heading>ADVANCED PROTECTION MANAGEMENT PROGRAM</heading>
       <section>
         <num>4.84.170</num>
@@ -6020,7 +6020,7 @@
     </container>
     <container>
       <prefix>ARTICLE</prefix>
-      <num>7.</num>
+      <num path-omit="true">7.</num>
       <heading>EXEMPTIONS AND ENFORCEMENT</heading>
       <section>
         <num>4.84.185</num>
@@ -6737,7 +6737,7 @@
     <prefix>Chapter</prefix>
     <num>4.92</num>
     <heading>HAZARDOUS MATERIALS STORAGE ORDINANCE</heading>
-    <annotation type="Editor's Notes">4 — Ord. No. 04801, adopted July 10, 2018, repealed the former Ch. 4.92, §<cite path="4.92.010">§ 4.92.010</cite>-<cite path="4.92.330">4.92.330</cite>, and enacted a new Ch. 4.92 as set out herein. The former Ch. 4.92 pertained to storage of hazardous substances. See Code Comparative Table and Disposition List for complete derivation.</annotation>
+    <annotation type="Editor's Notes" dest="container">4 — Ord. No. 04801, adopted July 10, 2018, repealed the former Ch. 4.92, §<cite path="4.92.010">§ 4.92.010</cite>-<cite path="4.92.330">4.92.330</cite>, and enacted a new Ch. 4.92 as set out herein. The former Ch. 4.92 pertained to storage of hazardous substances. See Code Comparative Table and Disposition List for complete derivation.</annotation>
     <section>
       <num>4.92.010</num>
       <heading>Purpose.</heading>

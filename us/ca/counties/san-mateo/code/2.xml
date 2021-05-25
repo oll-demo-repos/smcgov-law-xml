@@ -5,7 +5,7 @@
   <heading>ADMINISTRATION</heading>
   <container>
     <prefix>Article</prefix>
-    <num>2.0</num>
+    <num path-omit="true">2.0</num>
     <heading>COUNTY STRUCTURE</heading>
     <container>
       <prefix>Chapter</prefix>
@@ -562,7 +562,7 @@
   </container>
   <container>
     <prefix>Article</prefix>
-    <num>2.1</num>
+    <num path-omit="true">2.1</num>
     <heading>COUNTY ADMINISTRATION</heading>
     <container>
       <prefix>Chapter</prefix>
@@ -1110,7 +1110,7 @@
   </container>
   <container>
     <prefix>Article</prefix>
-    <num>2.2</num>
+    <num path-omit="true">2.2</num>
     <heading>HEALTH SERVICES</heading>
     <container>
       <prefix>Chapter</prefix>
@@ -1615,7 +1615,7 @@
   </container>
   <container>
     <prefix>Article</prefix>
-    <num>2.3</num>
+    <num path-omit="true">2.3</num>
     <heading>HUMAN SERVICES AND HOUSING</heading>
     <container>
       <prefix>Chapter</prefix>
@@ -1806,7 +1806,7 @@
   </container>
   <container>
     <prefix>Article</prefix>
-    <num>2.4</num>
+    <num path-omit="true">2.4</num>
     <heading>PUBLIC SAFETY AND THE ADMINISTRATION OF JUSTICE</heading>
     <container>
       <prefix>Chapter</prefix>
@@ -1884,7 +1884,7 @@
       <prefix>Chapter</prefix>
       <num>2.42</num>
       <heading>DISTRICT ATTORNEY</heading>
-      <annotation type="Editor's Notes">2 — Ord. No. 04571, § 2, May 24, 2011, effective July 1, 2011, amended the title of Ch. 2.42 to read as herein set out. Prior to inclusion of said ordinance, Ch. 2.42 was titled, "District Attorney and Public Administrator." See also the Code Comparative Table and Disposition Table.</annotation>
+      <annotation type="Editor's Notes" dest="container">2 — Ord. No. 04571, § 2, May 24, 2011, effective July 1, 2011, amended the title of Ch. 2.42 to read as herein set out. Prior to inclusion of said ordinance, Ch. 2.42 was titled, "District Attorney and Public Administrator." See also the Code Comparative Table and Disposition Table.</annotation>
       <section>
         <num>2.42.010</num>
         <heading>District Attorney.</heading>
@@ -2590,7 +2590,7 @@
   </container>
   <container>
     <prefix>Article</prefix>
-    <num>2.5</num>
+    <num path-omit="true">2.5</num>
     <heading>PUBLIC WORKS AND COUNTY PROPERTY</heading>
     <container>
       <prefix>Chapter</prefix>
@@ -3378,7 +3378,7 @@
       <prefix>Chapter</prefix>
       <num>2.55</num>
       <heading>PROCEDURES FOR CONTRACTING FOR PUBLIC PROJECTS</heading>
-      <annotation type="Editor's Notes">3 — Ord. No. 04462, § 1, adopted February 10, 2009, amended the Code by adding provisions designated as a new Ch. 2.54. Inasmuch as there already exist provisions so designated, said ordinance has been included herein as a new Ch. 2.55 at the discretion of the editor. See also the Code Comparative Table and Disposition List.</annotation>
+      <annotation type="Editor's Notes" dest="container">3 — Ord. No. 04462, § 1, adopted February 10, 2009, amended the Code by adding provisions designated as a new Ch. 2.54. Inasmuch as there already exist provisions so designated, said ordinance has been included herein as a new Ch. 2.55 at the discretion of the editor. See also the Code Comparative Table and Disposition List.</annotation>
       <section>
         <num>2.55.010</num>
         <heading>Definitions.</heading>
@@ -3414,7 +3414,7 @@
         <heading>Competitive bidding on construction or repair contracts—When required.</heading>
         <para>
           <num>(a)</num>
-          <text>Public projects exceeding two hundred thousand dollars ($200,000.00) shall, except as otherwise provided in this article, be let to contract by formal bidding procedures set forth in the California Public Contract Code.</text>
+          <text>Public projects exceeding two hundred thousand dollars ($200,000.00) shall, except as otherwise provided in <cite>this article</cite>, be let to contract by formal bidding procedures set forth in the California Public Contract Code.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3457,7 +3457,7 @@
   </container>
   <container>
     <prefix>Article</prefix>
-    <num>2.6</num>
+    <num path-omit="true">2.6</num>
     <heading>PLANNING AND PARKS</heading>
     <container>
       <prefix>Chapter</prefix>
@@ -3844,7 +3844,7 @@
   </container>
   <container>
     <prefix>Article</prefix>
-    <num>2.7</num>
+    <num path-omit="true">2.7</num>
     <heading>COUNTY EMPLOYMENT</heading>
     <container>
       <prefix>Chapter</prefix>
@@ -5082,7 +5082,7 @@
   </container>
   <container>
     <prefix>Article</prefix>
-    <num>2.8</num>
+    <num path-omit="true">2.8</num>
     <heading>INTERNAL FINANCIAL PROCEDURES AND COUNTY CONTRACTS</heading>
     <container>
       <prefix>Chapter</prefix>
@@ -5264,7 +5264,7 @@
       <prefix>Chapter</prefix>
       <num>2.83</num>
       <heading>PURCHASING PROCEDURES</heading>
-      <annotation type="Editor's Notes">4 — Ord. No. 04781, § 2, adopted Aug. 8, 2017, amended Ch. 2.83 in its entirety to read as herein set out. Former Ch. 2.83, §<cite path="2.83.010">§ 2.83.010</cite>-<cite path="2.83.170">2.83.170</cite>, pertained to similar subject matter and derived from Ord. 4324, adopted Aug. 15, 2006.</annotation>
+      <annotation type="Editor's Notes" dest="container">4 — Ord. No. 04781, § 2, adopted Aug. 8, 2017, amended Ch. 2.83 in its entirety to read as herein set out. Former Ch. 2.83, §<cite path="2.83.010">§ 2.83.010</cite>-<cite path="2.83.170">2.83.170</cite>, pertained to similar subject matter and derived from Ord. 4324, adopted Aug. 15, 2006.</annotation>
       <section>
         <num>2.83.010</num>
         <heading>Purchasing Agent.</heading>
@@ -5458,7 +5458,7 @@
       <prefix>Chapter</prefix>
       <num>2.84</num>
       <heading>CONTRACTS: EQUAL BENEFITS AND NON-DISCRIMINATION ENFORCEMENT</heading>
-      <annotation type="Editor's Notes">5 — Ord. No. 04757, § 2, adopted May 24, 2016, in effect repealed the former <cite path="2.84">chapter 2.84</cite>, §<cite path="2.84.010">§ 2.84.010</cite>-<cite path="2.84.050">2.84.050</cite>, and enacted a new <cite path="2.84">chapter 2.84</cite> as set out herein. The former <cite path="2.84">chapter 2.84</cite> pertained to contracts—equal benefits and derived from Ord. No. 4324, adopted August 15, 2006.</annotation>
+      <annotation type="Editor's Notes" dest="container">5 — Ord. No. 04757, § 2, adopted May 24, 2016, in effect repealed the former <cite path="2.84">chapter 2.84</cite>, §<cite path="2.84.010">§ 2.84.010</cite>-<cite path="2.84.050">2.84.050</cite>, and enacted a new <cite path="2.84">chapter 2.84</cite> as set out herein. The former <cite path="2.84">chapter 2.84</cite> pertained to contracts—equal benefits and derived from Ord. No. 4324, adopted August 15, 2006.</annotation>
       <section>
         <num>2.84.010</num>
         <heading>Applicability.</heading>
@@ -6185,7 +6185,7 @@
   </container>
   <container>
     <prefix>Article</prefix>
-    <num>2.9</num>
+    <num path-omit="true">2.9</num>
     <heading>TAXPAYER SERVICES AND RECORDATION OF OFFICIAL ACTS</heading>
     <container>
       <prefix>Chapter</prefix>

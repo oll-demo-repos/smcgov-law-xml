@@ -1476,7 +1476,7 @@
     <prefix>Chapter</prefix>
     <num>5.44</num>
     <heading>MASSAGE BUSINESSES</heading>
-    <annotation type="Editor's Notes">1 — Ord. No. 04601, § 2, adopted January 31, 2012, repealed the former <cite path="5.44">Chapter 5.44</cite>, §<cite path="5.44.010">§ 5.44.010</cite>-<cite path="5.44.170">5.44.170</cite>, and § 3 of Ord. No. 04601 enacted a new <cite path="5.44">Chapter 5.44</cite> as set out herein. The former <cite path="5.44">Chapter 5.44</cite> pertained to massage establishments and derived from prior code §§ 5131.0-5131.16; Ord. No. 2175, adopted January 16, 1973; Ord. No. 3113, adopted June 16, 1987 and Ord. No. 3301, adopted March 12, 1991.</annotation>
+    <annotation type="Editor's Notes" dest="container">1 — Ord. No. 04601, § 2, adopted January 31, 2012, repealed the former <cite path="5.44">Chapter 5.44</cite>, §<cite path="5.44.010">§ 5.44.010</cite>-<cite path="5.44.170">5.44.170</cite>, and § 3 of Ord. No. 04601 enacted a new <cite path="5.44">Chapter 5.44</cite> as set out herein. The former <cite path="5.44">Chapter 5.44</cite> pertained to massage establishments and derived from prior code §§ 5131.0-5131.16; Ord. No. 2175, adopted January 16, 1973; Ord. No. 3113, adopted June 16, 1987 and Ord. No. 3301, adopted March 12, 1991.</annotation>
     <section>
       <num>5.44.010</num>
       <heading>Purpose and intent.</heading>
@@ -6515,7 +6515,7 @@
     <prefix>Chapter</prefix>
     <num>5.104</num>
     <heading>CABLE TELEVISION FRANCHISES</heading>
-    <annotation type="Editor's Notes">3 — Ord. No. 04453, § 1, adopted December 9, 2008, repealed §§ 5.104.010-5.104.060, and enacted provisions designated as new §§ 5.104.010-5.104.060. Section 2 of said ordinance enacted new provisions designated as §§ 5.104.070-5.104.120. See also the Code Comparative Table and Disposition List for a detailed analysis.</annotation>
+    <annotation type="Editor's Notes" dest="container">3 — Ord. No. 04453, § 1, adopted December 9, 2008, repealed §§ 5.104.010-5.104.060, and enacted provisions designated as new §§ 5.104.010-5.104.060. Section 2 of said ordinance enacted new provisions designated as §§ 5.104.070-5.104.120. See also the Code Comparative Table and Disposition List for a detailed analysis.</annotation>
     <section>
       <num>5.104.010</num>
       <heading>Purpose and implementation.</heading>
@@ -7871,7 +7871,7 @@
     <prefix>Chapter</prefix>
     <num>5.144</num>
     <heading>REGISTRATION CERTIFICATION AND FEE FOR POINT-OF-SALE SYSTEMS</heading>
-    <annotation type="Editor's Notes">5 — Ord. No. 04765, § 1, adopted 11-15-2016, repealed the former <cite path="5.14">Chapter 5.14</cite>4, §§ 5.144.010-5.144.070, and enacted a new <cite path="5.14">Chapter 5.14</cite>4 as set out herein. The former <cite path="5.14">Chapter 5.14</cite>4 pertained to similar subject matter and derived from Ord. No. 4379, adopted June 26, 2007; Ord. No. 4405, adopted January 8, 2007 and Ord. No. 04473, adopted June 9, 2009.</annotation>
+    <annotation type="Editor's Notes" dest="container">5 — Ord. No. 04765, § 1, adopted 11-15-2016, repealed the former <cite path="5.14">Chapter 5.14</cite>4, §§ 5.144.010-5.144.070, and enacted a new <cite path="5.14">Chapter 5.14</cite>4 as set out herein. The former <cite path="5.14">Chapter 5.14</cite>4 pertained to similar subject matter and derived from Ord. No. 4379, adopted June 26, 2007; Ord. No. 4405, adopted January 8, 2007 and Ord. No. 04473, adopted June 9, 2009.</annotation>
     <section>
       <num>5.144.010</num>
       <heading>Definitions.</heading>
@@ -8066,7 +8066,7 @@
     <prefix>Chapter</prefix>
     <num>5.148</num>
     <heading>REGULATIONS OF CANNABIS IN THE UNINCORPORATED AREA OF SAN MATEO COUNTY</heading>
-    <annotation type="Editor's Notes">6 — Ord. No. 04797, § 2, adopted March 13, 2018, repealed the former Ch. 5.148, §§ 5.148.010-5.148.100, and enacted a new Ch. 5.148 as set out herein. The former Ch. 5.148 pertained to regulation of collective cultivation and distribution of medical marijuana and derived from Ord. No. 04468, § 1, 5-5-09.</annotation>
+    <annotation type="Editor's Notes" dest="container">6 — Ord. No. 04797, § 2, adopted March 13, 2018, repealed the former Ch. 5.148, §§ 5.148.010-5.148.100, and enacted a new Ch. 5.148 as set out herein. The former Ch. 5.148 pertained to regulation of collective cultivation and distribution of medical marijuana and derived from Ord. No. 04468, § 1, 5-5-09.</annotation>
     <section>
       <num>5.148.010</num>
       <heading>Title.</heading>
@@ -9294,7 +9294,7 @@
     <prefix>Chapter</prefix>
     <num>5.152</num>
     <heading>RETAIL TRANSACTIONS (SALES) AND USE TAX</heading>
-    <annotation type="Editor's Notes">7 — Ord. No. 04630, § 1, adopted July 13, 2012, set out provisions intended for use as <cite path="5.15">Chapter 5.15</cite>0. As a <cite path="5.15">Chapter 5.15</cite>0 already exists and is not intended to be amended or replaced, the editors have included Ordinance No. 04630 instead as <cite path="5.15">Chapter 5.15</cite>2 and <cite path="5.15">Chapter 5.15</cite>0 shall remain in effect as is.</annotation>
+    <annotation type="Editor's Notes" dest="container">7 — Ord. No. 04630, § 1, adopted July 13, 2012, set out provisions intended for use as <cite path="5.15">Chapter 5.15</cite>0. As a <cite path="5.15">Chapter 5.15</cite>0 already exists and is not intended to be amended or replaced, the editors have included Ordinance No. 04630 instead as <cite path="5.15">Chapter 5.15</cite>2 and <cite path="5.15">Chapter 5.15</cite>0 shall remain in effect as is.</annotation>
     <section>
       <num>5.152.010</num>
       <heading>Title.</heading>
@@ -9724,7 +9724,7 @@
       <heading>Alternatives to payment of housing impact fee.</heading>
       <para>
         <num>A.</num>
-        <text>As an alternative to compliance with the basic provisions included in Section 5.154.130 of this article, developers of development projects may propose to mitigate the affordable housing impacts of such development through the construction of affordable units on site or through an alternative mitigation program proposed by the developer and approved by the County's Community Development Director, including, but not limited to, the provision of affordable housing units off-site, conveyance of land for the construction of affordable housing units, or purchase of existing market rate units for conversion to affordable housing units.</text>
+        <text>As an alternative to compliance with the basic provisions included in Section 5.154.130 of <cite path="5.154">this article</cite>, developers of development projects may propose to mitigate the affordable housing impacts of such development through the construction of affordable units on site or through an alternative mitigation program proposed by the developer and approved by the County's Community Development Director, including, but not limited to, the provision of affordable housing units off-site, conveyance of land for the construction of affordable housing units, or purchase of existing market rate units for conversion to affordable housing units.</text>
       </para>
       <para>
         <num>B.</num>
