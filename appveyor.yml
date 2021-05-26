@@ -38,9 +38,9 @@ install:
 
 before_build:
   - ps: Copy-Item $env:APPVEYOR_BUILD_FOLDER '..\smcgov\law-xml' -Recurse
-  - git clone --depth 1 git@github.com:smcgov/law-xml-codified-preview.git ..\smcgov\law-xml-codified-preview
-  - git clone --depth 1 git@github.com:smcgov/law-html-preview.git ..\smcgov\law-html-preview
-  - git clone  git@github.com:smcgov/law.git ..\law
+  - git clone --depth 1 git@github.com:oll-demo-repos/smcgov-law-xml-codified-preview.git ..\smcgov\law-xml-codified-preview
+  - git clone --depth 1 git@github.com:oll-demo-repos/smcgov-law-html-preview.git ..\smcgov\law-html-preview
+  - git clone  git@github.com:oll-demo-repos/smcgov-law.git ..\law
   
   # install versioned resources (if and only if the build is a tag or cron build)
   - "%PYTHON%\\python.exe -m pip -q install -r requirements.txt"
