@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="County of San Mateo, Cal., Ord. No. 4786">
+  <heading>AN ORDINANCE AMENDING CHAPTER 7.04 OF THE SAN MATEO COUNTY ORDINANCE CODE TO ESTABLISH A SPEED LIMIT OF 25 MILES PER HOUR ON SECTIONS OF SANTA CRUZ AVENUE AND ALAMEDA DE LAS PULGAS IN MENLO PARK</heading>
+  <meta>
+    <stub/>
+    <effective></effective>
+    <history>
+      <adopted>2017-10-31</adopted>
+    </history>
+    <citations>
+      <citation type="law" url="./adopted/4786.pdf">County of San Mateo, Cal., Ord. No. 4786</citation>
+    </citations>
+  </meta>
+</document>

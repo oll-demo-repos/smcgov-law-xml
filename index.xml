@@ -14,4 +14,19 @@
     </canonical-urls>
   </meta>
   <xi:include href="./us/ca/counties/san-mateo/code/index.xml"/>
+  <collection name="us/ca/counties/san-mateo/ordinances">
+    <heading>Ordinances</heading>
+    <xi:include href="./us/ca/counties/san-mateo/ordinances/2020/index.xml"/>
+    <xi:include href="./us/ca/counties/san-mateo/ordinances/2019/index.xml"/>
+    <xi:include href="./us/ca/counties/san-mateo/ordinances/2018/index.xml"/>
+    <xi:include href="./us/ca/counties/san-mateo/ordinances/2017/index.xml"/>
+    <xi:include href="./us/ca/counties/san-mateo/ordinances/2016/index.xml"/>
+    <xi:include href="./us/ca/counties/san-mateo/ordinances/2015/index.xml"/>
+    <xi:include href="./us/ca/counties/san-mateo/ordinances/2014/index.xml"/>
+    <xi:include href="./us/ca/counties/san-mateo/ordinances/2013/index.xml"/>
+    <xi:include href="./us/ca/counties/san-mateo/ordinances/2012/index.xml"/>
+    <xi:include href="./us/ca/counties/san-mateo/ordinances/2011/index.xml"/>
+    <xi:include href="./us/ca/counties/san-mateo/ordinances/2010/index.xml"/>
+    <xi:include href="./us/ca/counties/san-mateo/ordinances/2009/index.xml"/>
+  </collection>
 </library>

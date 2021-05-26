@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="County of San Mateo, Cal., Ord. No. 4837">
+  <heading>AN ORDINANCE AMENDING: (1) SECTION 2.84.030 OF CHAPTER 2.84, SECTIONS 2.85.010 AND 2.85.020 OF CHAPTER 2.85, AND SECTION 2.88.020 OF CHAPTER 2.88 OF THE SAN MATEO COUNTY ORDINANCE CODE TO ALIGN WITH CHANGES TO THE GOVERNMENT CODE AND ADMINISTRATIVE MEMO B-1; AND (2) SECTION 2.88.020 OF CHAPTER 2.88 OF THE SAN MATEO COUNTY ORDINANCE CODE TO USE THE SAME TERM AS THE UNITED STATES DEPARTMENT OF LABOR, BUREAU OF LABOR STATISTICS FOR THE METROPOLITAN AREA THAT INCLUDES SAN MATEO COUNTY</heading>
+  <meta>
+    <stub/>
+    <effective></effective>
+    <history>
+      <adopted>2020-11-17</adopted>
+    </history>
+    <citations>
+      <citation type="law" url="./adopted/4837.pdf">County of San Mateo, Cal., Ord. No. 4837</citation>
+    </citations>
+  </meta>
+</document>
