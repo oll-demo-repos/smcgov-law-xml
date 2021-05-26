@@ -1,1 +1,1 @@
-oll-partners # oll.partners.us.ca.counties.san_mateo
+oll-partners~=2.2.0 # oll.partners.us.ca.counties.san_mateo
