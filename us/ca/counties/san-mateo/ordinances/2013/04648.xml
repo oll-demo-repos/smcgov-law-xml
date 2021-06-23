@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="County of San Mateo, Cal., Ord. No. 04648">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="County of San Mateo, Cal., Ord. No. 04648">
+  <num>04648</num>
   <heading>AN ORDINANCE ADDING CHAPTER 1.40, ADMINISTRATIVE REMEDIES; CHAPTER 2.60, PLANNING AND BUILDING DEPARTMENT; CHAPTER 31, ENFORCEMENT; AND DELETING CHAPTER 31.5, ADMINISTRATIVE FINES FOR THE ZONING REGULATIONS</heading>
   <meta>
     <stub/>
-    <effective></effective>
+    <effective/>
     <history>
       <adopted>2013-01-08</adopted>
     </history>
     <citations>
-      <citation type="law" url="./adopted/04648.pdf">County of San Mateo, Cal., Ord. No. 04648</citation>
+      <citation type="ord" url="./adopted/04648.pdf">County of San Mateo, Cal., Ord. No. 04648</citation>
     </citations>
   </meta>
 </document>

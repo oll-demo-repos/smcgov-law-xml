@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="County of San Mateo, Cal., Ord. No. 04625">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="County of San Mateo, Cal., Ord. No. 04625">
+  <num>04625</num>
   <heading>AN ORDINANCE TO AMEND SECTION 4.32.020 OF CHAPTER 4.32 OF TITLE 4, SETTING SEWER SERVICE RATES FOR FISCAL YEARS 2012-13 THROUGH 2016-17 FOR EIGHT (8) DISTRICTS, SETTING SEWER SERVICE RATE FOR FISCAL YEAR 2012-13 FOR THE CRYSTAL SPRINGS COUNTY SANITATION DISTRICT, AND SETTING THE FISCAL YEAR 2012-13 SEWER SERVICE RATE AT THE SAME LEVEL AS THE FISCAL YEAR 2011-12 RATE FOR THE BURLINGAME HILLS SEWER MAINTENANCE DISTRICT</heading>
   <meta>
     <stub/>
-    <effective></effective>
+    <effective/>
     <history>
       <adopted>2012-07-24</adopted>
     </history>
     <citations>
-      <citation type="law" url="./adopted/04625.pdf">County of San Mateo, Cal., Ord. No. 04625</citation>
+      <citation type="ord" url="./adopted/04625.pdf">County of San Mateo, Cal., Ord. No. 04625</citation>
     </citations>
   </meta>
 </document>

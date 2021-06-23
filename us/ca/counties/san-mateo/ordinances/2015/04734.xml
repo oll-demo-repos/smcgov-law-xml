@@ -1,22 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="County of San Mateo, Cal., Ord. No. 04734">
-  <heading>
-
-
-
-AN ORDINANCE AMENDING SECTION 3.52.200 OF CHAPTER 3.52 (FIREARMS) OF TITLE 3 (PUBLIC SAFETY, MORALS AND WELFARE) RELATING TO THE POSSESSION AND SALE OF FIREARMS BY COUNTY OFFICIALS
-
-
-
-</heading>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="County of San Mateo, Cal., Ord. No. 04734">
+  <num>04734</num>
+  <heading>AN ORDINANCE ADDING A CHAPTER 4.97 TO TITLE 4 OF THE SAN MATEO COUNTY ORDINANCE CODE PROHIBITING SMOKING IN AND AROUND MULTI-UNIT RESIDENCES, AND AMENDING CHAPTER 4.96 TO DELETE REFERENCES TO MULTI-UNIT RESIDENCES</heading>
   <meta>
     <stub/>
-    <effective></effective>
+    <effective/>
     <history>
       <adopted>2015-03-31</adopted>
     </history>
     <citations>
-      <citation type="law" url="./adopted/04734.pdf">County of San Mateo, Cal., Ord. No. 04734</citation>
+      <citation type="ord" url="./adopted/04734.pdf">County of San Mateo, Cal., Ord. No. 04734</citation>
     </citations>
   </meta>
 </document>

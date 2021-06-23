@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<collection xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2016">
+<collection xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2016">
   <heading>2016 Ordinances</heading>
   <heading type="short">2016</heading>
-  <xi:include href="./04767.xml"/>
-  <xi:include href="./04765.xml"/>
-  <xi:include href="./04764.xml"/>
-  <xi:include href="./04761.xml"/>
-  <xi:include href="./04760.xml"/>
-  <xi:include href="./04759.xml"/>
-  <xi:include href="./04758.xml"/>
-  <xi:include href="./04757.xml"/>
-  <xi:include href="./04756.xml"/>
-  <xi:include href="./04754.xml"/>
   <xi:include href="./04753.xml"/>
+  <xi:include href="./04754.xml"/>
+  <xi:include href="./04756.xml"/>
+  <xi:include href="./04757.xml"/>
+  <xi:include href="./04758.xml"/>
+  <xi:include href="./04759.xml"/>
+  <xi:include href="./04760.xml"/>
+  <xi:include href="./04761.xml"/>
+  <xi:include href="./04764.xml"/>
+  <xi:include href="./04765.xml"/>
+  <xi:include href="./04767.xml"/>
 </collection>

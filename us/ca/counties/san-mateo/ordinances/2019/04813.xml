@@ -1,18 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="County of San Mateo, Cal., Ord. No. 04813">
-  <heading>AN ORDINANCE RESCINDING ORDINANCE 4143 AND SECTION 7.48.100 TO THE SAN MATEO COUNTY ORDINANCE CODE FOR COUNTY BRIDGE NO. 67 - CRYSTAL SPRINGS DAM BRIDGE
-
-
-
-</heading>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="County of San Mateo, Cal., Ord. No. 04813">
+  <num>04813</num>
+  <heading>AN ORDINANCE RESCINDING ORDINANCE 4143 AND SECTION 7.48.100 TO THE SAN MATEO COUNTY ORDINANCE CODE FOR COUNTY BRIDGE NO. 67 – CRYSTAL SPRINGS DAM BRIDGE</heading>
   <meta>
     <stub/>
-    <effective></effective>
+    <effective/>
     <history>
       <adopted>2019-07-09</adopted>
     </history>
     <citations>
-      <citation type="law" url="./adopted/04813.pdf">County of San Mateo, Cal., Ord. No. 04813</citation>
+      <citation type="ord" url="./adopted/04813.pdf">County of San Mateo, Cal., Ord. No. 04813</citation>
     </citations>
   </meta>
 </document>

@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="County of San Mateo, Cal., Ord. No. 04759">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="County of San Mateo, Cal., Ord. No. 04759">
+  <num>04759</num>
   <heading>AN ORDINANCE ADDING CHAPTER 2.05 TO ARTICLE 2 OF TITLE 2 OF THE SAN MATEO COUNTY ORDINANCE CODE REGARDING USE OF THE COUNTY SEAL AND LOGO</heading>
   <meta>
     <stub/>
-    <effective></effective>
+    <effective/>
     <history>
       <adopted>2016-06-07</adopted>
     </history>
     <citations>
-      <citation type="law" url="./adopted/04759.pdf">County of San Mateo, Cal., Ord. No. 04759</citation>
+      <citation type="ord" url="./adopted/04759.pdf">County of San Mateo, Cal., Ord. No. 04759</citation>
     </citations>
   </meta>
 </document>

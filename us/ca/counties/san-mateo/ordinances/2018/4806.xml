@@ -1,20 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="County of San Mateo, Cal., Ord. No. 4806">
-  <heading>AN ORDINANCE REAUTHORIZING SECTION 5.104.040 SUBSECTION (B) OF 
-
-CHAPTER 5.104 OF TITLE 5 OF THE SAN MATEO COUNTY ORDINANCE CODE GOVERNING CABLE TELEVISION FRANCHISES IN CONFORMANCE WITH THE CALIFORNIA DIGITAL INFRASTRUCTURE AND VIDEO COMPETITION 
-
-ACT OF 2006
-
-</heading>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="County of San Mateo, Cal., Ord. No. 4806">
+  <num>4806</num>
+  <heading>AN ORDINANCE REAUTHORIZING SECTION 5.104.040 SUBSECTION (B) OF <br/><br/>CHAPTER 5.104 OF TITLE 5 OF THE SAN MATEO COUNTY ORDINANCE CODE GOVERNING CABLE TELEVISION FRANCHISES IN CONFORMANCE WITH THE CALIFORNIA DIGITAL INFRASTRUCTURE AND VIDEO COMPETITION <br/><br/>ACT OF 2006</heading>
   <meta>
     <stub/>
-    <effective></effective>
+    <effective/>
     <history>
       <adopted>2018-11-06</adopted>
     </history>
     <citations>
-      <citation type="law" url="./adopted/4806.pdf">County of San Mateo, Cal., Ord. No. 4806</citation>
+      <citation type="ord" url="./adopted/4806.pdf">County of San Mateo, Cal., Ord. No. 4806</citation>
     </citations>
   </meta>
 </document>

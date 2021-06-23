@@ -1,18 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="County of San Mateo, Cal., Ord. No. 4784">
-  <heading>	
-
-AN ORDINANCE ADDING CHAPTER 5.156 (MOBILEHOME PARK CHANGE OF USE) TO TITLE 5 (BUSINESS REGULATIONS) OF THE SAN MATEO COUNTY ORDINANCE CODE REGARDING CHANGES OF USE OF MOBILEHOME PARKS.
-
-</heading>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="County of San Mateo, Cal., Ord. No. 4784">
+  <num>4784</num>
+  <heading>AN ORDINANCE AMENDING CHAPTER 1.30 OF THE SAN MATEO COUNTY ORDINANCE CODE REGARDING MOBILEHOME RENT CONTROL</heading>
   <meta>
     <stub/>
-    <effective></effective>
+    <effective/>
     <history>
       <adopted>2017-09-26</adopted>
     </history>
     <citations>
-      <citation type="law" url="./adopted/4784.pdf">County of San Mateo, Cal., Ord. No. 4784</citation>
+      <citation type="ord" url="./adopted/4784.pdf">County of San Mateo, Cal., Ord. No. 4784</citation>
     </citations>
   </meta>
 </document>

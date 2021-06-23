@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="County of San Mateo, Cal., Ord. No. 04718">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="County of San Mateo, Cal., Ord. No. 04718">
+  <num>04718</num>
   <heading>AN ORDINANCE ADDING A CHAPTER 4.97 TO TITLE 4 OF THE SAN MATEO COUNTY ORDINANCE CODE PROHIBITING SMOKING IN AND AROUND MULTI-UNIT RESIDENCES, AND AMENDING CHAPTER 4.96 TO DELETE REFERENCES TO MULTI-UNIT RESIDENCES</heading>
   <meta>
     <stub/>
-    <effective></effective>
+    <effective/>
     <history>
       <adopted>2014-11-04</adopted>
     </history>
     <citations>
-      <citation type="law" url="./adopted/04718.pdf">County of San Mateo, Cal., Ord. No. 04718</citation>
+      <citation type="ord" url="./adopted/04718.pdf">County of San Mateo, Cal., Ord. No. 04718</citation>
     </citations>
   </meta>
 </document>
