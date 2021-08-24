@@ -10,10 +10,10 @@
     <section>
       <num>3.04.010</num>
       <heading>Definitions.</heading>
-      <text>For the purposes of <cite path="3.04">this chapter</cite>, the following words and phrases shall be construed as follows:</text>
+      <text>For the purposes of <cite path="3.04" proof="needed">this chapter</cite>, the following words and phrases shall be construed as follows:</text>
       <para>
         <num>(a)</num>
-        <text>"Youth" means any person under the age of 18 and is synonymous with the term "juvenile" for the purposes of <cite path="3.04">this chapter</cite>.</text>
+        <text>"Youth" means any person under the age of 18 and is synonymous with the term "juvenile" for the purposes of <cite path="3.04" proof="needed">this chapter</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -78,7 +78,7 @@
     <section>
       <num>3.04.030</num>
       <heading>Exceptions.</heading>
-      <text>The activities prohibited by <cite path="3.04.020">section 3.04.020</cite> shall not be unlawful in the following circumstances:</text>
+      <text>The activities prohibited by <cite path="3.04.020" proof="needed">section 3.04.020</cite> shall not be unlawful in the following circumstances:</text>
       <para>
         <num>(a)</num>
         <text>When the youth is accompanied by the youth's parent or guardian;</text>
@@ -89,7 +89,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>When the youth is in a motor vehicle involved in interstate travel or other travel not in violation of <cite path="3.04">this chapter</cite>;</text>
+        <text>When the youth is in a motor vehicle involved in interstate travel or other travel not in violation of <cite path="3.04" proof="needed">this chapter</cite>;</text>
       </para>
       <para>
         <num>(d)</num>
@@ -122,194 +122,11 @@
     <section>
       <num>3.04.040</num>
       <heading>Enforcement procedure.</heading>
-      <text>Before taking any enforcement action under <cite path="3.04">this chapter</cite>, a Sheriff's Deputy or other law enforcement officer shall ask the apparent offender's age and reason for being in a public place during curfew hours. The officer shall not act to enforce <cite path="3.04">this chapter</cite> unless the officer reasonably believes that an offense has occurred as provided in <cite path="3.04">this chapter</cite>.</text>
-      <text>Whenever a youth is apprehended for violation of <cite path="3.04">this chapter</cite>, he or she shall be taken forthwith to a specified drop-off center and detained there while his or her parent or guardian is contacted. While at the drop-off center, the youth will be evaluated by the arresting officer with regard to apparent drug or alcohol abuse or other social service needs and referred to appropriate social services.</text>
-      <text>Upon the second violation of <cite path="3.04">this chapter</cite> within one year, the Sheriff's Deputy or law enforcement officer shall be authorized to cite the youth and/or his or her parents or guardians and to refer the youth to Juvenile Probation.</text>
+      <text>Before taking any enforcement action under <cite path="3.04" proof="needed">this chapter</cite>, a Sheriff's Deputy or other law enforcement officer shall ask the apparent offender's age and reason for being in a public place during curfew hours. The officer shall not act to enforce <cite path="3.04" proof="needed">this chapter</cite> unless the officer reasonably believes that an offense has occurred as provided in <cite path="3.04" proof="needed">this chapter</cite>.</text>
+      <text>Whenever a youth is apprehended for violation of <cite path="3.04" proof="needed">this chapter</cite>, he or she shall be taken forthwith to a specified drop-off center and detained there while his or her parent or guardian is contacted. While at the drop-off center, the youth will be evaluated by the arresting officer with regard to apparent drug or alcohol abuse or other social service needs and referred to appropriate social services.</text>
+      <text>Upon the second violation of <cite path="3.04" proof="needed">this chapter</cite> within one year, the Sheriff's Deputy or law enforcement officer shall be authorized to cite the youth and/or his or her parents or guardians and to refer the youth to Juvenile Probation.</text>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3699">Ord. 3699, 1/23/96</annotation>
-      </annotations>
-    </section>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>3.05</num>
-    <heading>PROHIBITION OF LOUD OR UNRULY GATHERINGS WHERE ANY ALCOHOL, ALCOHOLIC BEVERAGE, CANNABIS, AND/OR CONTROLLED SUBSTANCES ARE SERVED TO, INGESTED BY, OR IN THE POSSESSION OF MINORS</heading>
-    <section>
-      <num>3.05.010</num>
-      <heading>Application of Chapter.</heading>
-      <text>The provisions of <cite path="3.05">this chapter</cite> shall apply within the unincorporated area of San Mateo County.</text>
-      <annotations>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04810" path="§1">Ord. No. 04810, § 1, 2-26-2019</annotation>
-      </annotations>
-    </section>
-    <section>
-      <num>3.05.020</num>
-      <heading>Definitions.</heading>
-      <text>For the purposes of <cite path="3.05">this chapter</cite>, the following words and phrases shall be construed as follows:</text>
-      <para>
-        <num>(a)</num>
-        <text>"Alcohol" and "Alcoholic Beverage" include any form of ethyl alcohol, from whatever source or by whatever process produced, spirits, liquor, wine, beer, and every liquid or solid containing such, and which contains one-half of one percent or more alcohol by volume and which is fit for beverage purposes either alone or when diluted, mixed, or combined with other substances.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>"Cannabis" means "cannabis", "cannabis product" and/or "cannabis concentrate", as defined in <cite path="5.14">Chapter 5.14</cite>8 of this ordinance code. For the purposes of <cite path="3.05">this chapter</cite>, the term "cannabis" does not include medical cannabis for which the person in possession has a valid recommendation for medical cannabis from a licensed medical care provider or a State of California medical cannabis I.D. card.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>"Controlled Substance" means a drug or substance whose possession and use are regulated under the California Controlled Substances Act (California Health and Safety Code Section 11000 et seq.). Such term does not include any drug or substance for which the individual found to have consumed or possessed such substance has a valid prescription issued by a licensed medical practitioner authorized to issue such a prescription.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>"Costs for Public Safety Response Services" means the costs associated with responses by law enforcement or fire agencies to a gathering held in violation of this ordinance, including but not limited to:</text>
-        <para>
-          <num>(1)</num>
-          <text>The portion of the cost of salaries of the police officers and/or fire agency personnel, at the salary then in effect for each classification of each individual officer, for the actual amount of time spent responding to or remaining at the property where the disturbance was created, beginning when police officer or fire department personnel leaves a location to go to the scene of the event and ending when responding personnel are available for other duties, or, if their shifts are ended, when they are finished with those duties related to the event which they are required to complete before going off duty, or a minimum of one hour of time, whichever is greater. Such actual costs shall include wages and fringe benefits for the responding personnel and the sergeant or other superior directing them, including overtime if applicable; and</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The cost of repairing, or replacing if necessary, any County or fire agency equipment or property damaged as a result of the response by law enforcement or fire agency to the gathering.</text>
-        </para>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>"Loud or Unruly Gathering" means a party or gathering of four (4) or more persons at any public or private premises, including a party bus or limousine, upon which loud or unruly conduct occurs. Such loud or unruly conduct constitutes a public nuisance and includes the following:</text>
-        <para>
-          <num>(1)</num>
-          <text>Excessive noise which violates any applicable ordinance;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Obstruction of public streets and/or the presence of unruly crowds that have spilled into public streets;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Public drunkenness or unlawful public consumption of alcohol, alcoholic beverages, cannabis, and/or controlled substances;</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Assaults, batteries, fights, domestic violence or other disturbances of the peace;</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>Vandalism;</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>Litter; or</text>
-        </para>
-        <para>
-          <num>(7)</num>
-          <text>Any other conduct which constitutes a threat to the public health, safety, or quiet enjoyment of residential property or the general welfare.</text>
-        </para>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text>"Minor" means any person less than twenty-one (21) years of age.</text>
-      </para>
-      <para>
-        <num>(g)</num>
-        <text>"Responsible Person" or "Social Host" means and includes, but is not limited to:</text>
-        <para>
-          <num>(1)</num>
-          <text>A person who owns, rents, leases, or otherwise has control of the premises where the gathering occurs; and/or</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>A person who organized the event.</text>
-        </para>
-      </para>
-      <annotations>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04810" path="§1">Ord. No. 04810, § 1, 2-26-2019</annotation>
-      </annotations>
-    </section>
-    <section>
-      <num>3.05.030</num>
-      <heading>Obligations of Social Host.</heading>
-      <para>
-        <num>(a)</num>
-        <text>No person shall act as a Social Host, as defined in <cite path="3.05.020">Section 3.05.020</cite> of <cite path="3.05">this chapter</cite>, of a Loud or Unruly Gathering where a Minor has possessed, consumed, or has been served any Alcohol, Alcoholic Beverage, Cannabis, and/or Controlled Substances.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>It is the duty of any Responsible Person who knowingly hosts, permits, or allows a gathering at any public or private premises to take all reasonable steps to prevent the possession and/or consumption of any Alcohol, Alcoholic Beverage, Cannabis and/or Controlled Substance by any Minor, as well as the service of these items to any Minor.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>As used in this section, reasonable steps shall mean and include, but shall not be limited to:</text>
-        <para>
-          <num>(1)</num>
-          <text>Controlling access to Alcohol, Alcoholic Beverages, Cannabis and/or Controlled Substances;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Verifying the age of persons at the gathering by inspecting government-issued driver's licenses or identification cards; and</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Supervising the activities of Minors at the gathering.</text>
-        </para>
-      </para>
-      <annotations>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04810" path="§1">Ord. No. 04810, § 1, 2-26-2019</annotation>
-      </annotations>
-    </section>
-    <section>
-      <num>3.05.040</num>
-      <heading>Public Nuisance.</heading>
-      <text>Any gathering in violation of <cite path="3.05">this chapter</cite> is a public nuisance and an immediate danger to public health and safety. A violation is subject to any and all applicable civil, administrative, and criminal remedies and penalties according to the provisions and procedures contained in this ordinance code and state law including, but not limited to, an abatement action. All remedies provided herein shall be cumulative and not exclusive.</text>
-      <annotations>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04810" path="§1">Ord. No. 04810, § 1, 2-26-2019</annotation>
-      </annotations>
-    </section>
-    <section>
-      <num>3.05.050</num>
-      <heading>Enforcement.</heading>
-      <para>
-        <num>(a)</num>
-        <text>The San Mateo County Sheriff or designee, may enforce <cite path="3.05">this chapter</cite>.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>A violation of <cite path="3.05">this chapter</cite> is punishable by administrative fines as set forth in <cite path="1.40">Chapter 1.40</cite>.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>In addition, a third or subsequent violation will result in liability on the part of the social host(s) for Costs for Public Safety Response Services as defined in <cite path="3.05.020">Section 3.05.020</cite> of <cite path="3.05">this chapter</cite>. All responsible parties will be held jointly and severally liable for these costs.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>All fines and Costs for Public Safety Response Services shall be paid to the County within fourteen (14) days from the date of the citation or the notice of costs to be reimbursed under this ordinance.</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text><cite path="3.05">This chapter</cite> shall not be interpreted to limit the applicable civil or administrative remedies available under law. All available enforcement procedures and remedies remain applicable including, but not limited to, administrative fines set forth in <cite path="1.40">Chapter 1.40</cite> of this ordinance code or other applicable law.</text>
-      </para>
-      <annotations>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04810" path="§1">Ord. No. 04810, § 1, 2-26-2019</annotation>
-      </annotations>
-    </section>
-    <section>
-      <num>3.05.060</num>
-      <heading>Emergency Medical Assistance Exception.</heading>
-      <text>No citation may be issued or any other enforcement action taken for violation of <cite path="3.05">this chapter</cite> if law enforcement is dispatched to the gathering because a Social Host or other participant at the gathering sought medical assistance on behalf of any person present. This section should be interpreted consistent with its purpose—to encourage social hosts and participants of gatherings to seek medical assistance whenever they believe it is needed, without fear of the consequences of violating the Ordinance.</text>
-      <annotations>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04810" path="§1">Ord. No. 04810, § 1, 2-26-2019</annotation>
-      </annotations>
-    </section>
-    <section>
-      <num>3.05.070</num>
-      <heading>No Conflict with Federal or State Law.</heading>
-      <text>Nothing in <cite path="3.05">this chapter</cite> shall be interpreted or applied so as to create any requirement, power, or duty that is preempted by federal or state law.</text>
-      <annotations>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04810" path="§1">Ord. No. 04810, § 1, 2-26-2019</annotation>
-      </annotations>
-    </section>
-    <section>
-      <num>3.05.080</num>
-      <heading>Severability.</heading>
-      <text>If any provision, section, subsection, sentence, clause, phrase, or word of this <cite path="3.05">Chapter 3.05</cite>, or any application thereof to any person or circumstance, is held to be invalid or unconstitutional by a court of competent jurisdiction, such decision shall not affect the validity of the remaining portions or applications of the chapter. The Board of Supervisors hereby declares that it would have passed <cite path="3.05">this chapter</cite>, and each provision, section, subsection, sentence, clause, phrase, and word not declared invalid or unconstitutional without regard to whether any portion of <cite path="3.05">this chapter</cite> or application thereof would be subsequently declared invalid or unconstitutional.</text>
-      <annotations>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04810" path="§1">Ord. No. 04810, § 1, 2-26-2019</annotation>
       </annotations>
     </section>
   </container>
@@ -373,7 +190,7 @@
     <section>
       <num>3.16.010</num>
       <heading>Definitions.</heading>
-      <text>For the purposes of <cite path="3.16">this chapter</cite>, certain terms, phrases and words shall be construed as follows:</text>
+      <text>For the purposes of <cite path="3.16" proof="needed">this chapter</cite>, certain terms, phrases and words shall be construed as follows:</text>
       <para>
         <num>(a)</num>
         <text>"Switch-Blade Knives" shall include, but shall not necessarily be limited to the following: all spring-blade knives, switch blade knives, snap-blade knives, or other similar knives of which any blade thereof, regardless of length, is released automatically by a spring mechanism or other mechanical device, or is released by any type of mechanism whatsoever.</text>
@@ -421,8 +238,8 @@
     <section>
       <num>3.16.050</num>
       <heading>Exception.</heading>
-      <text>The provisions of sections <cite path="3.16.030">3.16.030</cite> and <cite path="3.16.040">3.16.040</cite> shall not be deemed to prohibit the possession or control of ordinary tools or equipment carried in good faith for the purpose of honest work, trade or business, or for use in a legitimate sport or recreation.</text>
-      <text>Nothing in <cite path="3.16">this chapter</cite> shall prohibit police officers, special police officers, peace officers, or other law enforcement officers from carrying any wooden club, baton, or any equipment authorized by the properly constituted authorities for the enforcement of law in San Mateo County.</text>
+      <text>The provisions of sections <cite path="3.16.030" proof="needed">3.16.030</cite> and <cite path="3.16.040" proof="needed">3.16.040</cite> shall not be deemed to prohibit the possession or control of ordinary tools or equipment carried in good faith for the purpose of honest work, trade or business, or for use in a legitimate sport or recreation.</text>
+      <text>Nothing in <cite path="3.16" proof="needed">this chapter</cite> shall prohibit police officers, special police officers, peace officers, or other law enforcement officers from carrying any wooden club, baton, or any equipment authorized by the properly constituted authorities for the enforcement of law in San Mateo County.</text>
       <annotations>
         <annotation type="History">Prior code § 3144</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 1196">Ord. 1196, 12/11/56</annotation>
@@ -451,7 +268,7 @@
     <section>
       <num>3.24.010</num>
       <heading>Definitions.</heading>
-      <text>As used in <cite path="3.24">this chapter</cite>, the phrase "public place" shall mean any public highway, road, street, sidewalk, lane, alley, open private grounds, or any structure open, other than through its doors or windows, to public view from public or adjoining private property.</text>
+      <text>As used in <cite path="3.24" proof="needed">this chapter</cite>, the phrase "public place" shall mean any public highway, road, street, sidewalk, lane, alley, open private grounds, or any structure open, other than through its doors or windows, to public view from public or adjoining private property.</text>
       <annotations>
         <annotation type="History">Prior code § 3165</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 1393">Ord. 1393, 04/26/60</annotation>
@@ -478,7 +295,7 @@
     <section>
       <num>3.24.040</num>
       <heading>Presumptions.</heading>
-      <text>In a trial for violation of the provisions of <cite path="3.24.030">section 3.24.030</cite> of <cite path="3.24">this chapter</cite>, it should be presumed that any person has knowledge of such game who, for five or more minutes, is at or within ten feet of a public place where a game of craps or variation thereof, for anything of value, is participated or engaged in. This shall be a rebuttable presumption.</text>
+      <text>In a trial for violation of the provisions of <cite path="3.24.030" proof="needed">section 3.24.030</cite> of <cite path="3.24" proof="needed">this chapter</cite>, it should be presumed that any person has knowledge of such game who, for five or more minutes, is at or within ten feet of a public place where a game of craps or variation thereof, for anything of value, is participated or engaged in. This shall be a rebuttable presumption.</text>
       <annotations>
         <annotation type="History">Prior code § 3168</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3113">Ord. 3113, 06/16/87</annotation>
@@ -501,7 +318,7 @@
     <section>
       <num>3.28.020</num>
       <heading>Prostitution defined.</heading>
-      <text>As used in <cite path="3.28">this chapter</cite> prostitution is defined as an act of sexual intercourse or a lewd act performed by a female person with a male person not married to her, and as a result of, or through the promise of, the exchange of money or article of value.</text>
+      <text>As used in <cite path="3.28" proof="needed">this chapter</cite> prostitution is defined as an act of sexual intercourse or a lewd act performed by a female person with a male person not married to her, and as a result of, or through the promise of, the exchange of money or article of value.</text>
       <annotations>
         <annotation type="History">Prior code § 3175</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 1441">Ord. 1441, 02/21/61</annotation>
@@ -566,7 +383,7 @@
     <section>
       <num>3.32.010</num>
       <heading>Legislative authorization.</heading>
-      <text><cite path="3.32">This chapter</cite> is adopted pursuant to sections 318.5 and 318.6 of the Penal Code of the State of California. All words used in <cite path="3.32">this chapter</cite> which are also used in said sections 318.5 and 318.6 are used in the same sense and mean the same as the same respective words used in said sections 318.5 and 318.6 of the Penal Code.</text>
+      <text><cite path="3.32" proof="needed">This chapter</cite> is adopted pursuant to sections 318.5 and 318.6 of the Penal Code of the State of California. All words used in <cite path="3.32" proof="needed">this chapter</cite> which are also used in said sections 318.5 and 318.6 are used in the same sense and mean the same as the same respective words used in said sections 318.5 and 318.6 of the Penal Code.</text>
       <annotations>
         <annotation type="History">Prior code § 3178</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2208">Ord. 2208, 07/10/73</annotation>
@@ -575,7 +392,7 @@
     <section>
       <num>3.32.020</num>
       <heading>Theater—Definition.</heading>
-      <text>As used in <cite path="3.32">this chapter</cite>, and in sections 318.5 and 318.6 of the Penal Code, the terms "theater", "concert hall", or "other similar establishment which is primarily devoted to theatrical performances" shall mean a building, playhouse, hall or other place having permanently affixed seats so arranged that a body of spectators can have an unobstructed view of the stage, upon which theatrical or vaudeville performances or similar forms of artistic expression are presented, and where such performances are not incidental to promoting the sale of food, drink or other merchandise, and for which a County license for a theater is in full force and effect. This definition does not supersede the provisions of <cite path="3.32.010">section 3.32.010</cite> of this code.</text>
+      <text>As used in <cite path="3.32" proof="needed">this chapter</cite>, and in sections 318.5 and 318.6 of the Penal Code, the terms "theater", "concert hall", or "other similar establishment which is primarily devoted to theatrical performances" shall mean a building, playhouse, hall or other place having permanently affixed seats so arranged that a body of spectators can have an unobstructed view of the stage, upon which theatrical or vaudeville performances or similar forms of artistic expression are presented, and where such performances are not incidental to promoting the sale of food, drink or other merchandise, and for which a County license for a theater is in full force and effect. This definition does not supersede the provisions of <cite path="3.32.010" proof="needed">section 3.32.010</cite> of this code.</text>
       <annotations>
         <annotation type="History">Prior code § 3178.1</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2208">Ord. 2208, 07/10/73</annotation>
@@ -593,7 +410,7 @@
     <section>
       <num>3.32.040</num>
       <heading>Accessories.</heading>
-      <text>Every person is guilty of a misdemeanor who permits, procures, counsels, or assists any person to violate any provision of <cite path="3.32.030">section 3.32.030</cite> of this code.</text>
+      <text>Every person is guilty of a misdemeanor who permits, procures, counsels, or assists any person to violate any provision of <cite path="3.32.030" proof="needed">section 3.32.030</cite> of this code.</text>
       <annotations>
         <annotation type="History">Prior code § 3178.3</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2208">Ord. 2208, 07/10/73</annotation>
@@ -602,7 +419,7 @@
     <section>
       <num>3.32.050</num>
       <heading>Exceptions.</heading>
-      <text><cite path="3.32">This chapter</cite> does not apply to:</text>
+      <text><cite path="3.32" proof="needed">This chapter</cite> does not apply to:</text>
       <para>
         <num>(a)</num>
         <text>a theater, concert hall, or similar establishment which is primarily devoted to theatrical performances, or</text>
@@ -619,7 +436,7 @@
     <section>
       <num>3.32.060</num>
       <heading>Penalty.</heading>
-      <text>A violation of <cite path="3.32">this chapter</cite> is punishable by a fine not exceeding five hundred dollars ($500) or by imprisonment in the County Jail for not more than six (6) months, or by both such fine and imprisonment.</text>
+      <text>A violation of <cite path="3.32" proof="needed">this chapter</cite> is punishable by a fine not exceeding five hundred dollars ($500) or by imprisonment in the County Jail for not more than six (6) months, or by both such fine and imprisonment.</text>
       <annotations>
         <annotation type="History">Prior code § 3178.5</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2208">Ord. 2208, 07/10/73</annotation>
@@ -628,7 +445,7 @@
     <section>
       <num>3.32.070</num>
       <heading>Constitutionality.</heading>
-      <text>If any provision or clause of <cite path="3.32">this chapter</cite>, or application thereof to any person or circumstance, is held invalid by a court of competent jurisdiction, such invalidity shall not affect any other provision or application of <cite path="3.32">this chapter</cite> which can be given effect without the invalid provision or application, and to this end the provisions of <cite path="3.32">this chapter</cite> are declared to be severable.</text>
+      <text>If any provision or clause of <cite path="3.32" proof="needed">this chapter</cite>, or application thereof to any person or circumstance, is held invalid by a court of competent jurisdiction, such invalidity shall not affect any other provision or application of <cite path="3.32" proof="needed">this chapter</cite> which can be given effect without the invalid provision or application, and to this end the provisions of <cite path="3.32" proof="needed">this chapter</cite> are declared to be severable.</text>
       <annotations>
         <annotation type="History">Prior code § 3178.6</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2208">Ord. 2208, 07/10/73</annotation>
@@ -675,7 +492,7 @@
     <section>
       <num>3.40.010</num>
       <heading>Definitions.</heading>
-      <text>As used in <cite path="3.40">this chapter</cite>, the term "police dog" shall mean any dog specially trained for assistance to law enforcement officers, and which dog is under the control of a law enforcement officer in the performance of his duties.</text>
+      <text>As used in <cite path="3.40" proof="needed">this chapter</cite>, the term "police dog" shall mean any dog specially trained for assistance to law enforcement officers, and which dog is under the control of a law enforcement officer in the performance of his duties.</text>
       <annotations>
         <annotation type="History">Prior code § 3190</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 1659">Ord. 1659, 07/14/64</annotation>
@@ -717,7 +534,7 @@
     <section>
       <num>3.44.030</num>
       <heading>Loitering defined.</heading>
-      <text>As used in <cite path="3.44">this chapter</cite>, "loiter" means to linger, wait, or delay in and about the places designated with no lawful purpose.</text>
+      <text>As used in <cite path="3.44" proof="needed">this chapter</cite>, "loiter" means to linger, wait, or delay in and about the places designated with no lawful purpose.</text>
       <annotations>
         <annotation type="History">Prior code § 3195.2</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2043">Ord. 2043, 05/12/70</annotation>
@@ -726,7 +543,7 @@
     <section>
       <num>3.44.040</num>
       <heading>Buildings and places where alcoholic beverages sold defined.</heading>
-      <text>As used in <cite path="3.44">this chapter</cite>, "buildings and places open to the public where alcoholic beverages are sold" means, but is not limited to, any liquor store, liquor outlet, inn, tavern, bar, saloon, or any premises wherein the owner, tenant or occupant possesses, and purveys alcoholic beverages to the public pursuant to, an "on sale" or "off sale" liquor license of whatever classification.</text>
+      <text>As used in <cite path="3.44" proof="needed">this chapter</cite>, "buildings and places open to the public where alcoholic beverages are sold" means, but is not limited to, any liquor store, liquor outlet, inn, tavern, bar, saloon, or any premises wherein the owner, tenant or occupant possesses, and purveys alcoholic beverages to the public pursuant to, an "on sale" or "off sale" liquor license of whatever classification.</text>
       <annotations>
         <annotation type="History">Prior code § 3195.3</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2043">Ord. 2043, 05/12/70</annotation>
@@ -740,7 +557,7 @@
     <section>
       <num>3.48.010</num>
       <heading>Purpose of chapter.</heading>
-      <text>The purpose of <cite path="3.48">this chapter</cite> is to provide a program for removal of graffiti in a timely manner from walls and structures on both public and private property in the unincorporated area San Mateo County and to provide regulation designed to prevent and control the further spread of graffiti in the unincorporated area of San Mateo County.</text>
+      <text>The purpose of <cite path="3.48" proof="needed">this chapter</cite> is to provide a program for removal of graffiti in a timely manner from walls and structures on both public and private property in the unincorporated area San Mateo County and to provide regulation designed to prevent and control the further spread of graffiti in the unincorporated area of San Mateo County.</text>
       <annotations>
         <annotation type="History">Prior code § 3200</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3515">Ord. 3515, 10/26/93</annotation>
@@ -751,7 +568,7 @@
     <section>
       <num>3.48.020</num>
       <heading>Graffiti defined.</heading>
-      <text>For the purposes of <cite path="3.48">this chapter</cite>, "graffiti" shall mean any defacing of public or private buildings, structures or places, unauthorized by the owner or other person in control of the property, through any inscription, word, figure or design that is marked, etched, scratched, drawn or painted using application of paint, ink, chalk, dye or any other similar substance.</text>
+      <text>For the purposes of <cite path="3.48" proof="needed">this chapter</cite>, "graffiti" shall mean any defacing of public or private buildings, structures or places, unauthorized by the owner or other person in control of the property, through any inscription, word, figure or design that is marked, etched, scratched, drawn or painted using application of paint, ink, chalk, dye or any other similar substance.</text>
       <annotations>
         <annotation type="History">Prior code § 3201</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3515">Ord. 3515, 10/26/93</annotation>
@@ -767,7 +584,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>No person owning or otherwise in control of any real property within the unincorporated area of the County shall allow or permit any graffiti to remain on, for a period in excess of that prescribed by <cite path="3.48">this chapter</cite> for notice and removal of graffiti, any permanent structure located on such property when the graffiti is visible from the street or other public or private property.</text>
+        <text>No person owning or otherwise in control of any real property within the unincorporated area of the County shall allow or permit any graffiti to remain on, for a period in excess of that prescribed by <cite path="3.48" proof="needed">this chapter</cite> for notice and removal of graffiti, any permanent structure located on such property when the graffiti is visible from the street or other public or private property.</text>
       </para>
       <annotations>
         <annotation type="History">Prior code § 3202</annotation>
@@ -808,7 +625,7 @@
       <heading>Failure to remove graffiti or provide consent for removal by County.</heading>
       <para>
         <num>(a)</num>
-        <text>In the event the property owner receiving notice under <cite path="3.48.030">section 3.48.030</cite> fails to either abate the graffiti or consent to abatement by the County, within the ten day period, the County may proceed to abate the graffiti under any applicable nuisance abatement procedure including, but not limited to, the nuisance abatement procedures provided in sections <cite path="1.12.010">1.12.010</cite> through <cite path="1.12.040">1.12.040</cite> of the San Mateo County Ordinance Code, to include assessment of the costs of abatement against the owner and placement of an abatement lien. If the County anticipates that these abatement procedures will be used, any notice required by <cite path="1.12.020">section 1.12.020</cite> of this Code may be included in the notice specified by <cite path="3.48.040">section 3.48.040</cite> so that only one ten day notice period is required prior to abatement by the County. County employees, agents and volunteer and other work crews supervised by the County and private contractors of the County are expressly authorized to enter private property for purposes of abating graffiti under any nuisance abatement procedure.</text>
+        <text>In the event the property owner receiving notice under <cite path="3.48.030" proof="needed">section 3.48.030</cite> fails to either abate the graffiti or consent to abatement by the County, within the ten day period, the County may proceed to abate the graffiti under any applicable nuisance abatement procedure including, but not limited to, the nuisance abatement procedures provided in sections <cite path="1.12.010" proof="needed">1.12.010</cite> through <cite path="1.12.040" proof="needed">1.12.040</cite> of the San Mateo County Ordinance Code, to include assessment of the costs of abatement against the owner and placement of an abatement lien. If the County anticipates that these abatement procedures will be used, any notice required by <cite path="1.12.020" proof="needed">section 1.12.020</cite> of this Code may be included in the notice specified by <cite path="3.48.040" proof="needed">section 3.48.040</cite> so that only one ten day notice period is required prior to abatement by the County. County employees, agents and volunteer and other work crews supervised by the County and private contractors of the County are expressly authorized to enter private property for purposes of abating graffiti under any nuisance abatement procedure.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -835,15 +652,15 @@
       <heading>Penalty for violation.</heading>
       <para>
         <num>(a)</num>
-        <text>Any person found guilty of applying graffiti in violation of <cite path="3.48.030">section 3.48.030</cite>, shall reimburse the County or the property owner for any and all costs the owner or the County may incur in removing graffiti under <cite path="3.48">this chapter</cite>. If the violator is a minor, the parent or guardian shall be responsible for such reimbursement. Such reimbursement shall be in addition to any other civil or criminal penalties authorized by law to be imposed.</text>
+        <text>Any person found guilty of applying graffiti in violation of <cite path="3.48.030" proof="needed">section 3.48.030</cite>, shall reimburse the County or the property owner for any and all costs the owner or the County may incur in removing graffiti under <cite path="3.48" proof="needed">this chapter</cite>. If the violator is a minor, the parent or guardian shall be responsible for such reimbursement. Such reimbursement shall be in addition to any other civil or criminal penalties authorized by law to be imposed.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Any person who fails to comply with any order of abatement or who violates any other provision of <cite path="3.48">this chapter</cite> is guilty of an infraction, punishable as set forth in <cite path="1.12.070">section 1.12.070</cite> of this Code.</text>
+        <text>Any person who fails to comply with any order of abatement or who violates any other provision of <cite path="3.48" proof="needed">this chapter</cite> is guilty of an infraction, punishable as set forth in <cite path="1.12.070" proof="needed">section 1.12.070</cite> of this Code.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Any person who obstructs, impedes or interferes with any representative of the County or any property owner when engaged in proceedings involving abatement of graffiti under <cite path="3.48">this chapter</cite> is guilty of an infraction, punishable as set forth in <cite path="1.12.070">section 1.12.070</cite> of this Code.</text>
+        <text>Any person who obstructs, impedes or interferes with any representative of the County or any property owner when engaged in proceedings involving abatement of graffiti under <cite path="3.48" proof="needed">this chapter</cite> is guilty of an infraction, punishable as set forth in <cite path="1.12.070" proof="needed">section 1.12.070</cite> of this Code.</text>
       </para>
       <annotations>
         <annotation type="History">Prior code § 3206</annotation>
@@ -854,7 +671,7 @@
     <section>
       <num>3.48.080</num>
       <heading>Remedies cumulative.</heading>
-      <text>Nothing in <cite path="3.48">this chapter</cite> shall be deemed to prevent the County Counsel or District Attorney from commencing a civil or criminal proceeding or action to abate a public nuisance under any other applicable law. The remedies provided for herein shall be cumulative and not exclusive.</text>
+      <text>Nothing in <cite path="3.48" proof="needed">this chapter</cite> shall be deemed to prevent the County Counsel or District Attorney from commencing a civil or criminal proceeding or action to abate a public nuisance under any other applicable law. The remedies provided for herein shall be cumulative and not exclusive.</text>
       <annotations>
         <annotation type="History">Prior code § 3207</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3515">Ord. 3515, 10/26/93</annotation>
@@ -869,7 +686,7 @@
     <section>
       <num>3.50.010</num>
       <heading>Purposes.</heading>
-      <text>The purpose and intent of <cite path="3.50">this chapter</cite> is to protect public and private property from illegal dumping by streamlining and enhancing the tools and remedies available to address and discourage such acts.</text>
+      <text>The purpose and intent of <cite path="3.50" proof="needed">this chapter</cite> is to protect public and private property from illegal dumping by streamlining and enhancing the tools and remedies available to address and discourage such acts.</text>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04756" path="§2">Ord. No. 04756, § 2, 5-10-2016</annotation>
       </annotations>
@@ -877,7 +694,7 @@
     <section>
       <num>3.50.020</num>
       <heading>Definitions.</heading>
-      <text>The following terms are defined for use in <cite path="3.50">this chapter</cite>:</text>
+      <text>The following terms are defined for use in <cite path="3.50" proof="needed">this chapter</cite>:</text>
       <para>
         <num>A.</num>
         <text>"Appliance" means a large electronic or gas appliance such as a stove, refrigerator, microwave, water heater, or furnace.</text>
@@ -888,7 +705,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>"Costs" means and includes, without limitation, court costs, attorneys' fees, costs of removal and disposal of illegally dumped waste matter, costs of investigating the incident and enforcing this <cite path="3.50">chapter 3.50</cite> with respect to an incident of illegal dumping or littering, and costs of identifying the person(s) who cause or commit illegal dumping or littering.</text>
+        <text>"Costs" means and includes, without limitation, court costs, attorneys' fees, costs of removal and disposal of illegally dumped waste matter, costs of investigating the incident and enforcing this <cite path="3.50" proof="needed">chapter 3.50</cite> with respect to an incident of illegal dumping or littering, and costs of identifying the person(s) who cause or commit illegal dumping or littering.</text>
       </para>
       <para>
         <num>D.</num>
@@ -896,7 +713,7 @@
       </para>
       <para>
         <num>E.</num>
-        <text>"Harmful waste matter" means a hazardous substance as defined in section 374.8 of the California Penal Code and in <cite path="4.92">chapter 4.92</cite> of this code.</text>
+        <text>"Harmful waste matter" means a hazardous substance as defined in section 374.8 of the California Penal Code and in <cite path="4.92" proof="needed">chapter 4.92</cite> of this code.</text>
       </para>
       <para>
         <num>F.</num>
@@ -955,19 +772,19 @@
       <heading>Illegal dumping and littering unlawful.</heading>
       <para>
         <num>A.</num>
-        <text>It is unlawful and a violation of this code and <cite path="3.50">this chapter</cite> for any person to illegally dump waste matter, or to cause waste matter to be disposed of in a manner not otherwise authorized by this code or state or federal law.</text>
+        <text>It is unlawful and a violation of this code and <cite path="3.50" proof="needed">this chapter</cite> for any person to illegally dump waste matter, or to cause waste matter to be disposed of in a manner not otherwise authorized by this code or state or federal law.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>It is unlawful and a violation of this code and <cite path="3.50">this chapter</cite> for any person owning or otherwise in possession or control of any real property within the County to permit or allow waste matter from such property to be illegally dumped.</text>
+        <text>It is unlawful and a violation of this code and <cite path="3.50" proof="needed">this chapter</cite> for any person owning or otherwise in possession or control of any real property within the County to permit or allow waste matter from such property to be illegally dumped.</text>
       </para>
       <para>
         <num>C.</num>
-        <text>It is unlawful and a violation of this code and <cite path="3.50">this chapter</cite> for any person to litter or to cause littering.</text>
+        <text>It is unlawful and a violation of this code and <cite path="3.50" proof="needed">this chapter</cite> for any person to litter or to cause littering.</text>
       </para>
       <para>
         <num>D.</num>
-        <text>A violation of <cite path="3.50">this chapter</cite> shall be subject to enforcement through criminal prosecution, civil action, administrative citation, and civil penalties, as provided herein.</text>
+        <text>A violation of <cite path="3.50" proof="needed">this chapter</cite> shall be subject to enforcement through criminal prosecution, civil action, administrative citation, and civil penalties, as provided herein.</text>
       </para>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04756" path="§2">Ord. No. 04756, § 2, 5-10-2016</annotation>
@@ -976,7 +793,7 @@
     <section>
       <num>3.50.040</num>
       <heading>Illegal dumping and littering are public nuisances.</heading>
-      <text>The Board of Supervisors hereby declares and finds that illegal dumping and littering are each public nuisances subject to abatement, remedies, and penalties according to the provisions and procedures contained in this code and <cite path="3.50">this chapter</cite>.</text>
+      <text>The Board of Supervisors hereby declares and finds that illegal dumping and littering are each public nuisances subject to abatement, remedies, and penalties according to the provisions and procedures contained in this code and <cite path="3.50" proof="needed">this chapter</cite>.</text>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04756" path="§2">Ord. No. 04756, § 2, 5-10-2016</annotation>
       </annotations>
@@ -986,11 +803,11 @@
       <heading>Criminal penalties available for illegal dumping.</heading>
       <para>
         <num>A.</num>
-        <text>Illegal Dumping is a Misdemeanor. Illegal dumping is a misdemeanor violation of this code and <cite path="3.50">this chapter</cite>, in addition to any California Penal Code violations and any administrative or civil penalties that may apply to such illegal dumping.</text>
+        <text>Illegal Dumping is a Misdemeanor. Illegal dumping is a misdemeanor violation of this code and <cite path="3.50" proof="needed">this chapter</cite>, in addition to any California Penal Code violations and any administrative or civil penalties that may apply to such illegal dumping.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>Littering is an Infraction. Littering is an infraction violation of this code and <cite path="3.50">this chapter</cite>, in addition to any California Penal Code violations and any administrative or civil penalties that may apply to such littering.</text>
+        <text>Littering is an Infraction. Littering is an infraction violation of this code and <cite path="3.50" proof="needed">this chapter</cite>, in addition to any California Penal Code violations and any administrative or civil penalties that may apply to such littering.</text>
       </para>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04756" path="§2">Ord. No. 04756, § 2, 5-10-2016</annotation>
@@ -1001,7 +818,7 @@
       <heading>Administrative remedies for illegal dumping.</heading>
       <para>
         <num>A.</num>
-        <text>Administrative Citations. Except in cases of major violations, as defined below in this <cite path="3.50.060">section 3.50.060</cite>, illegal dumping and littering are subject to the administrative remedies set forth in <cite path="1.40">chapter 1.40</cite> of this code.</text>
+        <text>Administrative Citations. Except in cases of major violations, as defined below in this <cite path="3.50.060" proof="needed">section 3.50.060</cite>, illegal dumping and littering are subject to the administrative remedies set forth in <cite path="1.40" proof="needed">chapter 1.40</cite> of this code.</text>
       </para>
       <para>
         <num>B.</num>
@@ -1012,7 +829,7 @@
         </para>
         <para>
           <num>2.</num>
-          <text>A person who commits a major violation shall be cited and given notice to remove the illegally dumped waste material from the public or private property. If the person found to commit a major violation fails to remove the illegally dumped waste material from the public or private property within 24 hours after receiving notice as specified below in <cite path="3.50.060|(B)|(3)">section 3.50.060(B)(3)</cite>, the person shall be subject to an administrative penalty of $3,000.00.</text>
+          <text>A person who commits a major violation shall be cited and given notice to remove the illegally dumped waste material from the public or private property. If the person found to commit a major violation fails to remove the illegally dumped waste material from the public or private property within 24 hours after receiving notice as specified below in <cite path="3.50.060|(B)|(3)" proof="needed">section 3.50.060(B)(3)</cite>, the person shall be subject to an administrative penalty of $3,000.00.</text>
         </para>
         <para>
           <num>3.</num>
@@ -1020,7 +837,7 @@
         </para>
         <para>
           <num>4.</num>
-          <text>Any person receiving notice of a major violation may request an appeal hearing pursuant to the process provided in <cite path="1.40">chapter 1.40</cite> of this code.</text>
+          <text>Any person receiving notice of a major violation may request an appeal hearing pursuant to the process provided in <cite path="1.40" proof="needed">chapter 1.40</cite> of this code.</text>
         </para>
       </para>
       <para>
@@ -1094,7 +911,7 @@
     <section>
       <num>3.50.120</num>
       <heading>Development of community service program in lieu of fine.</heading>
-      <text>The County Manager is authorized to develop an illegal dumping and litter community service program to be offered for violators of <cite path="3.50">this chapter</cite> in lieu of payment of any citations, fines, penalties, and/or costs.</text>
+      <text>The County Manager is authorized to develop an illegal dumping and litter community service program to be offered for violators of <cite path="3.50" proof="needed">this chapter</cite> in lieu of payment of any citations, fines, penalties, and/or costs.</text>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04756" path="§2">Ord. No. 04756, § 2, 5-10-2016</annotation>
       </annotations>
@@ -1102,7 +919,7 @@
     <section>
       <num>3.50.130</num>
       <heading>Remedies cumulative.</heading>
-      <text>The remedies provided for the enforcement of <cite path="3.50">this chapter</cite> are in addition to and do not supersede or limit any and all other remedies provided by law. The remedies provided in <cite path="3.50">this chapter</cite> are cumulative and not exclusive.</text>
+      <text>The remedies provided for the enforcement of <cite path="3.50" proof="needed">this chapter</cite> are in addition to and do not supersede or limit any and all other remedies provided by law. The remedies provided in <cite path="3.50" proof="needed">this chapter</cite> are cumulative and not exclusive.</text>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04756" path="§2">Ord. No. 04756, § 2, 5-10-2016</annotation>
       </annotations>
@@ -1124,7 +941,7 @@
     <section>
       <num>3.52.020</num>
       <heading>Discharge of firearms prohibited.</heading>
-      <text>No person shall, within the unincorporated area of the County of San Mateo, discharge or fire any firearm, except as provided in <cite path="3.52.030">section 3.52.030</cite> hereof.</text>
+      <text>No person shall, within the unincorporated area of the County of San Mateo, discharge or fire any firearm, except as provided in <cite path="3.52.030" proof="needed">section 3.52.030</cite> hereof.</text>
       <annotations>
         <annotation type="History">Prior code § 3250.1</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 1047">Ord. 1047, 03/02/54</annotation>
@@ -1133,7 +950,7 @@
     <section>
       <num>3.52.030</num>
       <heading>Exceptions.</heading>
-      <text>The provisions of <cite path="3.52.020">section 3.52.020</cite> as to the use of any firearm shall not apply to any of the following cases:</text>
+      <text>The provisions of <cite path="3.52.020" proof="needed">section 3.52.020</cite> as to the use of any firearm shall not apply to any of the following cases:</text>
       <para>
         <num>(a)</num>
         <text>To sheriffs, constables, marshals, policemen, or other peace officers, or any person summoned by any such officers to assist in making arrests or preserving the peace, or persons who are members of the armed services of the United States, or the National Guard, while such persons are acting in the lawful discharge of their duties;</text>
@@ -1158,7 +975,7 @@
     <section>
       <num>3.52.040</num>
       <heading>Possession by minor prohibited.</heading>
-      <text>It shall be unlawful for any person under the age of eighteen (18) years to have in his possession in a public place any firearm, except as provided in <cite path="3.52.050">section 3.52.050</cite> hereof.</text>
+      <text>It shall be unlawful for any person under the age of eighteen (18) years to have in his possession in a public place any firearm, except as provided in <cite path="3.52.050" proof="needed">section 3.52.050</cite> hereof.</text>
       <annotations>
         <annotation type="History">Prior code § 3250.3</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 1047">Ord. 1047, 03/02/54</annotation>
@@ -1167,7 +984,7 @@
     <section>
       <num>3.52.050</num>
       <heading>Exceptions.</heading>
-      <text>The provisions of <cite path="3.52.040">section 3.52.040</cite> hereof shall not apply to said persons under the age of eighteen (18) in the following cases:</text>
+      <text>The provisions of <cite path="3.52.040" proof="needed">section 3.52.040</cite> hereof shall not apply to said persons under the age of eighteen (18) in the following cases:</text>
       <para>
         <num>(a)</num>
         <text>When said person is in the immediate charge of a parent, guardian, or adult person having the responsibility for the conduct of said person under the age of eighteen (18) years.</text>
@@ -1218,7 +1035,7 @@
     <section>
       <num>3.52.090</num>
       <heading>Definitions.</heading>
-      <text>The following definitions govern the construction of <cite path="3.52">this chapter</cite>:</text>
+      <text>The following definitions govern the construction of <cite path="3.52" proof="needed">this chapter</cite>:</text>
       <para>
         <num>(a)</num>
         <text>"Firearm" shall mean any device, designed to be used as a weapon or modified to be used as a weapon, that expels a projectile by the force of an explosion or other form of combustion.</text>
@@ -1334,7 +1151,7 @@
     <section>
       <num>3.53.020</num>
       <heading>Definitions.</heading>
-      <text>For purposes of <cite path="3.53">this chapter</cite>, the following definitions shall apply:</text>
+      <text>For purposes of <cite path="3.53" proof="needed">this chapter</cite>, the following definitions shall apply:</text>
       <para>
         <num>(a)</num>
         <text>County Property. As used in this section, the term County property means real property, including any buildings thereon, owned or leased by the County of San Mateo (hereinafter "County"), and in the County's possession, or in the possession of a public or private entity under contract with the County to perform a public purpose, including but not limited to real property owned or leased by the County in the unincorporated and incorporated portions of the County, and the San Mateo County Expo Center in the City of San Mateo, but does not include any "local public building" as defined in Penal Code Section 171b(c), where the State regulated possession of firearms pursuant to Penal Code Section 171.</text>
@@ -1357,7 +1174,7 @@
       <text>This section does not apply to the following:</text>
       <para>
         <num>(a)</num>
-        <text>A peace officer as defined in <cite path="3">Title 3</cite>, Part 2, Chapter 4.5 of the California Penal Code (sections 830 et seq.);</text>
+        <text>A peace officer as defined in <cite path="3" proof="needed">Title 3</cite>, Part 2, Chapter 4.5 of the California Penal Code (sections 830 et seq.);</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1394,85 +1211,6 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>3.54</num>
-    <heading>SAFE STORAGE OF FIREARMS IN A RESIDENCE</heading>
-    <section>
-      <num>3.54.010</num>
-      <heading>Application of Chapter.</heading>
-      <text>The provisions of <cite path="3.54">this chapter</cite> shall apply within the unincorporated area of San Mateo County.</text>
-      <annotations>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04809" path="§2">Ord. No. 04809, § 2, 2-26-2019</annotation>
-      </annotations>
-    </section>
-    <section>
-      <num>3.54.020</num>
-      <heading>Definitions.</heading>
-      <para>
-        <num>(a)</num>
-        <text>For the purpose of <cite path="3.54">this chapter</cite>, "Firearm" means a firearm as defined in California Penal Code, Section 16520.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>"Locked Container" means a Locked Container, as defined in California Penal Code, Section 16850, listed on the California Department of Justice Bureau of Firearms roster of approved firearm safety devices. For purposes of <cite path="3.54">this chapter</cite>, a Locked Container does not include a bag or other container made of fabric or other penetrable material, such as a regular purse, backpack, or gym bag.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>"Residence" means any structure intended or used for human habitation, including but not limited to houses, condominiums, rooms, accessory dwelling units, motels, hotels, SRO's, time shares, recreational vehicles, and other vehicles where human habitation occurs.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>"Trigger lock" means a trigger lock that is listed on the California Department of Justice's roster of approved firearms safety devices and that is identified as appropriate for that firearm by reference to either the manufacturer and model of the firearm or to the physical characteristics of the firearm that match those listed on the roster for use with the device under Penal Code section 23635.</text>
-      </para>
-      <annotations>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04809" path="§2">Ord. No. 04809, § 2, 2-26-2019</annotation>
-      </annotations>
-    </section>
-    <section>
-      <num>3.54.030</num>
-      <heading>Safe storage of firearms in a residence required.</heading>
-      <para>
-        <num>(a)</num>
-        <text>Except when carried on the person, no person shall keep a Firearm in any Residence unless the Firearm is stored in a Locked Container or is disabled with a Trigger Lock.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>To encourage reporting of lost or stolen Firearms, a person who complies with California Penal Code section 25250 by reporting the loss or theft of a Firearm they own or possess to a local law enforcement agency within five days from the time they knew or reasonably should have known the Firearm had been lost or stolen shall not be prosecuted for violation of subsection (a).</text>
-      </para>
-      <annotations>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04809" path="§2">Ord. No. 04809, § 2, 2-26-2019</annotation>
-      </annotations>
-    </section>
-    <section>
-      <num>3.54.040</num>
-      <heading>Penalty.</heading>
-      <text>A violation of this section shall be subject to enforcement through criminal prosecution and/or civil penalties, as provided herein.</text>
-      <para>
-        <num>(a)</num>
-        <text>Violation a Misdemeanor. A person who violates <cite path="3.54">this chapter</cite> shall be guilty of a misdemeanor punishable by imprisonment in the county jail not exceeding six (6) months or by fine not exceeding one thousand dollars ($1,000.00), or by both.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>Civil Penalties. The County may assess civil penalties pursuant to San Mateo County Municipal Code <cite path="1.40">Chapter 1.40</cite> (Administrative Remedies) in the amounts provided in <cite path="1.40.070">Section 1.40.070</cite>.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>Each violation shall be deemed a distinct and separate offense.</text>
-      </para>
-      <annotations>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04809" path="§2">Ord. No. 04809, § 2, 2-26-2019</annotation>
-      </annotations>
-    </section>
-    <section>
-      <num>3.54.050</num>
-      <heading>Effective Date.</heading>
-      <text>This Ordinance shall be in effect thirty (30) days after adoption.</text>
-      <annotations>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04809" path="§2">Ord. No. 04809, § 2, 2-26-2019</annotation>
-      </annotations>
-    </section>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
     <num>3.56</num>
     <heading>HUNTING ON PRIVATE PROPERTY</heading>
     <section>
@@ -1497,7 +1235,7 @@
     <section>
       <num>3.56.030</num>
       <heading>Enforcement.</heading>
-      <text>It shall be the duty of the sheriff, constables, and all peace officers to enforce <cite path="3.56">this chapter</cite>.</text>
+      <text>It shall be the duty of the sheriff, constables, and all peace officers to enforce <cite path="3.56" proof="needed">this chapter</cite>.</text>
       <annotations>
         <annotation type="History">Prior code § 3262</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 342">Ord. 342, 11/09/25</annotation>
@@ -1511,7 +1249,7 @@
     <section>
       <num>3.60.010</num>
       <heading>Definitions.</heading>
-      <text>As used in <cite path="3.60">this chapter</cite>, the following terms shall have the meanings stated herein:</text>
+      <text>As used in <cite path="3.60" proof="needed">this chapter</cite>, the following terms shall have the meanings stated herein:</text>
       <para>
         <num>(a)</num>
         <text>"Board" means the Board of Supervisors of the County of San Mateo.</text>
@@ -1550,7 +1288,7 @@
     <section>
       <num>3.60.040</num>
       <heading>Term of license.</heading>
-      <text>The license provided for in <cite path="3.60.030">section 3.60.030</cite> shall remain in force for a period of one year from the date upon which it was issued by the Sheriff.</text>
+      <text>The license provided for in <cite path="3.60.030" proof="needed">section 3.60.030</cite> shall remain in force for a period of one year from the date upon which it was issued by the Sheriff.</text>
       <annotations>
         <annotation type="History">Prior code § 3268</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 704">Ord. 704, 12/17/46</annotation>
@@ -1560,7 +1298,7 @@
     <section>
       <num>3.60.050</num>
       <heading>License fee.</heading>
-      <text>Before any license provided for in <cite path="3.60.030">section 3.60.030</cite> shall become effective, the licensee named therein shall pay to the Sheriff a fee of ten ($10) dollars.</text>
+      <text>Before any license provided for in <cite path="3.60.030" proof="needed">section 3.60.030</cite> shall become effective, the licensee named therein shall pay to the Sheriff a fee of ten ($10) dollars.</text>
       <annotations>
         <annotation type="History">Prior code § 3269</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 704">Ord. 704, 12/17/46</annotation>
@@ -1580,131 +1318,12 @@
     <section>
       <num>3.60.070</num>
       <heading>Temporary suspension of license.</heading>
-      <text>When, in the opinion of the Sheriff, the use of any license provided for in <cite path="3.60.030">section 3.60.030</cite> may endanger the public health, welfare or safety, the Sheriff may suspend such a license for any period of time less than one (1) year.</text>
+      <text>When, in the opinion of the Sheriff, the use of any license provided for in <cite path="3.60.030" proof="needed">section 3.60.030</cite> may endanger the public health, welfare or safety, the Sheriff may suspend such a license for any period of time less than one (1) year.</text>
       <text>As soon as it can practicably be done, and before the actual date of such suspension if circumstances permit, notice in writing of such suspension shall be given by the Sheriff to the licensee. Notice may be given by personal delivery to the licensee or by depositing in the United States mail, with postage prepaid, such notice in an envelope addressed to the licensee at the licensee's address shown on the application for the license.</text>
       <annotations>
         <annotation type="History">Prior code § 3271</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 704">Ord. 704, 12/17/46</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2344">Ord. 2344, 01/06/76</annotation>
-      </annotations>
-    </section>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>3.61</num>
-    <heading>USE, POSSESSION, TRANSFER, OFFER FOR SALE AND SALE OF FLAMETHROWERS PROHIBITED</heading>
-    <section>
-      <num>3.61.010</num>
-      <heading>Application of Chapter.</heading>
-      <text>The provisions of <cite path="3.61">this chapter</cite> shall apply within the unincorporated area of San Mateo County.</text>
-      <annotations>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04804" path="§1">Ord. No. 04804, § 1, 9-25-2018</annotation>
-      </annotations>
-    </section>
-    <section>
-      <num>3.61.020</num>
-      <heading>Flamethrower Defined.</heading>
-      <text>For the purposes of <cite path="3.61">this chapter</cite>, "flamethrower" means any nonstationary and transportable device designed or intended to emit, or capable of emitting or propelling, fire or a burning stream of combustible or flammable liquid a distance of twenty-two (22) inches or greater.</text>
-      <annotations>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04804" path="§1">Ord. No. 04804, § 1, 9-25-2018</annotation>
-      </annotations>
-    </section>
-    <section>
-      <num>3.61.030</num>
-      <heading>Possession and Use of Flamethrowers Prohibited.</heading>
-      <text>No person shall possess or use any flamethrower.</text>
-      <annotations>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04804" path="§1">Ord. No. 04804, § 1, 9-25-2018</annotation>
-      </annotations>
-    </section>
-    <section>
-      <num>3.61.040</num>
-      <heading>Sale, Transfer, or Distribution of Flamethrowers Prohibited.</heading>
-      <text>The sale, offer or display for sale, trade, transfer, or other distribution by any person or retailer of flamethrowers is prohibited and no person or retailer shall sell, offer or display for sale, trade, transfer, or distribute, any flamethrower.</text>
-      <annotations>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04804" path="§1">Ord. No. 04804, § 1, 9-25-2018</annotation>
-      </annotations>
-    </section>
-    <section>
-      <num>3.61.050</num>
-      <heading>Exceptions.</heading>
-      <para>
-        <num>(a)</num>
-        <text><cite path="3.61">This chapter</cite> shall not apply to the possession, transportation, storage, or use of a flamethrower by a person if all of the following apply:</text>
-        <para>
-          <num>(1)</num>
-          <text>The person is regularly employed by, or a paid officer, employee, or member of, a fire department, fire protection district, or firefighting agency of the federal government, the state, a city, a county, a city and county, district, public or municipal corporation, or other political subdivision of the state of California.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The person is on duty and acting within the course and scope of his or her employment.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>The flamethrower is used by the fire department, fire protection district, or firefighting agency described in subdivision (a) in the course of fire suppression or fire suppression training.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text><cite path="3.61">This chapter</cite> shall not apply to prohibit the storage on private property only of a flamethrower by a person who is an active permitholder pursuant to Division 11, Part 3, § 12750, et, seq. of the California Health and Safety Code, or successor statute.</text>
-      </para>
-      <annotations>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04804" path="§1">Ord. No. 04804, § 1, 9-25-2018</annotation>
-      </annotations>
-    </section>
-    <section>
-      <num>3.61.060</num>
-      <heading>Violation of this chapter is a Public Nuisance.</heading>
-      <text>Violation of <cite path="3.61">this chapter</cite> is a public nuisance subject to any and all applicable civil, administrative and criminal remedies and penalties according to the provisions and procedures contained in this ordinance code and state law including, but not limited to, an abatement action for seizure and destruction of the flamethrower.</text>
-      <annotations>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04804" path="§1">Ord. No. 04804, § 1, 9-25-2018</annotation>
-      </annotations>
-    </section>
-    <section>
-      <num>3.61.070</num>
-      <heading>Enforcement.</heading>
-      <para>
-        <num>(a)</num>
-        <text>The San Mateo County Sheriff or designee, or any code enforcement officer appointed by the County, may enforce <cite path="3.61">this chapter</cite>.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>A violation of <cite path="3.61">this chapter</cite> is an infraction, punishable by:</text>
-        <para>
-          <num>(1)</num>
-          <text>A fine not exceeding one hundred dollars ($100.00) for a first violation;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>A fine not exceeding two hundred dollars ($200.00) for the second violation within one year;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>A fine not exceeding five hundred dollars ($500.00) for each additional violation within one year.</text>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>This section shall not be interpreted to limit the applicable civil or administrative remedies available under law.</text>
-      </para>
-      <annotations>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04804" path="§1">Ord. No. 04804, § 1, 9-25-2018</annotation>
-      </annotations>
-    </section>
-    <section>
-      <num>3.61.080</num>
-      <heading>No Conflict with Federal or State Law.</heading>
-      <text>Nothing in <cite path="3.61">this chapter</cite> shall be interpreted or applied so as to create any requirement, power, or duty that is preempted by federal or state law.</text>
-      <annotations>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04804" path="§1">Ord. No. 04804, § 1, 9-25-2018</annotation>
-      </annotations>
-    </section>
-    <section>
-      <num>3.61.090</num>
-      <heading>Severability.</heading>
-      <text>If any provision, section, subsection, sentence, clause, phrase, or word of this <cite path="3.61">Chapter 3.61</cite>, or any application thereof to any person or circumstance, is held to be invalid or unconstitutional by a court of competent jurisdiction, such decision shall not affect the validity of the remaining portions or applications of the chapter. The Board of Supervisors hereby declares that it would have passed <cite path="3.61">this chapter</cite>, and each provision, section, subsection, sentence, clause, phrase, and word not declared invalid or unconstitutional without regard to whether any portion of <cite path="3.61">this chapter</cite> or application thereof would be subsequently declared invalid or unconstitutional.</text>
-      <annotations>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04804" path="§1">Ord. No. 04804, § 1, 9-25-2018</annotation>
       </annotations>
     </section>
   </container>
@@ -1741,10 +1360,9 @@
     <section>
       <num>3.68.010</num>
       <heading>Violations, a misdemeanor.</heading>
-      <text>Any person violating any of the provisions or failing to comply with any of the mandatory requirements of <cite path="3.68">this chapter</cite> shall be guilty of a misdemeanor, unless otherwise specified.</text>
+      <text>Any person violating any of the provisions or failing to comply with any of the mandatory requirements of <cite path="3.68" proof="needed">this chapter</cite> shall be guilty of a misdemeanor.</text>
       <annotations>
         <annotation type="History">Prior code § 3385</annotation>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04805" path="§2">Ord. No. 04805, § 2, 11-6-2018</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 415">Ord. 415, 06/25/34</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2394">Ord. 2394, 09/21/76</annotation>
       </annotations>
@@ -1752,10 +1370,9 @@
     <section>
       <num>3.68.020</num>
       <heading>Exceptions.</heading>
-      <text>The provisions of this ordinance shall not apply to employees of the San Mateo County Parks and Recreation Department, or the San Francisco Water Department, or other public officials acting within the scope of their authorized duties. However, Department employees, public officials and concessionaires and their employees shall abide by the laws of the State of California and all applicable County and/or municipal ordinances.</text>
+      <text>The provisions of this ordinance shall not apply to employees of the San Mateo County Parks and Recreation Department, or the San Francisco Water Department, or other public officials acting within the scope of their authorized duties and concession activities. However, Department employees, public officials and concessionaires and their employees shall abide by the laws of the State of California and all applicable County and/or municipal ordinances.</text>
       <annotations>
         <annotation type="History">Prior code § 3385.1</annotation>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04805" path="§2">Ord. No. 04805, § 2, 11-6-2018</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 415">Ord. 415, 06/25/34</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2394">Ord. 2394, 09/21/76</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2807">Ord. 2807, 10/26/82</annotation>
@@ -1770,7 +1387,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>"County Park" shall mean any park, recreation area, reserve or preserve, historical site or any other facility operated, owned, or managed by the San Mateo County Parks and Recreation Department.</text>
+        <text>"County Park" shall mean any park, recreation area, reserve or preserve, historical site or any other facility operated by the San Mateo County Parks and Recreation Department.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -1786,7 +1403,7 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>"San Francisco Fish and Game Refuge" means that area defined in the State of California Fish and Game Code, division 7 REFUGES, chapter 2, article 1, section 10771 and under the jurisdiction of the San Francisco Water Department.</text>
+        <text>"San Francisco Fish and Game Refuge" means that area defined in the State of California Fish and Game Code, division 7 REFUGES, chapter 2, article 1, section 10772 and under the jurisdiction of the San Francisco Water Department.</text>
       </para>
       <para>
         <num>(g)</num>
@@ -1798,15 +1415,15 @@
       </para>
       <para>
         <num>(i)</num>
-        <text>"Person" as used in <cite path="3.68">this chapter</cite> shall be construed to mean and shall include natural persons, firms, co-partnerships, corporations, clubs and all associations or combinations of persons whatsoever, whether acting by themselves or by a servant, agent or employee.</text>
+        <text>"Person" as used in <cite path="3.68" proof="needed">this chapter</cite> shall be construed to mean and shall include natural persons, firms, co-partnerships, corporations, clubs and all associations or combinations of persons whatever, whether acting by themselves or by a servant, agent or employee.</text>
       </para>
       <para>
         <num>(j)</num>
-        <text>"Recreation Area" as used in <cite path="3.68">this chapter</cite> shall be construed to mean and shall include all land, facilities and other property for public recreation owned and/or operated by the County of San Mateo, or the San Francisco Water Department, including parks, playgrounds, camping areas, swimming pools, golf courses, picnic grounds, athletic fields, beaches, parkways, public squares, hiking and bicycling paths, horse trails, roadside viewing areas, rest stops, historical monuments, and all grounds surrounding public buildings, all planting and areas for planting along roads, streets and highways, and all other recreation areas, including all buildings, structures, improvements, monuments, apparatus and equipment existing in or that may be erected in any of such areas.</text>
+        <text>"Recreation Area" as used in <cite path="3.68" proof="needed">this chapter</cite> shall be construed to mean and shall include all land, facilities and other property for public recreation owned and/or operated by the County of San Mateo, or the San Francisco Water Department, including parks, playgrounds, camping areas, swimming pools, golf courses, picnic grounds, athletic fields, beaches, parkways, public squares, hiking and bicycling paths, horse trails, roadside viewing areas, rest stops, historical monuments, and all grounds surrounding public buildings, all planting and areas for planting along roads, streets and highways, and all other recreation areas, including all buildings, structures, improvements, monuments, apparatus and equipment existing in or that may be erected in any of such areas.</text>
       </para>
       <para>
         <num>(k)</num>
-        <text>"Sound Amplifying Equipment" shall mean any machine or device for the amplification of the human voice, music, or any other sound, but shall not include standard automobile radios or automobile tape decks when used and heard only by the occupants of the vehicle in which the automobile radio or tape deck is installed, nor radio receiving sets, non-electrical musical instruments, or television sets. "Sound Amplifying Equipment" as used in <cite path="3.68">this chapter</cite>, shall not include warning devices or sound amplification equipment on Parks and Recreation Department, or San Francisco Water Department vehicles, or other authorized emergency vehicles, or horns, or other warning devices on any vehicle used only for traffic safety purposes.</text>
+        <text>"Sound Amplifying Equipment" shall mean any machine or device for the amplification of the human voice, music, or any other sound, but shall not include standard automobile radios or automobile tape decks when used and heard only by the occupants of the vehicle in which the automobile radio or tape deck is installed, nor radio receiving sets, non-electrical musical instruments, or television sets. "Sound Amplifying Equipment" as used in <cite path="3.68" proof="needed">this chapter</cite>, shall not include warning devices or sound amplification equipment on Parks and Recreation Department, or San Francisco Water Department vehicles, or other authorized emergency vehicles, or horns, or other warning devices on any vehicle used only for traffic safety purposes.</text>
       </para>
       <para>
         <num>(l)</num>
@@ -1818,7 +1435,6 @@
       </para>
       <annotations>
         <annotation type="History">Prior code § 3385.2</annotation>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04805" path="§2">Ord. No. 04805, § 2, 11-6-2018</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 415">Ord. 415, 06/25/34</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2394">Ord. 2394, 09/21/76</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2807">Ord. 2807, 10/26/82</annotation>
@@ -1830,7 +1446,7 @@
       <heading>Permits and fees—Violation as infraction.</heading>
       <para>
         <num>(a)</num>
-        <text>No person shall enter, occupy or use a County park or Recreation Area, or any area or facility therein, for which a user fee, deposit or permit is required without first obtaining any applicable permit and paying any applicable fees or deposits in the manner provided by <cite path="3.68">this chapter</cite>. Any person obtaining a permit to enter or use a County park or Recreation Area shall display such permit in the manner provided by such permit.</text>
+        <text>No person shall enter, occupy or use a County park or recreation area, or any area or facility therein, for which a user fee, deposit or permit is required without first obtaining any applicable permit and paying any applicable fees or deposits in the manner provided by <cite path="3.68" proof="needed">this chapter</cite>. Any person obtaining a permit to enter or use a County park or recreation area shall display such permit in the manner provided by such permit.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1838,11 +1454,10 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>A violation of this section shall be an infraction punishable by (1) a fine not exceeding one hundred dollars ($100.00) for a first violation; (2) a fine not exceeding two hundred dollars ($200.00) for a second violation of this section within one year; and (3) a fine not exceeding five hundred dollars ($500.00) for each additional violation of this section within one year.</text>
+        <text>A violation of this section shall be an infraction punishable by (1) a fine not exceeding one hundred dollars ($100) for a first violation; (2) a fine not exceeding two hundred dollars ($200) for a second violation of this section within one year; and (3) a fine not exceeding five hundred dollars ($500) for each additional violation of this section within one year.</text>
       </para>
       <annotations>
         <annotation type="History">Prior code § 3385.3</annotation>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04805" path="§2">Ord. No. 04805, § 2, 11-6-2018</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 415">Ord. 415, 06/25/34</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2394">Ord. 2394, 09/21/76</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3651">Ord. 3651, 5/16/95</annotation>
@@ -1912,7 +1527,7 @@
       <heading>General protective regulations.</heading>
       <para>
         <num>(a)</num>
-        <text>Vegetative. No person shall willfully or negligently pick, dig up, cut, mutilate, destroy, injure, disturb, move, molest, burn, carry away, collect or gather any tree or plant or portion thereof, including but not limited to leaf mold, flowers, foliage, berries, fruit, grass, turf, humus, shrubs, cones, ferns, mushrooms and dead wood in any County Park or Recreation area, or on the San Francisco Fish and Game Refuge, or on any hiking and riding trail, nor shall any person willfully or negligently allow any dog to do so. Nothing in this section shall prevent the taking of any tree or plant or portion thereof, including but not limited to leaf mold, flowers, foliage, berries, fruit, grass, turf, humus, shrubs, cones, ferns, mushrooms and dead wood in any County Park or Recreation area, or on the San Francisco Fish and Game Refuge, any hiking and riding trail by public officials pursuant to their official duties or by scientific permit from the San Mateo County Parks and Recreation Department, or San Francisco Water Department, for the areas under their respective jurisdictions.</text>
+        <text>Vegetative. No person shall willfully or negligently pick, dig up, cut, mutilate, destroy, injure, disturb, move, molest, burn, carry away, collect or gather any tree or plant or portion thereof, including but not limited to leaf mold, flowers, foliage, berries, fruit, grass, turf, humus, shrubs, cones, ferns, mushrooms and dead wood in any County Park or Recreation area, or on the San Francisco Fish and Game Refuge, or on any hiking and riding trail. Nothing in this section shall prevent the taking of any tree or plant or portion thereof, including but not limited to leaf mold, flowers, foliage, berries, fruit, grass, turf, humus, shrubs, cones, ferns, mushrooms and dead wood in any County Park or Recreation area, or on the San Francisco Fish and Game Refuge, any hiking and riding trail by public officials pursuant to their official duties or by scientific permit from the San Mateo County Parks and Recreation Department, or San Francisco Water Department, for the areas under their respective jurisdictions.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1920,7 +1535,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Littering. No person shall place or throw bottles, broken glass, crockery, ashes, waste paper, cans, dog waste (bagged or unbagged), or any decaying or putrid matter or other rubbish in any County Park or Recreation area, or on the San Francisco Fish and Game Refuge, except in a receptacle designated for that purpose, and no person shall import or deposit any rubbish into or in any County Park or Recreation area, or on the San Francisco Fish and Game Refuge, or hiking and riding trail. No person shall transport or dump any rock, rubble, dirt, sand, fill or other similar material into or in any County Park or Recreation area without the permission of the Director, or the General Manager and Chief Engineer, or their representatives for the areas under their respective jurisdiction.</text>
+        <text>Littering. No person shall place or throw bottles, broken glass, crockery, ashes, waste paper, cans or any decaying or putrid matter or other rubbish in any County Park or Recreation area, or on the San Francisco Fish and Game Refuge, except in a receptacle designated for that purpose, and no person shall import or deposit any rubbish into or in any County Park or Recreation area, or on the San Francisco Fish and Game Refuge, or hiking and riding trail. No person shall transport or dump any rock, rubble, dirt, sand, fill or other similar material into or in any County Park or Recreation area without the permission of the Director, or the General Manager and Chief Engineer, or their representatives for the areas under their respective jurisdiction.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -1928,11 +1543,11 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Watershed Protection. No person shall allow any dog to contaminate in any way whatsoever any watershed or water supply in any Recreation area or in any County Park, or in the Watershed, or water supplies of any water purveyor holding a water purveyor's permit issued by the California Department of Health Services pursuant to Public Health Code, Chapter 7, Section 4011.</text>
+        <text>Watershed Protection. No person shall contaminate in any way whatsoever any watershed or water supply in any Recreation area or in any County Park, or in the Watershed, or water supplies of any water purveyor holding a water purveyor's permit issued by the California Department of Health Services pursuant to Public Health Code, chapter 7, section 4011.</text>
       </para>
       <para>
         <num>(f)</num>
-        <text>Water Quality Protection. No person shall wash clothing or cooking utensils, bathe in, or in any other manner pollute the waters of any Recreation Area or any County Park, nor shall any person leave bagged or unbagged feces or in any other manner pollute the waters of any Recreation Area or any County Park, or in the Watershed, or water supplies of any water purveyor holding a water purveyor's permit issued by the California Department of Health Services pursuant to Public Health Code, Chapter 7, Section 4011.</text>
+        <text>Water Quality Protection. No person shall wash clothing or cooking utensils, bathe in, or in any other manner pollute the waters of any Recreation area or any County Park, or in the Watershed, or water supplies of any water purveyor holding a water purveyor's permit issued by the California Department of Health Services pursuant to Public Health Code, chapter 7, section 4011.</text>
       </para>
       <para>
         <num>(g)</num>
@@ -1944,7 +1559,7 @@
       </para>
       <para>
         <num>(i)</num>
-        <text>Domestic Animals. Except as expressly permitted pursuant to <cite path="3.68.180">Section 3.68.180</cite>, no dogs, cats, fowl or other domesticated animals shall be permitted to enter or go at large in any County Park or Recreation area, either with or without a keeper. No person shall release any captured wild animal within any County Park or Recreation area except authorized public officials pursuant to their duties.</text>
+        <text>Domestic Animals. No dogs, cats, fowl or other domesticated animals shall be permitted to enter or go at large in any County Park or Recreation area, either with or without a keeper. Nothing in this section shall prohibit a guide dog under the control of a person with a vision or hearing impairment or "police dog" under the control of a peace officer from entering a County Park or Recreation area. No person shall release any captured wild animal within any County Park or Recreation area except authorized public officials pursuant to their duties.</text>
       </para>
       <para>
         <num>(j)</num>
@@ -1964,7 +1579,7 @@
       </para>
       <para>
         <num>(n)</num>
-        <text>Wildlife. All County Parks and Recreation Areas and the San Francisco Fish and Game Refuge are sanctuaries for wildlife. No person shall feed, approach, disturb, frighten, hunt, trap, capture, wound, kill, chase, pursue, or disturb the natural habitat of, any wild bird, mammal, reptile, fish, amphibian or invertebrate within a County Park or Recreation Area or within any San Francisco Fish and Game Refuge area located within the County, nor shall any person allow any dog to do so. This prohibition shall not apply to the following:</text>
+        <text>Wildlife. All County Parks and Recreation Areas and the San Francisco Fish and Game Refuge are sanctuaries for wildlife. No person shall feed, approach, disturb, frighten, hunt, trap, capture, wound, kill, or disturb the natural habitat of, any wild bird, mammal, reptile, fish, amphibian or invertebrate within a County Park or Recreation Area or within any San Francisco Fish and Game Refuge area located within the County. This prohibition shall not apply to the following:</text>
         <para>
           <num>(1)</num>
           <text>Action taken by public officials or their employees or agents, within the scope of their authorized duties, to protect the public health and safety.</text>
@@ -2000,7 +1615,7 @@
       </para>
       <para>
         <num>(t)</num>
-        <text>Alcoholic Beverages. No person shall possess or consume alcoholic beverages, other than beer or wine, in any form within any County Park or Recreation area, or on the San Francisco Fish and Game Refuge. Alcoholic beverages as described herein are permitted at Coyote Point County Park only in designated areas and during designated times. No person shall possess or consume any alcoholic beverages in any form at the Coyote Point Rifle and Pistol Range, or within twenty-five (25) feet of the San Francisco Watershed vehicle parking lots or areas. This section shall not prohibit the dispensing of all types of alcoholic beverages by a licensee under the laws of the State of California, under a food and bar concession from the County or the consumption of such beverages on the premises of such concessionaire, or the consumption of alcoholic beverages by persons holding a written occupancy permit issued by the Parks Director, or his or her representative, for areas under his or her jurisdiction.</text>
+        <text>Alcoholic Beverages. No person shall possess or consume alcoholic beverages, other than beer or wine, in any form within any County Park or Recreation area, or on the San Francisco Fish and Game Refuge. Alcoholic beverages as described herein are permitted at Coyote Point County Park only in designated areas and during designated times. No person shall possess or consume any alcoholic beverages in any form at the Coyote Point Rifle and Pistol Range, or within twenty-five feet (25′) of the San Francisco Watershed vehicle parking lots or areas. This section shall not prohibit the dispensing of all types of alcoholic beverages by a licensee under the laws of the State of California, under a food and bar concession from the County or the consumption of such beverages on the premises of such concessionaire, or the consumption of alcoholic beverages by persons holding a written occupancy permit issued by the Parks Director, or his or her representative, for areas under his or her jurisdiction.</text>
       </para>
       <para>
         <num>(u)</num>
@@ -2020,7 +1635,6 @@
       </para>
       <annotations>
         <annotation type="History">Prior code § 3387</annotation>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04805" path="§2">Ord. No. 04805, § 2, 11-6-2018</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 415">Ord. 415, 06/25/34</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 976">Ord. 976, 01/15/52</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 1287">Ord. 1287, 05/06/58</annotation>
@@ -2045,7 +1659,7 @@
     <section>
       <num>3.68.100</num>
       <heading>Parking.</heading>
-      <text>No person shall park any motor vehicle as defined in <cite path="3.68">this chapter</cite> within a County Park or Recreation area, or on the San Francisco Fish and Game Refuge, except upon areas designated for such use. No person shall park a motor vehicle, except an authorized emergency vehicle or when in compliance with the directions of a Peace Officer or Park Ranger in any of the following places: In areas where prohibited by "NO PARKING" signs. On any fire trail, road or access. On any equestrian or hiking trail. Blocking or obstructing any gate, entrance or exit. On any lawn or grassy area. In any picnic area. On any beach. In such a manner as to take up more than one "Marked" space in any authorized parking area. In any area where such vehicle blocks or obstructs the free flow of traffic. Within 15 feet of a fire hydrant. Adjacent to any curb painted red. In any County Park or Recreation area, or on the San Francisco Fish and Game Refuge, after closing time except pursuant to a valid permit.</text>
+      <text>No person shall park any motor vehicle as defined in <cite path="3.68" proof="needed">this chapter</cite> within a County Park or Recreation area, or on the San Francisco Fish and Game Refuge, except upon areas designated for such use. No person shall park a motor vehicle, except an authorized emergency vehicle or when in compliance with the directions of a Peace Officer or Park Ranger in any of the following places: In areas where prohibited by "NO PARKING" signs. On any fire trail, road or access. On any equestrian or hiking trail. Blocking or obstructing any gate, entrance or exit. On any lawn or grassy area. In any picnic area. On any beach. In such a manner as to take up more than one "Marked" space in any authorized parking area. In any area where such vehicle blocks or obstructs the free flow of traffic. Within 15 feet of a fire hydrant. Adjacent to any curb painted red. In any County Park or Recreation area, or on the San Francisco Fish and Game Refuge, after closing time except pursuant to a valid permit.</text>
       <annotations>
         <annotation type="History">Prior code § 3388.1</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 415">Ord. 415, 06/25/34</annotation>
@@ -2101,7 +1715,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Sound Amplifying Equipment. It shall be unlawful for any person to operate any sound amplifying equipment as defined in <cite path="3.68.030">section 3.68.030</cite> in any County Park or Recreation area, or the San Francisco Fish and Game Refuge. This section shall not apply to a person operating sound amplifying equipment under a permit granted by the Parks and Recreation Department, or the San Francisco Water Department, as provided in <cite path="3.68.140">section 3.68.140</cite>.</text>
+        <text>Sound Amplifying Equipment. It shall be unlawful for any person to operate any sound amplifying equipment as defined in <cite path="3.68.030" proof="needed">section 3.68.030</cite> in any County Park or Recreation area, or the San Francisco Fish and Game Refuge. This section shall not apply to a person operating sound amplifying equipment under a permit granted by the Parks and Recreation Department, or the San Francisco Water Department, as provided in <cite path="3.68.140" proof="needed">section 3.68.140</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -2242,49 +1856,31 @@
     </section>
     <section>
       <num>3.68.180</num>
-      <heading>Dogs.</heading>
+      <heading>Dogs on Sheep Camp Trail.</heading>
       <para>
         <num>(a)</num>
-        <text>No dogs shall be permitted in any San Mateo County Park or Recreation Area, unless such area is specifically designated and signed to allow dogs. This subsection shall not apply to (i) service dogs under physical control, specifically trained to assist persons with disabilities in accordance with the American's with Disabilities Act or (ii) a "police dog" under the control of a peace officer.</text>
+        <text>Dogs shall be permitted on the portion of Sheep Camp Trail located between Canada Road and Highway 280 subject to the conditions and requirements of this section.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>In any San Mateo County Park or Recreation Area where dogs are allowed, no person shall have more than three dogs.</text>
+        <text>No person shall cause or allow any dog under his or her ownership, possession or control to enter or remain on Sheep Camp Trail unless the dog is licensed as provided in <cite path="6.04.040|(a)" proof="needed">section 6.04.040(a)</cite>, is wearing around its neck a collar and valid license tag and the owner or possessor of the dog complies with all other conditions of this <cite path="3.68.180" proof="needed">section 3.68.180</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>No person shall cause or allow any dog under his or her ownership, possession, or control to enter or remain in any San Mateo County Park or Recreation Area unless the dog is licensed as required by the County of San Mateo, is wearing around its neck a collar and valid license tag, and the owner or possessor of the dog complies with all other conditions of this <cite path="3.68.180">Section 3.68.180</cite>.</text>
+        <text>No person shall cause or allow any dog under his or her ownership, possession or control to enter or remain on Sheep Camp Trail unless such person restrains such dog with a leash not to exceed six (6) feet in length and insures that the leash and control by the person are sufficient to prevent endangering other persons or animals.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>In any San Mateo County Park or Recreation Area where dogs are allowed, no person shall cause or allow any dog under his or her ownership, possession, or control to enter or remain in such area unless such person restrains such dog, at all times, with a leash not to exceed six (6) feet in length (sixteen (16) feet when unretracted) and insures that the leash and control by the person are sufficient to prevent endangering other persons or animals. Where dogs are permitted only on designated trails, any dog shall be restricted to the designated trails at all times and shall not be allowed to enter the natural habitat abutting the designated trails.</text>
+        <text>No person shall cause or allow any dog under his or her ownership, possession or control to enter or remain on or to defecate upon any part of Sheep Camp Trail including the path, parking area or any property abutting on Sheep Camp Trail (including but not limited to the San Francisco Watershed, Canada Road and any state right-of-way) used by the general public unless the owner or person with control or custody of the dog immediately removes the feces and properly disposes of it in a sanitary manner.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>Any person bringing a dog into any San Mateo County Park or Recreation Area shall immediately remove any feces deposited by such dog. Dog feces must be placed in garbage cans or removed from the San Mateo County Park or Recreation Area. No person shall bring a dog into any San Mateo County Park or Recreation Area without carrying at all times a suitable container or other suitable instrument for the removal and disposal of dog feces.</text>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text>A violation of the provisions of this section shall be an infraction. Any person to whom a citation is issued for a violation of this section shall be subject to a base fine of:</text>
-        <para>
-          <num>(1)</num>
-          <text>Five Dollars ($5.00) for a first violation;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Thirty Dollars ($30.00) for a second violation within a period of one year from the first violation; and</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>One Hundred Dollars ($100.00) for each additional violation within a period of one year from the first violation.</text>
-        </para>
+        <text>No person shall walk a dog on Sheep Camp Trail or allow or cause a dog under his or her ownership, possession or control to enter Sheep Camp Trail without carrying at all times a suitable container or other suitable instrument for the removal and disposal of canine feces.</text>
       </para>
       <annotations>
         <annotation type="History">Prior code § 3387.5</annotation>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04805" path="§2">Ord. No. 04805, § 2, 11-6-2018</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3370">Ord. 3370, 02/11/92</annotation>
         <annotation type="History">to be in effect for one year</annotation>
-        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04812" path="§2">Ord. No. 04812, § 2, 5-14-2019</annotation>
       </annotations>
     </section>
   </container>
@@ -2295,7 +1891,7 @@
     <section>
       <num>3.69.010</num>
       <heading>Violations, a misdemeanor.</heading>
-      <text>Any violation of any of the provisions of this <cite path="3.69">chapter 3.69</cite>, or any failure to comply with any of the mandatory requirements of this <cite path="3.69">chapter 3.69</cite>, shall be a misdemeanor.</text>
+      <text>Any violation of any of the provisions of this <cite path="3.69" proof="needed">chapter 3.69</cite>, or any failure to comply with any of the mandatory requirements of this <cite path="3.69" proof="needed">chapter 3.69</cite>, shall be a misdemeanor.</text>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04778">Ord. No. 04778, 6-27-2017</annotation>
       </annotations>
@@ -2306,7 +1902,7 @@
       <text>The provisions of this ordinance shall not apply to the following:</text>
       <para>
         <num>(a)</num>
-        <text>the fee owners of the property described in <cite path="3.69.030|(c)">section 3.69.030(c)</cite>, their tenants, invitees and guests; and</text>
+        <text>the fee owners of the property described in <cite path="3.69.030|(c)" proof="needed">section 3.69.030(c)</cite>, their tenants, invitees and guests; and</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2321,7 +1917,7 @@
       <heading>Definitions.</heading>
       <para>
         <num>(a)</num>
-        <text>Words used in <cite path="3.69">this chapter</cite> shall have the meanings given them under <cite path="3.68.030">section 3.68.030</cite> of this Code, unless separately defined herein.</text>
+        <text>Words used in <cite path="3.69" proof="needed">this chapter</cite> shall have the meanings given them under <cite path="3.68.030" proof="needed">section 3.68.030</cite> of this Code, unless separately defined herein.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2491,7 +2087,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Notwithstanding <cite path="3.69.010">section 3.69.010</cite> of this Ordinance Code, a violation of the provisions of this section shall be an infraction. Any person to whom a citation is issued for a violation of this <cite path="3.69.090">section 3.69.090</cite> shall be subject to a fine of Fifty Dollars ($50) for a first violation within a period of one year; One Hundred Dollars ($100) for a second violation within a period of one year; and Three Hundred Dollars ($300) for each additional violation within a period of one year.</text>
+        <text>Notwithstanding <cite path="3.69.010" proof="needed">section 3.69.010</cite> of this Ordinance Code, a violation of the provisions of this section shall be an infraction. Any person to whom a citation is issued for a violation of this <cite path="3.69.090" proof="needed">section 3.69.090</cite> shall be subject to a fine of Fifty Dollars ($50) for a first violation within a period of one year; One Hundred Dollars ($100) for a second violation within a period of one year; and Three Hundred Dollars ($300) for each additional violation within a period of one year.</text>
       </para>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04778">Ord. No. 04778, 6-27-2017</annotation>
@@ -2506,7 +2102,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Sound Amplifying Equipment. It shall be unlawful for any person to operate any sound amplifying equipment as defined in <cite path="3.68.030|(k)">section 3.68.030(k)</cite> at Tunitas Creek Beach.</text>
+        <text>Sound Amplifying Equipment. It shall be unlawful for any person to operate any sound amplifying equipment as defined in <cite path="3.68.030|(k)" proof="needed">section 3.68.030(k)</cite> at Tunitas Creek Beach.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -2559,7 +2155,7 @@
     <section>
       <num>3.69.130</num>
       <heading>Smoking prohibited.</heading>
-      <text>No person shall engage in smoking, as defined by <cite path="4.96">chapter 4.96</cite> of this Code, at Tunitas Creek Beach.</text>
+      <text>No person shall engage in smoking, as defined by <cite path="4.96" proof="needed">chapter 4.96</cite> of this Code, at Tunitas Creek Beach.</text>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04778">Ord. No. 04778, 6-27-2017</annotation>
       </annotations>
@@ -2582,7 +2178,7 @@
     <section>
       <num>3.72.020</num>
       <heading>Issuance of permits.</heading>
-      <text>The Department of Social Services shall have power to issue permits for such places, and every such permit shall specify the name and residence of the person so undertaking the care of such children and the location of the place where the same are kept and the number of children thereby allowed to be received, boarded or kept therein, and shall be revocable for cause by the said Department of Social Services in any case where the provisions of <cite path="3.72">this chapter</cite> are violated, or in any case where in the opinion of the Department of Social Services, such institution, home, boarding house or other place is being managed, conducted or maintained without regard for the health, comfort or morality of the inmates thereof, or without due regard to proper sanitation or hygiene.</text>
+      <text>The Department of Social Services shall have power to issue permits for such places, and every such permit shall specify the name and residence of the person so undertaking the care of such children and the location of the place where the same are kept and the number of children thereby allowed to be received, boarded or kept therein, and shall be revocable for cause by the said Department of Social Services in any case where the provisions of <cite path="3.72" proof="needed">this chapter</cite> are violated, or in any case where in the opinion of the Department of Social Services, such institution, home, boarding house or other place is being managed, conducted or maintained without regard for the health, comfort or morality of the inmates thereof, or without due regard to proper sanitation or hygiene.</text>
       <annotations>
         <annotation type="History">Prior code § 3396</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 446">Ord. 446, 02/08/37</annotation>
@@ -2632,7 +2228,7 @@
     <section>
       <num>3.80.010</num>
       <heading>Trespassing prohibited.</heading>
-      <text>It shall be unlawful for any person, other than the owner of the property or persons having the permission of the owner, to trespass, loiter, wander, or be upon any lands, public or private, which the Board of Supervisors has hereinafter designated in <cite path="3.80">this chapter</cite> as dangerous premises, and upon which the Director of Public Works, with the consent of the owner or owners of said property, has posted a sign as hereinafter provided.</text>
+      <text>It shall be unlawful for any person, other than the owner of the property or persons having the permission of the owner, to trespass, loiter, wander, or be upon any lands, public or private, which the Board of Supervisors has hereinafter designated in <cite path="3.80" proof="needed">this chapter</cite> as dangerous premises, and upon which the Director of Public Works, with the consent of the owner or owners of said property, has posted a sign as hereinafter provided.</text>
       <annotations>
         <annotation type="History">Prior code § 3425.0</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 1462">Ord. 1462, 06/13/61</annotation>
@@ -2652,7 +2248,7 @@
     <section>
       <num>3.80.030</num>
       <heading>Posting of warning signs.</heading>
-      <text>The warning signs to be posted by the Director of Public Works as herein provided in <cite path="3.80">this chapter</cite> shall be posted in conspicuous places within the property designated as dangerous premises, at intervals of not more than 100 feet and violating trespassers shall be guilty of a misdemeanor.</text>
+      <text>The warning signs to be posted by the Director of Public Works as herein provided in <cite path="3.80" proof="needed">this chapter</cite> shall be posted in conspicuous places within the property designated as dangerous premises, at intervals of not more than 100 feet and violating trespassers shall be guilty of a misdemeanor.</text>
       <annotations>
         <annotation type="History">Prior code § 3425.2</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 1462">Ord. 1462, 06/13/61</annotation>
@@ -2662,7 +2258,7 @@
     <section>
       <num>3.80.040</num>
       <heading>Dangerous premises defined.</heading>
-      <text>For the purpose of <cite path="3.80">this chapter</cite> the Board of Supervisors hereby finds and declares that those lands which are and constitute "dangerous premises" are situated in the unincorporated territory of the County of San Mateo, State of California, and more particularly described as follows:</text>
+      <text>For the purpose of <cite path="3.80" proof="needed">this chapter</cite> the Board of Supervisors hereby finds and declares that those lands which are and constitute "dangerous premises" are situated in the unincorporated territory of the County of San Mateo, State of California, and more particularly described as follows:</text>
       <text>All that certain area of land lying westerly of State Highway Route No. 1, between Station D-321 plus 00, said station being at or near a culvert having the marking D-6.10 on a guide post at its inlet end, and Station D-450 plus 00, said station being approximately 350 feet westerly of a culvert having the marking D-8.48 on a guide post at its inlet end; the aforementioned stations having been established by surveys by the State Division of Highways, and being delineated on that certain set of plans prepared by said State Division of Highways, dated May 25, 1936, and entitled "PLAN AND PROFILE OF STATE HIGHWAY IN SAN MATEO COUNTY, BETWEEN FARALLONE CITY AND ROCKAWAY BEACH", a copy of which is on file in the office of the Director of Public Works, in the Court House, Redwood City.</text>
       <annotations>
         <annotation type="History">Prior code § 3425.3</annotation>
@@ -2678,7 +2274,7 @@
     <section>
       <num>3.82.010</num>
       <heading>Definitions.</heading>
-      <text>As used in <cite path="3.82">this chapter</cite>:</text>
+      <text>As used in <cite path="3.82" proof="needed">this chapter</cite>:</text>
       <para>
         <num>(a)</num>
         <text>"Posted property" means any property at each corner of which, at each entrance to which, a sign is posted three feet above the normal ground level, and said sign is composed of wood, metal or other equally substantial material, the face of which is not less than one square foot in area, and upon which, in legible letters not less than two inches in height, appear the words, "PRIVATE PROPERTY—NO TRESPASS." In addition to the words "PRIVATE PROPERTY—NO TRESPASS," the sign may contain such other words as may be desired, indicating that trespassers are subject to prosecution. Where the area of such property exceeds one acre, the signs shall be posted at intervals of not more than three hundred feet along or near the boundaries thereof.</text>
@@ -2717,7 +2313,7 @@
     <section>
       <num>3.82.030</num>
       <heading>Infraction.</heading>
-      <text>Any person who violates the provisions of <cite path="3.82">this chapter</cite> is guilty of an infraction punishable by a fine set forth in Government Code section 25132 and any amendments thereto.</text>
+      <text>Any person who violates the provisions of <cite path="3.82" proof="needed">this chapter</cite> is guilty of an infraction punishable by a fine set forth in Government Code section 25132 and any amendments thereto.</text>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 4312">Ord. 4312, 05/23/06</annotation>
       </annotations>
@@ -2739,7 +2335,7 @@
     <section>
       <num>3.88.020</num>
       <heading>Permit required.</heading>
-      <text>No person shall install or operate an alarm system on any commercial premises under his or her control without first obtaining a permit as required by <cite path="3.88">this chapter</cite>. A permit for an alarm system shall be obtained from the Sheriff's Department.</text>
+      <text>No person shall install or operate an alarm system on any commercial premises under his or her control without first obtaining a permit as required by <cite path="3.88" proof="needed">this chapter</cite>. A permit for an alarm system shall be obtained from the Sheriff's Department.</text>
       <annotations>
         <annotation type="History">Prior code § 3501</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3027">Ord. 3027, 03/12/85</annotation>
@@ -2748,7 +2344,7 @@
     <section>
       <num>3.88.030</num>
       <heading>Permit for existing alarm systems.</heading>
-      <text>Any person who installed an alarm system on his commercial premises before the effective date of this ordinance shall obtain a permit for the alarm system as required by <cite path="3.88">this chapter</cite> if the alarm system is still in operation. The permit must be obtained within 180 days after the effective date of this ordinance.</text>
+      <text>Any person who installed an alarm system on his commercial premises before the effective date of this ordinance shall obtain a permit for the alarm system as required by <cite path="3.88" proof="needed">this chapter</cite> if the alarm system is still in operation. The permit must be obtained within 180 days after the effective date of this ordinance.</text>
       <annotations>
         <annotation type="History">Prior code § 3502</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3027">Ord. 3027, 03/12/85</annotation>
@@ -2757,7 +2353,7 @@
     <section>
       <num>3.88.040</num>
       <heading>Exclusions.</heading>
-      <text><cite path="3.88">This chapter</cite> shall not apply to alarm systems in motor vehicles, alarm systems operated by public agencies, alarm systems installed on residential premises, or alarm systems on any premises located within the boundaries of the Broadmoor Police Protection District.</text>
+      <text><cite path="3.88" proof="needed">This chapter</cite> shall not apply to alarm systems in motor vehicles, alarm systems operated by public agencies, alarm systems installed on residential premises, or alarm systems on any premises located within the boundaries of the Broadmoor Police Protection District.</text>
       <annotations>
         <annotation type="History">Prior code § 3503</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3027">Ord. 3027, 03/12/85</annotation>
@@ -2802,7 +2398,7 @@
     <section>
       <num>3.88.090</num>
       <heading>Revocation of permit.</heading>
-      <text>The Sheriff may revoke any alarm system permit if he determines that the system does not comply with the provisions of <cite path="3.88">this chapter</cite>. The alarm user will be notified in writing ten (10) working days before the effective date of the revocation. This notice will be sent to the premises upon which the alarm system is located by first class mail and will include a statement of the reasons for the proposed revocation. The revocation of the permit will be effective ten (10) workings days after notice of the revocation is mailed. The alarm user may request in writing that the Sheriff reconsider any decision to revoke an alarm system permit. Such a request must be received by the Sheriff within five (5) working days after the revocation notice is mailed. The alarm user will be given written notification of the results of the review and a statement of the reasons for the action to be taken. The Sheriff may, in his sole discretion, revoke the permit, reinstate the permit, suspend the permit for a reasonable period of time, reinstate the permit with restrictions or additional provisions, and assess a penalty as provided in <cite path="3.88">this chapter</cite>.</text>
+      <text>The Sheriff may revoke any alarm system permit if he determines that the system does not comply with the provisions of <cite path="3.88" proof="needed">this chapter</cite>. The alarm user will be notified in writing ten (10) working days before the effective date of the revocation. This notice will be sent to the premises upon which the alarm system is located by first class mail and will include a statement of the reasons for the proposed revocation. The revocation of the permit will be effective ten (10) workings days after notice of the revocation is mailed. The alarm user may request in writing that the Sheriff reconsider any decision to revoke an alarm system permit. Such a request must be received by the Sheriff within five (5) working days after the revocation notice is mailed. The alarm user will be given written notification of the results of the review and a statement of the reasons for the action to be taken. The Sheriff may, in his sole discretion, revoke the permit, reinstate the permit, suspend the permit for a reasonable period of time, reinstate the permit with restrictions or additional provisions, and assess a penalty as provided in <cite path="3.88" proof="needed">this chapter</cite>.</text>
       <annotations>
         <annotation type="History">Prior code § 3508</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3027">Ord. 3027, 03/12/85</annotation>
@@ -2841,7 +2437,7 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>The Sheriff may revoke an alarm permit for failure to pay any charges or fees required under <cite path="3.88">this chapter</cite>.</text>
+        <text>The Sheriff may revoke an alarm permit for failure to pay any charges or fees required under <cite path="3.88" proof="needed">this chapter</cite>.</text>
       </para>
       <annotations>
         <annotation type="History">Prior code § 3509</annotation>
@@ -3237,7 +2833,7 @@
     <section>
       <num>3.104.090</num>
       <heading>Definitions.</heading>
-      <text>As used in <cite path="3.104">this chapter</cite>, the following words or phrases shall have the meanings indicated;</text>
+      <text>As used in <cite path="3.104" proof="needed">this chapter</cite>, the following words or phrases shall have the meanings indicated;</text>
       <para>
         <num>A.</num>
         <text>The words "AIDS" shall be defined according to the guidelines established by the U.S. Department of Health and Human Services Center for Disease Control. Associated conditions shall mean AIDS Related Complex (ARC) or a positive human immuno depressant virus (HIV) test.</text>
@@ -3248,7 +2844,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>The word "person" as used in <cite path="3.104">this chapter</cite> shall mean any individual, person, firm, corporation, or other organization or group of persons however organized.</text>
+        <text>The word "person" as used in <cite path="3.104" proof="needed">this chapter</cite> shall mean any individual, person, firm, corporation, or other organization or group of persons however organized.</text>
       </para>
       <annotations>
         <annotation type="History">Prior code § 3958</annotation>
@@ -3258,7 +2854,7 @@
     <section>
       <num>3.104.100</num>
       <heading>Severability.</heading>
-      <text>If any part or provision of <cite path="3.104">this chapter</cite>, or the application thereof to any person or circumstances is held invalid, the remainder of the chapter, including the application of such part or provision to other persons or circumstances, shall not be affected thereby and shall continue in full force and effect. To this end, provisions of <cite path="3.104">this chapter</cite> are severable.</text>
+      <text>If any part or provision of <cite path="3.104" proof="needed">this chapter</cite>, or the application thereof to any person or circumstances is held invalid, the remainder of the chapter, including the application of such part or provision to other persons or circumstances, shall not be affected thereby and shall continue in full force and effect. To this end, provisions of <cite path="3.104" proof="needed">this chapter</cite> are severable.</text>
       <annotations>
         <annotation type="History">Prior code § 3959</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3140">Ord. 3140, 04/12/88</annotation>
@@ -3281,7 +2877,7 @@
     <section>
       <num>3.108.010</num>
       <heading>Title.</heading>
-      <text><cite path="3.108">This chapter</cite> shall be known as Property Owner Obligations With Respect to Tenants Displaced from Unsafe or Substandard Units.</text>
+      <text><cite path="3.108" proof="needed">This chapter</cite> shall be known as Property Owner Obligations With Respect to Tenants Displaced from Unsafe or Substandard Units.</text>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04773" path="§2">Ord. No. 04773, § 2, 2-14-2017</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04795" path="§2">Ord. No. 04795, § 2, 2-27-2018</annotation>
@@ -3290,7 +2886,7 @@
     <section>
       <num>3.108.020</num>
       <heading>Definitions.</heading>
-      <text>For the purposes of this <cite path="3.10">chapter 3.10</cite>8, the following words and phrases shall have the meanings set forth herein:</text>
+      <text>For the purposes of this <cite path="3.10" proof="needed">chapter 3.10</cite>8, the following words and phrases shall have the meanings set forth herein:</text>
       <para>
         <num>(a)</num>
         <text>"Code enforcement activities" are activities initiated by the County of San Mateo to determine the condition and/or legal conformity or nonconformity of a dwelling and to require the property owner to make necessary repairs to the dwelling, to vacate the dwelling, or to take other action as necessary to bring the dwelling into compliance with applicable state or local zoning, building, and/or housing standards, and/or other technical codes adopted and enforced by the County for existing residential properties.</text>
@@ -3333,7 +2929,7 @@
       </para>
       <para>
         <num>(k)</num>
-        <text>"Notice to vacate" means a notice and/or order, however denominated, issued by the County or a court of competent jurisdiction to a property owner and/or a tenant household pursuant to the County's code enforcement activities requiring that a dwelling or room be vacated, either immediately or at some future specified time, as a result of a determination that such dwelling or room fails to comply with applicable building, housing, zoning, or other code standards. For purposes of <cite path="3.108">this chapter</cite>, a "Notice to Vacate" includes a complaint or action filed by the County with a court of competent jurisdiction and served on the property owner pursuant to the County's code enforcement activities whereby the County asks for vacation of the property as requested relief.</text>
+        <text>"Notice to vacate" means a notice and/or order, however denominated, issued by the County or a court of competent jurisdiction to a property owner and/or a tenant household pursuant to the County's code enforcement activities requiring that a dwelling or room be vacated, either immediately or at some future specified time, as a result of a determination that such dwelling or room fails to comply with applicable building, housing, zoning, or other code standards. For purposes of <cite path="3.108" proof="needed">this chapter</cite>, a "Notice to Vacate" includes a complaint or action filed by the County with a court of competent jurisdiction and served on the property owner pursuant to the County's code enforcement activities whereby the County asks for vacation of the property as requested relief.</text>
       </para>
       <para>
         <num>(l)</num>
@@ -3341,7 +2937,7 @@
       </para>
       <para>
         <num>(m)</num>
-        <text>"Property owner" means a person, persons, corporation, partnership, limited liability company, or any other entity holding fee title to the subject real property. In the case of multiple ownership of the subject real property, "property owner" means each entity holding any portion of the fee interest in the property and the property owner's obligations in <cite path="3.108">this chapter</cite> shall be joint and several as to each property owner.</text>
+        <text>"Property owner" means a person, persons, corporation, partnership, limited liability company, or any other entity holding fee title to the subject real property. In the case of multiple ownership of the subject real property, "property owner" means each entity holding any portion of the fee interest in the property and the property owner's obligations in <cite path="3.108" proof="needed">this chapter</cite> shall be joint and several as to each property owner.</text>
       </para>
       <para>
         <num>(n)</num>
@@ -3365,7 +2961,7 @@
       <heading>Tenant eligibility for relocation payments.</heading>
       <para>
         <num>(a)</num>
-        <text>A tenant household shall be eligible for relocation payments from a property owner under <cite path="3.108">this chapter</cite> if the tenant household is displaced from its dwelling or room due to the County's code enforcement activities. For purposes of <cite path="3.108">this chapter</cite>, a tenant household shall be deemed to be displaced from its dwelling or room due to code enforcement activities in either of the following circumstances:</text>
+        <text>A tenant household shall be eligible for relocation payments from a property owner under <cite path="3.108" proof="needed">this chapter</cite> if the tenant household is displaced from its dwelling or room due to the County's code enforcement activities. For purposes of <cite path="3.108" proof="needed">this chapter</cite>, a tenant household shall be deemed to be displaced from its dwelling or room due to code enforcement activities in either of the following circumstances:</text>
         <para>
           <num>1.</num>
           <text>The tenant household receives a notice from the property owner requiring the household to vacate or quit the dwelling or room at any time after the County or a court has issued a notice to vacate, notice to abate life-threatening condition or a declaration of substandard condition covering that dwelling or room; or</text>
@@ -3409,7 +3005,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Any provision of a lease or rental agreement for a dwelling or room in which the tenant household agrees to modify or waive any of its rights under <cite path="3.108">this chapter</cite>, including its rights to relocation payments, shall be void as contrary to public policy.</text>
+        <text>Any provision of a lease or rental agreement for a dwelling or room in which the tenant household agrees to modify or waive any of its rights under <cite path="3.108" proof="needed">this chapter</cite>, including its rights to relocation payments, shall be void as contrary to public policy.</text>
       </para>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04773" path="§2">Ord. No. 04773, § 2, 2-14-2017</annotation>
@@ -3425,7 +3021,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Failure by the County to supply or attempt to supply any of the information or notices provided for in <cite path="3.108">this chapter</cite> shall not affect the validity of any code enforcement notice, order, or action, nor shall any such failure impact any property owner's obligation to abate any noncomplying conditions or provide relocation assistance as required under <cite path="3.108">this chapter</cite>.</text>
+        <text>Failure by the County to supply or attempt to supply any of the information or notices provided for in <cite path="3.108" proof="needed">this chapter</cite> shall not affect the validity of any code enforcement notice, order, or action, nor shall any such failure impact any property owner's obligation to abate any noncomplying conditions or provide relocation assistance as required under <cite path="3.108" proof="needed">this chapter</cite>.</text>
       </para>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04773" path="§2">Ord. No. 04773, § 2, 2-14-2017</annotation>
@@ -3446,7 +3042,7 @@
       <heading>Relocation payments by property owners.</heading>
       <para>
         <num>(a)</num>
-        <text>The property owner shall be responsible for providing relocation payments, in the amounts specified in section 3.108.090, to an eligible tenant household in the form and manner prescribed in <cite path="3.108">this chapter</cite>.</text>
+        <text>The property owner shall be responsible for providing relocation payments, in the amounts specified in section 3.108.090, to an eligible tenant household in the form and manner prescribed in <cite path="3.108" proof="needed">this chapter</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3466,15 +3062,15 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>The obligation of the property owner to deliver relocation payments to a tenant household shall be suspended pending the outcome of an appeal pursuant to section 3.108.110 of <cite path="3.108">this chapter</cite>, if the property owner has made a timely request for appeal.</text>
+        <text>The obligation of the property owner to deliver relocation payments to a tenant household shall be suspended pending the outcome of an appeal pursuant to section 3.108.110 of <cite path="3.108" proof="needed">this chapter</cite>, if the property owner has made a timely request for appeal.</text>
       </para>
       <para>
         <num>(g)</num>
-        <text>Notwithstanding other provisions of <cite path="3.108">this chapter</cite>, a tenant household shall not be required to vacate the dwelling or room until the required relocation payment has been made and any appeal requested by the property owner has been concluded, unless (1) the Enforcement Officer has determined for health and safety reasons that vacation must occur sooner; or (2) the property owner has complied with the provisions of California Government Code Section 7060, et seq., to withdraw such dwelling or room from rental or lease. However, a property owner remains liable for payment of relocation payments to eligible tenant households under <cite path="3.108">this chapter</cite> notwithstanding the applicability of the exceptions above in clauses (1) and (2).</text>
+        <text>Notwithstanding other provisions of <cite path="3.108" proof="needed">this chapter</cite>, a tenant household shall not be required to vacate the dwelling or room until the required relocation payment has been made and any appeal requested by the property owner has been concluded, unless (1) the Enforcement Officer has determined for health and safety reasons that vacation must occur sooner; or (2) the property owner has complied with the provisions of California Government Code Section 7060, et seq., to withdraw such dwelling or room from rental or lease. However, a property owner remains liable for payment of relocation payments to eligible tenant households under <cite path="3.108" proof="needed">this chapter</cite> notwithstanding the applicability of the exceptions above in clauses (1) and (2).</text>
       </para>
       <para>
         <num>(h)</num>
-        <text>The property owner shall also be responsible for reimbursing the County for any relocation payments made and costs incurred by the County pursuant to the provisions of <cite path="3.108">this chapter</cite>, including pursuant to section 3.108.070.</text>
+        <text>The property owner shall also be responsible for reimbursing the County for any relocation payments made and costs incurred by the County pursuant to the provisions of <cite path="3.108" proof="needed">this chapter</cite>, including pursuant to section 3.108.070.</text>
       </para>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04773" path="§2">Ord. No. 04773, § 2, 2-14-2017</annotation>
@@ -3486,11 +3082,11 @@
       <heading>Relocation payments by County chargeable to property owners.</heading>
       <para>
         <num>(a)</num>
-        <text>The County, in its sole discretion and subject to funding availability, may make any of the payments required of a property owner under <cite path="3.108">this chapter</cite>, including advancing eligible tenant household(s) reimbursable "moving expenses" and "temporary housing accommodations costs" as each of these terms are defined below in section 3.108.090(b). Such payments shall continue to be an obligation of the property owner and shall be reimbursed by the property owner to the County. The County may consider making such payments in its own discretion or if a tenant household makes a written request to the Department following a property owner's failure to pay the required payments within the period mandated under section 3.108.060, but in no event later than sixty (60) days following the tenant household's vacation of the dwelling or room. Prior to any County payment to a tenant household, the Director shall make a determination regarding the eligibility of the tenant household for relocation payments. The Department will make reasonable efforts to contact a representative of the property owner prior to making the determination or authorizing the County's payment. However, failure to give prior notice to the property owner shall not relieve the property owner of any obligations under <cite path="3.108">this chapter</cite>.</text>
+        <text>The County, in its sole discretion and subject to funding availability, may make any of the payments required of a property owner under <cite path="3.108" proof="needed">this chapter</cite>, including advancing eligible tenant household(s) reimbursable "moving expenses" and "temporary housing accommodations costs" as each of these terms are defined below in section 3.108.090(b). Such payments shall continue to be an obligation of the property owner and shall be reimbursed by the property owner to the County. The County may consider making such payments in its own discretion or if a tenant household makes a written request to the Department following a property owner's failure to pay the required payments within the period mandated under section 3.108.060, but in no event later than sixty (60) days following the tenant household's vacation of the dwelling or room. Prior to any County payment to a tenant household, the Director shall make a determination regarding the eligibility of the tenant household for relocation payments. The Department will make reasonable efforts to contact a representative of the property owner prior to making the determination or authorizing the County's payment. However, failure to give prior notice to the property owner shall not relieve the property owner of any obligations under <cite path="3.108" proof="needed">this chapter</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>When the County makes any relocation payments that are the responsibility of the property owner under <cite path="3.108">this chapter</cite>, the County shall bill the property owner for the amount of payment, plus any administrative and other direct and/or indirect costs that it would not have incurred but for the failure of the owner to make the required payment. The County Manager, in consultation with the County Counsel, shall have the discretion to reduce the amount of any required reimbursement from a property owner to the County in cases where the factual and legal circumstances warrant such a reduction. The property owner shall reimburse the County within five (5) days of receipt of billing from the County. If the property owner does not make full and timely payment to the County, the County is entitled to recover an additional amount equal to the sum of one-half the amount paid by the County on the property owner's behalf, but not to exceed ten thousand dollars ($10,000.00), as a penalty for failure to make timely payment. The County may also record a lien on the subject property with the County Recorder and shall provide notice of such lien to the property owner and to the County Assessor. The form of such lien and the manner of enforcement and collection shall be as authorized by state or local law. Alternatively, the County may include the unreimbursed amount in any other lien placed on the property by the County to secure payment of enforcement costs. Notwithstanding the above, the intent of <cite path="3.108">this chapter</cite> is to place primary responsibility for making relocation payments to displaced tenant households on those property owners who are responsible for code violations, and nothing in this section is intended to relieve or release any such property owner from this responsibility.</text>
+        <text>When the County makes any relocation payments that are the responsibility of the property owner under <cite path="3.108" proof="needed">this chapter</cite>, the County shall bill the property owner for the amount of payment, plus any administrative and other direct and/or indirect costs that it would not have incurred but for the failure of the owner to make the required payment. The County Manager, in consultation with the County Counsel, shall have the discretion to reduce the amount of any required reimbursement from a property owner to the County in cases where the factual and legal circumstances warrant such a reduction. The property owner shall reimburse the County within five (5) days of receipt of billing from the County. If the property owner does not make full and timely payment to the County, the County is entitled to recover an additional amount equal to the sum of one-half the amount paid by the County on the property owner's behalf, but not to exceed ten thousand dollars ($10,000.00), as a penalty for failure to make timely payment. The County may also record a lien on the subject property with the County Recorder and shall provide notice of such lien to the property owner and to the County Assessor. The form of such lien and the manner of enforcement and collection shall be as authorized by state or local law. Alternatively, the County may include the unreimbursed amount in any other lien placed on the property by the County to secure payment of enforcement costs. Notwithstanding the above, the intent of <cite path="3.108" proof="needed">this chapter</cite> is to place primary responsibility for making relocation payments to displaced tenant households on those property owners who are responsible for code violations, and nothing in this section is intended to relieve or release any such property owner from this responsibility.</text>
       </para>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04773" path="§2">Ord. No. 04773, § 2, 2-14-2017</annotation>
@@ -3514,7 +3110,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>This return right is in addition to an eligible tenant household's entitlement to monetary relocation payments from the property owner under the terms of this <cite path="3.10">chapter 3.10</cite>8, and the exercise of this option by a tenant shall not affect the household's eligibility for such payments.</text>
+        <text>This return right is in addition to an eligible tenant household's entitlement to monetary relocation payments from the property owner under the terms of this <cite path="3.10" proof="needed">chapter 3.10</cite>8, and the exercise of this option by a tenant shall not affect the household's eligibility for such payments.</text>
       </para>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04773" path="§2">Ord. No. 04773, § 2, 2-14-2017</annotation>
@@ -3526,7 +3122,7 @@
       <heading>Amount of relocation payments.</heading>
       <para>
         <num>(a)</num>
-        <text>Permanent displacement. An eligible tenant household that will experience permanent displacement as defined above shall receive a monetary relocation payment from the property owner equal to three times the current monthly United States Department of Housing and Urban Development (HUD) Fair Market Rent for a unit of comparable size and type to the dwelling or room from which the displacement occurs, plus a payment not to exceed one thousand dollars ($1,000.00) for actual moving costs and related expenses incurred by the tenant household and substantiated by reasonably probative documentation. The property owner shall treat any non-complying dwelling or room that does not have one or more separate bedrooms as an "efficiency unit" for purposes of determining the applicable HUD Fair Market Rent and calculating the required monetary relocation payment on that basis. In addition, the tenant household is entitled to a refund and/or accounting for any security deposit held by the property owner pursuant to California Civil Code Section 1950.5. For purposes of <cite path="3.108">this chapter</cite>, "HUD Fair Market Rent" means the amount specified in the schedule of Fair Market Rents for existing housing published by the U.S. Department of Housing and Urban Development under Section 8 of the United States Housing Act of 1937, as amended, applicable to the County of San Mateo and current as of the date the County or court issues the notice to vacate, notice to abate life-threatening condition, or declaration of substandard condition.</text>
+        <text>Permanent displacement. An eligible tenant household that will experience permanent displacement as defined above shall receive a monetary relocation payment from the property owner equal to three times the current monthly United States Department of Housing and Urban Development (HUD) Fair Market Rent for a unit of comparable size and type to the dwelling or room from which the displacement occurs, plus a payment not to exceed one thousand dollars ($1,000.00) for actual moving costs and related expenses incurred by the tenant household and substantiated by reasonably probative documentation. The property owner shall treat any non-complying dwelling or room that does not have one or more separate bedrooms as an "efficiency unit" for purposes of determining the applicable HUD Fair Market Rent and calculating the required monetary relocation payment on that basis. In addition, the tenant household is entitled to a refund and/or accounting for any security deposit held by the property owner pursuant to California Civil Code Section 1950.5. For purposes of <cite path="3.108" proof="needed">this chapter</cite>, "HUD Fair Market Rent" means the amount specified in the schedule of Fair Market Rents for existing housing published by the U.S. Department of Housing and Urban Development under Section 8 of the United States Housing Act of 1937, as amended, applicable to the County of San Mateo and current as of the date the County or court issues the notice to vacate, notice to abate life-threatening condition, or declaration of substandard condition.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3550,7 +3146,7 @@
       <heading>Infraction.</heading>
       <para>
         <num>(a)</num>
-        <text>Any person violating any provision or failing to comply with any of the requirements of <cite path="3.108">this chapter</cite> shall be guilty of an infraction and shall be punishable by the following:</text>
+        <text>Any person violating any provision or failing to comply with any of the requirements of <cite path="3.108" proof="needed">this chapter</cite> shall be guilty of an infraction and shall be punishable by the following:</text>
         <para>
           <num>1.</num>
           <text>A fine not exceeding one hundred dollars ($100.00) for a first violation;</text>
@@ -3581,7 +3177,7 @@
         <text>Written appeal.</text>
         <para>
           <num>1.</num>
-          <text>A property owner may contest an order to make relocation payments or a notice of penalty or fine assessed <cite path="3.108">this chapter</cite> by submitting an appeal in writing together with a processing fee listed in the County's fee schedule. The appeal shall set forth the factual basis for disputing the order to pay relocation benefits or the notice of penalty or fine.</text>
+          <text>A property owner may contest an order to make relocation payments or a notice of penalty or fine assessed <cite path="3.108" proof="needed">this chapter</cite> by submitting an appeal in writing together with a processing fee listed in the County's fee schedule. The appeal shall set forth the factual basis for disputing the order to pay relocation benefits or the notice of penalty or fine.</text>
         </para>
         <para>
           <num>2.</num>
@@ -3632,7 +3228,7 @@
     <section>
       <num>3.108.120</num>
       <heading>Retaliation is barred.</heading>
-      <text>No property owner shall take any action in retaliation against any member of a tenant household for exercising rights granted under <cite path="3.108">this chapter</cite>.</text>
+      <text>No property owner shall take any action in retaliation against any member of a tenant household for exercising rights granted under <cite path="3.108" proof="needed">this chapter</cite>.</text>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04773" path="§2">Ord. No. 04773, § 2, 2-14-2017</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04795" path="§2">Ord. No. 04795, § 2, 2-27-2018</annotation>
@@ -3643,7 +3239,7 @@
       <heading>Private right of action.</heading>
       <para>
         <num>(a)</num>
-        <text>Any tenant household that believes that the provisions of <cite path="3.108">this chapter</cite> have been violated shall have the right to file an action for injunctive relief and/or actual damages. Likewise, any property owner that believes that the provisions of <cite path="3.108">this chapter</cite> have been violated shall have the right to file an action for injunctive relief and/or actual damages. Treble damages shall be awarded for a property owner's willful failure to comply with the payment obligations established under <cite path="3.108">this chapter</cite>. In any action brought under <cite path="3.108">this chapter</cite>, the court may award reasonable attorney's fees to any prevailing party.</text>
+        <text>Any tenant household that believes that the provisions of <cite path="3.108" proof="needed">this chapter</cite> have been violated shall have the right to file an action for injunctive relief and/or actual damages. Likewise, any property owner that believes that the provisions of <cite path="3.108" proof="needed">this chapter</cite> have been violated shall have the right to file an action for injunctive relief and/or actual damages. Treble damages shall be awarded for a property owner's willful failure to comply with the payment obligations established under <cite path="3.108" proof="needed">this chapter</cite>. In any action brought under <cite path="3.108" proof="needed">this chapter</cite>, the court may award reasonable attorney's fees to any prevailing party.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3657,7 +3253,7 @@
     <section>
       <num>3.108.140</num>
       <heading>Severability.</heading>
-      <text>If any provision of <cite path="3.108">this chapter</cite> is held to be unconstitutional or otherwise invalid by any court of competent jurisdiction, the remaining provisions of <cite path="3.108">this chapter</cite> shall not be invalidated.</text>
+      <text>If any provision of <cite path="3.108" proof="needed">this chapter</cite> is held to be unconstitutional or otherwise invalid by any court of competent jurisdiction, the remaining provisions of <cite path="3.108" proof="needed">this chapter</cite> shall not be invalidated.</text>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04773" path="§2">Ord. No. 04773, § 2, 2-14-2017</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04795" path="§2">Ord. No. 04795, § 2, 2-27-2018</annotation>

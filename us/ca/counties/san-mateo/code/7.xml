@@ -420,7 +420,7 @@
     <section>
       <num>7.16.010</num>
       <heading>Prohibited "U" turns.</heading>
-      <text>No vehicle traveling on the following County highways or portions thereof shall be turned so as to proceed in the opposite direction, between or at the intersections hereinafter designed in <cite path="7.16">this chapter</cite>, to be effective when appropriate signs giving notice thereof are erected at said intersections upon said County highways or portions thereof.</text>
+      <text>No vehicle traveling on the following County highways or portions thereof shall be turned so as to proceed in the opposite direction, between or at the intersections hereinafter designed in <cite path="7.16" proof="needed">this chapter</cite>, to be effective when appropriate signs giving notice thereof are erected at said intersections upon said County highways or portions thereof.</text>
       <text>(Prior code § 3772.0; catchline editorially created, 6/94)</text>
     </section>
     <section>
@@ -723,8 +723,8 @@
     <section>
       <num>7.20.010</num>
       <heading>One-way highways described.</heading>
-      <text>One-way Highways described: Signs. The portions of highways described in <cite path="7.20">this chapter</cite> are one-way highways. Appropriate signs shall be erected and maintained indicating the direction traffic shall move at every intersection where movement in the opposite direction is prohibited.</text>
-      <text>No person shall drive any vehicle upon the portions of highways described in <cite path="7.20">this chapter</cite> except in the direction specified by appropriate signs.</text>
+      <text>One-way Highways described: Signs. The portions of highways described in <cite path="7.20" proof="needed">this chapter</cite> are one-way highways. Appropriate signs shall be erected and maintained indicating the direction traffic shall move at every intersection where movement in the opposite direction is prohibited.</text>
+      <text>No person shall drive any vehicle upon the portions of highways described in <cite path="7.20" proof="needed">this chapter</cite> except in the direction specified by appropriate signs.</text>
       <annotations>
         <annotation type="History">Prior code § 3723.0</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 1190">Ord. 1190, 11/27/56</annotation>
@@ -819,7 +819,7 @@
     <section>
       <num>7.24.010</num>
       <heading>Time-limited parking.</heading>
-      <text>No person shall stop, park or leave standing any motor vehicle, whether attended or unattended for a period of time exceeding that authorized as herein provided, except when necessary to avoid conflict with other traffic or in cases of emergency, or in compliance with the directions of a peace officer in any area declared by resolution of the Board of Supervisors as a time-limited parking zone and where appropriate signs or markings are installed and maintained as provided in <cite path="7.28">Chapter 7.28</cite> of <cite path="7">this title</cite>.</text>
+      <text>No person shall stop, park or leave standing any motor vehicle, whether attended or unattended for a period of time exceeding that authorized as herein provided, except when necessary to avoid conflict with other traffic or in cases of emergency, or in compliance with the directions of a peace officer in any area declared by resolution of the Board of Supervisors as a time-limited parking zone and where appropriate signs or markings are installed and maintained as provided in <cite path="7.28" proof="needed">Chapter 7.28</cite> of <cite path="7" proof="needed">this title</cite>.</text>
       <text>Time-limited parking zones may be designated as 20-Minute, 30-Minute, 1-Hour, or 2-Hour. The Board of Supervisors may designate time-limited parking zones to be effective at all times or during specified hours and days.</text>
       <annotations>
         <annotation type="History">Prior code § 3730.0</annotation>
@@ -950,7 +950,7 @@
       <heading>No oversized vehicle parking.</heading>
       <text>The Board of Supervisors shall, by Resolution, determine and declare those parking zones or parking spaces, upon the public highways over which the County has jurisdiction, which prohibit parking for oversized vehicles in order to prevent obstruction of vehicular and pedestrian traffic and to maintain the safe and efficient flow of vehicular and pedestrian traffic on the County's public highways.</text>
       <text>The Director of Public Works shall cause to be marked by signs, markings, curbs, or other practical manner, the parking spaces where the parking of vehicles over six (6) feet in height is prohibited.</text>
-      <text>No person shall stop, park, or leave standing any motor vehicle, whether attended or unattended, except when necessary to avoid conflict with other traffic or in cases of emergency, or in compliance with the directions of a peace officer, in such a manner that any part of the vehicle exceeds the height limits of the parking space, or else be subject to fines in accordance with the <cite path="1.08">Chapter 1.08</cite> penalty provisions of this Code.</text>
+      <text>No person shall stop, park, or leave standing any motor vehicle, whether attended or unattended, except when necessary to avoid conflict with other traffic or in cases of emergency, or in compliance with the directions of a peace officer, in such a manner that any part of the vehicle exceeds the height limits of the parking space, or else be subject to fines in accordance with the <cite path="1.08" proof="needed">Chapter 1.08</cite> penalty provisions of this Code.</text>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04800" path="§1">Ord. No. 04800, § 1, 6-26-2018</annotation>
       </annotations>
@@ -958,7 +958,7 @@
     <section>
       <num>7.28.190</num>
       <heading>Parking on front yard prohibited.</heading>
-      <text>No person shall park or store a vehicle, as defined in the Vehicle Code, or a boat of any type, or any boat trailer, or camper shell(s), in the front yard of a lot, whether improved or unimproved, including the lawn area thereof, in any residential zone within the territory of the Broadmoor Police Protection District, except upon that improved area which shall comprise the driveway to a garage or carport; provided that this section shall not cover abandoned, wrecked, dismantled or inoperative vehicles or vehicle parts within the scope of <cite path="7.60">chapter 7.60</cite>. For the purposes of this section "front yard" shall not have that definition established in section 6102.85 but shall mean that space on a lot which is not covered or obstructed by any structure and is visible from the street. The violation of this section shall be an infraction.</text>
+      <text>No person shall park or store a vehicle, as defined in the Vehicle Code, or a boat of any type, or any boat trailer, or camper shell(s), in the front yard of a lot, whether improved or unimproved, including the lawn area thereof, in any residential zone within the territory of the Broadmoor Police Protection District, except upon that improved area which shall comprise the driveway to a garage or carport; provided that this section shall not cover abandoned, wrecked, dismantled or inoperative vehicles or vehicle parts within the scope of <cite path="7.60" proof="needed">chapter 7.60</cite>. For the purposes of this section "front yard" shall not have that definition established in section 6102.85 but shall mean that space on a lot which is not covered or obstructed by any structure and is visible from the street. The violation of this section shall be an infraction.</text>
       <annotations>
         <annotation type="History">Prior code § 3731.21</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3096">Ord. 3096, 02/17/87</annotation>
@@ -990,7 +990,7 @@
     <section>
       <num>7.30.010</num>
       <heading>No parking zones.</heading>
-      <text>No person shall stop, park or leave standing any motor vehicle, whether attended or unattended, except when necessary to avoid conflict with other traffic or in cases of emergency, or in compliance with the directions of a peace officer in any area declared by resolution of the Board of Supervisors as a no parking zone and where appropriate signs or markings are installed and maintained as provided in <cite path="7.28">chapter 7.28</cite> of <cite path="7">this title</cite>.</text>
+      <text>No person shall stop, park or leave standing any motor vehicle, whether attended or unattended, except when necessary to avoid conflict with other traffic or in cases of emergency, or in compliance with the directions of a peace officer in any area declared by resolution of the Board of Supervisors as a no parking zone and where appropriate signs or markings are installed and maintained as provided in <cite path="7.28" proof="needed">chapter 7.28</cite> of <cite path="7" proof="needed">this title</cite>.</text>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 4268">Ord. 4268, 07/12/05</annotation>
       </annotations>
@@ -1003,7 +1003,7 @@
     <section>
       <num>7.32.010</num>
       <heading>No parking during specified hours.</heading>
-      <text>No person shall stop, park or leave standing any motor vehicle, whether attended or unattended, except when necessary to avoid conflict with other traffic or in cases of emergency, or in compliance with the directions of a peace officer in any area declared by resolution of the Board of Supervisors as a no parking during specified hours zone during the prohibited hours and where appropriate signs or markings are installed and maintained as provided in <cite path="7.28">chapter 7.28</cite> of <cite path="7">this title</cite>.</text>
+      <text>No person shall stop, park or leave standing any motor vehicle, whether attended or unattended, except when necessary to avoid conflict with other traffic or in cases of emergency, or in compliance with the directions of a peace officer in any area declared by resolution of the Board of Supervisors as a no parking during specified hours zone during the prohibited hours and where appropriate signs or markings are installed and maintained as provided in <cite path="7.28" proof="needed">chapter 7.28</cite> of <cite path="7" proof="needed">this title</cite>.</text>
       <annotations>
         <annotation type="History">Prior code § 3732.0</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 1218">Ord. 1218, 04/16/57</annotation>
@@ -1022,7 +1022,7 @@
     <section>
       <num>7.34.010</num>
       <heading>No parking and tow-away zone.</heading>
-      <text>No person shall park or leave standing any motor vehicle, whether attended or unattended, in any area declared by Resolution of the Board of Supervisors as a no parking and tow-away zone, and where appropriate signs or markings are installed and maintained as provided in <cite path="7.28">Chapter 7.28</cite>. The Director of Public Works shall cause said areas to be marked or signs erected notifying the public that parking is prohibited and that vehicles left parked in said areas will be towed at the owner's expense.</text>
+      <text>No person shall park or leave standing any motor vehicle, whether attended or unattended, in any area declared by Resolution of the Board of Supervisors as a no parking and tow-away zone, and where appropriate signs or markings are installed and maintained as provided in <cite path="7.28" proof="needed">Chapter 7.28</cite>. The Director of Public Works shall cause said areas to be marked or signs erected notifying the public that parking is prohibited and that vehicles left parked in said areas will be towed at the owner's expense.</text>
       <text>In the event that any officer removes a vehicle that is parked in violation of this section, such officer shall give the notice provided for in Section 22852 et seq., of the Vehicle Code of the State of California, and the keeper of any garage in which any such vehicle is stored may have a lien thereon for his compensation for towage and for caring for and keeping safe such vehicle and may satisfy such lien upon compliance with and under the conditions stated in Section 22851 of the Vehicle Code.</text>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 4117">Ord. 4117, 05/21/02</annotation>
@@ -1037,7 +1037,7 @@
     <section>
       <num>7.36.010</num>
       <heading>Angle Parking Zones.</heading>
-      <text>The portions of County highways hereinafter described in <cite path="7.36">this chapter</cite> are angle parking zones. The Director of Public Works shall mark such County highways indicating the angle at which vehicles shall be parked. When markings are in place as herein provided no person shall park or stand a vehicle other than within such markings and at the angle to the curb or edge of the roadway indicated by such markings.</text>
+      <text>The portions of County highways hereinafter described in <cite path="7.36" proof="needed">this chapter</cite> are angle parking zones. The Director of Public Works shall mark such County highways indicating the angle at which vehicles shall be parked. When markings are in place as herein provided no person shall park or stand a vehicle other than within such markings and at the angle to the curb or edge of the roadway indicated by such markings.</text>
       <annotations>
         <annotation type="History">Prior code § 3733</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 1689">Ord. 1689, 01/26/65</annotation>
@@ -1076,7 +1076,7 @@
     <section>
       <num>7.44.010</num>
       <heading>Disabled parking zones.</heading>
-      <text>It is unlawful for any person to park or leave standing any vehicle in a stall or space in an area designated in this <cite path="7.44">Chapter 7.44</cite> for disabled persons' parking, if, immediately adjacent to and visible from such stall or space, there is posted a sign consisting of a profile view of a wheelchair with occupant in white with a blue background or the curb is painted blue with "disabled" stenciled in white upon the top surface unless the vehicle displays either one of the distinguishing license plates or a placard issued pursuant to Section 22511.55 of the California Vehicle Code.</text>
+      <text>It is unlawful for any person to park or leave standing any vehicle in a stall or space in an area designated in this <cite path="7.44" proof="needed">Chapter 7.44</cite> for disabled persons' parking, if, immediately adjacent to and visible from such stall or space, there is posted a sign consisting of a profile view of a wheelchair with occupant in white with a blue background or the curb is painted blue with "disabled" stenciled in white upon the top surface unless the vehicle displays either one of the distinguishing license plates or a placard issued pursuant to Section 22511.55 of the California Vehicle Code.</text>
       <text>The Board of Supervisors shall, by Resolution, determine and declare disabled parking zone locations.</text>
       <annotations>
         <annotation type="History">Prior code § 3736</annotation>
@@ -1110,7 +1110,7 @@
     <section>
       <num>7.48.010</num>
       <heading>Permissible weight of vehicles on county bridges.</heading>
-      <text>No person, firm or corporation shall drive or place or cause to be driven or placed any vehicle or vehicles upon any of the County bridges of the County of San Mateo described in <cite path="7.48">this chapter</cite> the gross weight of which is in excess of the maximum permissible weight limits hereinafter specified for each of said County bridges.</text>
+      <text>No person, firm or corporation shall drive or place or cause to be driven or placed any vehicle or vehicles upon any of the County bridges of the County of San Mateo described in <cite path="7.48" proof="needed">this chapter</cite> the gross weight of which is in excess of the maximum permissible weight limits hereinafter specified for each of said County bridges.</text>
       <annotations>
         <annotation type="History">Prior code § 3740.0</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 903">Ord. 903, 06/13/50</annotation>
@@ -1166,7 +1166,7 @@
     <section>
       <num>7.48.060</num>
       <heading>Permissible weight of vehicles on unimproved county highways.</heading>
-      <text>No person, firm, or corporation shall drive or place or cause to be driven or placed any vehicle or vehicles upon any of the unimproved County highways of the County of San Mateo described in <cite path="7.48">this chapter</cite>, the gross weight of which is in excess of the maximum permissible weight limits hereinafter specified for each of said County highways.</text>
+      <text>No person, firm, or corporation shall drive or place or cause to be driven or placed any vehicle or vehicles upon any of the unimproved County highways of the County of San Mateo described in <cite path="7.48" proof="needed">this chapter</cite>, the gross weight of which is in excess of the maximum permissible weight limits hereinafter specified for each of said County highways.</text>
       <annotations>
         <annotation type="History">Prior code § 3741.0</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 944">Ord. 944, 06/19/51</annotation>
@@ -1205,8 +1205,11 @@
     </section>
     <section>
       <num>7.48.100</num>
-      <heading>Reserved.</heading>
-      <text><strong>Editor's note— </strong>Ord. No. 04813, § 1, passed July 9, 2019, rescinded <cite path="7.48.100">§ 7.48.100</cite>, which pertained to County Bridge No. 67 - Crystal Springs Dam Bridge and derived from Ord. No. 04143, 10-29-02.</text>
+      <heading>County Bridge No. 67—Crystal Springs Dam Bridge.</heading>
+      <text>The permissible and designated weight limits of vehicles and loads upon County Bridge No. 67, situated on Crystal Springs Dam is seven (7) Tons (14,000 lbs.) pursuant to Section 35717 of the California Streets and Highway Code.</text>
+      <annotations>
+        <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 4143">Ord. 4143, 10/29/02</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1216,7 +1219,7 @@
     <section>
       <num>7.52.010</num>
       <heading>Loading zones described—Unlawful to park in.</heading>
-      <text>No person shall stop, park or leave standing any motor vehicle, whether attended or unattended, for a period of time longer than is reasonably necessary for the loading or unloading of passengers or freight, except when necessary to avoid conflict with other traffic or in cases of emergency, or in compliance with the directions of a peace officer in any area declared by Resolution of the Board of Supervisors as a Loading Zone and where appropriate signs or markings are installed and maintained as provided in <cite path="7.28.020">section 7.28.020</cite> of this code.</text>
+      <text>No person shall stop, park or leave standing any motor vehicle, whether attended or unattended, for a period of time longer than is reasonably necessary for the loading or unloading of passengers or freight, except when necessary to avoid conflict with other traffic or in cases of emergency, or in compliance with the directions of a peace officer in any area declared by Resolution of the Board of Supervisors as a Loading Zone and where appropriate signs or markings are installed and maintained as provided in <cite path="7.28.020" proof="needed">section 7.28.020</cite> of this code.</text>
       <text>Loading zones may be designated as passenger or commercial loading zones, and may include bus stops. The Board of Supervisors may designate loading zones to be effective at all times or during specified hours and days.</text>
       <annotations>
         <annotation type="History">Prior code § 3742.0</annotation>
@@ -1233,7 +1236,7 @@
     <section>
       <num>7.56.010</num>
       <heading>Definitions.</heading>
-      <text>The following words and phrases shall have the meanings set forth, and if any word or phrase used in <cite path="7.56">this chapter</cite> is not defined in this section, it shall have the meanings set forth in the California Vehicle Code; provided that if any such word or phrase is not defined in the Vehicle Code, it shall have the meaning attributed to it in ordinary usage.</text>
+      <text>The following words and phrases shall have the meanings set forth, and if any word or phrase used in <cite path="7.56" proof="needed">this chapter</cite> is not defined in this section, it shall have the meanings set forth in the California Vehicle Code; provided that if any such word or phrase is not defined in the Vehicle Code, it shall have the meaning attributed to it in ordinary usage.</text>
       <para>
         <num>(a)</num>
         <text>"Terminal" means any facility at which freight is consolidated to be shipped or where full load consignments may be loaded and off loaded or at which the vehicles are regularly maintained, stored or manufactured.</text>
@@ -1258,7 +1261,7 @@
     <section>
       <num>7.56.020</num>
       <heading>Purpose.</heading>
-      <text>The purpose of <cite path="7.56">this chapter</cite> is to establish procedures for terminal designation and truck route designation to terminals for interstate trucks operating on a federally designated highway system and to promote the general health, safety and welfare of the public.</text>
+      <text>The purpose of <cite path="7.56" proof="needed">this chapter</cite> is to establish procedures for terminal designation and truck route designation to terminals for interstate trucks operating on a federally designated highway system and to promote the general health, safety and welfare of the public.</text>
       <annotations>
         <annotation type="History">Prior code § 3745.1</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3020">Ord. 3020, 01/03/85</annotation>
@@ -1366,7 +1369,7 @@
     <section>
       <num>7.60.010</num>
       <heading>Definitions.</heading>
-      <text>As used in <cite path="7.60">this chapter</cite> the following definitions apply:</text>
+      <text>As used in <cite path="7.60" proof="needed">this chapter</cite> the following definitions apply:</text>
       <para>
         <num>(a)</num>
         <text>"Abandonment" means any vehicle or vehicle part which has been left upon public or private property without the express or implied consent of the owner or person in lawful possession or control of the property.</text>
@@ -1416,7 +1419,7 @@
     <section>
       <num>7.60.020</num>
       <heading>Exceptions.</heading>
-      <text><cite path="7.60">This chapter</cite> shall not apply to:</text>
+      <text><cite path="7.60" proof="needed">This chapter</cite> shall not apply to:</text>
       <para>
         <num>(a)</num>
         <text>A vehicle or vehicle part which is completely enclosed within a building in a lawful manner where it is not visible from the street or other public or private property; or</text>
@@ -1440,11 +1443,11 @@
       <heading>Other remedies.</heading>
       <para>
         <num>(a)</num>
-        <text>Nothing in <cite path="7.60">this chapter</cite> shall authorize the maintenance of a public or private nuisance as defined under provisions of law.</text>
+        <text>Nothing in <cite path="7.60" proof="needed">this chapter</cite> shall authorize the maintenance of a public or private nuisance as defined under provisions of law.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text><cite path="7.60">This chapter</cite> is not the exclusive regulation of abandoned, wrecked, dismantled or inoperative vehicles within the County. It shall supplement and be in addition to the other regulatory codes, statutes, and ordinances heretofore or hereafter enacted by the County, the state, or any other legal entity or agency having jurisdiction.</text>
+        <text><cite path="7.60" proof="needed">This chapter</cite> is not the exclusive regulation of abandoned, wrecked, dismantled or inoperative vehicles within the County. It shall supplement and be in addition to the other regulatory codes, statutes, and ordinances heretofore or hereafter enacted by the County, the state, or any other legal entity or agency having jurisdiction.</text>
       </para>
       <annotations>
         <annotation type="History">Prior code § 3802</annotation>
@@ -1459,7 +1462,7 @@
     <section>
       <num>7.60.040</num>
       <heading>Administration and enforcement.</heading>
-      <text>Except as otherwise provided below, the provisions of <cite path="7.60">this chapter</cite> shall be administered and enforced by the locally designated officer. In the enforcement of <cite path="7.60">this chapter</cite> the locally designated officer may enter upon private or public property to examine a vehicle or vehicle parts or obtain information as to the identity of a vehicle and to remove or cause the removal of a vehicle or vehicle part declared to be a nuisance pursuant to <cite path="7.60">this chapter</cite>.</text>
+      <text>Except as otherwise provided below, the provisions of <cite path="7.60" proof="needed">this chapter</cite> shall be administered and enforced by the locally designated officer. In the enforcement of <cite path="7.60" proof="needed">this chapter</cite> the locally designated officer may enter upon private or public property to examine a vehicle or vehicle parts or obtain information as to the identity of a vehicle and to remove or cause the removal of a vehicle or vehicle part declared to be a nuisance pursuant to <cite path="7.60" proof="needed">this chapter</cite>.</text>
       <annotations>
         <annotation type="History">Prior code § 3803</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 1895">Ord. 1895, 04/09/68</annotation>
@@ -1473,7 +1476,7 @@
     <section>
       <num>7.60.050</num>
       <heading>Contract for removal.</heading>
-      <text>When the Board of Supervisors or the Board of Police Commissioners has contracted with or granted a franchise to any person or persons, such person or persons shall be authorized to enter upon the private or public property to remove or cause the removal of a vehicle or vehicle parts declared to be a nuisance pursuant to <cite path="7.60">this chapter</cite>.</text>
+      <text>When the Board of Supervisors or the Board of Police Commissioners has contracted with or granted a franchise to any person or persons, such person or persons shall be authorized to enter upon the private or public property to remove or cause the removal of a vehicle or vehicle parts declared to be a nuisance pursuant to <cite path="7.60" proof="needed">this chapter</cite>.</text>
       <annotations>
         <annotation type="History">Prior code § 3804</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 1895">Ord. 1895, 04/09/68</annotation>
@@ -1487,7 +1490,7 @@
     <section>
       <num>7.60.060</num>
       <heading>Notice of abatement.</heading>
-      <text>Notwithstanding <cite path="7.60.150">section 7.60.150</cite> of this code or any other provision of law, whenever the locally designated officer determines that an abandoned, wrecked, dismantled or inoperative vehicle, or parts thereof, on private or public property constitutes a nuisance, the locally designated officer may serve a written notice to abate and remove the vehicle or parts thereof. The notice shall be served by registered or certified mail on the last registered and legal owner of record of the vehicle, unless the vehicle is in such condition that identification numbers are not available to determine ownership, and on the owner shown on the last equalized assessment roll of any private parcel upon which the vehicle is located.</text>
+      <text>Notwithstanding <cite path="7.60.150" proof="needed">section 7.60.150</cite> of this code or any other provision of law, whenever the locally designated officer determines that an abandoned, wrecked, dismantled or inoperative vehicle, or parts thereof, on private or public property constitutes a nuisance, the locally designated officer may serve a written notice to abate and remove the vehicle or parts thereof. The notice shall be served by registered or certified mail on the last registered and legal owner of record of the vehicle, unless the vehicle is in such condition that identification numbers are not available to determine ownership, and on the owner shown on the last equalized assessment roll of any private parcel upon which the vehicle is located.</text>
       <text>The notice shall instruct the vehicle owner and parcel owner that if the vehicle or parts thereof are not removed within ten (10) calendar days of service of the notice, the County or District, as appropriate, or its authorized agent shall have the right to enter the property during normal business hours to remove the vehicle or parts and demand the vehicle owner and/or parcel owner to pay for the cost of abatement. Cost of abatement is defined to include the cost of actual removal of the vehicle or parts thereof plus reasonable administrative costs. Reasonable administrative costs are the lesser of actual costs or fifteen percent (15%) of the cost of actual removal. If the vehicle owner and/or parcel owner fails to pay such cost, that cost may be specially assessed against the parcel and shall be subject to the same collection procedures including any lien, penalty and sale procedures that are provided for delinquent County taxes. The notice shall further state that the vehicle owner and/or parcel owner may request a hearing to contest the abatement action or assessment of cost by filing a written request for a hearing with the locally designated officer that issued the notice within ten (10) calendar days of service of the notice to abate. Failure to file a request for hearing within this time period shall waive any right to appeal the action by the locally designated officer.</text>
       <annotations>
         <annotation type="History">Prior code § 3805</annotation>
@@ -1508,7 +1511,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>All hearings under <cite path="7.60">this chapter</cite> shall be held before the designated hearing officer. The technical rules of evidence shall not apply. The owner of the land may appear in person at the hearing or present a sworn written statement in time for consideration at the hearing, and deny responsibility for the presence of the vehicle on the land, with his reasons for such denial. The hearing officer may impose such conditions and take such other action as he deems appropriate under the circumstances to carry out the purposes of <cite path="7.60">this chapter</cite>. He or she may delay time for removal of the vehicle or vehicle parts if the circumstances justify it. At the conclusion of the public hearing, the hearing officer may find that the vehicle or parts of a vehicle has been abandoned, wrecked, dismantled, or is inoperative on private or public property and order removal from the property as a public nuisance and disposal as hereinafter provided and determine the administrative costs and cost of removal charged against the owner of the land. The order requiring removal shall include a description of the vehicle or parts of a vehicle and the correct identification number and license number of the vehicle, if available at the site. The decision of the hearing officer for all unincorporated areas other than the Broadmoor Police Protection District shall be final. The decision of the hearing officer for the area within the Broadmoor Police Protection District may be appealed as provided in <cite path="7.60.080">section 7.60.080</cite>.</text>
+        <text>All hearings under <cite path="7.60" proof="needed">this chapter</cite> shall be held before the designated hearing officer. The technical rules of evidence shall not apply. The owner of the land may appear in person at the hearing or present a sworn written statement in time for consideration at the hearing, and deny responsibility for the presence of the vehicle on the land, with his reasons for such denial. The hearing officer may impose such conditions and take such other action as he deems appropriate under the circumstances to carry out the purposes of <cite path="7.60" proof="needed">this chapter</cite>. He or she may delay time for removal of the vehicle or vehicle parts if the circumstances justify it. At the conclusion of the public hearing, the hearing officer may find that the vehicle or parts of a vehicle has been abandoned, wrecked, dismantled, or is inoperative on private or public property and order removal from the property as a public nuisance and disposal as hereinafter provided and determine the administrative costs and cost of removal charged against the owner of the land. The order requiring removal shall include a description of the vehicle or parts of a vehicle and the correct identification number and license number of the vehicle, if available at the site. The decision of the hearing officer for all unincorporated areas other than the Broadmoor Police Protection District shall be final. The decision of the hearing officer for the area within the Broadmoor Police Protection District may be appealed as provided in <cite path="7.60.080" proof="needed">section 7.60.080</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -1528,8 +1531,8 @@
       <num>7.60.080</num>
       <heading>Appeal—Broadmoor Police Protection District.</heading>
       <text>Any interested party may appeal the decision of the hearing officer for the Broadmoor Police Protection District by filing a written notice of appeal with the hearing officer within five days of the mailing of the notice of decision. Such appeal shall be heard by the Board of Police Commissioners of the Broadmoor Police Protection District, who may affirm, amend, or reverse the order to take other action deemed appropriate.</text>
-      <text>The hearing officer shall give written notice of the time and place of the hearing to the appellant and those persons specified in <cite path="7.60.060">section 7.60.060</cite>.</text>
-      <text>The hearing before the Board of Commissioners shall be conducted according to the provisions of <cite path="7.60.070">section 7.60.070</cite>, and notice of the decision in appeal shall be given in accordance with subsection (d) of <cite path="7.60.070">section 7.60.070</cite>, if required.</text>
+      <text>The hearing officer shall give written notice of the time and place of the hearing to the appellant and those persons specified in <cite path="7.60.060" proof="needed">section 7.60.060</cite>.</text>
+      <text>The hearing before the Board of Commissioners shall be conducted according to the provisions of <cite path="7.60.070" proof="needed">section 7.60.070</cite>, and notice of the decision in appeal shall be given in accordance with subsection (d) of <cite path="7.60.070" proof="needed">section 7.60.070</cite>, if required.</text>
       <text>In conducting the hearing, the Board of Police Commissioners shall not be limited by the technical rules of evidence.</text>
       <annotations>
         <annotation type="History">Prior code § 3807</annotation>
@@ -1568,10 +1571,10 @@
     <section>
       <num>7.60.110</num>
       <heading>Parcel owner's denial of responsibility.</heading>
-      <text>The collection, assessment or lien for the cost of abatement under <cite path="7.60">this chapter</cite> shall not be made against a parcel owner or parcel upon which the vehicle was located if:</text>
+      <text>The collection, assessment or lien for the cost of abatement under <cite path="7.60" proof="needed">this chapter</cite> shall not be made against a parcel owner or parcel upon which the vehicle was located if:</text>
       <para>
         <num>(1)</num>
-        <text>the parcel owner presents evidence at a hearing described in <cite path="7.60.070">section 7.60.070</cite> or presents a sworn written statement to the locally designated officer within ten (10) calendar days of service of the notice of abatement, denying responsibility for the presence of the vehicle on the parcel and the reasons for this denial; and</text>
+        <text>the parcel owner presents evidence at a hearing described in <cite path="7.60.070" proof="needed">section 7.60.070</cite> or presents a sworn written statement to the locally designated officer within ten (10) calendar days of service of the notice of abatement, denying responsibility for the presence of the vehicle on the parcel and the reasons for this denial; and</text>
       </para>
       <para>
         <num>(2)</num>
@@ -1597,7 +1600,7 @@
     <section>
       <num>7.60.130</num>
       <heading>Waiver of ten (10) days' notice to abate.</heading>
-      <text>The service of a Notice to Abate under <cite path="7.60.060">section 7.60.060</cite> is not required in the case of an inoperable vehicle if the vehicle is located upon a parcel that is either zoned for agricultural use or is not improved with a residential structure containing one or more dwelling units and either one of the two following conditions are met:</text>
+      <text>The service of a Notice to Abate under <cite path="7.60.060" proof="needed">section 7.60.060</cite> is not required in the case of an inoperable vehicle if the vehicle is located upon a parcel that is either zoned for agricultural use or is not improved with a residential structure containing one or more dwelling units and either one of the two following conditions are met:</text>
       <para>
         <num>(1)</num>
         <text>the parcel owner and the vehicle owner have signed releases authorizing removal of the vehicle and waiving any further interest in the vehicle or parts thereof; or</text>
@@ -1632,11 +1635,11 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>It is unlawful and an infraction for any person to fail or refuse to remove an abandoned, wrecked, dismantled or inoperative vehicle or parts of a vehicle or refuse to abate such nuisance when ordered to do so in accordance with the abatement provisions of <cite path="7.60">this chapter</cite> or state law where such state law is applicable.</text>
+        <text>It is unlawful and an infraction for any person to fail or refuse to remove an abandoned, wrecked, dismantled or inoperative vehicle or parts of a vehicle or refuse to abate such nuisance when ordered to do so in accordance with the abatement provisions of <cite path="7.60" proof="needed">this chapter</cite> or state law where such state law is applicable.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Any person violating any of the provisions or failing to comply with any of the mandatory provisions of <cite path="7.60">this chapter</cite> shall be guilty of an infraction and shall be punishable by the following:</text>
+        <text>Any person violating any of the provisions or failing to comply with any of the mandatory provisions of <cite path="7.60" proof="needed">this chapter</cite> shall be guilty of an infraction and shall be punishable by the following:</text>
         <para>
           <num>(1)</num>
           <text>A fine not exceeding one hundred ($100.00) dollars for a first violation;</text>
@@ -1673,7 +1676,7 @@
     <section>
       <num>7.60.160</num>
       <heading>Removal of abandoned cars.</heading>
-      <text>In the event that any vehicle is parked or left standing on any street, highway, public road, or thoroughfare, in the unincorporated area of the County of San Mateo for a period of seventy-two (72) or more consecutive hours, any member of the California Highway Patrol or any regularly employed and salaried deputy of the Sheriff's Office may remove such vehicle from such street, highway, public road, or thoroughfare, and may store such vehicle with the nearest keeper of a garage or other storage place of safety, pursuant to the provisions of <cite path="7.60">this chapter</cite>.</text>
+      <text>In the event that any vehicle is parked or left standing on any street, highway, public road, or thoroughfare, in the unincorporated area of the County of San Mateo for a period of seventy-two (72) or more consecutive hours, any member of the California Highway Patrol or any regularly employed and salaried deputy of the Sheriff's Office may remove such vehicle from such street, highway, public road, or thoroughfare, and may store such vehicle with the nearest keeper of a garage or other storage place of safety, pursuant to the provisions of <cite path="7.60" proof="needed">this chapter</cite>.</text>
       <annotations>
         <annotation type="History">Prior code § 3750.1</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 1109">Ord. 1109, 05/17/55</annotation>
@@ -1684,7 +1687,7 @@
     <section>
       <num>7.60.170</num>
       <heading>Notices, garage lien.</heading>
-      <text>In the event that any officer removes a vehicle from a street, highway, public road, or thoroughfare, pursuant to <cite path="7.60.160">section 7.60.160</cite> of <cite path="7.60">this chapter</cite>, such officer shall give the notices provided for in section 22852 et seq. of the Vehicle Code of the State of California, and the keeper of any garage in which any such vehicle is stored may have a lien thereon for his compensation for towage and for caring for and for keeping safe such vehicle and may satisfy such lien upon compliance with and under the conditions stated in section 22851 of the Vehicle Code.</text>
+      <text>In the event that any officer removes a vehicle from a street, highway, public road, or thoroughfare, pursuant to <cite path="7.60.160" proof="needed">section 7.60.160</cite> of <cite path="7.60" proof="needed">this chapter</cite>, such officer shall give the notices provided for in section 22852 et seq. of the Vehicle Code of the State of California, and the keeper of any garage in which any such vehicle is stored may have a lien thereon for his compensation for towage and for caring for and for keeping safe such vehicle and may satisfy such lien upon compliance with and under the conditions stated in section 22851 of the Vehicle Code.</text>
       <annotations>
         <annotation type="History">Prior code § 3750.2</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 1109">Ord. 1109, 05/17/55</annotation>
@@ -1717,7 +1720,7 @@
     <section>
       <num>7.64.030</num>
       <heading>Time limit.</heading>
-      <text>The prohibitions contained in <cite path="7.64">this chapter</cite> shall apply from the time of the happening of any of the aforesaid occurrences until a reasonable time thereafter, and at all times while law enforcement officers, public health personnel, emergency personnel, and other persons discharging duties imposed by law, are actively engaged in the performance of duty at the location of said occurrences.</text>
+      <text>The prohibitions contained in <cite path="7.64" proof="needed">this chapter</cite> shall apply from the time of the happening of any of the aforesaid occurrences until a reasonable time thereafter, and at all times while law enforcement officers, public health personnel, emergency personnel, and other persons discharging duties imposed by law, are actively engaged in the performance of duty at the location of said occurrences.</text>
       <annotations>
         <annotation type="History">Prior code § 3751.2</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 1118">Ord. 1118, 06/21/55</annotation>
@@ -1742,11 +1745,11 @@
       <heading>Exceptions.</heading>
       <para>
         <num>(a)</num>
-        <text>The continuous movement of any train of cars in one direction at the normal rate of speed, customarily used for trains in transit from one station to another, shall not be deemed an obstruction for the purposes of <cite path="7.68">this chapter</cite>.</text>
+        <text>The continuous movement of any train of cars in one direction at the normal rate of speed, customarily used for trains in transit from one station to another, shall not be deemed an obstruction for the purposes of <cite path="7.68" proof="needed">this chapter</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text><cite path="7.68">This chapter</cite> shall not apply to any railroad conductor or engineer where he has no control over the situation causing the obstruction, or where the train cannot be moved without endangering the safety of passengers or freight.</text>
+        <text><cite path="7.68" proof="needed">This chapter</cite> shall not apply to any railroad conductor or engineer where he has no control over the situation causing the obstruction, or where the train cannot be moved without endangering the safety of passengers or freight.</text>
       </para>
       <annotations>
         <annotation type="History">Prior code § 3752.1</annotation>
@@ -1822,7 +1825,7 @@
     <section>
       <num>7.76.020</num>
       <heading>Definitions.</heading>
-      <text>As used in <cite path="7.76">this chapter</cite> the following definitions apply:</text>
+      <text>As used in <cite path="7.76" proof="needed">this chapter</cite> the following definitions apply:</text>
       <para>
         <num>(a)</num>
         <text>"Emergency Repairs" means either any repair which is accomplished within one hour or any repair as may be necessary in case of an accident or mechanical failure to enable the removal of the vehicle from the highway. In the case of any accident or mechanical failure, the emergency repair shall be completed within twenty-four hours of the accident or mechanical failure.</text>
@@ -1858,7 +1861,7 @@
     <section>
       <num>7.76.040</num>
       <heading>Violation.</heading>
-      <text>A violation of <cite path="7.76.030">section 7.76.030</cite> may be punished as an infraction.</text>
+      <text>A violation of <cite path="7.76.030" proof="needed">section 7.76.030</cite> may be punished as an infraction.</text>
       <annotations>
         <annotation type="History">Prior code § 3823</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2824">Ord. 2824, 04/05/83</annotation>
@@ -1899,7 +1902,7 @@
     <section>
       <num>7.84.020</num>
       <heading>Violations.</heading>
-      <text>A violation of <cite path="7.84.010">section 7.84.010</cite> of <cite path="7.84">this chapter</cite> shall be punishable as a misdemeanor.</text>
+      <text>A violation of <cite path="7.84.010" proof="needed">section 7.84.010</cite> of <cite path="7.84" proof="needed">this chapter</cite> shall be punishable as a misdemeanor.</text>
       <annotations>
         <annotation type="History">Prior code § 3881</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2624">Ord. 2624, 02/05/80</annotation>
@@ -1909,7 +1912,7 @@
     <section>
       <num>7.84.030</num>
       <heading>Severability.</heading>
-      <text>If any section, subsection, sentence, clause, phrase, or portion of <cite path="7.84">this chapter</cite> is for any reason held to be invalid or unconstitutional by the decision of any court of competent jurisdiction, such decision shall not affect the validity of the remaining portions of <cite path="7.84">this chapter</cite>.</text>
+      <text>If any section, subsection, sentence, clause, phrase, or portion of <cite path="7.84" proof="needed">this chapter</cite> is for any reason held to be invalid or unconstitutional by the decision of any court of competent jurisdiction, such decision shall not affect the validity of the remaining portions of <cite path="7.84" proof="needed">this chapter</cite>.</text>
       <annotations>
         <annotation type="History">Prior code § 3882</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2624">Ord. 2624, 02/05/80</annotation>
@@ -1928,7 +1931,7 @@
     <section>
       <num>7.84.050</num>
       <heading>Violations.</heading>
-      <text>A violation of <cite path="7.84.040">section 7.84.040</cite> of <cite path="7.84">this chapter</cite> shall be punishable as a misdemeanor.</text>
+      <text>A violation of <cite path="7.84.040" proof="needed">section 7.84.040</cite> of <cite path="7.84" proof="needed">this chapter</cite> shall be punishable as a misdemeanor.</text>
       <annotations>
         <annotation type="History">Prior code § 3884</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2633">Ord. 2633, 02/26/80</annotation>
@@ -1937,7 +1940,7 @@
     <section>
       <num>7.84.060</num>
       <heading>Severability.</heading>
-      <text>If any section, subsection, sentence, clause, phrase, or portion of <cite path="7.84">this chapter</cite> is for any reason held to be invalid or unconstitutional by the decision of any court of competent jurisdiction, such decision shall not affect the validity of the remaining portions of <cite path="7.84">this chapter</cite>.</text>
+      <text>If any section, subsection, sentence, clause, phrase, or portion of <cite path="7.84" proof="needed">this chapter</cite> is for any reason held to be invalid or unconstitutional by the decision of any court of competent jurisdiction, such decision shall not affect the validity of the remaining portions of <cite path="7.84" proof="needed">this chapter</cite>.</text>
       <annotations>
         <annotation type="History">Prior code § 3885</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2633">Ord. 2633, 02/26/80</annotation>
@@ -1951,7 +1954,7 @@
     <section>
       <num>7.88.010</num>
       <heading>Reserved.</heading>
-      <text><strong>Editor's note— </strong>Ord. No. 04771, § 1, adopted January 24, 2017, repealed <cite path="7.88.010">§ 7.88.010</cite>, which pertained to Industrial Way, County Road No. 64 and derived from Ord. No. 3650, adopted May 9, 1995.</text>
+      <text><strong>Editor's note— </strong>Ord. No. 04771, § 1, adopted January 24, 2017, repealed <cite path="7.88.010" proof="needed">§ 7.88.010</cite>, which pertained to Industrial Way, County Road No. 64 and derived from Ord. No. 3650, adopted May 9, 1995.</text>
     </section>
     <section>
       <num>7.88.020</num>
@@ -1999,7 +2002,7 @@
     <section>
       <num>7.96.020</num>
       <heading>Definitions.</heading>
-      <text>For the purpose of this <cite path="7.96">chapter 7.96</cite>, the following terms shall have the meanings set forth in this section:</text>
+      <text>For the purpose of this <cite path="7.96" proof="needed">chapter 7.96</cite>, the following terms shall have the meanings set forth in this section:</text>
       <text>"Camper" means a structure designed to be mounted upon a vehicle and to provide facilities for human habitation or camping purposes.</text>
       <text>"Trailer" means a vehicle or moveable structure constructed, designed, and intended for use, used, or capable of being used, as a residence, place of abode, domicile, or shelter or enclosure for human habitation, whether mounted permanently upon a moveable chassis, whether equipped with permanent or temporary wheels, tires, or running gear, or whether susceptible of being hauled, towed, moved, or transported from place to place.</text>
       <text>"Vehicle" means a device, conveyance, or other artificial contrivance, whether operable or inoperable, used or capable of being used as a means of transportation on land, excepting a device used exclusively upon stationary rails or tracks.</text>
@@ -2018,7 +2021,7 @@
     <section>
       <num>7.96.040</num>
       <heading>Violation an infraction.</heading>
-      <text>Violation of this <cite path="7.96">chapter 7.96</cite> shall constitute an infraction.</text>
+      <text>Violation of this <cite path="7.96" proof="needed">chapter 7.96</cite> shall constitute an infraction.</text>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 4239">Ord. 4239, 11/02/04</annotation>
       </annotations>
@@ -2075,7 +2078,7 @@
     <section>
       <num>7.110.010</num>
       <heading>Purpose.</heading>
-      <text>The purpose of <cite path="7.110">this chapter</cite> is to address the adverse effects caused by persons congregating along busy County streets to solicit work. This activity has brought increased traffic to already congested areas, causes drivers along these streets to be distracted and results in vehicles making unsafe stops so the vehicle driver or occupant can discuss employment with workers. Workers will dart out into the roadway to solicit employment, creating a safety hazard to themselves and the motoring public. The prohibitions enacted in <cite path="7.110">this chapter</cite> are intended to eliminate these safety hazards.</text>
+      <text>The purpose of <cite path="7.110" proof="needed">this chapter</cite> is to address the adverse effects caused by persons congregating along busy County streets to solicit work. This activity has brought increased traffic to already congested areas, causes drivers along these streets to be distracted and results in vehicles making unsafe stops so the vehicle driver or occupant can discuss employment with workers. Workers will dart out into the roadway to solicit employment, creating a safety hazard to themselves and the motoring public. The prohibitions enacted in <cite path="7.110" proof="needed">this chapter</cite> are intended to eliminate these safety hazards.</text>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 4312">Ord. 4312, 05/23/06</annotation>
       </annotations>
@@ -2083,7 +2086,7 @@
     <section>
       <num>7.110.020</num>
       <heading>Definitions.</heading>
-      <text>As used in <cite path="7.110">this chapter</cite>:</text>
+      <text>As used in <cite path="7.110" proof="needed">this chapter</cite>:</text>
       <text>"Employment" means services, industry, or labor performed by a person for wages, a fixed sum, or other compensation or thing of value, or under any contract or hire, written, oral, express or implied.</text>
       <text>"Public right-of-way" means public streets, highways, roadways, and sidewalks including driveways.</text>
       <text>"Roadway" means that portion of the public right-of-way designed and ordinarily used for motor vehicle travel. "Roadway" does not include sidewalks, curbs, driveways, medians, or other areas adjacent to public streets.</text>
@@ -2110,7 +2113,7 @@
     <section>
       <num>7.110.040</num>
       <heading>Infraction.</heading>
-      <text>Any person who violates the provisions of <cite path="7.110">this chapter</cite> is guilty of an infraction punishable by a fine set forth in Government Code section 25132 and any amendments thereto.</text>
+      <text>Any person who violates the provisions of <cite path="7.110" proof="needed">this chapter</cite> is guilty of an infraction punishable by a fine set forth in Government Code section 25132 and any amendments thereto.</text>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 4312">Ord. 4312, 05/23/06</annotation>
       </annotations>
@@ -2118,7 +2121,7 @@
     <section>
       <num>7.110.050</num>
       <heading>Term of chapter.</heading>
-      <text><cite path="7.110">This chapter</cite> shall be in effect until June 30, 2008, after the date it shall be repealed.</text>
+      <text><cite path="7.110" proof="needed">This chapter</cite> shall be in effect until June 30, 2008, after the date it shall be repealed.</text>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 4409">Ord. 4409, 02/05/08</annotation>
       </annotations>

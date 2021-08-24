@@ -10,7 +10,7 @@
     <section>
       <num>6.04.010</num>
       <heading>Definitions.</heading>
-      <text>As used in <cite path="6.04">this chapter</cite>:</text>
+      <text>As used in <cite path="6.04" proof="needed">this chapter</cite>:</text>
       <text>"Animal Control Officer" means that person designated as the Animal Control Program Manager of the Division of Animal Control Services for the County and his or her duly authorized officers or deputies, as well as the President of the County's contract agent and his or her duly authorized officers or deputies.</text>
       <text>"Animal Control Program" means that program within the Division of Animal Control Services of the Health Department of the County, or the County's designated contract agent or both, which is specifically charged with regulating and enforcing laws dealing with animal control within its jurisdiction.</text>
       <text>"Animal Control Shelter" means the facilities provided by the County or the County's designated contract agent for the impounding of animals.</text>
@@ -39,7 +39,7 @@
       <text>"Vicious animal" means any animal, except a trained dog assisting a peace officer engaged in law enforcement duties, which meets any or all of the following criteria:</text>
       <para>
         <num>1.</num>
-        <text>Any animal previously designated as "dangerous," that, after investigation by an Animal Control Officer and/or Peace Officer, is found under conditions which constitute a violation of <cite path="6.04">this chapter</cite> or applicable dangerous animal permit and which demonstrates a significant danger to the public health or safety;</text>
+        <text>Any animal previously designated as "dangerous," that, after investigation by an Animal Control Officer and/or Peace Officer, is found under conditions which constitute a violation of <cite path="6.04" proof="needed">this chapter</cite> or applicable dangerous animal permit and which demonstrates a significant danger to the public health or safety;</text>
       </para>
       <para>
         <num>2.</num>
@@ -73,14 +73,14 @@
       <heading>Animal control program.</heading>
       <para>
         <num>(a)</num>
-        <text>Responsibility. The Animal Control Program is responsible for the enforcement of <cite path="6.04">this chapter</cite>, and the duties of the Director thereof and his officers, agents, and employees shall include, but not be limited to, the following:</text>
+        <text>Responsibility. The Animal Control Program is responsible for the enforcement of <cite path="6.04" proof="needed">this chapter</cite>, and the duties of the Director thereof and his officers, agents, and employees shall include, but not be limited to, the following:</text>
         <para>
           <num>(1)</num>
           <text>To administer an animal control shelter and keep such records as may be required by law or contract.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>To impound animals which are in violation of <cite path="6.04">this chapter</cite>, or for the safekeeping of the animal to protect its health and welfare.</text>
+          <text>To impound animals which are in violation of <cite path="6.04" proof="needed">this chapter</cite>, or for the safekeeping of the animal to protect its health and welfare.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -100,12 +100,12 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>To enforce all provisions of <cite path="6.04">this chapter</cite>.</text>
+          <text>To enforce all provisions of <cite path="6.04" proof="needed">this chapter</cite>.</text>
         </para>
       </para>
       <para>
         <num>(b)</num>
-        <text>Scope of Authority of Humane Officers and Animal Control Officers. Humane Officers qualified and appointed pursuant to California Corporations Code section 14502, who are employees of any public pound, society for prevention of cruelty to animals or humane society which has contracted with the County to provide animal control services, shall have the authority to issue notices to appear in court pursuant to chapter 5c (commencing with section 853.5 of <cite path="3">title 3</cite> of part 2 of the Penal Code of the State of California) for violations of state and local animal control laws. This authority is based on section 14503 of the Corporations Code. Animal Control Officers shall have the authority provided by state law including but not limited to that described by Penal Code section 830.9.</text>
+        <text>Scope of Authority of Humane Officers and Animal Control Officers. Humane Officers qualified and appointed pursuant to California Corporations Code section 14502, who are employees of any public pound, society for prevention of cruelty to animals or humane society which has contracted with the County to provide animal control services, shall have the authority to issue notices to appear in court pursuant to chapter 5c (commencing with section 853.5 of <cite path="3" proof="needed">title 3</cite> of part 2 of the Penal Code of the State of California) for violations of state and local animal control laws. This authority is based on section 14503 of the Corporations Code. Animal Control Officers shall have the authority provided by state law including but not limited to that described by Penal Code section 830.9.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -142,7 +142,7 @@
       <heading>Dog and cat licenses.</heading>
       <para>
         <num>(a)</num>
-        <text>Requirements. An annual license fee shall be paid for every dog or cat over the age of four (4) months owned or harbored in unincorporated San Mateo County. Said annual license fee shall be first due when the animal reaches four (4) months of age or within 60 days after the dog or cat is acquired, and due on the anniversary date of the original purchase date each year thereafter. New residents shall have sixty (60) days in which to acquire such license. Persons renewing their license shall have thirty (30) days following their due date before being delinquent and having to pay a late penalty. The fee for such license shall be as set forth in <cite path="6.04.290">section 6.04.290</cite>. The fee paid for the licensing of spayed or neutered dogs and cats shall be less than said license fee for unaltered cats or dogs upon presentation of the proper certification. The license fee paid by persons over the age of 60 shall be at a discount. For purposes of this section any surcharge on the license fee imposed under <cite path="6.04.290">section 6.04.290</cite> shall not be considered part of the license fee. Any person who shall fail to pay such license fee after said fee is due, or said dog or cat is required to be licensed, shall in addition to paying any past due license fee or fees, also pay a penalty in accordance with <cite path="6.04.290">section 6.04.290</cite>. A license shall be obtained, but no license fee shall be payable for the licensing of any dog being raised, trained or used to assist handicapped persons (such as those provided by Canine Companions) including but not limited to any dog which is being trained for guide or hearing purposes by a resident of the County or used for guide or hearing purposes by a handicapped resident of the County and which has come from a guide or hearing dog training facility such as Canine Companions, or for dogs which have served as a member of the armed forces of the United States of America, or any dog used by a local law enforcement agency for the purposes of crime prevention or control. Dog or cat licenses are not transferable between owners; however, if the dog or cat dies and the owner acquires a new dog or cat, the license is transferable to the new dog or cat. The license does not have to be renewed until the original purchase anniversary date. The fee paid for a dog or cat license is not refundable.</text>
+        <text>Requirements. An annual license fee shall be paid for every dog or cat over the age of four (4) months owned or harbored in unincorporated San Mateo County. Said annual license fee shall be first due when the animal reaches four (4) months of age or within 60 days after the dog or cat is acquired, and due on the anniversary date of the original purchase date each year thereafter. New residents shall have sixty (60) days in which to acquire such license. Persons renewing their license shall have thirty (30) days following their due date before being delinquent and having to pay a late penalty. The fee for such license shall be as set forth in <cite path="6.04.290" proof="needed">section 6.04.290</cite>. The fee paid for the licensing of spayed or neutered dogs and cats shall be less than said license fee for unaltered cats or dogs upon presentation of the proper certification. The license fee paid by persons over the age of 60 shall be at a discount. For purposes of this section any surcharge on the license fee imposed under <cite path="6.04.290" proof="needed">section 6.04.290</cite> shall not be considered part of the license fee. Any person who shall fail to pay such license fee after said fee is due, or said dog or cat is required to be licensed, shall in addition to paying any past due license fee or fees, also pay a penalty in accordance with <cite path="6.04.290" proof="needed">section 6.04.290</cite>. A license shall be obtained, but no license fee shall be payable for the licensing of any dog being raised, trained or used to assist handicapped persons (such as those provided by Canine Companions) including but not limited to any dog which is being trained for guide or hearing purposes by a resident of the County or used for guide or hearing purposes by a handicapped resident of the County and which has come from a guide or hearing dog training facility such as Canine Companions, or for dogs which have served as a member of the armed forces of the United States of America, or any dog used by a local law enforcement agency for the purposes of crime prevention or control. Dog or cat licenses are not transferable between owners; however, if the dog or cat dies and the owner acquires a new dog or cat, the license is transferable to the new dog or cat. The license does not have to be renewed until the original purchase anniversary date. The fee paid for a dog or cat license is not refundable.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -208,7 +208,7 @@
     <section>
       <num>6.04.045</num>
       <heading>Three-year licenses for dogs and cats.</heading>
-      <text>Notwithstanding <cite path="6.04.040">section 6.04.040</cite>, a three-year license may be obtained for a cat or dog (excluding wolf hybrids) by submitting to the licensing program adequate proof of a three-year rabies vaccination of the animal to be licensed and payment of the applicable fees as set forth in <cite path="6.04.290">section 6.04.290</cite> of this code.</text>
+      <text>Notwithstanding <cite path="6.04.040" proof="needed">section 6.04.040</cite>, a three-year license may be obtained for a cat or dog (excluding wolf hybrids) by submitting to the licensing program adequate proof of a three-year rabies vaccination of the animal to be licensed and payment of the applicable fees as set forth in <cite path="6.04.290" proof="needed">section 6.04.290</cite> of this code.</text>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 4090">Ord. 4090, 01/15/02</annotation>
       </annotations>
@@ -218,7 +218,7 @@
       <heading>Wolf hybrid registration.</heading>
       <para>
         <num>(a)</num>
-        <text>Requirements. An annual registration fee shall be paid for every wolf hybrid over the age of four (4) months owned or harbored in unincorporated San Mateo County. Said registration fee shall be first due when the animal reaches four (4) months of age or within sixty (60) days after the animal is acquired, and due on the anniversary date of the original purchase date each year thereafter. All residents shall have sixty (60) days in which to register their wolf hybrid. Persons renewing their registration shall have thirty (30) days following their due date before being delinquent and having to pay a late penalty. The registration fee shall be as set forth in <cite path="6.04.290">section 6.04.290</cite>. The registration fee for spayed or neutered wolf hybrids shall be less than said registration fee for unaltered wolf hybrids. At the time of registration, the wolf hybrid owner must show proof that the animal has been given anti-rabies vaccination by a licensed veterinarian to be administered in the manner prescribed or approved by the State of California Department of Public Health.</text>
+        <text>Requirements. An annual registration fee shall be paid for every wolf hybrid over the age of four (4) months owned or harbored in unincorporated San Mateo County. Said registration fee shall be first due when the animal reaches four (4) months of age or within sixty (60) days after the animal is acquired, and due on the anniversary date of the original purchase date each year thereafter. All residents shall have sixty (60) days in which to register their wolf hybrid. Persons renewing their registration shall have thirty (30) days following their due date before being delinquent and having to pay a late penalty. The registration fee shall be as set forth in <cite path="6.04.290" proof="needed">section 6.04.290</cite>. The registration fee for spayed or neutered wolf hybrids shall be less than said registration fee for unaltered wolf hybrids. At the time of registration, the wolf hybrid owner must show proof that the animal has been given anti-rabies vaccination by a licensed veterinarian to be administered in the manner prescribed or approved by the State of California Department of Public Health.</text>
       </para>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3653">Ord. 3653, 05/23/95</annotation>
@@ -303,7 +303,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Notwithstanding any other provision of <cite path="6.04">this chapter</cite>, a violation of subsection (a) or (b) of this section shall be an infraction. Any animal control officer or law enforcement officer who witnesses such a violation shall have the right to impound the animal if, in his opinion, the animal's health or safety is or will be thereby endangered.</text>
+        <text>Notwithstanding any other provision of <cite path="6.04" proof="needed">this chapter</cite>, a violation of subsection (a) or (b) of this section shall be an infraction. Any animal control officer or law enforcement officer who witnesses such a violation shall have the right to impound the animal if, in his opinion, the animal's health or safety is or will be thereby endangered.</text>
       </para>
       <annotations>
         <annotation type="History">Prior code § 3330.5.1</annotation>
@@ -327,7 +327,7 @@
       <heading>Dangerous animal permit required.</heading>
       <para>
         <num>(a)</num>
-        <text>No person shall knowingly keep, have, maintain, sell, trade or let for hire an animal designated under the provisions of <cite path="6.04">this chapter</cite> as dangerous without obtaining a Dangerous Animal Permit from the Animal Control Officer. The animal owner shall comply with all conditions of the Dangerous Animal Permit including, but not limited to, all requirements of <cite path="6.04.120">section 6.04.120</cite> of <cite path="6.04">this chapter</cite>. Any animal which is determined to be dangerous under <cite path="6.04">this chapter</cite> and for which a permit has not been obtained shall be surrendered to an Animal Control Officer for appropriate disposition including humane destruction.</text>
+        <text>No person shall knowingly keep, have, maintain, sell, trade or let for hire an animal designated under the provisions of <cite path="6.04" proof="needed">this chapter</cite> as dangerous without obtaining a Dangerous Animal Permit from the Animal Control Officer. The animal owner shall comply with all conditions of the Dangerous Animal Permit including, but not limited to, all requirements of <cite path="6.04.120" proof="needed">section 6.04.120</cite> of <cite path="6.04" proof="needed">this chapter</cite>. Any animal which is determined to be dangerous under <cite path="6.04" proof="needed">this chapter</cite> and for which a permit has not been obtained shall be surrendered to an Animal Control Officer for appropriate disposition including humane destruction.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -335,11 +335,11 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>If, after investigation by an Animal Control Officer or Peace Officer, that officer determines that probable cause does not exist to believe the animal is dangerous, any interested person may appeal that determination by submitting within five (5) calendar days of the decision a written request to the Animal Control Officer or Peace Officer for a hearing and paying the required fee. The hearing shall be conducted according to the procedures set forth in <cite path="6.04.115">section 6.04.115</cite> of <cite path="6.04">this chapter</cite>.</text>
+        <text>If, after investigation by an Animal Control Officer or Peace Officer, that officer determines that probable cause does not exist to believe the animal is dangerous, any interested person may appeal that determination by submitting within five (5) calendar days of the decision a written request to the Animal Control Officer or Peace Officer for a hearing and paying the required fee. The hearing shall be conducted according to the procedures set forth in <cite path="6.04.115" proof="needed">section 6.04.115</cite> of <cite path="6.04" proof="needed">this chapter</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>In determining whether or not an animal shall be declared dangerous, the Animal Control Officer, Peace Officer or Hearing Officer appointed pursuant to <cite path="6.04.115">section 6.04.115</cite> of <cite path="6.04">this chapter</cite>, may consider, as a mitigating factor or factors, whether, at the time of the injury, attack or molestation, the person or animal suffering the injury, attack or molestation:</text>
+        <text>In determining whether or not an animal shall be declared dangerous, the Animal Control Officer, Peace Officer or Hearing Officer appointed pursuant to <cite path="6.04.115" proof="needed">section 6.04.115</cite> of <cite path="6.04" proof="needed">this chapter</cite>, may consider, as a mitigating factor or factors, whether, at the time of the injury, attack or molestation, the person or animal suffering the injury, attack or molestation:</text>
         <para>
           <num>(1)</num>
           <text>Provoked, tormented, teased, abused or assaulted the animal, thereby causing or contributing to the alleged behavior;</text>
@@ -359,11 +359,11 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Upon receipt of written or oral notification by the Animal Control Officer and/or Peace Officer that an animal is dangerous as defined in <cite path="6.04">this chapter</cite>, the owner shall submit an application for a Dangerous Animal Permit to the Animal Control Officer within five (5) calendar days. The application for a permit shall contain the name of the applicant, applicant's address, the applicant's home and business phone numbers, the address and description of the proposed location of where the animal will be kept, if different from applicant's, a complete description and a photograph of the animal. The permit shall contain all of the requirements of <cite path="6.04.120">section 6.04.120</cite> of <cite path="6.04">this chapter</cite> and any additional conditions or requirements deemed necessary by the Animal Control Officer or Peace Officer to protect the public health or safety.</text>
+        <text>Upon receipt of written or oral notification by the Animal Control Officer and/or Peace Officer that an animal is dangerous as defined in <cite path="6.04" proof="needed">this chapter</cite>, the owner shall submit an application for a Dangerous Animal Permit to the Animal Control Officer within five (5) calendar days. The application for a permit shall contain the name of the applicant, applicant's address, the applicant's home and business phone numbers, the address and description of the proposed location of where the animal will be kept, if different from applicant's, a complete description and a photograph of the animal. The permit shall contain all of the requirements of <cite path="6.04.120" proof="needed">section 6.04.120</cite> of <cite path="6.04" proof="needed">this chapter</cite> and any additional conditions or requirements deemed necessary by the Animal Control Officer or Peace Officer to protect the public health or safety.</text>
       </para>
       <para>
         <num>(f)</num>
-        <text>Should the owner of the animal wish to contest the dangerous animal designation, the owner may request a hearing, to be conducted according to the procedures set forth in <cite path="6.04.115">section 6.04.115</cite> of <cite path="6.04">this chapter</cite>. The owner shall submit a written request for a Dangerous Animal Hearing to the Animal Control Officer and/or Peace Officer within five (5) calendar days of written notification by the Animal Control Officer and/or Peace Officer that the animal has been declared dangerous. Should the owner not submit a request for a hearing within five (5) calendar days of notification, the hearing process shall be deemed waived by the owner, and the dangerous animal declaration will be considered final by the County Director of the Health System, or the city having jurisdiction. In that event, the County Director of the Health System or the City having jurisdiction may allow the dangerous animal permit to be issued without a hearing. Unless a dangerous animal permit is immediately obtained, the animal shall be impounded at the owner's expense pending appropriate disposition as determined by the Animal Control Officer and/or Peace Officer.</text>
+        <text>Should the owner of the animal wish to contest the dangerous animal designation, the owner may request a hearing, to be conducted according to the procedures set forth in <cite path="6.04.115" proof="needed">section 6.04.115</cite> of <cite path="6.04" proof="needed">this chapter</cite>. The owner shall submit a written request for a Dangerous Animal Hearing to the Animal Control Officer and/or Peace Officer within five (5) calendar days of written notification by the Animal Control Officer and/or Peace Officer that the animal has been declared dangerous. Should the owner not submit a request for a hearing within five (5) calendar days of notification, the hearing process shall be deemed waived by the owner, and the dangerous animal declaration will be considered final by the County Director of the Health System, or the city having jurisdiction. In that event, the County Director of the Health System or the City having jurisdiction may allow the dangerous animal permit to be issued without a hearing. Unless a dangerous animal permit is immediately obtained, the animal shall be impounded at the owner's expense pending appropriate disposition as determined by the Animal Control Officer and/or Peace Officer.</text>
       </para>
       <annotations>
         <annotation type="History">Prior code § 3330.6</annotation>
@@ -383,7 +383,7 @@
       <heading>Declaration of vicious animals.</heading>
       <para>
         <num>(a)</num>
-        <text>No person shall keep, have, maintain, sell, trade or let for hire an animal which has been designated as vicious pursuant to <cite path="6.04">this chapter</cite>.</text>
+        <text>No person shall keep, have, maintain, sell, trade or let for hire an animal which has been designated as vicious pursuant to <cite path="6.04" proof="needed">this chapter</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -391,7 +391,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>If the owner of the animal disputes the designation of an animal as a vicious animal by the Animal Control Officer and/or Peace Officer, he/she may submit a written request for a hearing to the Animal Control Officer and/or Peace Officer within five (5) calendar days of notification. Such hearing shall be conducted according to the procedures set forth in <cite path="6.04.115">section 6.04.115</cite> of <cite path="6.04">this chapter</cite>. Failure of the owner to request a hearing shall result in the animal being declared vicious and humanely destroyed. The vicious animal declaration will be considered final by the County Director of the Health System, or the City having jurisdiction.</text>
+        <text>If the owner of the animal disputes the designation of an animal as a vicious animal by the Animal Control Officer and/or Peace Officer, he/she may submit a written request for a hearing to the Animal Control Officer and/or Peace Officer within five (5) calendar days of notification. Such hearing shall be conducted according to the procedures set forth in <cite path="6.04.115" proof="needed">section 6.04.115</cite> of <cite path="6.04" proof="needed">this chapter</cite>. Failure of the owner to request a hearing shall result in the animal being declared vicious and humanely destroyed. The vicious animal declaration will be considered final by the County Director of the Health System, or the City having jurisdiction.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -432,11 +432,11 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>A permit issued under <cite path="6.04">this chapter</cite> is subject to renewal and approval each year and is subject to conditions and requirements existing as of the date of renewal. The permittee shall pay an annual fee for this permit pursuant to the procedures established by the Division of Animal Control Services. If permittee fails to file an application for renewal or pay the permit fee prior to the permit anniversary date the permit shall automatically become void. The fee for such permit shall be as set forth in <cite path="6.04.290">section 6.04.290</cite> of <cite path="6.04">this chapter</cite>. This fee shall not be refundable.</text>
+        <text>A permit issued under <cite path="6.04" proof="needed">this chapter</cite> is subject to renewal and approval each year and is subject to conditions and requirements existing as of the date of renewal. The permittee shall pay an annual fee for this permit pursuant to the procedures established by the Division of Animal Control Services. If permittee fails to file an application for renewal or pay the permit fee prior to the permit anniversary date the permit shall automatically become void. The fee for such permit shall be as set forth in <cite path="6.04.290" proof="needed">section 6.04.290</cite> of <cite path="6.04" proof="needed">this chapter</cite>. This fee shall not be refundable.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>If the owner or permittee has a history of multiple violations of <cite path="6.04">this chapter</cite> or of the conditions of any previously issued dangerous animal permit, the Animal Control Officer or Hearing Officer may deny the permit and impound the animal for appropriate disposition as determined by the Animal Control Officer or Hearing Officer.</text>
+        <text>If the owner or permittee has a history of multiple violations of <cite path="6.04" proof="needed">this chapter</cite> or of the conditions of any previously issued dangerous animal permit, the Animal Control Officer or Hearing Officer may deny the permit and impound the animal for appropriate disposition as determined by the Animal Control Officer or Hearing Officer.</text>
       </para>
       <annotations>
         <annotation type="History">Prior code § 3330.6.1</annotation>
@@ -451,7 +451,7 @@
       <heading>Hearing procedures.</heading>
       <para>
         <num>(a)</num>
-        <text>Hearings held under <cite path="6.04">this chapter</cite> shall be conducted by a Hearing Officer or designated representative appointed by the Director of the Health Department. Any city contracting with the County for animal control services may elect to utilize the services of any San Mateo County designated Hearing Officer to hold hearings under that city's animal control ordinances. The hearings shall be scheduled no less than five (5) working days and no more than fifteen (15) working days from the receipt of the request for the hearing unless agreed upon by the involved Animal Control Officer or Peace Officer and the animal owner. A hearing may be continued if the Hearing Officer deems it necessary and proper or if the owner, or Animal Control Officer and/or Peace Officer shows good cause.</text>
+        <text>Hearings held under <cite path="6.04" proof="needed">this chapter</cite> shall be conducted by a Hearing Officer or designated representative appointed by the Director of the Health Department. Any city contracting with the County for animal control services may elect to utilize the services of any San Mateo County designated Hearing Officer to hold hearings under that city's animal control ordinances. The hearings shall be scheduled no less than five (5) working days and no more than fifteen (15) working days from the receipt of the request for the hearing unless agreed upon by the involved Animal Control Officer or Peace Officer and the animal owner. A hearing may be continued if the Hearing Officer deems it necessary and proper or if the owner, or Animal Control Officer and/or Peace Officer shows good cause.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -475,7 +475,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>The failure to conduct a hearing required by this section shall have no bearing on any criminal prosecution for violation of any provisions of <cite path="6.04">this chapter</cite>.</text>
+        <text>The failure to conduct a hearing required by this section shall have no bearing on any criminal prosecution for violation of any provisions of <cite path="6.04" proof="needed">this chapter</cite>.</text>
       </para>
       <para>
         <num>(h)</num>
@@ -483,9 +483,9 @@
         <text>1)</text>
         <text>That the animal be designated "vicious" and the owner of the animal lose all rights of ownership and control of the animal and the animal shall be humanely destroyed. An animal designated as vicious will be held at the animal shelter for a minimum of five (5) calendar days from the date of the Hearing Officer's decision, after which time it may be humanely destroyed without further notice to the owner;</text>
         <text>2)</text>
-        <text>That the animal be designated "dangerous" and the owner must apply for and obtain a dangerous animal permit as provided by <cite path="6.04">this chapter</cite> within five calendar days of receipt of the decision letter in order to maintain the animal and the owner must comply with all mandatory dangerous animal permit rules and regulations as defined in <cite path="6.04.120">section 6.04.120</cite> of <cite path="6.04">this chapter</cite>;</text>
+        <text>That the animal be designated "dangerous" and the owner must apply for and obtain a dangerous animal permit as provided by <cite path="6.04" proof="needed">this chapter</cite> within five calendar days of receipt of the decision letter in order to maintain the animal and the owner must comply with all mandatory dangerous animal permit rules and regulations as defined in <cite path="6.04.120" proof="needed">section 6.04.120</cite> of <cite path="6.04" proof="needed">this chapter</cite>;</text>
         <text>3)</text>
-        <text>That the dangerous animal permit shall contain additional permit conditions to supplement the mandatory dangerous animal permit rules and regulations as defined in <cite path="6.04.120">section 6.04.120</cite> of <cite path="6.04">this chapter</cite>, including, but not limited to, the following:</text>
+        <text>That the dangerous animal permit shall contain additional permit conditions to supplement the mandatory dangerous animal permit rules and regulations as defined in <cite path="6.04.120" proof="needed">section 6.04.120</cite> of <cite path="6.04" proof="needed">this chapter</cite>, including, but not limited to, the following:</text>
         <text>i)</text>
         <text>That the owner keep the animal muzzled at all times when the animal is off the owner's property,</text>
         <text>ii)</text>
@@ -497,7 +497,7 @@
         <text>v)</text>
         <text>That the owner reimburse the victim for the victim's medical expenses or the victim animal's veterinary expenses,</text>
         <text>vi)</text>
-        <text>Pursuant to <cite path="6.04.160">section 6.04.160</cite> of <cite path="6.04">this chapter</cite>, that the dangerous animal permit be modified as ordered by the Hearing Officer, or revoked and the animal humanely destroyed.</text>
+        <text>Pursuant to <cite path="6.04.160" proof="needed">section 6.04.160</cite> of <cite path="6.04" proof="needed">this chapter</cite>, that the dangerous animal permit be modified as ordered by the Hearing Officer, or revoked and the animal humanely destroyed.</text>
       </para>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 4278">Ord. 4278, 09/20/05</annotation>
@@ -526,7 +526,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>The owner shall open premises upon which an animal is maintained at any reasonable hour for inspection by the Animal Control Officer or Peace Officer and said premises shall be surrendered for inspection by the owner upon the request of the Animal Control Officer or Peace Officer. The owner shall pay a fee for the costs incurred by County for the inspection or reinspection of property. Such fee shall be set forth in <cite path="6.04.290">section 6.04.290</cite> of <cite path="6.04">this chapter</cite>.</text>
+        <text>The owner shall open premises upon which an animal is maintained at any reasonable hour for inspection by the Animal Control Officer or Peace Officer and said premises shall be surrendered for inspection by the owner upon the request of the Animal Control Officer or Peace Officer. The owner shall pay a fee for the costs incurred by County for the inspection or reinspection of property. Such fee shall be set forth in <cite path="6.04.290" proof="needed">section 6.04.290</cite> of <cite path="6.04" proof="needed">this chapter</cite>.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -542,7 +542,7 @@
       </para>
       <para>
         <num>(i)</num>
-        <text>In addition to a license, the owner shall ensure that the animal shall at all times wear a separate tag issued by the Division of Animal Control Services which designates it as a dangerous animal. The owner shall ensure that the dangerous animal be microchipped and registered with the Animal Control Program for a fee specified by <cite path="6.04.290">section 6.04.290</cite> of <cite path="6.04">this chapter</cite> within thirty (30) calendar days from the date the permit was issued. The animal owner shall be responsible for payment of said fee which shall be utilized by the Animal Control Program to offset the cost of the chip and to maintain the registration program.</text>
+        <text>In addition to a license, the owner shall ensure that the animal shall at all times wear a separate tag issued by the Division of Animal Control Services which designates it as a dangerous animal. The owner shall ensure that the dangerous animal be microchipped and registered with the Animal Control Program for a fee specified by <cite path="6.04.290" proof="needed">section 6.04.290</cite> of <cite path="6.04" proof="needed">this chapter</cite> within thirty (30) calendar days from the date the permit was issued. The animal owner shall be responsible for payment of said fee which shall be utilized by the Animal Control Program to offset the cost of the chip and to maintain the registration program.</text>
       </para>
       <para>
         <num>(j)</num>
@@ -550,7 +550,7 @@
       </para>
       <para>
         <num>(k)</num>
-        <text>The owner may not sell, transfer or otherwise dispose of such animal to another County or City without notifying Animal Control at least twenty-four (24) hours before such sale, transfer or disposal. Animal Control will notify the proper authorities of the jurisdiction to which the dangerous animal is transferred. Should the owner of a dangerous animal wish to transfer ownership of the animal to another individual within San Mateo County, the new owner must submit to a property inspection, apply for and obtain a new dangerous animal permit, pay all requisite fees, and comply with all provisions of <cite path="6.04">this chapter</cite> and the requirements of the permit.</text>
+        <text>The owner may not sell, transfer or otherwise dispose of such animal to another County or City without notifying Animal Control at least twenty-four (24) hours before such sale, transfer or disposal. Animal Control will notify the proper authorities of the jurisdiction to which the dangerous animal is transferred. Should the owner of a dangerous animal wish to transfer ownership of the animal to another individual within San Mateo County, the new owner must submit to a property inspection, apply for and obtain a new dangerous animal permit, pay all requisite fees, and comply with all provisions of <cite path="6.04" proof="needed">this chapter</cite> and the requirements of the permit.</text>
       </para>
       <para>
         <num>(l)</num>
@@ -566,11 +566,11 @@
       </para>
       <para>
         <num>(o)</num>
-        <text>The owner must pay all permit and property inspection fees as described in <cite path="6.04.290">section 6.04.290</cite> of <cite path="6.04">this chapter</cite>.</text>
+        <text>The owner must pay all permit and property inspection fees as described in <cite path="6.04.290" proof="needed">section 6.04.290</cite> of <cite path="6.04" proof="needed">this chapter</cite>.</text>
       </para>
       <para>
         <num>(p)</num>
-        <text>The owner shall comply with all other permit conditions or requirements imposed pursuant to <cite path="6.04.115">section 6.04.115</cite> or <cite path="6.04.100|(a)">6.04.100(a)</cite> of <cite path="6.04">this chapter</cite>.</text>
+        <text>The owner shall comply with all other permit conditions or requirements imposed pursuant to <cite path="6.04.115" proof="needed">section 6.04.115</cite> or <cite path="6.04.100|(a)" proof="needed">6.04.100(a)</cite> of <cite path="6.04" proof="needed">this chapter</cite>.</text>
       </para>
       <annotations>
         <annotation type="History">Prior code § 3330.6.2</annotation>
@@ -586,11 +586,11 @@
       <heading>Misdemeanor violations.</heading>
       <para>
         <num>(a)</num>
-        <text>A person violating any provision of <cite path="6.04">this chapter</cite> shall be guilty of an infraction except as otherwise specifically provided.</text>
+        <text>A person violating any provision of <cite path="6.04" proof="needed">this chapter</cite> shall be guilty of an infraction except as otherwise specifically provided.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>A person violating any provision of subsection (a) of <cite path="6.04.100">section 6.04.100</cite> or subsection (a) of <cite path="6.04.105">section 6.04.105</cite> of <cite path="6.04">this chapter</cite> shall be guilty of a misdemeanor.</text>
+        <text>A person violating any provision of subsection (a) of <cite path="6.04.100" proof="needed">section 6.04.100</cite> or subsection (a) of <cite path="6.04.105" proof="needed">section 6.04.105</cite> of <cite path="6.04" proof="needed">this chapter</cite> shall be guilty of a misdemeanor.</text>
       </para>
       <annotations>
         <annotation type="History">Prior code § 3330.6.3</annotation>
@@ -601,7 +601,7 @@
     <section>
       <num>6.04.140</num>
       <heading>Possession of animals after revocation of dangerous animal permit or vicious declaration.</heading>
-      <text>No person who has been determined to be in possession or ownership of a vicious animal or a dangerous animal for which a permit has been revoked under <cite path="6.04">this chapter</cite> shall be granted any dangerous animal permit for a period of three years following such determination or revocation.</text>
+      <text>No person who has been determined to be in possession or ownership of a vicious animal or a dangerous animal for which a permit has been revoked under <cite path="6.04" proof="needed">this chapter</cite> shall be granted any dangerous animal permit for a period of three years following such determination or revocation.</text>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 4278">Ord. 4278, 09/20/05</annotation>
       </annotations>
@@ -609,7 +609,7 @@
     <section>
       <num>6.04.150</num>
       <heading>Inspection fee.</heading>
-      <text>A fee shall be charged for the costs incurred by the County for the inspection or reinspection of property. The fee charged shall be paid by the owner or person who has custody of the animal. Such fee shall be set forth in <cite path="6.04.290">section 6.04.290</cite> of <cite path="6.04">this chapter</cite>.</text>
+      <text>A fee shall be charged for the costs incurred by the County for the inspection or reinspection of property. The fee charged shall be paid by the owner or person who has custody of the animal. Such fee shall be set forth in <cite path="6.04.290" proof="needed">section 6.04.290</cite> of <cite path="6.04" proof="needed">this chapter</cite>.</text>
       <annotations>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 4278">Ord. 4278, 09/20/05</annotation>
       </annotations>
@@ -626,7 +626,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The owner or any person the owner has allowed to have possession of the animal has violated any rules, regulations or conditions of <cite path="6.04">this chapter</cite> including, but not limited to, dangerous animal permit conditions, or any requirement imposed by the Animal Control Officer, Peace Officer or Hearing Officer as necessary to insure the animal will not endanger the peace, health or safety of any person or property; or</text>
+          <text>The owner or any person the owner has allowed to have possession of the animal has violated any rules, regulations or conditions of <cite path="6.04" proof="needed">this chapter</cite> including, but not limited to, dangerous animal permit conditions, or any requirement imposed by the Animal Control Officer, Peace Officer or Hearing Officer as necessary to insure the animal will not endanger the peace, health or safety of any person or property; or</text>
         </para>
         <para>
           <num>(3)</num>
@@ -639,7 +639,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>If, after investigation, the Animal Control Officer or Peace Officer concludes that it is probable that one or more of the above grounds for revocation or modification of the permit has occurred, the officer shall cause written notice thereof to be transmitted to the owner. Said notice shall specify the grounds of revocation or modification of the permit. Should the owner of the animal wish to contest the revocation or modification of the permit, he/she may request a hearing to be held before a Hearing Officer not previously involved with the permit issuance or investigation, as designated by the Director of the Health System within five (5) calendar days of receiving the notice of intent to modify or revoke permit. Said hearing date shall be not less than five (5) working days or more than 15 working days subsequent to the date the request for hearing is received. The hearing shall be conducted as set forth in <cite path="6.04.115">section 6.04.115</cite> of <cite path="6.04">this chapter</cite>. After the hearing, the officer conducting the hearing may modify the terms of the permit or revoke the permit depending upon the owner's ability to comply with the requirements of <cite path="6.04">this chapter</cite> and to control the animal so that the health, safety and property of the public are protected.</text>
+        <text>If, after investigation, the Animal Control Officer or Peace Officer concludes that it is probable that one or more of the above grounds for revocation or modification of the permit has occurred, the officer shall cause written notice thereof to be transmitted to the owner. Said notice shall specify the grounds of revocation or modification of the permit. Should the owner of the animal wish to contest the revocation or modification of the permit, he/she may request a hearing to be held before a Hearing Officer not previously involved with the permit issuance or investigation, as designated by the Director of the Health System within five (5) calendar days of receiving the notice of intent to modify or revoke permit. Said hearing date shall be not less than five (5) working days or more than 15 working days subsequent to the date the request for hearing is received. The hearing shall be conducted as set forth in <cite path="6.04.115" proof="needed">section 6.04.115</cite> of <cite path="6.04" proof="needed">this chapter</cite>. After the hearing, the officer conducting the hearing may modify the terms of the permit or revoke the permit depending upon the owner's ability to comply with the requirements of <cite path="6.04" proof="needed">this chapter</cite> and to control the animal so that the health, safety and property of the public are protected.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -662,7 +662,7 @@
       <heading>Animals to be impounded.</heading>
       <para>
         <num>(a)</num>
-        <text>Every animal kept or found by an Animal Control Officer or Peace Officer under conditions which constitute a violation of <cite path="6.04">this chapter</cite> or other state or local law may be impounded or caused to be impounded by an Animal Control Officer or Peace Officer. The animal's owner shall be charged with all costs incurred or fees applicable with respect to such impoundment.</text>
+        <text>Every animal kept or found by an Animal Control Officer or Peace Officer under conditions which constitute a violation of <cite path="6.04" proof="needed">this chapter</cite> or other state or local law may be impounded or caused to be impounded by an Animal Control Officer or Peace Officer. The animal's owner shall be charged with all costs incurred or fees applicable with respect to such impoundment.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -674,7 +674,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Except as otherwise provided in <cite path="6.04">this chapter</cite> or state law, an impounded animal may be redeemed by the owner, after payment of the required fees and charges and compliance with licensing requirements. In the event such animal is not so redeemed within the time set forth by state law, it may be disposed of in the manner determined by an Animal Control Officer.</text>
+        <text>Except as otherwise provided in <cite path="6.04" proof="needed">this chapter</cite> or state law, an impounded animal may be redeemed by the owner, after payment of the required fees and charges and compliance with licensing requirements. In the event such animal is not so redeemed within the time set forth by state law, it may be disposed of in the manner determined by an Animal Control Officer.</text>
       </para>
       <annotations>
         <annotation type="History">Prior code § 3330.7</annotation>
@@ -689,7 +689,7 @@
     <section>
       <num>6.04.180</num>
       <heading>Notice of impounded animals.</heading>
-      <text>Within twenty-four (24) hours of the impoundment of any animal, the Animal Control Officer shall mail a written notice thereof to the place of business or residence of the owner of the animal if known. In the event the animal may not be redeemed as provided by subsection (d) of <cite path="6.04.170">section 6.04.170</cite> of <cite path="6.04">this chapter</cite>, the owner may request a hearing under <cite path="6.04.115">section 6.04.115</cite>, subsections (a) through (g) of <cite path="6.04">this chapter</cite> or applicable state law. The Animal Control Officer shall maintain records of said impoundment pursuant to <cite path="6.04.200">section 6.04.200</cite> of <cite path="6.04">this chapter</cite>.</text>
+      <text>Within twenty-four (24) hours of the impoundment of any animal, the Animal Control Officer shall mail a written notice thereof to the place of business or residence of the owner of the animal if known. In the event the animal may not be redeemed as provided by subsection (d) of <cite path="6.04.170" proof="needed">section 6.04.170</cite> of <cite path="6.04" proof="needed">this chapter</cite>, the owner may request a hearing under <cite path="6.04.115" proof="needed">section 6.04.115</cite>, subsections (a) through (g) of <cite path="6.04" proof="needed">this chapter</cite> or applicable state law. The Animal Control Officer shall maintain records of said impoundment pursuant to <cite path="6.04.200" proof="needed">section 6.04.200</cite> of <cite path="6.04" proof="needed">this chapter</cite>.</text>
       <annotations>
         <annotation type="History">Prior code § 3330.7.1</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3123">Ord. 3123, 09/15/87</annotation>
@@ -709,7 +709,7 @@
     <section>
       <num>6.04.210</num>
       <heading>Field return fee.</heading>
-      <text>A fee shall be charged for any animal impounded by an Animal Control Officer and returned by the officer in the field to the owner or person who has custody of the animal. The fee charged shall be paid by the owner or person who has custody of the animal. Such fee shall be set forth in <cite path="6.04.290">section 6.04.290</cite>.</text>
+      <text>A fee shall be charged for any animal impounded by an Animal Control Officer and returned by the officer in the field to the owner or person who has custody of the animal. The fee charged shall be paid by the owner or person who has custody of the animal. Such fee shall be set forth in <cite path="6.04.290" proof="needed">section 6.04.290</cite>.</text>
       <annotations>
         <annotation type="History">Prior code § 3330.7.4</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3264">Ord. 3264, 09/18/90</annotation>
@@ -720,15 +720,15 @@
       <heading>Redemption/spay neuter fee.</heading>
       <para>
         <num>(a)</num>
-        <text>Except as otherwise provided by <cite path="6.04">this chapter</cite> or by any other law, the owner or person entitled to the control or custody of any animal impounded may, at any time before the sale or other disposition thereof, redeem the same by paying all proper fees assessed by the Animal Control Services. The Animal Control Services shall issue to the owner duplicate receipts for the amount of the fee paid.</text>
+        <text>Except as otherwise provided by <cite path="6.04" proof="needed">this chapter</cite> or by any other law, the owner or person entitled to the control or custody of any animal impounded may, at any time before the sale or other disposition thereof, redeem the same by paying all proper fees assessed by the Animal Control Services. The Animal Control Services shall issue to the owner duplicate receipts for the amount of the fee paid.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Upon redemption of any impounded unaltered animal, the owner will be required to pay a spay/neuter fee in the amount of $35.00 in addition to the impound fees imposed under <cite path="6.04.290">section 6.04.290</cite> of <cite path="6.04">this chapter</cite>. Such fee shall be refundable upon proof of spay/neuter of the animal within thirty (30) days of the redemption date. Any unaltered animal impounded twice or more within a three-year period shall be altered at the owner's expense prior to redemption. At the option of the owner, required spaying or neutering may be performed by a private veterinarian.</text>
+        <text>Upon redemption of any impounded unaltered animal, the owner will be required to pay a spay/neuter fee in the amount of $35.00 in addition to the impound fees imposed under <cite path="6.04.290" proof="needed">section 6.04.290</cite> of <cite path="6.04" proof="needed">this chapter</cite>. Such fee shall be refundable upon proof of spay/neuter of the animal within thirty (30) days of the redemption date. Any unaltered animal impounded twice or more within a three-year period shall be altered at the owner's expense prior to redemption. At the option of the owner, required spaying or neutering may be performed by a private veterinarian.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Any owner of an impounded animal subject to mandatory spay/neuter under subsection (b) of this section may petition, in writing, for a hearing conducted by the Animal Control Program Manager or his or her designee within three days following notice of the second impoundment. The hearing shall be held within four working days of such petition and shall be subject to the provisions of <cite path="6.04.115">section 6.04.115</cite>, subsections (a) through (g) of <cite path="6.04">this chapter</cite>. After the hearing, the Hearing Officer may require that the animal be spayed or neutered at the owner's expense, unless the Hearing Officer determines that good cause exists for not requiring that the animal be spayed or neutered.</text>
+        <text>Any owner of an impounded animal subject to mandatory spay/neuter under subsection (b) of this section may petition, in writing, for a hearing conducted by the Animal Control Program Manager or his or her designee within three days following notice of the second impoundment. The hearing shall be held within four working days of such petition and shall be subject to the provisions of <cite path="6.04.115" proof="needed">section 6.04.115</cite>, subsections (a) through (g) of <cite path="6.04" proof="needed">this chapter</cite>. After the hearing, the Hearing Officer may require that the animal be spayed or neutered at the owner's expense, unless the Hearing Officer determines that good cause exists for not requiring that the animal be spayed or neutered.</text>
       </para>
       <annotations>
         <annotation type="History">Prior code § 3330.8</annotation>
@@ -745,7 +745,7 @@
     <section>
       <num>6.04.230</num>
       <heading>Redemption fees.</heading>
-      <text>Fees for animal shelter services shall be as set forth in <cite path="6.04.290">section 6.04.290</cite>. No animal shall be released to its owner or possessor unless and until such fees are paid in full.</text>
+      <text>Fees for animal shelter services shall be as set forth in <cite path="6.04.290" proof="needed">section 6.04.290</cite>. No animal shall be released to its owner or possessor unless and until such fees are paid in full.</text>
       <annotations>
         <annotation type="History">Prior code § 3330.8.1</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3123">Ord. 3123, 09/15/87</annotation>
@@ -795,7 +795,7 @@
     <section>
       <num>6.04.270</num>
       <heading>Quarantine fee.</heading>
-      <text>A fee shall be charged for the costs incurred by County for the quarantine of animals including but not limited to investigation, inspection of property, confinement, examination and release of the animal from quarantine. The fee charged shall be paid by the owner or person who has custody of the animal. Such fee shall be in addition to the actual costs of the Health Officer or his designee in housing, feeding and otherwise caring for a quarantined animal. Such fee shall be set forth in <cite path="6.04.290">section 6.04.290</cite>.</text>
+      <text>A fee shall be charged for the costs incurred by County for the quarantine of animals including but not limited to investigation, inspection of property, confinement, examination and release of the animal from quarantine. The fee charged shall be paid by the owner or person who has custody of the animal. Such fee shall be in addition to the actual costs of the Health Officer or his designee in housing, feeding and otherwise caring for a quarantined animal. Such fee shall be set forth in <cite path="6.04.290" proof="needed">section 6.04.290</cite>.</text>
       <annotations>
         <annotation type="History">Prior code § 3330.11.1</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3123">Ord. 3123, 09/15/87</annotation>
@@ -804,7 +804,7 @@
     <section>
       <num>6.04.280</num>
       <heading>Service fees.</heading>
-      <text>Animal Control Service fees for redemption of impounded animals, relinquishment, adoption, disposal, abatement, rescue, veterinary treatment or other services not specified in <cite path="6.04.290">section 6.04.290</cite> shall be reviewed by the Director of the Health System or his/her designee for reimbursement of costs. The Director of the Health System or his/her designee shall have the authority to determine the fee charged for said services. The fee charged shall be paid by the owner or person who has custody of animal(s) for which said services have been provided.</text>
+      <text>Animal Control Service fees for redemption of impounded animals, relinquishment, adoption, disposal, abatement, rescue, veterinary treatment or other services not specified in <cite path="6.04.290" proof="needed">section 6.04.290</cite> shall be reviewed by the Director of the Health System or his/her designee for reimbursement of costs. The Director of the Health System or his/her designee shall have the authority to determine the fee charged for said services. The fee charged shall be paid by the owner or person who has custody of animal(s) for which said services have been provided.</text>
       <annotations>
         <annotation type="History">Prior code § 3330.11.2</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3264">Ord. 3264, 09/18/90</annotation>
@@ -1424,11 +1424,11 @@
       <heading>Amnesty period and waiver of late penalties for payment of license fees.</heading>
       <para>
         <num>(a)</num>
-        <text>An amnesty period consisting of the dates June 21, 1994 through June 30, 1994, is hereby declared within San Mateo County for payment of cat and dog license fees and for compliance with <cite path="6.04.040">section 6.04.040</cite> of the San Mateo County Ordinance Code, as provided herein.</text>
+        <text>An amnesty period consisting of the dates June 21, 1994 through June 30, 1994, is hereby declared within San Mateo County for payment of cat and dog license fees and for compliance with <cite path="6.04.040" proof="needed">section 6.04.040</cite> of the San Mateo County Ordinance Code, as provided herein.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>During the amnesty period, applicants for cat and dog licenses shall not be assessed any late penalty fee or any other penalty for failure to earlier obtain such license or pay any applicable license fee, notwithstanding sections <cite path="6.04.040">6.04.040</cite> and <cite path="6.04.290">6.04.290</cite> of the San Mateo County Ordinance Code. The Board hereby waives any applicable late penalty; such waiver to apply only to those persons obtaining the required cat and/or dog licenses in person during the stated amnesty period.</text>
+        <text>During the amnesty period, applicants for cat and dog licenses shall not be assessed any late penalty fee or any other penalty for failure to earlier obtain such license or pay any applicable license fee, notwithstanding sections <cite path="6.04.040" proof="needed">6.04.040</cite> and <cite path="6.04.290" proof="needed">6.04.290</cite> of the San Mateo County Ordinance Code. The Board hereby waives any applicable late penalty; such waiver to apply only to those persons obtaining the required cat and/or dog licenses in person during the stated amnesty period.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -1457,7 +1457,7 @@
     <section>
       <num>6.08.020</num>
       <heading>Definitions.</heading>
-      <text>For the purpose of <cite path="6.08">this chapter</cite>, unless it is plainly evident from the context that a different meaning is intended, certain terms used herein are defined as follows:</text>
+      <text>For the purpose of <cite path="6.08" proof="needed">this chapter</cite>, unless it is plainly evident from the context that a different meaning is intended, certain terms used herein are defined as follows:</text>
       <para>
         <num>(a)</num>
         <text>"Exotic animal" shall mean any of the following:</text>
@@ -1550,7 +1550,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>The applicant has not had a Health System permit, issued pursuant to <cite path="6.08">this chapter</cite>, revoked within a year prior to the date of application;</text>
+        <text>The applicant has not had a Health System permit, issued pursuant to <cite path="6.08" proof="needed">this chapter</cite>, revoked within a year prior to the date of application;</text>
       </para>
       <para>
         <num>(e)</num>
@@ -1566,7 +1566,7 @@
     <section>
       <num>6.08.060</num>
       <heading>Revocation and suspension.</heading>
-      <text>Any Health System permit issued pursuant to <cite path="6.08">this chapter</cite> may be revoked, if, after investigation and a duly noticed hearing, the Director finds any of the following to be true:</text>
+      <text>Any Health System permit issued pursuant to <cite path="6.08" proof="needed">this chapter</cite> may be revoked, if, after investigation and a duly noticed hearing, the Director finds any of the following to be true:</text>
       <para>
         <num>(a)</num>
         <text>The permittee, his agent or employee has been convicted of any offense involving the violation of sections 596 to 599 inclusive, of the Penal Code or is in violation of any zoning, health and safety or building ordinance relating to the keeping of exotic animals; or</text>
@@ -1588,7 +1588,7 @@
         <text>The permittee has changed the location of his residence or his place or business or sells, assigns, transfers, donates, leases, or otherwise disposes of the exotic animal for which the permit was issued.</text>
       </para>
       <text>If, after investigation, the Director concludes that it is probable that one or more of the above grounds for revocation has occurred, he/she shall cause written notice thereof to be transmitted by registered mail to the address of the permittee. Said notice shall specify the grounds of possible revocation of the Health System permit and shall specify a date and time for an informal hearing to be held before the Director thereon. Said date shall be not less than five days subsequent to the date of deposit of the notice in the mail.</text>
-      <text>After the informal hearing, the Director may modify the terms thereof or revoke the Health System permit depending upon the permittee's ability and/or willingness to comply with the requirements of <cite path="6.08">this chapter</cite>.</text>
+      <text>After the informal hearing, the Director may modify the terms thereof or revoke the Health System permit depending upon the permittee's ability and/or willingness to comply with the requirements of <cite path="6.08" proof="needed">this chapter</cite>.</text>
       <text>In the event that it is reasonably necessary to protect against an immediate threat or danger to the public and/or animals' health or safety, the Director may suspend any Health System permit summarily, without a hearing, for a period not to exceed thirty days.</text>
       <annotations>
         <annotation type="History">Prior code § 3331.6</annotation>
@@ -1599,7 +1599,7 @@
     <section>
       <num>6.08.070</num>
       <heading>Inspection.</heading>
-      <text>Health System permits issued pursuant to the provisions of <cite path="6.08">this chapter</cite> shall be surrendered for inspection by the permittee upon the request of the Director.</text>
+      <text>Health System permits issued pursuant to the provisions of <cite path="6.08" proof="needed">this chapter</cite> shall be surrendered for inspection by the permittee upon the request of the Director.</text>
       <text>The Health System permit shall provide that as a condition for issuance, the premises on which an exotic animal is maintained shall be opened at any reasonable hour for inspection by the Director or his/her Designee.</text>
       <annotations>
         <annotation type="History">Prior code § 3331.7</annotation>
@@ -1620,7 +1620,7 @@
     <section>
       <num>6.08.090</num>
       <heading>Rules and regulations.</heading>
-      <text>The Director may formulate rules and regulations in conformity with, and for the purpose of carrying out the intent of <cite path="6.08">this chapter</cite>. Compliance with such rules and regulations shall be a prerequisite to the issuance and continued validity of any Health System any permit provided for in <cite path="6.08">this chapter</cite>.</text>
+      <text>The Director may formulate rules and regulations in conformity with, and for the purpose of carrying out the intent of <cite path="6.08" proof="needed">this chapter</cite>. Compliance with such rules and regulations shall be a prerequisite to the issuance and continued validity of any Health System any permit provided for in <cite path="6.08" proof="needed">this chapter</cite>.</text>
       <annotations>
         <annotation type="History">Prior code § 3331.9</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2522">Ord. 2522, 07/18/78</annotation>
@@ -1630,7 +1630,7 @@
     <section>
       <num>6.08.100</num>
       <heading>Exemptions.</heading>
-      <text>The provisions of <cite path="6.08">this chapter</cite> are not applicable to the following:</text>
+      <text>The provisions of <cite path="6.08" proof="needed">this chapter</cite> are not applicable to the following:</text>
       <para>
         <num>(a)</num>
         <text>Owners who use animals for diagnostic purposes or research, and who have a valid permit issued by an appropriate State and/or Federal agency and whose animals are kept on the premises specified in the permit.</text>
@@ -1666,7 +1666,7 @@
     <section>
       <num>6.12.010</num>
       <heading>Definitions.</heading>
-      <text>For the purposes of <cite path="6.12">this chapter</cite>, the definitions contained in <cite path="6.08">chapter 6.08</cite> shall apply.</text>
+      <text>For the purposes of <cite path="6.12" proof="needed">this chapter</cite>, the definitions contained in <cite path="6.08" proof="needed">chapter 6.08</cite> shall apply.</text>
       <annotations>
         <annotation type="History">Prior code § 3332.2</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3344">Ord. 3344, 11/19/91</annotation>
@@ -1677,11 +1677,11 @@
       <heading>Spaying/neutering.</heading>
       <para>
         <num>(a)</num>
-        <text>Any person who owns or harbors within the unincorporated San Mateo County, any cat or dog over the age of six months which has not been spayed or neutered, shall procure either a license to keep an unaltered dog or cat or a license and permit for breeding cats or dogs issued by the San Mateo County Animal Control Program under <cite path="6.12.030">section 6.12.030</cite> of <cite path="6.12">this chapter</cite>.</text>
+        <text>Any person who owns or harbors within the unincorporated San Mateo County, any cat or dog over the age of six months which has not been spayed or neutered, shall procure either a license to keep an unaltered dog or cat or a license and permit for breeding cats or dogs issued by the San Mateo County Animal Control Program under <cite path="6.12.030" proof="needed">section 6.12.030</cite> of <cite path="6.12" proof="needed">this chapter</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>A license shall be issued for an unaltered dog or cat if the owner signs a written statement that such animal will not be allowed to breed unless the owner has first obtained a breeding permit under <cite path="6.12.030">section 6.12.030</cite> of this code.</text>
+        <text>A license shall be issued for an unaltered dog or cat if the owner signs a written statement that such animal will not be allowed to breed unless the owner has first obtained a breeding permit under <cite path="6.12.030" proof="needed">section 6.12.030</cite> of this code.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -1730,15 +1730,15 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>San Mateo County Animal Control Services shall administer a permit program to allow breeding of cats and dogs consistent with criteria and according to procedures contained in <cite path="6.12">this chapter</cite>.</text>
+        <text>San Mateo County Animal Control Services shall administer a permit program to allow breeding of cats and dogs consistent with criteria and according to procedures contained in <cite path="6.12" proof="needed">this chapter</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Each applicant who is issued a permit to breed cats or dogs under this section shall pay a breeding permit fee according to the fee schedule contained in <cite path="6.04.290">section 6.04.290</cite> of this code.</text>
+        <text>Each applicant who is issued a permit to breed cats or dogs under this section shall pay a breeding permit fee according to the fee schedule contained in <cite path="6.04.290" proof="needed">section 6.04.290</cite> of this code.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>No person shall cause or allow the breeding of a male or female dog or cat without first obtaining a breeding permit issued by the Animal Control Services. Such breeding permit is required in addition to any license required under <cite path="6.04.040">section 6.04.040</cite> of this code. Breeding permits shall be valid for twelve months, renewable on an annual basis. Fees for such permit shall be as set forth in <cite path="6.04.290">section 6.04.290</cite>. All breeding permits shall contain the following terms and conditions and be subject to all of the following requirements:</text>
+        <text>No person shall cause or allow the breeding of a male or female dog or cat without first obtaining a breeding permit issued by the Animal Control Services. Such breeding permit is required in addition to any license required under <cite path="6.04.040" proof="needed">section 6.04.040</cite> of this code. Breeding permits shall be valid for twelve months, renewable on an annual basis. Fees for such permit shall be as set forth in <cite path="6.04.290" proof="needed">section 6.04.290</cite>. All breeding permits shall contain the following terms and conditions and be subject to all of the following requirements:</text>
         <para>
           <num>(1)</num>
           <text>No offspring may be sold or adopted and permanently placed until reaching an age of at least eight (8) weeks.</text>
@@ -1797,10 +1797,10 @@
       <heading>Revocation of permit.</heading>
       <para>
         <num>(a)</num>
-        <text>Any permit issued pursuant to <cite path="6.12.030">section 6.12.030</cite> may be revoked if the Animal Control Officer has reasonable cause to believe any of the following to be true:</text>
+        <text>Any permit issued pursuant to <cite path="6.12.030" proof="needed">section 6.12.030</cite> may be revoked if the Animal Control Officer has reasonable cause to believe any of the following to be true:</text>
         <para>
           <num>(1)</num>
-          <text>The permittee has violated any County ordinances relating to the keeping, care or use of any animal including, but not limited to, those contained in chapters <cite path="6.04">6.04</cite>, <cite path="6.12">6.12</cite> and <cite path="6.20">6.20</cite> of the San Mateo County Ordinance Code;</text>
+          <text>The permittee has violated any County ordinances relating to the keeping, care or use of any animal including, but not limited to, those contained in chapters <cite path="6.04" proof="needed">6.04</cite>, <cite path="6.12" proof="needed">6.12</cite> and <cite path="6.20" proof="needed">6.20</cite> of the San Mateo County Ordinance Code;</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1835,7 +1835,7 @@
     <section>
       <num>6.12.060</num>
       <heading>Penalty for violation.</heading>
-      <text>Except as otherwise provided by <cite path="6.12">this chapter</cite>, any violation of the provisions of <cite path="6.12">this chapter</cite> shall be punishable as an infraction, the penalty of which shall be as follows:</text>
+      <text>Except as otherwise provided by <cite path="6.12" proof="needed">this chapter</cite>, any violation of the provisions of <cite path="6.12" proof="needed">this chapter</cite> shall be punishable as an infraction, the penalty of which shall be as follows:</text>
       <para>
         <num>(a)</num>
         <text>A fine not to exceed one hundred ($100.00) dollars for a first violation.</text>
@@ -1856,7 +1856,7 @@
     <section>
       <num>6.12.070</num>
       <heading>Responsibility for enforcement.</heading>
-      <text>The Animal Control Program shall be responsible for the enforcement and administration of <cite path="6.12">this chapter</cite>.</text>
+      <text>The Animal Control Program shall be responsible for the enforcement and administration of <cite path="6.12" proof="needed">this chapter</cite>.</text>
       <annotations>
         <annotation type="History">Prior code § 3332.9</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3344">Ord. 3344, 11/19/91</annotation>
@@ -1872,11 +1872,11 @@
       <heading>Animal fancier permit program.</heading>
       <para>
         <num>(a)</num>
-        <text>The Division of Animal Control shall administer an animal fancier permit program as described by <cite path="6.16">this chapter</cite> to allow the keeping of dogs and/or cats up to a total of ten animals.</text>
+        <text>The Division of Animal Control shall administer an animal fancier permit program as described by <cite path="6.16" proof="needed">this chapter</cite> to allow the keeping of dogs and/or cats up to a total of ten animals.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>In accordance with sections <cite path="6.20.010">6.20.010</cite> through <cite path="6.20.030">6.20.030</cite> of this code, up to a total of ten animals (dogs and/or cats) may be kept at any one premisses, in those zoning districts prescribed in the County zoning regulations, provided that a fancier's permit issued by the Animal Control Program Manager in accordance with <cite path="6.16">this chapter</cite> in first obtained by the person keeping such animals.</text>
+        <text>In accordance with sections <cite path="6.20.010" proof="needed">6.20.010</cite> through <cite path="6.20.030" proof="needed">6.20.030</cite> of this code, up to a total of ten animals (dogs and/or cats) may be kept at any one premisses, in those zoning districts prescribed in the County zoning regulations, provided that a fancier's permit issued by the Animal Control Program Manager in accordance with <cite path="6.16" proof="needed">this chapter</cite> in first obtained by the person keeping such animals.</text>
       </para>
       <annotations>
         <annotation type="History">Prior code § 3332.12</annotation>
@@ -1887,7 +1887,7 @@
     <section>
       <num>6.16.020</num>
       <heading>Application for animal fancier permit.</heading>
-      <text>Any application for an Animal Fancier Permit shall be made to the Division of Animal Control on a form provided by the Division. The application shall include the name of the applicant, his or her residence address and telephone number, the address of the proposed location where the animals are to be kept if different from applicant's address, and a description of the housing facilities for the keeping of the animals. The application shall also state the number of dogs and/or cats to be kept and include a copy of the current license certificate issued under <cite path="6.04.040">section 6.04.040</cite> of this code for each animal to be kept. The Animal Control Program Manager may require the applicant to provide any other information (s)he seems necessary to properly evaluate the application.</text>
+      <text>Any application for an Animal Fancier Permit shall be made to the Division of Animal Control on a form provided by the Division. The application shall include the name of the applicant, his or her residence address and telephone number, the address of the proposed location where the animals are to be kept if different from applicant's address, and a description of the housing facilities for the keeping of the animals. The application shall also state the number of dogs and/or cats to be kept and include a copy of the current license certificate issued under <cite path="6.04.040" proof="needed">section 6.04.040</cite> of this code for each animal to be kept. The Animal Control Program Manager may require the applicant to provide any other information (s)he seems necessary to properly evaluate the application.</text>
       <annotations>
         <annotation type="History">Prior code § 3332.14</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3474">Ord. 3474, 02/09/93</annotation>
@@ -1917,7 +1917,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>The applicant has neither had any animal license or permit revoked, nor has been convicted of any violation of any provision of chapters <cite path="6.04">6.04</cite>, <cite path="6.12">6.12</cite>, <cite path="6.16">6.16</cite> or <cite path="6.20">6.20</cite> of this code or any other state or local animal control law, within the past year.</text>
+          <text>The applicant has neither had any animal license or permit revoked, nor has been convicted of any violation of any provision of chapters <cite path="6.04" proof="needed">6.04</cite>, <cite path="6.12" proof="needed">6.12</cite>, <cite path="6.16" proof="needed">6.16</cite> or <cite path="6.20" proof="needed">6.20</cite> of this code or any other state or local animal control law, within the past year.</text>
         </para>
         <para>
           <num>(6)</num>
@@ -1942,7 +1942,7 @@
       <heading>Permit conditions.</heading>
       <para>
         <num>(a)</num>
-        <text>Any permit issued under <cite path="6.16">this chapter</cite> shall be made expressly subject to the following conditions:</text>
+        <text>Any permit issued under <cite path="6.16" proof="needed">this chapter</cite> shall be made expressly subject to the following conditions:</text>
         <para>
           <num>(1)</num>
           <text>The permit holder shall provide veterinary care as needed and make every effort to keep all animals free of disease and parasites.</text>
@@ -1962,7 +1962,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>The fancier permit fee established under <cite path="6.04.290">section 6.04.290</cite> of this code shall be paid by the applicant prior to issuance of the permit. Such fee shall be paid each time a permit is issued or renewed.</text>
+        <text>The fancier permit fee established under <cite path="6.04.290" proof="needed">section 6.04.290</cite> of this code shall be paid by the applicant prior to issuance of the permit. Such fee shall be paid each time a permit is issued or renewed.</text>
       </para>
       <annotations>
         <annotation type="History">Prior code § 3332.18</annotation>
@@ -1994,15 +1994,15 @@
       <heading>Expiration and renewal of permits.</heading>
       <para>
         <num>(a)</num>
-        <text>Permits issued under <cite path="6.16">this chapter</cite> shall expire one year after issuance.</text>
+        <text>Permits issued under <cite path="6.16" proof="needed">this chapter</cite> shall expire one year after issuance.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Permits may be renewed on an annual basis upon filing of a new application containing updated information and payment of the annual fancier's permit fee established by <cite path="6.04.290">section 6.04.290</cite>.</text>
+        <text>Permits may be renewed on an annual basis upon filing of a new application containing updated information and payment of the annual fancier's permit fee established by <cite path="6.04.290" proof="needed">section 6.04.290</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>No permit shall be renewed if the Animal Control Program Manager has received two or more substantiated complaints concerning the location or manner of keeping of the animals or if the Animal Control Program Manager has determined that the findings set forth in <cite path="6.16.030">section 6.16.030</cite> cannot be made or that any of the grounds for revocation described by <cite path="6.16.060">section 6.16.060</cite> of <cite path="6.16">this chapter</cite> exist.</text>
+        <text>No permit shall be renewed if the Animal Control Program Manager has received two or more substantiated complaints concerning the location or manner of keeping of the animals or if the Animal Control Program Manager has determined that the findings set forth in <cite path="6.16.030" proof="needed">section 6.16.030</cite> cannot be made or that any of the grounds for revocation described by <cite path="6.16.060" proof="needed">section 6.16.060</cite> of <cite path="6.16" proof="needed">this chapter</cite> exist.</text>
       </para>
       <annotations>
         <annotation type="History">Prior code § 3332.22</annotation>
@@ -2012,7 +2012,7 @@
     <section>
       <num>6.16.070</num>
       <heading>Permit revocation.</heading>
-      <text>Any permit issued under <cite path="6.16">this chapter</cite> may be revoked by the Animal Control Program Manager if, after investigation, the Animal Control Program Manager finds reasonable cause to believe any of the following grounds exist:</text>
+      <text>Any permit issued under <cite path="6.16" proof="needed">this chapter</cite> may be revoked by the Animal Control Program Manager if, after investigation, the Animal Control Program Manager finds reasonable cause to believe any of the following grounds exist:</text>
       <para>
         <num>(a)</num>
         <text>The permittee has violated any animal control laws or regulations, any zoning or health and safety laws or any regulations relating to the keeping of animals.</text>
@@ -2035,7 +2035,7 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>The permittee has failed to pay any fee or obtain any license imposed under <cite path="6">title 6</cite> of this code.</text>
+        <text>The permittee has failed to pay any fee or obtain any license imposed under <cite path="6" proof="needed">title 6</cite> of this code.</text>
       </para>
       <para>
         <num>(g)</num>
@@ -2088,7 +2088,7 @@
     <section>
       <num>6.16.100</num>
       <heading>Administrative guidelines.</heading>
-      <text>The Animal Control Program Manager may formulate administrative guidelines in conformity with, and for the purpose of implementing, <cite path="6.16">this chapter</cite>.</text>
+      <text>The Animal Control Program Manager may formulate administrative guidelines in conformity with, and for the purpose of implementing, <cite path="6.16" proof="needed">this chapter</cite>.</text>
       <annotations>
         <annotation type="History">Prior code § 3332.30</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3474">Ord. 3474, 02/09/93</annotation>
@@ -2117,7 +2117,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>For the purpose of <cite path="6.20">this chapter</cite>, certain words and phrases are defined as follows:</text>
+        <text>For the purpose of <cite path="6.20" proof="needed">this chapter</cite>, certain words and phrases are defined as follows:</text>
         <para>
           <num>(1)</num>
           <text>"Animal Fanciers" shall mean a person, business or entity who keeps at least five (5) dogs, or five (5) cats, or any combination of dogs and cats which totals five (5), not to exceed ten (10) dogs, or ten (10) cats, or any combination of dogs and cats which totals ten (10) per one-family dwelling unit.</text>
@@ -2144,11 +2144,11 @@
       <heading>The keeping of dogs and cats.</heading>
       <para>
         <num>(a)</num>
-        <text>It shall be unlawful for any person, business or entity to keep or cause to be kept five (5) or more dogs, or five (5) or more cats, or five (5) dogs and cats in any combination per dwelling unit or per business establishment unless in conformance with <cite path="6.20">this chapter</cite>. In addition to any civil remedy provided for by law, a violation of any provision of <cite path="6.20">this chapter</cite> may be prosecuted as an infraction.</text>
+        <text>It shall be unlawful for any person, business or entity to keep or cause to be kept five (5) or more dogs, or five (5) or more cats, or five (5) dogs and cats in any combination per dwelling unit or per business establishment unless in conformance with <cite path="6.20" proof="needed">this chapter</cite>. In addition to any civil remedy provided for by law, a violation of any provision of <cite path="6.20" proof="needed">this chapter</cite> may be prosecuted as an infraction.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>The requirement to obtain an animal fanciers' permit or a kennel/cattery permit per sections <cite path="6.20.030">6.20.030</cite> and <cite path="6.20.040">6.20.040</cite>, respectively, shall not be applicable to the following:</text>
+        <text>The requirement to obtain an animal fanciers' permit or a kennel/cattery permit per sections <cite path="6.20.030" proof="needed">6.20.030</cite> and <cite path="6.20.040" proof="needed">6.20.040</cite>, respectively, shall not be applicable to the following:</text>
         <para>
           <num>(1)</num>
           <text>Dogs or cats used for diagnostic purposes or research, the use having been approved by the California State Department of Health Services pursuant to section 1666 of the Health and Safety Code.</text>
@@ -2181,7 +2181,7 @@
     <section>
       <num>6.20.030</num>
       <heading>Animal fanciers; Permit requirement.</heading>
-      <text>Animal fanciers, as defined in <cite path="6.20.010">section 6.20.010</cite> (b)(1), shall locate only in those zoning districts where animal fanciers is an allowed use, and be subject to an animal fanciers' permit when required by the County Zoning Regulations (Division 6, Part One of this Ordinance Code). The securing of an animal fanciers' permit shall be in conformance with <cite path="6.16">chapter 6.16</cite> of <cite path="6">this title</cite>.</text>
+      <text>Animal fanciers, as defined in <cite path="6.20.010" proof="needed">section 6.20.010</cite> (b)(1), shall locate only in those zoning districts where animal fanciers is an allowed use, and be subject to an animal fanciers' permit when required by the County Zoning Regulations (Division 6, Part One of this Ordinance Code). The securing of an animal fanciers' permit shall be in conformance with <cite path="6.16" proof="needed">chapter 6.16</cite> of <cite path="6" proof="needed">this title</cite>.</text>
       <annotations>
         <annotation type="History">Prior code § 3402</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 762">Ord. 762, 10/21/47</annotation>
@@ -2192,7 +2192,7 @@
     <section>
       <num>6.20.040</num>
       <heading>Kennels/catteries; Permit requirement.</heading>
-      <text>Kennels or catteries, as defined in sections <cite path="6.20.010">6.20.010</cite> (b)(2) and (3), shall locate only in those zoning districts prescribed in the County Zoning Regulations (Division 6, Part One of this Ordinance Code) upon the securing of a kennel/cattery permit pursuant to <cite path="6.20">this chapter</cite>.</text>
+      <text>Kennels or catteries, as defined in sections <cite path="6.20.010" proof="needed">6.20.010</cite> (b)(2) and (3), shall locate only in those zoning districts prescribed in the County Zoning Regulations (Division 6, Part One of this Ordinance Code) upon the securing of a kennel/cattery permit pursuant to <cite path="6.20" proof="needed">this chapter</cite>.</text>
       <annotations>
         <annotation type="History">Prior code § 3403</annotation>
         <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 762">Ord. 762, 10/21/47</annotation>
@@ -2212,7 +2212,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Location map, site plan, floor plans and building elevations, as applicable to demonstrate compliance with <cite path="6.20.060">section 6.20.060</cite>.</text>
+        <text>Location map, site plan, floor plans and building elevations, as applicable to demonstrate compliance with <cite path="6.20.060" proof="needed">section 6.20.060</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -2236,7 +2236,7 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>Additional information as may be necessary in order to adequately evaluate the proposed facility's compliance with <cite path="6.20">this chapter</cite> or with any other applicable federal, state and local laws.</text>
+        <text>Additional information as may be necessary in order to adequately evaluate the proposed facility's compliance with <cite path="6.20" proof="needed">this chapter</cite> or with any other applicable federal, state and local laws.</text>
       </para>
       <annotations>
         <annotation type="History">Prior code § 3404</annotation>
@@ -2283,7 +2283,7 @@
         </para>
         <para>
           <num>(8)</num>
-          <text>That the applicant has not had any animal license or permit revoked or been convicted of violating of any provision of <cite path="6.04">chapter 6.04</cite>, 6.12 or 6.16 of this Ordinance Code, or any other federal, state or local animal control law, within the past year.</text>
+          <text>That the applicant has not had any animal license or permit revoked or been convicted of violating of any provision of <cite path="6.04" proof="needed">chapter 6.04</cite>, 6.12 or 6.16 of this Ordinance Code, or any other federal, state or local animal control law, within the past year.</text>
         </para>
       </para>
       <para>
@@ -2291,7 +2291,7 @@
         <text>Specific Requirements for Kennels. If the kennel/cattery permit involves the keeping of dogs at the proposed facility, the Zoning Hearing Officer shall make the following additional findings:</text>
         <para>
           <num>(1)</num>
-          <text>That any building, pen, run or other enclosure housing dogs is at least 300 feet from any residence on a neighboring property, unless an exception is granted pursuant to <cite path="6.20.130">section 6.20.130</cite>.</text>
+          <text>That any building, pen, run or other enclosure housing dogs is at least 300 feet from any residence on a neighboring property, unless an exception is granted pursuant to <cite path="6.20.130" proof="needed">section 6.20.130</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2337,14 +2337,14 @@
       <heading>Action on kennel/cattery permit; Conditions.</heading>
       <para>
         <num>(a)</num>
-        <text>Prior to any action on a kennel/cattery permit, the Zoning Hearing Officer shall hold a public hearing. If the Zoning Hearing Officer finds that the proposed facility will conform with <cite path="6.20">this chapter</cite> and with any other applicable County regulations, the Zoning Hearing Officer may approve the kennel/cattery permit. The kennel/cattery permit shall be issued for twelve (12) months, subject to revocation. A permit may be issued at any time during the year and shall expire on the same date of the following year, unless (1) it is previously revoked; or (2) a renewal/amendment application is filed. In the case of renewal/amendment, the permit shall remain in effect until a decision is rendered on the renewal/amendment application.</text>
+        <text>Prior to any action on a kennel/cattery permit, the Zoning Hearing Officer shall hold a public hearing. If the Zoning Hearing Officer finds that the proposed facility will conform with <cite path="6.20" proof="needed">this chapter</cite> and with any other applicable County regulations, the Zoning Hearing Officer may approve the kennel/cattery permit. The kennel/cattery permit shall be issued for twelve (12) months, subject to revocation. A permit may be issued at any time during the year and shall expire on the same date of the following year, unless (1) it is previously revoked; or (2) a renewal/amendment application is filed. In the case of renewal/amendment, the permit shall remain in effect until a decision is rendered on the renewal/amendment application.</text>
       </para>
       <para>
         <num>(b)</num>
         <text>The Zoning Hearing Officer shall approve a kennel/cattery permit subject to the following conditions:</text>
         <para>
           <num>(1)</num>
-          <text>The permit holder shall comply with all requirements for kennels/catteries, as specified in <cite path="6.20.060">section 6.20.060</cite>.</text>
+          <text>The permit holder shall comply with all requirements for kennels/catteries, as specified in <cite path="6.20.060" proof="needed">section 6.20.060</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2369,7 +2369,7 @@
       <heading>Annual inspection and permit renewal; Transfer.</heading>
       <para>
         <num>(a)</num>
-        <text>Kennel/cattery permits shall, upon application and the payment of the required annual fee set by Board resolution, be renewed by the Planning Director for twelve (12) months, provided that the operation of the facility during the previous twelve (12) month period has been in full conformance with <cite path="6.20">this chapter</cite> and other applicable federal, state and local laws. Prior to permit renewal, County staff shall notify the permit holder that an inspection of the facility will be conducted to ensure there is continuing conformance with all applicable laws and permit conditions. A certificate issued by the County Environmental Health Services Division stating the condition of the facility when last inspected shall be posted in a conspicuous place in the facility, or provided for inspection upon request.</text>
+        <text>Kennel/cattery permits shall, upon application and the payment of the required annual fee set by Board resolution, be renewed by the Planning Director for twelve (12) months, provided that the operation of the facility during the previous twelve (12) month period has been in full conformance with <cite path="6.20" proof="needed">this chapter</cite> and other applicable federal, state and local laws. Prior to permit renewal, County staff shall notify the permit holder that an inspection of the facility will be conducted to ensure there is continuing conformance with all applicable laws and permit conditions. A certificate issued by the County Environmental Health Services Division stating the condition of the facility when last inspected shall be posted in a conspicuous place in the facility, or provided for inspection upon request.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2388,7 +2388,7 @@
       <heading>Revocation of permits.</heading>
       <para>
         <num>(a)</num>
-        <text>Any permit issued under <cite path="6.20">this chapter</cite> may be revoked by the Planning Commission if it makes any of the following findings:</text>
+        <text>Any permit issued under <cite path="6.20" proof="needed">this chapter</cite> may be revoked by the Planning Commission if it makes any of the following findings:</text>
         <para>
           <num>(1)</num>
           <text>That the permit holder or his/her agents(s) has been convicted of violating any animal control laws or regulations, any zoning or health and safety laws or any regulations relating to the keeping of animals.</text>
@@ -2399,7 +2399,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>That the permit holder or his/her agent(s) has failed to pay any fee or obtain any license imposed under <cite path="6">title 6</cite> of this Ordinance Code.</text>
+          <text>That the permit holder or his/her agent(s) has failed to pay any fee or obtain any license imposed under <cite path="6" proof="needed">title 6</cite> of this Ordinance Code.</text>
         </para>
         <para>
           <num>(4)</num>

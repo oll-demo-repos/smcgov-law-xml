@@ -4,7 +4,7 @@
   <heading>AN ORDINANCE ADDING CHAPTER 3.54 TO TITLE 3 OF THE SAN MATEO COUNTY ORDINANCE CODE TO REQUIRE THE SAFE STORAGE OF FIREARMS IN A RESIDENCE</heading>
   <meta>
     <stub/>
-    <effective/>
+    <effective>2019-02-26</effective>
     <history>
       <adopted>2019-02-26</adopted>
     </history>
@@ -12,4 +12,88 @@
       <citation type="ord" url="./adopted/04809.pdf">County of San Mateo, Cal., Ord. No. 04809</citation>
     </citations>
   </meta>
+  <section>
+    <num>2</num>
+    <codify:insert doc="San Mateo County, Cal., Ordinance Code" path="3" after="3.53">
+      <container>
+        <prefix>Chapter</prefix>
+        <num>3.54</num>
+        <heading>SAFE STORAGE OF FIREARMS IN A RESIDENCE</heading>
+        <section>
+          <num>3.54.010</num>
+          <heading>Application of Chapter.</heading>
+          <text>The provisions of <cite path="3.54" proof="needed">this chapter</cite> shall apply within the unincorporated area of San Mateo County.</text>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04809" path="§2">Ord. No. 04809, § 2, 2-26-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>3.54.020</num>
+          <heading>Definitions.</heading>
+          <para>
+            <num>(a)</num>
+            <text>For the purpose of <cite path="3.54" proof="needed">this chapter</cite>, "Firearm" means a firearm as defined in California Penal Code, Section 16520.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>"Locked Container" means a Locked Container, as defined in California Penal Code, Section 16850, listed on the California Department of Justice Bureau of Firearms roster of approved firearm safety devices. For purposes of <cite path="3.54" proof="needed">this chapter</cite>, a Locked Container does not include a bag or other container made of fabric or other penetrable material, such as a regular purse, backpack, or gym bag.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>"Residence" means any structure intended or used for human habitation, including but not limited to houses, condominiums, rooms, accessory dwelling units, motels, hotels, SRO's, time shares, recreational vehicles, and other vehicles where human habitation occurs.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>"Trigger lock" means a trigger lock that is listed on the California Department of Justice's roster of approved firearms safety devices and that is identified as appropriate for that firearm by reference to either the manufacturer and model of the firearm or to the physical characteristics of the firearm that match those listed on the roster for use with the device under Penal Code section 23635.</text>
+          </para>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04809" path="§2">Ord. No. 04809, § 2, 2-26-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>3.54.030</num>
+          <heading>Safe storage of firearms in a residence required.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Except when carried on the person, no person shall keep a Firearm in any Residence unless the Firearm is stored in a Locked Container or is disabled with a Trigger Lock.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>To encourage reporting of lost or stolen Firearms, a person who complies with California Penal Code section 25250 by reporting the loss or theft of a Firearm they own or possess to a local law enforcement agency within five days from the time they knew or reasonably should have known the Firearm had been lost or stolen shall not be prosecuted for violation of subsection (a).</text>
+          </para>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04809" path="§2">Ord. No. 04809, § 2, 2-26-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>3.54.040</num>
+          <heading>Penalty.</heading>
+          <text>A violation of this section shall be subject to enforcement through criminal prosecution and/or civil penalties, as provided herein.</text>
+          <para>
+            <num>(a)</num>
+            <text>Violation a Misdemeanor. A person who violates <cite path="3.54" proof="needed">this chapter</cite> shall be guilty of a misdemeanor punishable by imprisonment in the county jail not exceeding six (6) months or by fine not exceeding one thousand dollars ($1,000.00), or by both.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Civil Penalties. The County may assess civil penalties pursuant to San Mateo County Municipal Code <cite path="1.40" proof="needed">Chapter 1.40</cite> (Administrative Remedies) in the amounts provided in <cite path="1.40.070" proof="needed">Section 1.40.070</cite>.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Each violation shall be deemed a distinct and separate offense.</text>
+          </para>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04809" path="§2">Ord. No. 04809, § 2, 2-26-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>3.54.050</num>
+          <heading>Effective Date.</heading>
+          <text>This Ordinance shall be in effect thirty (30) days after adoption.</text>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04809" path="§2">Ord. No. 04809, § 2, 2-26-2019</annotation>
+          </annotations>
+        </section>
+      </container>
+    </codify:insert>
+  </section>
 </document>

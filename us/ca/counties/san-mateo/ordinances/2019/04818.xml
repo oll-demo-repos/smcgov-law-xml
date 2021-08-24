@@ -4,7 +4,7 @@
   <heading>AN ORDINANCE ADDING CHAPTER 4.120 TO TITLE 4 OF THE SAN MATEO COUNTY ORDINANCE CODE TO RESTRICT THE ADVERTISING OF ALCOHOLIC BEVERAGES AND CANNABIS TO YOUTH</heading>
   <meta>
     <stub/>
-    <effective/>
+    <effective>2019-01-05</effective>
     <history>
       <adopted>2019-11-05</adopted>
     </history>
@@ -12,4 +12,163 @@
       <citation type="ord" url="./adopted/04818.pdf">County of San Mateo, Cal., Ord. No. 04818</citation>
     </citations>
   </meta>
+  <section>
+    <num>2</num>
+    <codify:insert doc="San Mateo County, Cal., Ordinance Code" path="4" after="4.116">
+      <container>
+        <prefix>Chapter</prefix>
+        <num>4.120</num>
+        <heading>RESTRICTIONS ON THE ADVERTISING OF ALCOHOLIC BEVERAGES AND CANNABIS TO YOUTH</heading>
+        <section>
+          <num>4.120.010</num>
+          <heading>Purpose.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Regulating commercial advertising of alcoholic beverages, cannabis, cannabis products, and cannabis activity is a reasonable and necessary means to protect and promote the general welfare of the children and minors of San Mateo County exposed to various media advertising alcoholic beverages, cannabis, cannabis products, and cannabis activity.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Judicial precedent has repeatedly recognized that children and minors deserve special consideration because they lack the ability to assess and fully analyze the information presented through advertising.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>These regulations promote the general welfare and temperance of children and minors and are intended to help reduce the illegal consumption and purchase of alcoholic beverages, cannabis, and cannabis products by children and minors by limiting their exposure to the advertising of alcoholic beverages, cannabis, and cannabis products on certain billboard structures.</text>
+          </para>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04818" path="§2">Ord. No. 04818, § 2, 11-5-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>4.120.020</num>
+          <heading>Definitions.</heading>
+          <text>For the purposes of <cite path="4.120" proof="needed">this chapter</cite>, the following definitions shall govern unless the context clearly requires otherwise:</text>
+          <para>
+            <num>(a)</num>
+            <text>"Advertising" means printed or electronic matter that calls the public's attention to things for sale.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>"Alcoholic Beverages" means any substance containing one-half (½) of one (1) percent or more alcohol by volume and which is fit for consumption as a beverage either alone or when combined with other substances.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>"Billboard" means any sign space that is permanently placed on or affixed to the ground, the sidewalk, a pole or post, or a building, and is not appurtenant to the use of the property, a product sold, or the sale or lease of the property on which displayed and which does not identify the place of business as purveyor of the merchandise or services advertised upon the sign.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>"Cannabis" means Cannabis as defined in Section 26001 of the California Business and Professions Code, included in the Medicinal and Adult Use Cannabis Regulation and Safety Act, and includes, without limitation, any substance or transportation device containing Cannabis, including, but not limited to, cigarettes, pipes, edible products, vaping or e-cigarette devices, or any other instrument or paraphernalia that is designed for the smoking or ingestion of Cannabis.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>"Cannabis Activity" means the cultivation, possession, manufacture, distribution, processing, storing, laboratory testing, packaging, labeling, transportation device, delivery or sale of Cannabis and Cannabis Products.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>"Cannabis Products" means Cannabis Products as defined in Section 26001 of the California Business and Professions Code, and includes without limitation any substance or transportation device containing Cannabis, including, but not limited to, cigarettes, pipes, edible products, vaping or e-cigarette devices, or any other instrument or paraphernalia that is designed for the smoking or ingestion of Cannabis.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>"Child Care Center" means a child care center licensed by the State of California.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>"Library" means any public library operated by the County or a city.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>"Playground" means any outdoor premises or grounds owned or operated by the County, a city, or another public agency that contains any play or athletic equipment used or intended to be used by minors.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>"Public Park" means an open space or park which is owned or operated by the County, a city, or another public agency.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text>"School" means any public or licensed private elementary or secondary school, that is clearly identified on the outside of the facility as a school, attendance at which satisfies the compulsory education laws of the State of California.</text>
+          </para>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04818" path="§2">Ord. No. 04818, § 2, 11-5-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>4.120.030</num>
+          <heading>Measure of distance.</heading>
+          <text>The distance between any Billboard and any Child Care Center, Library, Playground, Public Park, or School shall be measured in a straight line, without regard to intervening structures, from the Billboard to the closest property line of the parcel on which a Child Care Center, Library, Playground, Public Park, or School is located.</text>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04818" path="§2">Ord. No. 04818, § 2, 11-5-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>4.120.040</num>
+          <heading>Restriction on commercial advertising of alcoholic beverages and cannabis on billboards.</heading>
+          <para>
+            <num>(a)</num>
+            <text>It is unlawful for any person, business, or retailer to place or maintain, or cause to be placed or maintained, any Advertising of Alcoholic Beverages or Cannabis, Cannabis Products, or Cannabis Activity on a Billboard that is within one thousand (1,000) feet of a Child Care Center, Library, Playground, Public Park, or School.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>This section does not apply to the display of public service messages or similar messages cautioning against the use of Alcoholic Beverages, Cannabis, Cannabis Products, or Cannabis Activity, or that are designed to encourage minors to refrain from using or purchasing such substances. However, this subsection shall not be construed to permit an advertisement that purports to caution against the use of Alcoholic Beverages, Cannabis, or Cannabis Products when that message is conveyed in conjunction with the display of a logo, trademark, or name used by any person or entity engaged in any marketing or promotion of Alcoholic Beverages, Cannabis, or Cannabis Products.</text>
+          </para>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04818" path="§2">Ord. No. 04818, § 2, 11-5-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>4.120.050</num>
+          <heading>Enforcement.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Violations of <cite path="4.120" proof="needed">this chapter</cite> may be subject to the imposition of administrative penalties and remedies set forth in <cite path="1.40" proof="needed">Chapter 1.40</cite> of this Ordinance Code.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Violations of <cite path="4.120" proof="needed">this chapter</cite> may be criminally prosecuted as infraction(s) or misdemeanor(s) at the discretion of the prosecuting attorney as the interests of justice require.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>This section shall not be interpreted to limit the applicable civil or administrative remedies available under law.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><cite path="4.120" proof="needed">This chapter</cite> shall not be enforced, and Advertising shall be exempted from the scope of <cite path="4.120" proof="needed">this chapter</cite>, in the event a Billboard owner or operator provides satisfactory evidence that certain Advertising of Alcoholic Beverages or Cannabis, Cannabis Products, or Cannabis Activity is pursuant to the terms of a valid contract, and such contract was executed prior to the date of introduction of the Ordinance adding <cite path="4.120" proof="needed">this chapter</cite> to the County Ordinance Code by the Board of Supervisors (i.e., October 22, 2019). Amendments to a contract for Billboard Advertising executed subsequent to introduction of the Ordinance by the Board of Supervisors shall not be subject to such exemption.</text>
+          </para>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04818" path="§2">Ord. No. 04818, § 2, 11-5-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>4.120.060</num>
+          <heading>Petition for review.</heading>
+          <text>The owner or operator of a Child Care Center, Library, Playground, Public Park, or School, or the owner or lessee of a Billboard, may submit a written petition to the County Planning and Building Department requesting a review to determine whether a specified Billboard is permitted to display Advertising of Alcoholic Beverages or Cannabis, Cannabis Products, or Cannabis Activity. Upon receipt, the Community Development Director or his designee will consider the following factors: (1) whether changes in business operations have removed a protected use such that a Billboard is no longer within the area proscribed in Section 4.120.040; (2) whether a new protected use has been established within the area proscribed in Section 4.120.040; (3) whether such new protected use is subject to direct views of Billboard(s) Advertising Alcoholic Beverages or Cannabis, Cannabis Products, or Cannabis Activity; and (4) the number of Billboards available to display such Advertising. In no event shall granting of a petition pursuant to this Section result in fewer than fifteen (15) Billboards available throughout the unincorporated area of San Mateo County for Advertising Alcoholic Beverages or Cannabis, Cannabis Products, or Cannabis Activity.</text>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04818" path="§2">Ord. No. 04818, § 2, 11-5-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>4.120.070</num>
+          <heading>Public nuisance.</heading>
+          <text>Any violation of <cite path="4.120" proof="needed">this chapter</cite> is hereby declared a public nuisance.</text>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04818" path="§2">Ord. No. 04818, § 2, 11-5-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>4.120.080</num>
+          <heading>No conflict with federal or state law.</heading>
+          <text>Nothing in <cite path="4.120" proof="needed">this chapter</cite> shall be interpreted or applied so as to create any requirement, power, or duty that is preempted by federal or State law.</text>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04818" path="§2">Ord. No. 04818, § 2, 11-5-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>4.120.090</num>
+          <heading>Severability.</heading>
+          <text>If any provision, section, subsection, sentence, clause, phrase, or word of this <cite path="4.12" proof="needed">Chapter 4.12</cite>0, or any application thereof to any person or circumstance, is held to be invalid or unconstitutional by a court of competent jurisdiction, such decision shall not affect the validity of the remaining portions or applications of the chapter. The Board of Supervisors hereby declares that it would have passed <cite path="4.120" proof="needed">this chapter</cite>, and each provision, section, subsection, sentence, clause, phrase, and word not declared invalid or unconstitutional without regard to whether any other portion of <cite path="4.120" proof="needed">this chapter</cite> or application thereof would be subsequently declared invalid or unconstitutional.</text>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04818" path="§2">Ord. No. 04818, § 2, 11-5-2019</annotation>
+          </annotations>
+        </section>
+      </container>
+    </codify:insert>
+  </section>
 </document>

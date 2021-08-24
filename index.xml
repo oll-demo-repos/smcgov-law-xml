@@ -12,6 +12,7 @@
       <static-assets>https://github.com/openlawlibrary/law-static-assets</static-assets>
       <html/>
     </canonical-urls>
+    <history-start>2019-01-08</history-start>
   </meta>
   <xi:include href="./us/ca/counties/san-mateo/code/index.xml"/>
   <collection name="us/ca/counties/san-mateo/ordinances">

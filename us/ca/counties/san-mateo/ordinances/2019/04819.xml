@@ -4,7 +4,7 @@
   <heading>AN ORDINANCE ADDING A NEW CHAPTER 4.95 TO TITLE 4 OF THE SAN MATEO COUNTY ORDINANCE CODE TO PROHIBIT THE SALE OR DISTRIBUTION OF<br/><br/> ELECTRONIC CIGARETTES</heading>
   <meta>
     <stub/>
-    <effective/>
+    <effective>2019-07-23</effective>
     <history>
       <adopted>2019-11-12</adopted>
     </history>
@@ -12,4 +12,222 @@
       <citation type="ord" url="./adopted/04819.pdf">County of San Mateo, Cal., Ord. No. 04819</citation>
     </citations>
   </meta>
+  <section>
+    <num>2</num>
+    <codify:insert doc="San Mateo County, Cal., Ordinance Code" path="4" after="4.92">
+      <container>
+        <prefix>Chapter</prefix>
+        <num>4.95</num>
+        <heading>SALE OR DISTRIBUTION OF ELECTRONIC CIGARETTES</heading>
+        <section>
+          <num>4.95.010</num>
+          <heading>Application of chapter.</heading>
+          <text>The provisions of <cite path="4.95" proof="needed">this chapter</cite> shall apply within the unincorporated area of San Mateo County, except that <cite path="4.95" proof="needed">this chapter</cite> shall not apply to the duty-free retail stores at San Francisco International Airport.</text>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04819" path="§2">Ord. No. 04819, § 2, 11-12-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>4.95.020</num>
+          <heading>Definitions.</heading>
+          <text>For the purposes of <cite path="4.95" proof="needed">this chapter</cite>, the following definitions shall govern unless the context clearly requires otherwise:</text>
+          <para>
+            <num>(a)</num>
+            <text>"Distribute" or "Distribution" means the transfer by any Person other than a common carrier, at any point from the place of manufacture or thereafter to a Person who sells the electronic cigarette or other electronic smoking device.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>"Electronic Cigarette" has the meaning set forth in Section 30121 of the California Revenue and Taxation Code, as may be amended from time to time.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>"Person" means any individual, partnership, cooperative association, private corporation, or any other legal entity.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>"Tobacco Retailer" means any store, stand, booth, concession or other enterprise that engages in the retail sale or exchange of tobacco products (as defined in subsection (h) of <cite path="4.96.030" proof="needed">Section 4.96.030</cite> of this Code), electronic cigarettes, or electronic smoking devices.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>"Sell", "Sale" or "to Sell" mean any transaction where, for any consideration, ownership is transferred from one (1) Person or entity to another including, but not limited to any transfer of title or possession for consideration, exchange or barter, in any manner or by any means.</text>
+          </para>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04819" path="§2">Ord. No. 04819, § 2, 11-12-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>4.95.030</num>
+          <heading>Sale or distribution of electronic cigarettes prohibited.</heading>
+          <text>No Person, Tobacco Retailer or other legal entity shall sell or distribute any Electronic Cigarette to a Person in unincorporated San Mateo County.</text>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04819" path="§2">Ord. No. 04819, § 2, 11-12-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>4.95.040</num>
+          <heading>Enforcement.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Health System Chief, or his or her designee, may enforce <cite path="4.95" proof="needed">this Chapter</cite> by suspension of a tobacco retailer's permit and/or imposition of administrative fines following the procedures and amounts set forth in Sections <cite path="4.98.150" proof="needed">4.98.150</cite> and <cite path="4.98.160" proof="needed">4.98.160</cite> of <cite path="4.98" proof="needed">Chapter 4.98</cite> of this Ordinance Code.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Violations of <cite path="4.95" proof="needed">this chapter</cite> may be criminally prosecuted as infraction(s) or misdemeanor(s) at the discretion of the prosecuting attorney as the interests of justice require.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>This section shall not be interpreted to limit the applicable civil or administrative remedies available under law.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The Health System Chief may adopt administrative rules, regulations, or guidelines for the implementation and enforcement of <cite path="4.95" proof="needed">this chapter</cite>.</text>
+          </para>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04819" path="§2">Ord. No. 04819, § 2, 11-12-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>4.95.050</num>
+          <heading>Public nuisance.</heading>
+          <text>Any violation of <cite path="4.95" proof="needed">this chapter</cite> is hereby declared a public nuisance.</text>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04819" path="§2">Ord. No. 04819, § 2, 11-12-2019</annotation>
+          </annotations>
+        </section>
+      </container>
+    </codify:insert>
+  </section>
+  <section>
+    <num>1</num>
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§4.32.020">
+      <section>
+        <num>4.32.020</num>
+        <heading>Residential rates.</heading>
+        <text>Sewer service charges are hereby prescribed for each residential unit or residential unit equivalent per connection to each district's sanitary sewerage system, per year or portion thereof, as follows:</text>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td>District</td>
+                <td>2017-18</td>
+                <td>2018-19</td>
+                <td>2019-20</td>
+              </tr>
+              <tr>
+                <td>Burlingame Hills SMD</td>
+                <td>$1,595</td>
+                <td>$1,675</td>
+                <td>$1,675</td>
+              </tr>
+              <tr>
+                <td>Crystal Springs CSD</td>
+                <td>$1,350</td>
+                <td>$1,415</td>
+                <td>$1,485</td>
+              </tr>
+              <tr>
+                <td>Devonshire CSD</td>
+                <td>$1,240</td>
+                <td>$1,365</td>
+                <td>$1,500</td>
+              </tr>
+              <tr>
+                <td>Edgewood SMD</td>
+                <td>$1,405</td>
+                <td>$1,490</td>
+                <td>$1,580</td>
+              </tr>
+              <tr>
+                <td>Emerald Lake Heights SMD - Zone 1</td>
+                <td>$1,345</td>
+                <td>$1,415</td>
+                <td>$1,490</td>
+              </tr>
+              <tr>
+                <td>Emerald Lake Heights SMD - Zone 2</td>
+                <td>$1,280</td>
+                <td>$1,415</td>
+                <td>$1,490</td>
+              </tr>
+              <tr>
+                <td>Fair Oaks SMD</td>
+                <td>$680</td>
+                <td>$850</td>
+                <td>$925</td>
+              </tr>
+              <tr>
+                <td>Harbor Industrial SMD</td>
+                <td>$410</td>
+                <td>$505</td>
+                <td>$555</td>
+              </tr>
+              <tr>
+                <td>Kensington Square SMD</td>
+                <td>$1,230</td>
+                <td>$1,290</td>
+                <td>$1,350</td>
+              </tr>
+              <tr>
+                <td>Oak Knoll SMD</td>
+                <td>$1,155</td>
+                <td>$1,270</td>
+                <td>$1,395</td>
+              </tr>
+              <tr>
+                <td>Scenic Heights CSD</td>
+                <td>$1,440</td>
+                <td>$1,650</td>
+                <td>$1,895</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+        <text>&amp;nbsp;</text>
+        <annotations>
+          <annotation type="History">Prior code § 4155.1</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04512" path="§1">Ord. No. 04512, § 1, 7-27-2010</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2252">Ord. 2252, 06/18/74</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2265">Ord. 2265, 08/27/74</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2360">Ord. 2360, 04/27/76</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2368">Ord. 2368, 06/15/76</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2658">Ord. 2658, 07/01/80</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2793">Ord. 2793, 07/06/82</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2846">Ord. 2846, 07/12/83</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2999">Ord. 2999, 06/19/84</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3040">Ord. 3040, 07/02/85</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3112">Ord. 3112, 06/02/87</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3149">Ord. 3149, 06/28/88</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3182">Ord. 3182, 07/25/89</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3251">Ord. 3251, 07/24/90</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3331">Ord. 3331, 07/16/91</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3399">Ord. 3399, 06/16/92</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3409">Ord. 3409, 09/15/92</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3501">Ord. 3501, 06/22/93</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3728">Ord. 3728, 7/23/96</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 4050">Ord. 4050, 06/26/01</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 4315">Ord. 4315, 07/20/06</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 4326">Ord. 4326, 08/15/06</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 4377">Ord. 4377, 06/19/07</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 4382">Ord. 4382, 08/07/07</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 4429">Ord. 4429, 7/22/08</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04466" path="§1">Ord. No. 04466, § 1, 4/28/09</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04577" path="§1">Ord. No. 04577, § 1, 7-26-2011</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04625" path="§1">Ord. No. 04625, § 1, 7-24-2012</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04668" path="§1">Ord. No. 04668, § 1, 7-23-2013</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04741" path="§1">Ord. No. 04741, § 1, 7-21-2015</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04760" path="§1">Ord. No. 04760, § 1, 7-26-2016</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04780" path="§1">Ord. No. 04780, § 1, 7-25-2017</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04802" path="§1">Ord. No. 04802, § 1, 7-24-2018</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04814" path="§1">Ord. No. 04814, § 1, 7-23-19</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§7.48.100">
+      <section>
+        <num>7.48.100</num>
+        <heading>Reserved.</heading>
+        <text><strong>Editor's note— </strong>Ord. No. 04813, § 1, passed July 9, 2019, rescinded <cite path="7.48.100" proof="needed">§ 7.48.100</cite>, which pertained to County Bridge No. 67 - Crystal Springs Dam Bridge and derived from Ord. No. 04143, 10-29-02.</text>
+      </section>
+    </codify:replace>
+  </section>
 </document>

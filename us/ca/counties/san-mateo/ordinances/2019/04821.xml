@@ -4,7 +4,7 @@
   <heading>AN ORDINANCE AMENDING SECTIONS 2.80.060 THROUGH 2.80.110 OF TITLE 2, ARTICLE 2.8, CHAPTER 2.80 OF THE SAN MATEO COUNTY ORDINANCE CODE</heading>
   <meta>
     <stub/>
-    <effective/>
+    <effective>2019-02-03</effective>
     <history>
       <adopted>2019-12-03</adopted>
     </history>
@@ -12,4 +12,86 @@
       <citation type="ord" url="./adopted/04821.pdf">County of San Mateo, Cal., Ord. No. 04821</citation>
     </citations>
   </meta>
+  <section>
+    <num>2</num>
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§2.80.090">
+      <section>
+        <num>2.80.090</num>
+        <heading>Expenditures budgeted.</heading>
+        <text>Proposed future expenditures may be budgeted in any year as a reserve, or reserves, or a provision for replacement of fixed assets or additions and betterments, if applicable, and when so budgeted shall be identified as to purpose. Any proposed future expenditures so budgeted shall not be expended before expenditure is shown as specific appropriations, in the current year's budget by amendment to the budget or in a succeeding budget by passage thereof.</text>
+        <text><strong>Editor's note— </strong>Ord. No. 04821, § 2, passed December 3, 2019, amended <cite path="2.80.090" proof="needed">§ 2.80.090</cite> in its entirety to read as herein set out. Former <cite path="2.80.090" proof="needed">§ 2.80.090</cite>, pertained to expenditures budgeted, and derived from Ord. 4324, 8-15-06.</text>
+        <annotations>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04821" path="§2">Ord. No. 04821, § 2, 12-3-2019</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§2.80.110">
+      <section>
+        <num>2.80.110</num>
+        <heading>Transfers to the County One-Time Expense Fund.</heading>
+        <text>The Board of Supervisors may transfer to the County One-Time Expense Fund any unencumbered surplus funds remaining on hand in the County at the end of any fiscal year, provided any funds so transferred shall have been or thereupon shall be budgeted, for any one (1) or more of the purposes authorized by <cite path="2.80" proof="needed">this chapter</cite>, at the time such budget for the fiscal year which such transfer becomes effective was or is adopted and, if allocated to more than one (1) purpose, in proportions or amounts fixed by the Board.</text>
+        <text><strong>Editor's note— </strong>Ord. No. 04821, § 2, passed December 3, 2019, amended <cite path="2.80.110" proof="needed">§ 2.80.110</cite> in its entirety to read as herein set out. Former <cite path="2.80.110" proof="needed">§ 2.80.110</cite>, pertained to transfers to Accumulative Capital Outlay Fund, and derived from Ord. 4324, 8-15-06.</text>
+        <annotations>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04821" path="§2">Ord. No. 04821, § 2, 12-3-2019</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§2.80.080">
+      <section>
+        <num>2.80.080</num>
+        <heading>Budget matters.</heading>
+        <text>Proposed expenditures may be budgeted in any year, or added to the budget in any year by amendment to the budget, as specific appropriations for such current year and when so budgeted shall be shown in the budget in the same manner as other similar expenditures.</text>
+        <text><strong>Editor's note— </strong>Ord. No. 04821, § 2, passed December 3, 2019, amended <cite path="2.80.080" proof="needed">§ 2.80.080</cite> in its entirety to read as herein set out. Former <cite path="2.80.080" proof="needed">§ 2.80.080</cite>, pertained to budget for capital outlay, and derived from Ord. 4324, 8-15-06.</text>
+        <annotations>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04821" path="§2">Ord. No. 04821, § 2, 12-3-2019</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§2.80.060">
+      <section>
+        <num>2.80.060</num>
+        <heading>Establishment of the County One-Time Expense Fund.</heading>
+        <text>There is hereby created a fund to be known as the "County of San Mateo One-Time Expense Fund" to be used for the purposes specified herein. All revenues from sources designated to the fund of the County and any unencumbered surplus from other sources transferred to such fund shall be subject to the restrictions on appropriation and expenditures as provided in this code.</text>
+        <text><strong>Editor's note— </strong>Ord. No. 04821, § 2, passed December 3, 2019, amended <cite path="2.80.060" proof="needed">§ 2.80.060</cite> in its entirety to read as herein set out. Former <cite path="2.80.060" proof="needed">§ 2.80.060</cite>, pertained to establishment of Accumulative Capital Outlay Fund, and derived from Ord. 4324, 8-15-06.</text>
+        <annotations>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04821" path="§2">Ord. No. 04821, § 2, 12-3-2019</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§2.80.100">
+      <section>
+        <num>2.80.100</num>
+        <heading>Surplus in the County One-Time Expense Fund.</heading>
+        <text>Any surplus collections, whether from overrealization of current taxes or from redemptions or tax sales specifically designated for the County One-Time Expense Fund, or otherwise, and miscellaneous revenues, shall be carried forward as surplus in the County One-Time Expense Fund and may thereupon be budgeted for any purpose authorized by <cite path="2.80" proof="needed">this chapter</cite> at the time such budget is adopted or may be added to the current year budget by amendment thereto.</text>
+        <text><strong>Editor's note— </strong>Ord. No. 04821, § 2, passed December 3, 2019, amended <cite path="2.80.100" proof="needed">§ 2.80.100</cite> in its entirety to read as herein set out. Former <cite path="2.80.100" proof="needed">§ 2.80.100</cite>, pertained to surplus in Accumulative Capital Outlay Fund, and derived from Ord. 4324, 8-15-06.</text>
+        <annotations>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04821" path="§2">Ord. No. 04821, § 2, 12-3-2019</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§2.80.070">
+      <section>
+        <num>2.80.070</num>
+        <heading>Purposes of the County One-Time Expense Fund.</heading>
+        <text>Until otherwise provided by ordinance, all monies budgeted to be expended from the fund (whether budgeted for current expenditures or as reserves) shall be budgeted for the following purposes only, including expenses incidental thereto:</text>
+        <para>
+          <num>(a)</num>
+          <text>Up to an aggregate of twenty-five million dollars ($25,000,000) available for (1) the acquisition, construction, installation, completion, and/or extension of County facilities, structures or equipment, and for the acquisition of lands or rights-of-way necessary or convenient for the foregoing purposes; and (2) advances, temporary transfers, or lease-financing arrangements with other public agencies for the acquisition, construction, installation, completion, and/or extension of such agency's facilities, structures or equipment, and for the acquisition of lands or rights-of-way necessary or convenient for the foregoing purposes;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For the provision of funding for Board-approved employee housing programs; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>For the payment by the County of its pension or OPEB liabilities.</text>
+        </para>
+        <text>Nothing contained herein shall prevent the Board of Supervisors from exercising its authority to cancel any appropriation in whole or in part that is not needed and transfer the amount canceled to the appropriation for contingencies of the fund from which the appropriation was originally made if there is one, or to any appropriation for contingencies account, or fund, to which the amount canceled may properly be transferred. If there is not appropriation for contingencies in the respective fund, the Board may establish one.</text>
+        <text><strong>Editor's note— </strong>Ord. No. 04821, § 2, passed December 3, 2019, amended <cite path="2.80.070" proof="needed">§ 2.80.070</cite> in its entirety to read as herein set out. Former <cite path="2.80.070" proof="needed">§ 2.80.070</cite>, pertained to purpose of Accumulative Capital Outlay Fund, and derived from Ord. 4324, 8-15-06.</text>
+        <annotations>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04821" path="§2">Ord. No. 04821, § 2, 12-3-2019</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+  </section>
 </document>

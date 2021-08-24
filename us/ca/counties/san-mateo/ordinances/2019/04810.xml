@@ -4,7 +4,7 @@
   <heading>AN ORDINANCE ADDING CHAPTER 3.05 TO TITLE 3 OF THE SAN MATEO COUNTY ORDINANCE CODE TO PROHIBIT LOUD OR UNRULY GATHERINGS WHERE ANY ALCOHOL, ALCOHOLIC BEVERAGE, CANNABIS, AND/OR CONTROLLED SUBSTANCES, ARE SERVED TO, INGESTED BY OR IN THE POSSESSION OF MINORS</heading>
   <meta>
     <stub/>
-    <effective/>
+    <effective>2019-01-08</effective>
     <history>
       <adopted>2019-02-26</adopted>
     </history>
@@ -12,4 +12,647 @@
       <citation type="ord" url="./adopted/04810.pdf">County of San Mateo, Cal., Ord. No. 04810</citation>
     </citations>
   </meta>
+  <section>
+    <num>1</num>
+    <codify:insert doc="San Mateo County, Cal., Ordinance Code" path="3" after="3.04">
+      <container>
+        <prefix>Chapter</prefix>
+        <num>3.05</num>
+        <heading>PROHIBITION OF LOUD OR UNRULY GATHERINGS WHERE ANY ALCOHOL, ALCOHOLIC BEVERAGE, CANNABIS, AND/OR CONTROLLED SUBSTANCES ARE SERVED TO, INGESTED BY, OR IN THE POSSESSION OF MINORS</heading>
+        <section>
+          <num>3.05.010</num>
+          <heading>Application of Chapter.</heading>
+          <text>The provisions of <cite path="3.05" proof="needed">this chapter</cite> shall apply within the unincorporated area of San Mateo County.</text>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04810" path="§1">Ord. No. 04810, § 1, 2-26-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>3.05.020</num>
+          <heading>Definitions.</heading>
+          <text>For the purposes of <cite path="3.05" proof="needed">this chapter</cite>, the following words and phrases shall be construed as follows:</text>
+          <para>
+            <num>(a)</num>
+            <text>"Alcohol" and "Alcoholic Beverage" include any form of ethyl alcohol, from whatever source or by whatever process produced, spirits, liquor, wine, beer, and every liquid or solid containing such, and which contains one-half of one percent or more alcohol by volume and which is fit for beverage purposes either alone or when diluted, mixed, or combined with other substances.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>"Cannabis" means "cannabis", "cannabis product" and/or "cannabis concentrate", as defined in <cite path="5.14" proof="needed">Chapter 5.14</cite>8 of this ordinance code. For the purposes of <cite path="3.05" proof="needed">this chapter</cite>, the term "cannabis" does not include medical cannabis for which the person in possession has a valid recommendation for medical cannabis from a licensed medical care provider or a State of California medical cannabis I.D. card.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>"Controlled Substance" means a drug or substance whose possession and use are regulated under the California Controlled Substances Act (California Health and Safety Code Section 11000 et seq.). Such term does not include any drug or substance for which the individual found to have consumed or possessed such substance has a valid prescription issued by a licensed medical practitioner authorized to issue such a prescription.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>"Costs for Public Safety Response Services" means the costs associated with responses by law enforcement or fire agencies to a gathering held in violation of this ordinance, including but not limited to:</text>
+            <para>
+              <num>(1)</num>
+              <text>The portion of the cost of salaries of the police officers and/or fire agency personnel, at the salary then in effect for each classification of each individual officer, for the actual amount of time spent responding to or remaining at the property where the disturbance was created, beginning when police officer or fire department personnel leaves a location to go to the scene of the event and ending when responding personnel are available for other duties, or, if their shifts are ended, when they are finished with those duties related to the event which they are required to complete before going off duty, or a minimum of one hour of time, whichever is greater. Such actual costs shall include wages and fringe benefits for the responding personnel and the sergeant or other superior directing them, including overtime if applicable; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The cost of repairing, or replacing if necessary, any County or fire agency equipment or property damaged as a result of the response by law enforcement or fire agency to the gathering.</text>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>"Loud or Unruly Gathering" means a party or gathering of four (4) or more persons at any public or private premises, including a party bus or limousine, upon which loud or unruly conduct occurs. Such loud or unruly conduct constitutes a public nuisance and includes the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>Excessive noise which violates any applicable ordinance;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Obstruction of public streets and/or the presence of unruly crowds that have spilled into public streets;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Public drunkenness or unlawful public consumption of alcohol, alcoholic beverages, cannabis, and/or controlled substances;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Assaults, batteries, fights, domestic violence or other disturbances of the peace;</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Vandalism;</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Litter; or</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Any other conduct which constitutes a threat to the public health, safety, or quiet enjoyment of residential property or the general welfare.</text>
+            </para>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>"Minor" means any person less than twenty-one (21) years of age.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>"Responsible Person" or "Social Host" means and includes, but is not limited to:</text>
+            <para>
+              <num>(1)</num>
+              <text>A person who owns, rents, leases, or otherwise has control of the premises where the gathering occurs; and/or</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>A person who organized the event.</text>
+            </para>
+          </para>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04810" path="§1">Ord. No. 04810, § 1, 2-26-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>3.05.030</num>
+          <heading>Obligations of Social Host.</heading>
+          <para>
+            <num>(a)</num>
+            <text>No person shall act as a Social Host, as defined in <cite path="3.05.020" proof="needed">Section 3.05.020</cite> of <cite path="3.05" proof="needed">this chapter</cite>, of a Loud or Unruly Gathering where a Minor has possessed, consumed, or has been served any Alcohol, Alcoholic Beverage, Cannabis, and/or Controlled Substances.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>It is the duty of any Responsible Person who knowingly hosts, permits, or allows a gathering at any public or private premises to take all reasonable steps to prevent the possession and/or consumption of any Alcohol, Alcoholic Beverage, Cannabis and/or Controlled Substance by any Minor, as well as the service of these items to any Minor.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>As used in this section, reasonable steps shall mean and include, but shall not be limited to:</text>
+            <para>
+              <num>(1)</num>
+              <text>Controlling access to Alcohol, Alcoholic Beverages, Cannabis and/or Controlled Substances;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Verifying the age of persons at the gathering by inspecting government-issued driver's licenses or identification cards; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Supervising the activities of Minors at the gathering.</text>
+            </para>
+          </para>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04810" path="§1">Ord. No. 04810, § 1, 2-26-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>3.05.040</num>
+          <heading>Public Nuisance.</heading>
+          <text>Any gathering in violation of <cite path="3.05" proof="needed">this chapter</cite> is a public nuisance and an immediate danger to public health and safety. A violation is subject to any and all applicable civil, administrative, and criminal remedies and penalties according to the provisions and procedures contained in this ordinance code and state law including, but not limited to, an abatement action. All remedies provided herein shall be cumulative and not exclusive.</text>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04810" path="§1">Ord. No. 04810, § 1, 2-26-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>3.05.050</num>
+          <heading>Enforcement.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The San Mateo County Sheriff or designee, may enforce <cite path="3.05" proof="needed">this chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A violation of <cite path="3.05" proof="needed">this chapter</cite> is punishable by administrative fines as set forth in <cite path="1.40" proof="needed">Chapter 1.40</cite>.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>In addition, a third or subsequent violation will result in liability on the part of the social host(s) for Costs for Public Safety Response Services as defined in <cite path="3.05.020" proof="needed">Section 3.05.020</cite> of <cite path="3.05" proof="needed">this chapter</cite>. All responsible parties will be held jointly and severally liable for these costs.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>All fines and Costs for Public Safety Response Services shall be paid to the County within fourteen (14) days from the date of the citation or the notice of costs to be reimbursed under this ordinance.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text><cite path="3.05" proof="needed">This chapter</cite> shall not be interpreted to limit the applicable civil or administrative remedies available under law. All available enforcement procedures and remedies remain applicable including, but not limited to, administrative fines set forth in <cite path="1.40" proof="needed">Chapter 1.40</cite> of this ordinance code or other applicable law.</text>
+          </para>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04810" path="§1">Ord. No. 04810, § 1, 2-26-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>3.05.060</num>
+          <heading>Emergency Medical Assistance Exception.</heading>
+          <text>No citation may be issued or any other enforcement action taken for violation of <cite path="3.05" proof="needed">this chapter</cite> if law enforcement is dispatched to the gathering because a Social Host or other participant at the gathering sought medical assistance on behalf of any person present. This section should be interpreted consistent with its purpose—to encourage social hosts and participants of gatherings to seek medical assistance whenever they believe it is needed, without fear of the consequences of violating the Ordinance.</text>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04810" path="§1">Ord. No. 04810, § 1, 2-26-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>3.05.070</num>
+          <heading>No Conflict with Federal or State Law.</heading>
+          <text>Nothing in <cite path="3.05" proof="needed">this chapter</cite> shall be interpreted or applied so as to create any requirement, power, or duty that is preempted by federal or state law.</text>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04810" path="§1">Ord. No. 04810, § 1, 2-26-2019</annotation>
+          </annotations>
+        </section>
+        <section>
+          <num>3.05.080</num>
+          <heading>Severability.</heading>
+          <text>If any provision, section, subsection, sentence, clause, phrase, or word of this <cite path="3.05" proof="needed">Chapter 3.05</cite>, or any application thereof to any person or circumstance, is held to be invalid or unconstitutional by a court of competent jurisdiction, such decision shall not affect the validity of the remaining portions or applications of the chapter. The Board of Supervisors hereby declares that it would have passed <cite path="3.05" proof="needed">this chapter</cite>, and each provision, section, subsection, sentence, clause, phrase, and word not declared invalid or unconstitutional without regard to whether any portion of <cite path="3.05" proof="needed">this chapter</cite> or application thereof would be subsequently declared invalid or unconstitutional.</text>
+          <annotations>
+            <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04810" path="§1">Ord. No. 04810, § 1, 2-26-2019</annotation>
+          </annotations>
+        </section>
+      </container>
+    </codify:insert>
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§5.104.040">
+      <section>
+        <num>5.104.040</num>
+        <heading>Public, education and government (PEG) channel capacity, PEG support fees, PEG interconnection, and County franchisee's obligations.</heading>
+        <para>
+          <num>(a)</num>
+          <text>PEG Channel Capacity.</text>
+          <para>
+            <num>1.</num>
+            <text>The current County Franchises provide for seven (7) or four (4) public, educational and governmental channels for PEG programming depending on the service area. Local franchisees and holders of a state franchise under DIVCA shall provide the same number of PEG channels as provided in the County Franchise service areas.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>All state franchisees shall comply with the provisions of DIVCA related to PEG channels. Without limiting the foregoing, the PEG channels shall be carried on the basic service tier. To the extent feasible, the PEG channels shall not be separated numerically from other channels carried of the basic service tier and the channel numbers for the PEG channels shall be the same channel numbers used by the incumbent cable operator as defined in Public Utilities Code Section 5830(i) unless prohibited by federal law and shall provide video and sound quality, recording capability, channel accessibility and location equal to, or substantially equal to, that provided by the incumbent cable providers. After the initial designation of PEG channel numbers, the channel numbers shall not be changed without agreement from the County unless the change is required by federal law.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>A state franchise holder shall have three (3) months from the date the County requests the PEG channels to designate the capacity. However, the three-month period shall be tolled by any period during which the designation or provision of PEG channel capacity is technically infeasible, including any failure or delay of the incumbent cable operator to make adequate interconnection available, as required by DIVCA. Any state franchise holder who believes that the designation or provision of PEG channel capacity is technically infeasible, shall provide to the County, in writing, its reasons therefore and its plan for correcting or solving the infeasibility. County may hold a hearing on the claim of infeasibility and, thereafter, take such action as County deems proper to require the designation and provision of the PEG channels on the state franchise holder's system.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>PEG Support Fees.</text>
+          <para>
+            <num>1.</num>
+            <text>Amount of PEG support fee.</text>
+            <para>
+              <num>(A)</num>
+              <text>Except as provided in subparagraphs (B) and (C), every state franchisee operating within the boundaries of the unincorporated areas of the County shall pay a PEG support fee to the County calculated on the same basis as the PEG support fee paid by the incumbent County Franchise for the corresponding service area.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Upon the expiration of any County Franchise or its earlier termination pursuant to California Public Utilities Code Section 5840(o)(3), every state franchisee operating within the corresponding unincorporated boundaries of the County shall pay a new PEG support fee to the County calculated on the same basis as the PEG support fee paid by the incumbent County Franchise for the corresponding service area or the equivalent of 1% of the state franchisee's revenue, whichever is higher. State franchisees shall remit PEG fees in the same manner as franchise fees, pursuant to Section 5.104.030.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>As of December 31, 2006, pursuant to the most recent franchise agreement, the County also imposed on the local cable operator a one-time capital grant of three hundred seventy nine thousand nine hundred and eight dollars ($379,908.00) for PEG equipment and facilities. Pursuant to section 5870(l) of the California Public Utilities Code, every state franchisee operating within the boundaries of the County shall be responsible for a pro-rata, per subscriber share of any outstanding capital grant payments.</text>
+            </para>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>The PEG support fee shall be used by the County for PEG purposes consistent with state and federal law.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>This expressly reauthorized the enforceability of this Ordinance.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>PEG Interconnection.</text>
+          <para>
+            <num>1.</num>
+            <text>If a state franchisee and an incumbent cable operator cannot reach a mutually acceptable interconnection agreement for PEG carriage, the County shall require the incumbent cable operator to allow the state franchisee to interconnect its network with the incumbent cable operator's network at a technically feasible point on the state franchisee's network as identified by the state franchisee. If no technically feasible point of interconnection is available, the state franchisee shall make interconnection available to the PEG channel originator and shall provide the facilities necessary for the interconnection. The cost of any interconnection shall be borne by the state franchisee requesting the interconnection unless otherwise agreed to by the parties.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>County Franchisee's Obligations. An incumbent cable operator's obligation to provide and support PEG channel facilities and institutional networks and to provide free cable service to schools and other public buildings shall continue until the expiration of the incumbent cable operator's existing County Franchise.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04453" path="§1">Ord. 04453, § 1, 12/9/08</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04792" path="§1">Ord. No. 04792, § 1, 1-9-2018</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04806" path="§1">Ord. No. 04806, § 1, 11-6-2018</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+  </section>
+  <section>
+    <num></num>
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§3.68.030">
+      <section>
+        <num>3.68.030</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Commission" shall mean the San Mateo County Parks and Recreation Commission.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"County Park" shall mean any park, recreation area, reserve or preserve, historical site or any other facility operated, owned, or managed by the San Mateo County Parks and Recreation Department.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Department" shall mean the San Mateo County Parks and Recreation Department.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Director" shall mean the Director of the San Mateo County Parks and Recreation Department.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"General Manager and Chief Engineer" shall mean the General Manager and Chief Engineer of the San Francisco Water Department of the City and County of San Francisco.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>"San Francisco Fish and Game Refuge" means that area defined in the State of California Fish and Game Code, division 7 REFUGES, chapter 2, article 1, section 10771 and under the jurisdiction of the San Francisco Water Department.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>"Hiking and Riding Trail" shall mean all trails which have been dedicated to the County or other public agency for hiking or horseback riding purposes, or both, or any trail which is open to the general public for such purpose.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>"Motor Vehicle" shall mean any automobile, truck, bus, van, motorcycle, off-road vehicle, four-wheel drive vehicle, dirt bike, motor-driven vehicle, or any vehicle which is self-propelled.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>"Person" as used in <cite path="3.68" proof="needed">this chapter</cite> shall be construed to mean and shall include natural persons, firms, co-partnerships, corporations, clubs and all associations or combinations of persons whatsoever, whether acting by themselves or by a servant, agent or employee.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>"Recreation Area" as used in <cite path="3.68" proof="needed">this chapter</cite> shall be construed to mean and shall include all land, facilities and other property for public recreation owned and/or operated by the County of San Mateo, or the San Francisco Water Department, including parks, playgrounds, camping areas, swimming pools, golf courses, picnic grounds, athletic fields, beaches, parkways, public squares, hiking and bicycling paths, horse trails, roadside viewing areas, rest stops, historical monuments, and all grounds surrounding public buildings, all planting and areas for planting along roads, streets and highways, and all other recreation areas, including all buildings, structures, improvements, monuments, apparatus and equipment existing in or that may be erected in any of such areas.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>"Sound Amplifying Equipment" shall mean any machine or device for the amplification of the human voice, music, or any other sound, but shall not include standard automobile radios or automobile tape decks when used and heard only by the occupants of the vehicle in which the automobile radio or tape deck is installed, nor radio receiving sets, non-electrical musical instruments, or television sets. "Sound Amplifying Equipment" as used in <cite path="3.68" proof="needed">this chapter</cite>, shall not include warning devices or sound amplification equipment on Parks and Recreation Department, or San Francisco Water Department vehicles, or other authorized emergency vehicles, or horns, or other warning devices on any vehicle used only for traffic safety purposes.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>"Vessel" shall be used to describe any water craft, board or similar equipment capable of being used as transportation in or on water.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>"Beach" shall mean the shore of any body of water within any County Park and Recreation Area or the San Francisco Fish and Game Refuge.</text>
+        </para>
+        <annotations>
+          <annotation type="History">Prior code § 3385.2</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04805" path="§2">Ord. No. 04805, § 2, 11-6-2018</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 415">Ord. 415, 06/25/34</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2394">Ord. 2394, 09/21/76</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2807">Ord. 2807, 10/26/82</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3252">Ord. 3252, 07/31/90</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§4.44.190">
+      <section>
+        <num>4.44.190</num>
+        <heading>Hearing—Form of notice to be published and posted.</heading>
+        <text>The form of notice to be published and posted shall be substantially as follows:</text>
+        <text>Notice of Hearing _______ Maintenance District</text>
+        <text>NOTICE IS HEREBY GIVEN that the Director of Public Works of the County of San Mateo has caused to be prepared and filed with the Clerk of the Board of Supervisors a report, in writing, which provides the basis for the benefit assessment for the following type(s) of maintenance and operation _______ to be borne by all lots or parcels of property within the existing district, or proposed maintenance district no. _____, more particularly described in Exhibit "A" hereto attached and by reference incorporated herein. Said report sets forth the amounts to be provided in the budget for maintenance and operation, a description of each lot or parcel of property in the maintenance district, by a legal description, assessor's parcel number or other description sufficient to identify the same, and the amount of assessment to be levied for the fiscal year 19___ -19___ against each lot or parcel of property. Said report shall be open to public inspection.</text>
+        <text>Any interested owner objecting to: (Only items with X are subject to objection at this hearing)</text>
+        <text>_____ formation of the district;</text>
+        <text>_____ boundaries of the district;</text>
+        <text>_____ fairness of the benefit formula or formulae;</text>
+        <text>_____ zones of benefit;</text>
+        <text>_____ the amount of the assessment on any lot or parcel of property owned by him/her; may file with the Clerk of the Board of Supervisors at or before the hour fixed for hearing a protest, in writing, signed by him/her, describing the lot or parcel of property so that it may be identified, and stating the grounds of his/her protests, and may appear at said hearing and be heard in regard thereto.</text>
+        <text>Said report will be heard by the Board of Supervisors at its meeting to be held on the ________ day of ________, 19___, at the hour of _____ o'clock _____.m. in the regular meeting place of said Board in the Chambers of the Board of Supervisors, 401 Marshall Street, Redwood City, California, at which time said Board will examine said report and hear protests.</text>
+        <text>Notice prior to the final establishment of the district shall indicate that the formation of the district, the boundaries of the district and of any zones of benefit, the benefit formula and the amount of assessment are subject to protest. In years thereafter, only the amount of assessment or changes in the formula or formulae are subject to protest and the notice shall so indicate.</text>
+        <annotations>
+          <annotation type="History">Prior code § 4268</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3063">Ord. 3063, 05/06/86</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§3.68.080">
+      <section>
+        <num>3.68.080</num>
+        <heading>General protective regulations.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Vegetative. No person shall willfully or negligently pick, dig up, cut, mutilate, destroy, injure, disturb, move, molest, burn, carry away, collect or gather any tree or plant or portion thereof, including but not limited to leaf mold, flowers, foliage, berries, fruit, grass, turf, humus, shrubs, cones, ferns, mushrooms and dead wood in any County Park or Recreation area, or on the San Francisco Fish and Game Refuge, or on any hiking and riding trail, nor shall any person willfully or negligently allow any dog to do so. Nothing in this section shall prevent the taking of any tree or plant or portion thereof, including but not limited to leaf mold, flowers, foliage, berries, fruit, grass, turf, humus, shrubs, cones, ferns, mushrooms and dead wood in any County Park or Recreation area, or on the San Francisco Fish and Game Refuge, any hiking and riding trail by public officials pursuant to their official duties or by scientific permit from the San Mateo County Parks and Recreation Department, or San Francisco Water Department, for the areas under their respective jurisdictions.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Vandalism (Property). No person shall disturb, destroy, remove, deface or injure any property of the County of San Mateo or the City and County of San Francisco which is located in any Recreation area or in any County Park or hiking and riding trail, or on the San Francisco Fish and Game Refuge. No person shall cut, carve, paint, mark, paste, or fasten on any tree, fence, wall, building, monument or other property in any County Park or Recreation area, or hiking and riding trail, or other property in any County Park or Recreation area, or hiking and riding trail, or on the San Francisco Fish and Game Refuge, any advertisement, sign or inscription.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Littering. No person shall place or throw bottles, broken glass, crockery, ashes, waste paper, cans, dog waste (bagged or unbagged), or any decaying or putrid matter or other rubbish in any County Park or Recreation area, or on the San Francisco Fish and Game Refuge, except in a receptacle designated for that purpose, and no person shall import or deposit any rubbish into or in any County Park or Recreation area, or on the San Francisco Fish and Game Refuge, or hiking and riding trail. No person shall transport or dump any rock, rubble, dirt, sand, fill or other similar material into or in any County Park or Recreation area without the permission of the Director, or the General Manager and Chief Engineer, or their representatives for the areas under their respective jurisdiction.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Reserves and Preserves. All geological and archeological features, plants and animals (dead or alive) are protected and taking is prohibited except the taking of such plants and animals as are permitted by regulations specific to the area.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Watershed Protection. No person shall allow any dog to contaminate in any way whatsoever any watershed or water supply in any Recreation area or in any County Park, or in the Watershed, or water supplies of any water purveyor holding a water purveyor's permit issued by the California Department of Health Services pursuant to Public Health Code, Chapter 7, Section 4011.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Water Quality Protection. No person shall wash clothing or cooking utensils, bathe in, or in any other manner pollute the waters of any Recreation Area or any County Park, nor shall any person leave bagged or unbagged feces or in any other manner pollute the waters of any Recreation Area or any County Park, or in the Watershed, or water supplies of any water purveyor holding a water purveyor's permit issued by the California Department of Health Services pursuant to Public Health Code, Chapter 7, Section 4011.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Geological Features Protection. No person shall destroy, disturb, mutilate or remove earth, sand, gravel, oil, minerals, rocks, or features of caves, or lay, or set off any explosive material or cause to be done or assist in doing any of said things in any County Park or Recreation area, or on the San Francisco Fish and Game Refuge, or hiking and riding trail without the specific permission of the Director or the General Manager and Chief Engineer, or their representative, for the areas under their respective jurisdictions.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Protection of Historical Features. No person shall remove, injure, disfigure, deface or destroy any object of paleontological, archaeological, or historical interest or value in any County Park or Recreation area, or on the San Francisco Fish and Game Refuge, or hiking and riding trail nor shall any person engage in any excavation for said objects without first receiving written permission from the Director, or the General Manager and Chief Engineer, or their representatives, for the areas under their respective jurisdictions.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Domestic Animals. Except as expressly permitted pursuant to <cite path="3.68.180" proof="needed">Section 3.68.180</cite>, no dogs, cats, fowl or other domesticated animals shall be permitted to enter or go at large in any County Park or Recreation area, either with or without a keeper. No person shall release any captured wild animal within any County Park or Recreation area except authorized public officials pursuant to their duties.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Abandoned Animals. No person shall abandon a dog, cat, fowl or other animal within any County Park or Recreation area, or in the San Francisco Fish and Game Refuge.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Feeding Domesticated Animals. No person shall feed any abandoned domesticated animal in any County Park or Recreation area, or in the San Francisco Fish and Game Refuge.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Grazing. The running at large, herding or grazing of livestock of any kind in any County Park or Recreation area, or driving of livestock over same, is prohibited unless a lease of the land has been granted for that purpose. Livestock found in any County Park or Recreation area may be impounded and held until claimed by the owner and payment made for any damages caused and for any expenses incurred by the County in impounding and holding such livestock.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Horses Off Trails or Out of Designated Areas. No person shall ride, drive, lead, or keep a saddle horse, pony, mule or other such animal in any County Park or Recreation area except on such roads, trails or areas so designated and posted by the Department.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Wildlife. All County Parks and Recreation Areas and the San Francisco Fish and Game Refuge are sanctuaries for wildlife. No person shall feed, approach, disturb, frighten, hunt, trap, capture, wound, kill, chase, pursue, or disturb the natural habitat of, any wild bird, mammal, reptile, fish, amphibian or invertebrate within a County Park or Recreation Area or within any San Francisco Fish and Game Refuge area located within the County, nor shall any person allow any dog to do so. This prohibition shall not apply to the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>Action taken by public officials or their employees or agents, within the scope of their authorized duties, to protect the public health and safety.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The taking of fish as permitted by State Fish and Game Regulations.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The capturing and/or taking of park wildlife for scientific research purposes when done with written permission from the Director of the San Mateo County Division of Parks and Recreation or, in the San Francisco Fish and Game Refuge, from the San Francisco Water Department.</text>
+          </para>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Firearms and Dangerous Weapons. Except as provided in subsection (p) and subsection (q), no person shall have in his possession within any County Park or Recreation area, or on the San Francisco Fish and Game Refuge, and no person shall fire or discharge, or cause to be fired or discharged, across, in, or into any portion of any County Park or Recreation area, or on the San Francisco Fish and Game Refuge, any gun or firearm, spear, bow and arrow, cross bow, slingshot, air or gas weapon or any other dangerous weapon.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>Shooting Ranges. The discharge or firing of firearms is permitted in areas designated by the Parks and Recreation Commission, or San Francisco Water Department, specifically for the purposes of rifle and/or pistol and/or shotgun shooting, and the transportation of such firearms through the County Park or Recreation area, or on the San Francisco Fish and Game Refuge, in which said area(s) is/are located is permitted providing said firearms are unloaded. "Unloaded" shall mean that there is no ammunition in either the chamber or magazine of the gun.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>Archery Ranges. The use of a bow and arrow, but not a crossbow, is permitted in areas designated by the Parks and Recreation Commission specifically for the purpose of archery, but all bows must be unstrung during transportation to and from such designated areas.</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>Loitering After Closing Time. It shall be unlawful for any person to remain in any County Park or Recreation area, or on the San Francisco Fish and Game Refuge, or in any facility within any County Park or Recreation area, or on the San Francisco Fish and Game Refuge, after the posted closing time, unless said person has lawful business therein.</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <text>Gambling. Gambling in any form, or the operation of gambling devices for merchandise or otherwise in any County Park or Recreation area is prohibited.</text>
+        </para>
+        <para>
+          <num>(t)</num>
+          <text>Alcoholic Beverages. No person shall possess or consume alcoholic beverages, other than beer or wine, in any form within any County Park or Recreation area, or on the San Francisco Fish and Game Refuge. Alcoholic beverages as described herein are permitted at Coyote Point County Park only in designated areas and during designated times. No person shall possess or consume any alcoholic beverages in any form at the Coyote Point Rifle and Pistol Range, or within twenty-five (25) feet of the San Francisco Watershed vehicle parking lots or areas. This section shall not prohibit the dispensing of all types of alcoholic beverages by a licensee under the laws of the State of California, under a food and bar concession from the County or the consumption of such beverages on the premises of such concessionaire, or the consumption of alcoholic beverages by persons holding a written occupancy permit issued by the Parks Director, or his or her representative, for areas under his or her jurisdiction.</text>
+        </para>
+        <para>
+          <num>(u)</num>
+          <text>Private Operations. It shall be unlawful for any person to engage in the business of soliciting, selling or peddling of any liquids or edibles for human consumption or to distribute circulars or to hawk, peddle or vend any goods, wares or merchandise of any kind, except upon specific concession or permit secured from the Commission, or the General Manager and Chief Engineer, or his representative, for areas under his jurisdiction.</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Authorized Operations. All persons, firms, or corporations holding concessions shall keep the grounds used by them properly policed and shall maintain the premises in a sanitary condition to the satisfaction of the Director or General Manager and Chief Engineer for areas under their respective jurisdictions. No operator of any concession shall retain in his employment any person whose presence is deemed by the District or General Manager and Chief Engineer for their respective jurisdictions not to be conducive to good order and management.</text>
+        </para>
+        <para>
+          <num>(w)</num>
+          <text>Commercial Filming. No person shall operate a still, motion picture, video or other camera for commercial purposes in any County Park or Recreation area, or on the San Francisco Fish and Game Refuge, except pursuant to a written permit from the Director or the General Manager and Chief Engineer, or their representative, for the areas under their respective jurisdictions authorizing such activity. This section shall not apply to the commercial operation of cameras as part of the bonafide reporting of news.</text>
+        </para>
+        <para>
+          <num>(x)</num>
+          <text>Closed Areas. No person shall enter any road, trail or area that is posted as closed or restricted without permission from the County Parks and Recreation Director.</text>
+        </para>
+        <annotations>
+          <annotation type="History">Prior code § 3387</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04805" path="§2">Ord. No. 04805, § 2, 11-6-2018</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 415">Ord. 415, 06/25/34</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 976">Ord. 976, 01/15/52</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 1287">Ord. 1287, 05/06/58</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2394">Ord. 2394, 09/21/76</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2807">Ord. 2807, 10/26/82</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3252">Ord. 3252, 07/31/90</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3796">Ord. 3796, 11/4/97</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3863">Ord. 3863, 12/1/98</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§3.68.020">
+      <section>
+        <num>3.68.020</num>
+        <heading>Exceptions.</heading>
+        <text>The provisions of this ordinance shall not apply to employees of the San Mateo County Parks and Recreation Department, or the San Francisco Water Department, or other public officials acting within the scope of their authorized duties. However, Department employees, public officials and concessionaires and their employees shall abide by the laws of the State of California and all applicable County and/or municipal ordinances.</text>
+        <annotations>
+          <annotation type="History">Prior code § 3385.1</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04805" path="§2">Ord. No. 04805, § 2, 11-6-2018</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 415">Ord. 415, 06/25/34</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2394">Ord. 2394, 09/21/76</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2807">Ord. 2807, 10/26/82</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§3.68.010">
+      <section>
+        <num>3.68.010</num>
+        <heading>Violations, a misdemeanor.</heading>
+        <text>Any person violating any of the provisions or failing to comply with any of the mandatory requirements of <cite path="3.68" proof="needed">this chapter</cite> shall be guilty of a misdemeanor, unless otherwise specified.</text>
+        <annotations>
+          <annotation type="History">Prior code § 3385</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04805" path="§2">Ord. No. 04805, § 2, 11-6-2018</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 415">Ord. 415, 06/25/34</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2394">Ord. 2394, 09/21/76</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§3.68.040">
+      <section>
+        <num>3.68.040</num>
+        <heading>Permits and fees—Violation as infraction.</heading>
+        <para>
+          <num>(a)</num>
+          <text>No person shall enter, occupy or use a County park or Recreation Area, or any area or facility therein, for which a user fee, deposit or permit is required without first obtaining any applicable permit and paying any applicable fees or deposits in the manner provided by <cite path="3.68" proof="needed">this chapter</cite>. Any person obtaining a permit to enter or use a County park or Recreation Area shall display such permit in the manner provided by such permit.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>No person shall enter a self-registration fee payment area without first (1) depositing the applicable fees; and (2) completing and prominently displaying the permit, so that the permit number is clearly legible from the outside of the vehicle entering the park or recreation area, according to all applicable guidelines either posted at the fee collection vault or printed on the permit.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A violation of this section shall be an infraction punishable by (1) a fine not exceeding one hundred dollars ($100.00) for a first violation; (2) a fine not exceeding two hundred dollars ($200.00) for a second violation of this section within one year; and (3) a fine not exceeding five hundred dollars ($500.00) for each additional violation of this section within one year.</text>
+        </para>
+        <annotations>
+          <annotation type="History">Prior code § 3385.3</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04805" path="§2">Ord. No. 04805, § 2, 11-6-2018</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 415">Ord. 415, 06/25/34</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 2394">Ord. 2394, 09/21/76</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3651">Ord. 3651, 5/16/95</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§3.68.180">
+      <section>
+        <num>3.68.180</num>
+        <heading>Dogs.</heading>
+        <para>
+          <num>(a)</num>
+          <text>No dogs shall be permitted in any San Mateo County Park or Recreation Area, unless such area is specifically designated and signed to allow dogs. This subsection shall not apply to (i) service dogs under physical control, specifically trained to assist persons with disabilities in accordance with the American's with Disabilities Act or (ii) a "police dog" under the control of a peace officer.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In any San Mateo County Park or Recreation Area where dogs are allowed, no person shall have more than three dogs.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>No person shall cause or allow any dog under his or her ownership, possession, or control to enter or remain in any San Mateo County Park or Recreation Area unless the dog is licensed as required by the County of San Mateo, is wearing around its neck a collar and valid license tag, and the owner or possessor of the dog complies with all other conditions of this <cite path="3.68.180" proof="needed">Section 3.68.180</cite>.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>In any San Mateo County Park or Recreation Area where dogs are allowed, no person shall cause or allow any dog under his or her ownership, possession, or control to enter or remain in such area unless such person restrains such dog, at all times, with a leash not to exceed six (6) feet in length (sixteen (16) feet when unretracted) and insures that the leash and control by the person are sufficient to prevent endangering other persons or animals. Where dogs are permitted only on designated trails, any dog shall be restricted to the designated trails at all times and shall not be allowed to enter the natural habitat abutting the designated trails.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Any person bringing a dog into any San Mateo County Park or Recreation Area shall immediately remove any feces deposited by such dog. Dog feces must be placed in garbage cans or removed from the San Mateo County Park or Recreation Area. No person shall bring a dog into any San Mateo County Park or Recreation Area without carrying at all times a suitable container or other suitable instrument for the removal and disposal of dog feces.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>A violation of the provisions of this section shall be an infraction. Any person to whom a citation is issued for a violation of this section shall be subject to a base fine of:</text>
+          <para>
+            <num>(1)</num>
+            <text>Five Dollars ($5.00) for a first violation;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Thirty Dollars ($30.00) for a second violation within a period of one year from the first violation; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>One Hundred Dollars ($100.00) for each additional violation within a period of one year from the first violation.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation type="History">Prior code § 3387.5</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04805" path="§2">Ord. No. 04805, § 2, 11-6-2018</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3370">Ord. 3370, 02/11/92</annotation>
+          <annotation type="History">to be in effect for one year</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04812" path="§2">Ord. No. 04812, § 2, 5-14-2019</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§4.44.400">
+      <section>
+        <num>4.44.400</num>
+        <heading>Hearing—Notice—Form.</heading>
+        <text>The form of notice to be published and posted shall be substantially as follows:</text>
+        <text>Notice of Hearing on _______ Maintenance District</text>
+        <text>NOTICE IS HEREBY GIVEN that the Director of Public Works has caused to be prepared and filed with the Clerk of the Board of Supervisors a report, in writing, which provides the basis for the benefit assessment for the following type(s) of maintenance and operation _______ to be borne by all lots or parcels of property within the existing district or proposed maintenance district no. _____, more particularly described in Exhibit "A" hereto attached and by reference incorporated herein. Said report sets forth the amounts to be provided in the budget for maintenance and operation, a description of each lot or parcel of property in the maintenance district, by a description sufficient to identify the same, and the amount of assessment to be levied for the fiscal year 19___ -19___ against each lot or parcel of property. Said report shall be open to public inspection.</text>
+        <text>Any interested owner objecting to: (Only items with X are subject to objection at this hearing)</text>
+        <text>_____ use of the alternative method of benefit assessment;</text>
+        <text>_____ zones of benefit;</text>
+        <text>_____ fairness of benefit formula or formulae;</text>
+        <text>_____ the amount of the assessment on any lot or parcel of property owned by him/her;</text>
+        <text>may file with the Clerk of the Board of Supervisors at or before the hour fixed for hearing a protest, in writing, signed by him/her, describing the lot or parcel of property so that it may be identified, and stating the grounds of his/her protest, and may appear at said hearing and be heard in regard thereto.</text>
+        <text>Said report will be heard by the Board of Supervisors at its meeting to be held on the ________ day of ________, 19___, at the hour of _____ o'clock, _____.m., in the regular meeting place of said Board in the Chambers of the Board of Supervisors, 401 Marshall Street, Redwood City, California, at which time said Board will examine said report and hear protests.</text>
+        <annotations>
+          <annotation type="History">Prior code § 4289</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 3063">Ord. 3063, 05/06/86</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+  </section>
+  <section>
+    <num>2</num>
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§2.55.040">
+      <section>
+        <num>2.55.040</num>
+        <heading>Informal bidding ordinance.</heading>
+        <text>Except as otherwise provided herein, the provisions of Article 3, Chapter 2, Part 3, Division 2 of the Public Contracts Code shall be controlling.</text>
+        <para>
+          <num>(a)</num>
+          <text>Contractors List. The Director of Public Works shall maintain a list of qualified contractors, identified according to categories of work. The contractor's list shall be developed and maintained in accordance with criteria promulgated by the California Uniform Construction Cost Accounting Commission.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Notice Inviting Informal Bids. All contractors on the list for the category of work being bid or all construction trade journals specified in Section 22036 of the Public Contract Code shall be mailed a notice inviting informal bids, unless the product or service is proprietary. The notice inviting informal bids shall be mailed at least ten (10) calendar days before bids are due, shall describe the project in general terms, indicate how to obtain more detailed information about the project, and state the time and place for submission of bids. If the product or service is proprietary in nature such that it can only be obtained from a certain contractor or contractors, the notice inviting bids may be sent exclusively to such contractor or contractors. All mailing of notices to contractors and construction trade journals pursuant to this subsection shall be completed not less than ten (10) calendar days before bids are due.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Award of Contracts. The County Purchasing Agent and the Director of Public Works are each authorized to award and execute informal contracts pursuant to this section. If all bids received are in excess of two hundred thousand dollars ($200,000.00), the Board of Supervisors may, by the adoption of a resolution by a four-fifths vote, award the contract, at two hundred twelve thousand five hundred dollars ($212,500.00) or less, to the lowest responsible bidder, if it determines the cost estimate was reasonable.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04462" path="§1">Ord. No. 04462, § 1, 2-10-2009</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04662" path="§1,2">Ord. No. 04662, §§ 1, 2, 6-4-2013</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04808" path="§2">Ord. No. 04808, § 2, 1-8-2019</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§2.55.030">
+      <section>
+        <num>2.55.030</num>
+        <heading>Competitive bidding on construction or repair contracts—When required.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Public projects exceeding two hundred thousand dollars ($200,000.00) shall, except as otherwise provided in this article, be let to contract by formal bidding procedures set forth in the California Public Contract Code.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Public projects of two hundred thousand dollars ($200,000.00) or less may be let to contract by formal or informal bidding procedures as set forth in <cite path="2.55" proof="needed">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Public projects of sixty thousand dollars ($60,000) or less may be let to contract by formal or informal bidding, performed by negotiated contract, purchase order, or by County employees by force account.</text>
+          <text>In cases of great emergency, as determined by the Board of Supervisors, including, but not limited to, states of emergency defined in Section 8558 of the Government Code, when repair or replacements are necessary to permit the continued conduct of the operation or services of the County or to avoid danger to life or property, the Board of Supervisors by majority vote, may proceed at once to replace or repair any public facility without adopting plans, specifications, strain sheets, or working details, or giving notice for bids to let contracts. The work may be done by day labor under the direction of the Board of Supervisors, by contract, or by a combination of the two. The County Manager shall have the power to declare a public emergency subject to confirmation by the Board of Supervisors, by a four-fifths vote, at its next meeting.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04462" path="§1">Ord. No. 04462, § 1, 2-10-2009</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04662" path="§1,2">Ord. No. 04662, §§ 1, 2, 6-4-2013</annotation>
+          <annotation type="History" doc="County of San Mateo, Cal., Ord. No. 04808" path="§2">Ord. No. 04808, § 2, 1-8-2019</annotation>
+        </annotations>
+      </section>
+    </codify:replace>
+  </section>
 </document>
