@@ -199,7 +199,7 @@
         </section>
       </container>
     </codify:insert>
-    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§5.104.040">
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="5.104.040">
       <section>
         <num>5.104.040</num>
         <heading>Public, education and government (PEG) channel capacity, PEG support fees, PEG interconnection, and County franchisee's obligations.</heading>
@@ -269,7 +269,7 @@
   </section>
   <section>
     <num></num>
-    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§3.68.030">
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="3.68.030">
       <section>
         <num>3.68.030</num>
         <heading>Definitions.</heading>
@@ -335,7 +335,7 @@
         </annotations>
       </section>
     </codify:replace>
-    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§4.44.190">
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="4.44.190">
       <section>
         <num>4.44.190</num>
         <heading>Hearing—Form of notice to be published and posted.</heading>
@@ -356,7 +356,7 @@
         </annotations>
       </section>
     </codify:replace>
-    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§3.68.080">
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="3.68.080">
       <section>
         <num>3.68.080</num>
         <heading>General protective regulations.</heading>
@@ -482,7 +482,7 @@
         </annotations>
       </section>
     </codify:replace>
-    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§3.68.020">
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="3.68.020">
       <section>
         <num>3.68.020</num>
         <heading>Exceptions.</heading>
@@ -496,7 +496,7 @@
         </annotations>
       </section>
     </codify:replace>
-    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§3.68.010">
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="3.68.010">
       <section>
         <num>3.68.010</num>
         <heading>Violations, a misdemeanor.</heading>
@@ -509,7 +509,7 @@
         </annotations>
       </section>
     </codify:replace>
-    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§3.68.040">
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="3.68.040">
       <section>
         <num>3.68.040</num>
         <heading>Permits and fees—Violation as infraction.</heading>
@@ -534,7 +534,7 @@
         </annotations>
       </section>
     </codify:replace>
-    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§3.68.180">
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="3.68.180">
       <section>
         <num>3.68.180</num>
         <heading>Dogs.</heading>
@@ -583,7 +583,7 @@
         </annotations>
       </section>
     </codify:replace>
-    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§4.44.400">
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="4.44.400">
       <section>
         <num>4.44.400</num>
         <heading>Hearing—Notice—Form.</heading>
@@ -606,7 +606,7 @@
   </section>
   <section>
     <num>2</num>
-    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§2.55.040">
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="2.55.040">
       <section>
         <num>2.55.040</num>
         <heading>Informal bidding ordinance.</heading>
@@ -630,7 +630,7 @@
         </annotations>
       </section>
     </codify:replace>
-    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="§2.55.030">
+    <codify:replace doc="San Mateo County, Cal., Ordinance Code" path="2.55.030">
       <section>
         <num>2.55.030</num>
         <heading>Competitive bidding on construction or repair contracts—When required.</heading>
